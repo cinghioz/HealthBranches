@@ -1,0 +1,5 @@
+source,leaf,paths
+root,LAPAROTOMY,"Patient with ACUTE ABDOMINAL PAIN -> History -> Physical examination -> Unstable or Obvious surgical indication -> Hemorrhage, Perforation, Acute peritonitis, Bowel obstruction, Ischemia -> Resuscitation -> LAPAROTOMY"
+root,Surgical consultation,"Patient with ACUTE ABDOMINAL PAIN -> History -> Physical examination -> Stable -> Observation -> Further studies -> Continued pain, Increased pain -> Surgical consultation"
+root,Consider: Inadequate physical manifestations,Patient with ACUTE ABDOMINAL PAIN -> History -> Physical examination -> Stable -> Observation -> Consider: Inadequate physical manifestations
+root,Exclude: Medical causes,Patient with ACUTE ABDOMINAL PAIN -> History -> Physical examination -> Stable -> Observation -> Exclude: Medical causes

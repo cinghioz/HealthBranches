@@ -1,0 +1,10 @@
+source,leaf,paths
+Patient with SEPSIS,Infection and SIRS,Determine severity of patient's condition and treatment -> Determine severity of patient's condition based on SIRS -> Infection and SIRS
+Patient with SEPSIS,Sepsis and evidence of organ dysfunction,Determine severity of patient's condition and treatment -> Determine severity of patient's condition based on SIRS -> Sepsis and evidence of organ dysfunction
+Patient with SEPSIS,Sepsis and refractory hypotension,Determine severity of patient's condition and treatment -> Determine severity of patient's condition based on SIRS -> Sepsis and refractory hypotension
+Patient with SEPSIS,"Early, aggressive resuscitation with fluids and monitoring","Determine severity of patient's condition and treatment -> Early, aggressive resuscitation with fluids and monitoring"
+Patient with SEPSIS,Assess possible source of infection,Determine severity of patient's condition and treatment -> Assess possible source of infection
+Patient with SEPSIS,Empiric broad-spectrum antibiotics,Determine severity of patient's condition and treatment -> Empiric broad-spectrum antibiotics
+Patient with SEPSIS,Continued management in a monitored setting,Determine severity of patient's condition and treatment -> Continued management in a monitored setting
+Patient with SEPSIS,Treat Obvious Sources of Infection,Determine severity of patient's condition and treatment -> Treat Obvious Sources of Infection
+Patient with SEPSIS,Revise antimicrobial coverage when culture results are available,Determine severity of patient's condition and treatment -> Revise antimicrobial coverage when culture results are available

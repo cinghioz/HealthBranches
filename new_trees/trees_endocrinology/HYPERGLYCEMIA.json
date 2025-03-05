@@ -1,0 +1,200 @@
+{
+    "node": "Patient with HYPERGLYCEMIA",
+    "content": "Determine if the patient has hyperglycemia",
+    "children": [
+      {
+        "node": "Glucose level",
+        "content": "Check the patient's glucose level",
+        "children": [
+          {
+            "node": "Postprandial",
+            "content": "Check glucose level after a meal",
+            "children": [
+              {
+                "node": "140-200 mg/dl",
+                "content": "Glucose level between 140-200 mg/dl",
+                "children": [
+                  {
+                    "node": "Impaired glucose tolerance",
+                    "content": "Patient has impaired glucose tolerance",
+                    "children": [
+                      {
+                        "node": "Secondary diabetes",
+                        "content": "Investigate and treat accordingly",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "node": ">200 mg/dl",
+                "content": "Glucose level >200 mg/dl",
+                "children": [
+                  {
+                    "node": "Diabetes confirmed",
+                    "content": "Patient has diabetes",
+                    "children": [
+                      {
+                        "node": "Type 1 diabetes",
+                        "content": "Consider especially if younger age or ketoacidosis",
+                        "children": [
+                          {
+                            "node": "Multiple daily insulin injections or pump therapy",
+                            "content": "Treat with multiple daily insulin injections or pump therapy",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node": "Fasting",
+            "content": "Check glucose level after fasting",
+            "children": [
+              {
+                "node": ">126 mg/dl",
+                "content": "Glucose level >126 mg/dl",
+                "children": [
+                  {
+                    "node": "Diabetes confirmed",
+                    "content": "Patient has diabetes",
+                    "children": [
+                      {
+                        "node": "Type 2 diabetes",
+                        "content": "Patient has type 2 diabetes",
+                        "children": [
+                          {
+                            "node": "Manage glucose",
+                            "content": "Target A1c of <7%",
+                            "children": []
+                          },
+                          {
+                            "node": "Blood pressure",
+                            "content": "Target <130/80 mm Hg",
+                            "children": []
+                          },
+                          {
+                            "node": "Urinary microalbumin",
+                            "content": "Target >30 mg/g creatinine",
+                            "children": [
+                              {
+                                "node": "ACE inhibitor or ARB",
+                                "content": "Treat with ACE inhibitor or ARB",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "node": "Lipids",
+                            "content": "Manage lipids",
+                            "children": [
+                              {
+                                "node": "LDL",
+                                "content": "Target LDL <100 mg/dl",
+                                "children": [
+                                  {
+                                    "node": "Statin",
+                                    "content": "Treat with statin",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "node": "HDL",
+                                "content": "Target HDL >40 mg/dl",
+                                "children": [
+                                  {
+                                    "node": "Fibrate or nicotinic acid",
+                                    "content": "Treat with fibrate or nicotinic acid",
+                                    "children": []
+                                  },
+                                  {
+                                    "node": "Exercise",
+                                    "content": "Encourage exercise",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "node": "Smoking cessation",
+                            "content": "Encourage smoking cessation",
+                            "children": []
+                          },
+                          {
+                            "node": "Diet (lose 10%)",
+                            "content": "Recommend diet to lose 10% weight",
+                            "children": []
+                          },
+                          {
+                            "node": "Exercise (30 min/day)",
+                            "content": "Encourage exercise for 30 minutes per day",
+                            "children": []
+                          },
+                          {
+                            "node": "Vaccinations",
+                            "content": "Recommend vaccinations",
+                            "children": []
+                          },
+                          {
+                            "node": "Aspirin",
+                            "content": "Recommend aspirin if age >40 yr",
+                            "children": []
+                          },
+                          {
+                            "node": "Yearly dilated eye examination",
+                            "content": "Recommend yearly dilated eye examination",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "node": ">100 mg/dl",
+                "content": "Glucose level >100 mg/dl",
+                "children": [
+                  {
+                    "node": "Impaired fasting glucose",
+                    "content": "Patient has impaired fasting glucose",
+                    "children": [
+                      {
+                        "node": "Secondary diabetes",
+                        "content": "Investigate and treat accordingly",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node": "Pregnant",
+            "content": "Patient is pregnant",
+            "children": [
+              {
+                "node": "Use 3-hr OGTT or 1-hr OGTT",
+                "content": "Use 3-hour OGTT or 1-hour OGTT",
+                "children": []
+              }
+            ]
+          },
+          {
+            "node": "Hospitalized",
+            "content": "Patient is hospitalized",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+  

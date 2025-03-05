@@ -1,0 +1,128 @@
+{
+  "node": "root",
+  "content": "Patient with Nausea and Vomiting",
+  "children": [
+    {
+      "node": "A",
+      "content": "History",
+      "children": []
+    },
+    {
+      "node": "B",
+      "content": "Physical examination",
+      "children": []
+    },
+    {
+      "node": "C",
+      "content": "Laboratory evaluation",
+      "children": []
+    },
+    {
+      "node": "D",
+      "content": "Assess for mechanical obstruction, peritonitis, dehydration, or bleeding",
+      "children": [
+        {
+          "node": "Yes",
+          "content": "Replace fluids, consider hospitalization",
+          "children": []
+        },
+        {
+          "node": "No",
+          "content": "Assess for pharmacologic or toxic causes",
+          "children": [
+            {
+              "node": "E",
+              "content": "Assess for pharmacologic or toxic causes",
+              "children": [
+                {
+                  "node": "No",
+                  "content": "Continue assessment",
+                  "children": [
+                    {
+                      "node": "Duration >7 days",
+                      "content": "Constant or recurrent, intermittent",
+                      "children": [
+                        {
+                          "node": "G",
+                          "content": "Consider: Migraines, Seizure disorder, Cyclic vomiting, CNS lesions",
+                          "children": []
+                        },
+                        {
+                          "node": "F",
+                          "content": "Predominantly AM vomiting",
+                          "children": [
+                            {
+                              "node": "Consider",
+                              "content": "Pregnancy, Uremia, Alcohol use, Increased intracranial pressure",
+                              "children": []
+                            },
+                            {
+                              "node": "G",
+                              "content": "Focal defects, Brainstem, Posterior fossa, \"Abdominal migraine\"",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "node": "Vomiting >1 hr after meal",
+                          "content": "Gastric emptying study",
+                          "children": [
+                            {
+                              "node": "Prolonged emptying",
+                              "content": "Consider: Gastroparesis, Trial prokinetic agents, Gastric outlet obstructions -> EGD",
+                              "children": []
+                            },
+                            {
+                              "node": "Normal",
+                              "content": "Consider: Conversion reaction, Depression -> Psychological evaluation",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "node": "Vertigo",
+                          "content": "Consider: Labyrinthine disorder",
+                          "children": []
+                        },
+                        {
+                          "node": "Vomiting immediately after meals",
+                          "content": "Consider: Gastroesophageal reflux disease, Bulimia",
+                          "children": []
+                        },
+                        {
+                          "node": "Weight loss",
+                          "content": "Consider: Malignancy, Gastroparesis, Gastric outlet obstruction, Chronic orthostatic hypotension, hyponatremia, Adrenal insufficiency -> EGD",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "node": "Duration <1 wk",
+                      "content": "Consider: Food poisoning, Gastroenteritis -> Fluid and electrolyte replacement, observation, antiemetics",
+                      "children": []
+                    },
+                    {
+                      "node": "H",
+                      "content": "Etiology still uncertain -> Consider: Electrogastrography, MRI of brain",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "node": "Yes",
+                  "content": "Discontinue offending agent, Treat toxicity",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "node": "Regurgitation of undigested food",
+              "content": "Consider rumination, esophageal stricture, Zenker's diverticulitis",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

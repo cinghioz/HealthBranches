@@ -1,0 +1,352 @@
+GASTROINTESTINAL BLEEDING
+
+
+GI bleeding generally is separated into upper and lower
+GI bleeding, although sometimes the source actually is in
+the “middle” (Table 1). Severity ranges from trivial to massive and may be acute or chronic. In the United States,
+each year about 100 patients per 100,000 are hospitalized
+for upper GI bleeding and about 20 patients per 100,000
+are hospitalized for lower GI bleeding. Despite advances
+in the diagnosis and treatment over the past several decades, mortality from GI bleeding remains about 5%. The
+outcome is adversely affected by volume of blood loss,
+advanced age, coexisting medical conditions, exposure to
+GI irritants, and other factors (Table 2).
+The principles of management of active GI bleeding are
+the same in most patients, although diagnostic tests vary
+according to the presumed site of bleeding. In emergent
+situations, the sequence of history taking, physical examination, diagnostic evaluation, and treatment should be
+abbreviated or altered to meet immediate demands, and
+prompt resuscitation may be necessary.
+A. Melena, or black stool, may develop with as little as
+50 ml of blood loss from the GI tract per day. Although
+melena usually results from upper GI bleeding, it can
+come from a source as low as the right colon. Brisk
+bleeding may cause vomiting of blood (hematemesis)
+or appear as red blood per rectum (hematochezia).
+Vomiting either red blood or “coffee ground” material
+(which is caused by the action of gastric acid on blood)
+typically signifies an upper GI source but also can result from swallowed blood from the nose or respiratory
+tract. Red blood per rectum usually is a sign of lower
+GI bleeding, although it may come from profuse upper
+GI bleeding, such as from esophageal varices or an
+eroded artery in a peptic ulcer.
+Some features of the history may be diagnostically
+helpful. Age of the patient makes some diagnoses
+more or less likely. For example, ischemic colitis, cancer, arteriovenous malformations, and diverticulosis
+are associated with advanced age, whereas none is a
+probable consideration in a 25-year-old. Bleeding
+from inflammatory bowel disease or a Meckel’s diverticulum is more likely in a child or young adult. Recent ingestion of aspirin, other NSAIDs, or alcohol
+predisposes to gastric mucosal injury. Aspirin also inhibits platelet adhesion, which may aggravate bleeding of any cause. Patients with liver disease are at risk
+
+196
+
+to develop varices, but about half of upper GI bleeding in patients with known varices is from another
+source. Bleeding from an esophagogastric mucosal
+tear may be preceded by retching, but only about a
+third of patients with Mallory-Weiss disease have that
+traditional history; the diagnosis depends on endoscopy. Patients with aortoenteric fistula typically have
+massive bleeding from the mouth or rectum, which
+may stop abruptly; if it recurs, it may be fatal. Suspicion of an aortic aneurysm or history of an aneurysm
+repair is important information in patients with massive GI bleeding that stops abruptly. Endoscopy rarely
+identifies the fistula but is useful in ruling out other
+causes. Aortic aneurysm repair also places the patient
+at risk for ischemic colitis because of interruption of
+the inferior mesenteric artery in the absence of adequate collateral circulation. Nonocclusive ischemic
+vascular disease of the bowel occurs in older patients
+who have a condition that predisposes them to a transient reduction in bowel perfusion, such as congestive
+heart failure or cardiac arrhythmia. Such patients
+characteristically have a sudden onset of moderate
+lower abdominal pain with bloody stool. Usually the
+course is self-limited with recovery in several days. A
+few patients develop bowel infarction and require
+surgery. Irradiation that includes the gut can cause
+acute bleeding or bleeding months to years later; the
+latter is a form of ischemic colitis as a result of radiation-induced perivascular inflammation.
+B. During the physical examination the patient may appear pale and feel cool because of loss of blood and
+poor peripheral perfusion. Acute blood loss causes
+cardiac output and blood pressure (BP) to decrease
+and pulse rate to increase. With severe volume loss,
+postural compensation of BP and pulse are inadequate.
+If pulse rate increases !20 beats/min and systolic BP
+decreases !10 mm Hg when the patient stands, blood
+loss probably exceeds 1 L. However, age, cardiovascular status, and rate of blood loss affect these postural
+signs. Rectal examination provides direct access to the
+GI tract and should always be done, even when upper
+GI bleeding seems obvious.
+C. Initial laboratory studies should include CBC, electrolytes, BUN, creatinine, glucose, calcium, phosphate,
+and blood typing. Blood gases should be monitored in
+patients who are severely ill. Low hemoglobin (Hgb)
+(Continued on page 198)
+
+197
+Patient with GASTROINTESTINAL BLEEDING
+
+C Initial laboratory and
+
+A History
+
+blood studies
+
+B Physical examination:
+Vital signs
+Rectal examination
+
+Cont’d on p 199
+
+Table 1 Diagnostic Considerations in GI Bleeding
+Upper GI Bleeding
+Nose, pharynx, or lungs (swallowed)
+Esophagogastric mucosal tear (Mallory-Weiss)
+Esophageal rupture (Boerhaave’s syndrome)
+Erosions (esophagitis, gastritis, or duodenitis)
+Ulcer (esophagus, stomach, duodenum, or anastomosis)
+Dieulafoy’s lesion (ruptured mucosal artery)
+Angiomas
+Varices (esophagus, stomach, or duodenum)
+Neoplasm (carcinoma, lymphoma, leiomyoma, leiomyosarcoma, polyps)
+Hemobilia
+Vascular-enteric fistula (usually aortic aneurysm or graft)
+“Middle” GI Bleeding
+Presents as either upper or lower GI bleeding
+Results from small bowel lesions, such as
+Tumors
+Crohn’s disease
+Vascular-enteric fistulas
+Lower GI Bleeding
+Hemorrhoids
+Inflammatory bowel disease (Crohn’s disease, ulcerative colitis)
+Neoplasm (carcinoma or polyp)
+Diverticulosis
+Ischemic enteritis or colitis
+Angiodysplasia/arteriovenous malformations
+Antibiotic-associated colitis
+Radiation enteritis or colitis
+Amyloidosis
+Meckel’s diverticulum
+Vascular-enteric fistula
+NSAID-associated ulcers
+Brisk upper GI bleeding
+
+and hematocrit (Hct) are attributable to blood loss, but
+some patients bleed so rapidly that blood volume has
+had insufficient time to equilibrate, resulting in normal
+or only slightly reduced Hgb and Hct. In patients who
+are actively bleeding, changes in BP and pulse and direct evidence of continued bleeding via nasogastric
+(NG) tube or per rectum are better indicators of the
+need to administer electrolyte solutions or replace
+blood.
+Determination of platelet count and clotting factors
+is important so that abnormalities can be corrected
+promptly. Extensive blood transfusion dilutes platelets
+and clotting factors. Also, many patients who bleed
+while taking therapeutic anticoagulants do so from a
+clinically significant lesion. Acute GI bleeding may be
+associated with a modest elevation of WBC count, but
+usually not more than 15,000/mm3, so do not attribute
+leukocytosis to blood loss without considering sources
+of infection. BUN may increase in upper GI bleeding
+as a result of absorption of nitrogenous products of
+blood in the small intestine or as a result of hypovolemia. In patients with marginal liver function, the increased protein load from blood in the gut may induce
+or aggravate hepatic encephalopathy; gastric lavage and
+control of bleeding are particularly important in the
+treatment of these patients.
+
+198
+Table 2 Prognostic Indicators in GI Bleeding
+Volume of blood loss
+Associated medical conditions
+Ingestion of mucosal irritants
+Age >60 years
+Abdominal or pelvic irradiation
+Recurrent bleeding
+Stigmata of recent hemorrhage in an ulcer
+
+D. For initial management promptly insert a large-bore
+IV catheter into a peripheral vein; sometimes two IV
+catheters are needed if bleeding is profuse. If a peripheral vein is not available, use a jugular, subclavian, or
+femoral vein. A central venous pressure catheter may
+be useful to evaluate the effects of volume and blood
+replacement, particularly in the elderly or those with
+cardiovascular disease. Rapidly infuse normal saline
+until blood is available. In patients with excess body
+sodium, such as those with ascites or edema, restoration of intravascular volume takes precedence over
+concern for sodium overload.
+E. Pass an NG tube in every patient with melena or hematemesis. Blood from the esophagus or stomach
+pools in the stomach, and in !90% of bleeding duodenal ulcers, blood refluxes into the stomach. If the NG
+aspirate is clear or clears promptly with lavage, the
+tube may be removed. If there is a large amount of
+blood or retained material, lavage the stomach with a
+large-bore tube. Removal of gastric contents facilitates
+subsequent endoscopy and decompresses the stomach.
+Because the NG tube is uncomfortable for the patient,
+predisposes to gastroesophageal reflux and pulmonary
+aspiration, and may irritate the esophagus or stomach,
+remove it when it is no longer useful.
+F. Upper GI endoscopy or colonoscopy may reveal a specific bleeding site that indicates specific treatment,
+such as ligation or sclerosis of esophageal varices.
+Endoscopic treatment of bleeding lesions includes
+thermal electrocoagulation; laser photocoagulation;
+and injection of vasoconstrictors, ethanol, or normal
+saline. The so-called stigmata of recent hemorrhage
+(SRH) in an ulcer crater—which includes a protruding
+vessel, an adherent clot, and oozing or spurting of
+blood—have prognostic and therapeutic implications
+(Table 2). Patients with SRH are more likely to have
+uncontrolled or recurrent bleeding and to require
+therapeutic endoscopy or surgery.
+Sigmoidoscopy should be performed early in the
+evaluation of acute lower GI bleeding. Emergency
+colonoscopy may be attempted, but its value is limited
+by stool and blood. If colonoscopy is deemed necessary
+
+after the patient is stabilized, the gut can be cleansed
+with osmotically balanced electrolyte solution by mouth
+or NG tube.
+G. Selective arteriography of the celiac axis, the superior
+and inferior mesenteric arteries, or their branches may
+be useful if endoscopy has failed to reveal a diagnosis.
+Angiodysplastic lesions and vascular tumors can be
+suspected by their radiographic appearance, and bleeding from other arterial lesions may be identified by a
+characteristic blush and controlled with autologous
+clot, gel foam, or vasoconstrictor.
+Capsule endoscopy, which uses a wireless camera in
+a swallowed capsule, creates thousands of pictures and
+is useful in examining the small intestine beyond the
+reach of the upper GI endoscope and the colonoscope.
+Because it requires some bowel preparation and several hours to interpret the pictures, it is more useful in
+the evaluation of obscure GI bleeding after stabilization of the patient and diagnosis of other small bowel
+disorders, such as tumors and Crohn’s disease.
+H. The management of acute GI bleeding requires a team
+of experienced health professionals. Specific diagnostic
+studies usually require the skills of an endoscopist or a
+radiologist. Early surgical consultation may be valuable
+in managing the patient and the surgeon is better prepared to make a decision regarding operative intervention should the need arise later.
+
+References
+American Gastroenterological Association Medical Position Statement:
+Evaluation and management of occult and obscure gastrointestinal
+bleeding. Gastroenterology 2000;118:197.
+Bounds BC, Friedman LS. Lower gastrointestinal bleeding. Gastroenterol Clin North Am 2003;32:1107.
+Comar KM, Sanyal AJ. Portal hypertensive bleeding. Gastroenterol Clin
+North Am 2003;32:1079.
+Eastwood GL. Acute management and identification of risk factors. In
+Sugawa C, Schuman BM, Lucas CE, eds. Gastrointestinal Bleeding.
+New York: Igaku-Shoin Medical Publishers, 1992:257.
+Elta GH. Approach to the patient with gross gastrointestinal bleeding.
+In Yamada T, Alpers DH, Kaplowitz N, et al, eds. Textbook of Gastroenterology, 4 ed. Philadelphia: Lippincott Williams & Wilkins,
+2003:698.
+Huang CS, Lichtenstein DR. Nonvariceal upper gastrointestinal bleeding. Gastroenterol Clin North Am 2003;32:1053.
+Kamath PS. Esophageal variceal bleeding: primary prophylaxis. Clin
+Gastroenterol Hepatol 2005;3:90.
+Longstreth GF. Epidemiology of hospitalization for acute upper gastrointestinal hemorrhage: a population-based study. Am J Gastroenterol
+1995;90:206.
+Longstreth GF. Epidemiology and outcome of patients hospitalized for
+acute lower gastrointestinal hemorrhage: a population-based study.
+Am J Gastroenterol 1997;92:419.
+Melmed GY, Lo SK. Capsule endoscopy: practical applications. Clin
+Gastroenterol Hepatol 2005;3:411.
+
+199
+Patient with GASTROINTESTINAL BLEEDING
+(Cont’d from p 197)
+
+D
+
+IV Catheter
+IV Electrolyte
+Solutions
+
+E
+
+Survey for
+concomitant
+disease
+
+Pass NG
+Tube
+
+No blood
+in stomach
+
+Blood in
+stomach
+
+Withdraw
+tube
+
+Leave tube
+in place for
+lavage
+
+Suspect upper GI bleeding
+
+F
+
+consultations
+
+Suspect lower GI bleeding
+
+Upper GI Endoscopy
+
+Diagnostic
+
+H Obtain
+
+Transfuse
+Blood and
+Blood Products
+
+F
+
+Sigmoidoscopy
+
+Nondiagnostic
+
+Consider:
+Therapeutic
+endoscopy
+
+G Consider:
+
+Selective
+arteriography
+
+Diagnostic
+
+Consider:
+Immediate
+surgery
+
+Rectal bleeding
+(p 200)
+Positive fecal
+occult test (p 216)
+
+Nondiagnostic
+
+Bleeding
+continues
+
+G Consider:
+
+Bleeding
+stops
+
+Wireless capsule
+endoscopy after
+patient stabilized
+
+G Consider:
+
+Selective
+arteriography
+
+F Consider:
+F Consider:
+
+Colonoscopy
+
+Elective
+colonoscopy
+
+

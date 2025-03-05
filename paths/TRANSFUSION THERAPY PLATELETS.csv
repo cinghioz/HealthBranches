@@ -1,0 +1,11 @@
+source,leaf,paths
+root,"Usual trigger is <10,000/µl","Patient with ABNORMAL BLEEDING -> Prophylaxis in thrombocytopenia -> Usual trigger is <10,000/µl"
+root,"<25,000 for minor procedures","Patient with ABNORMAL BLEEDING -> Surgical procedure -> Transfuse if -> <25,000 for minor procedures"
+root,"<50,000 for major procedures","Patient with ABNORMAL BLEEDING -> Surgical procedure -> Transfuse if -> <50,000 for major procedures"
+root,"<100,000 for opthalmologic procedures","Patient with ABNORMAL BLEEDING -> Surgical procedure -> Transfuse if -> <100,000 for opthalmologic procedures"
+root,"Platelet inhibitors (e.g., aspirin) Platelet transfusion usually affected","Patient with ABNORMAL BLEEDING -> Bleeding -> Maintain platelets >50,000/µl -> Platelet inhibitors (e.g., aspirin) Platelet transfusion usually affected"
+root,Uremia Try DDAVP or dialysis,"Patient with ABNORMAL BLEEDING -> Bleeding -> Maintain platelets >50,000/µl -> Uremia Try DDAVP or dialysis"
+root,"Causes: Medications, Fever, Sepsis, DIC, Bleeding, Splenomegaly, CvH*, Immune mediated","Patient with ABNORMAL BLEEDING -> Refractoriness -> Check 10 min to 1 hr postplatelet count -> Causes: Medications, Fever, Sepsis, DIC, Bleeding, Splenomegaly, CvH*, Immune mediated"
+root,Nonimmune etiology,Patient with ABNORMAL BLEEDING -> Refractoriness -> Appropriate increment -> Nonimmune etiology
+root,"PRA ≥20%, give HLA-matched or cross-matched PLTs","Patient with ABNORMAL BLEEDING -> Refractoriness -> Immune etiology possible -> Check PRA -> PRA ≥20%, give HLA-matched or cross-matched PLTs"
+root,Adequate response,Patient with ABNORMAL BLEEDING -> Refractoriness -> Measure response -> Adequate response

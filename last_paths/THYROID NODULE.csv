@@ -1,0 +1,2 @@
+source,leaf,paths
+root,Surgery,"Patient with THYROID NODULE -> History, physical examination, and serum thyrotropin test -> Normal or high thyrotropin level. Clinical evaluation -> Ultrasonographically guided FNA biopsy -> Diagnostic results -> Suspicious -> Surgery||Patient with THYROID NODULE -> History, physical examination, and serum thyrotropin test -> Normal or high thyrotropin level. Clinical evaluation -> Ultrasonographically guided FNA biopsy -> Nondiagnostic results -> Repeat ultrasonographically guided FNA biopsy -> Nondiagnostic results -> Surgery"

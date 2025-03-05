@@ -1,0 +1,4 @@
+source,leaf,paths
+Patient with MAMMAL BITE,Puncture,"Initial assessment of a patient with a mammal bite -> History, including circumstance: Provocation, Wild or domestic animal, Wound care: copious irrigation with soap and water, Determine tetanus immunization -> Evaluate rabies risk -> Examine wound -> Puncture"
+Patient with MAMMAL BITE,Laceration: bite,"Initial assessment of a patient with a mammal bite -> History, including circumstance: Provocation, Wild or domestic animal, Wound care: copious irrigation with soap and water, Determine tetanus immunization -> Evaluate rabies risk -> Examine wound -> Laceration: bite"
+Patient with MAMMAL BITE,Prophylactic antibiotics,"Initial assessment of a patient with a mammal bite -> History, including circumstance: Provocation, Wild or domestic animal, Wound care: copious irrigation with soap and water, Determine tetanus immunization -> Evaluate rabies risk -> Examine wound -> Prophylactic antibiotics"

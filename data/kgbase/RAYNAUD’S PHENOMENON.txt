@@ -1,0 +1,120 @@
+RAYNAUD’S PHENOMENON
+
+Raynaud’s phenomenon is defined by episodic ischemia of
+the digits in response to cold or emotional stimuli. The three
+stages of Raynaud’s include pallor, cyanosis, and rubor. Pallor is caused by vasospasm and loss of arterial blood flow,
+cyanosis reveals the deoxygenation of static venous blood,
+and rubor shows the reactive hyperemia following return of
+blood flow. Prevalence in the United States ranges between
+4% and 11% in women and 3% and 8% in men, depending on the population studied. Severity can range from mild
+intermittent symptoms to severe persistent ischemia with
+ulceration of digits.
+A. A thorough history should be obtained to differentiate
+true Raynaud’s phenomenon from common cold intolerance. Classic Raynaud’s is described as the sudden
+onset of cold fingers (or toes) in association with a
+sharply demarcated triphasic (white-blue-red) color
+change. It is usually symmetric, and asymmetry should
+prompt investigation of traumatic etiology or thrombotic/embolic phenomenon. In addition, symptoms of
+associated conditions should be sought by taking a complete review of systems. A complete medication history
+and an occupational exposure history are critical.
+B. A complete physical examination is warranted to investigate for signs of an associated underlying condition.
+It is not necessary to perform provocative tests because
+they are often inaccurate. Nailfold capillary microscopy can be performed by placing a drop of grade B
+immersion oil on the patient’s skin at the base of the
+fingernail and viewing the area with a handheld ophthalmoscope set at 10–40 diopters; capillaries of patients with an underlying rheumatic disease are frequently distorted and irregular.
+C. Raynaud’s phenomenon is considered primary if the
+symptoms occur without evidence of any associated
+disorder. Primary Raynaud’s is more common in women
+than in men and usually starts at a younger age. The
+episodes are characterized by symmetric attacks with
+the absence of tissue necrosis, ulceration, or gangrene.
+For primary Raynaud’s, the avoidance of cold temperatures and keeping the entire body warm is often sufficient therapy. In addition, avoiding vasoconstrictive
+medications, tobacco, and caffeine can be helpful.
+When conservative therapy is insufficient, long-acting
+calcium channel blockers can be tried.
+D. Many medications have been implicated in Raynaud’s
+phenomenon, including beta blockers, chemotherapeutic agents, interferon, estrogen, nicotine, narcotics,
+538
+
+sympathomimetic agents, cyclosporine, cocaine, ergotamines, and clonidine. In addition, exposure to polyvinyl chloride and heavy metals has been associated
+with Raynaud’s phenomenon. Withdrawal of offending
+medications and conservative therapy as for primary
+Raynaud’s phenomenon should be attempted.
+E. Raynaud’s secondary to an underlying disease should
+be suspected in a patient with associated symptoms or
+signs, in those with new Raynaud’s phenomenon after
+40 years of age, or in those with severe ischemia or
+ulceration. In this population, guided by the history
+and physical examination, one could perform a CBC,
+general blood chemical analysis, urinalysis, ANA, C3,
+C4, ESR, C-reactive protein (CRP), and rheumatoid
+factor (RF). Further testing for cryoglobulins and
+serum protein electrophoresis (SPEP) can be ordered
+as well. As with primary Raynaud’s, the avoidance of
+cold temperatures and keeping the entire body warm
+is recommended. In addition, avoiding vasoconstrictive medications, tobacco, and caffeine can be helpful.
+When conservative therapy is insufficient, long-acting
+calcium channel blockers can be tried. For cases of
+severe ischemia or digital necrosis, arterial studies
+should be performed and antiplatelet therapy and IV
+prostaglandins should be initiated.
+F. Asymmetric Raynaud’s should raise the suspicion
+for trauma or thrombotic or embolic phenomenon.
+Raynaud’s secondary to trauma can occur when the
+ulnar artery is damaged as it courses the hook of
+the hamate bone in the wrist (“hypothenar hammer
+syndrome”). Hand-arm vibration exposure, as occurs
+with pneumatic hammer operators, can also cause a
+similar phenomenon. In asymmetric Raynaud’s, thrombotic and embolic disease should also be considered.
+Allen’s test should be performed. Doppler ultrasonography may be useful, but arteriography is the
+“gold standard.”
+
+References
+De Angelis R, Del Medico P, Blasetti P, Cervini C. Raynaud’s phenomenon:
+clinical spectrum of 118 patients. Clin Rheumatol 2003;22:279–284.
+Suter LG, Murabito JM, Felson DT, Fraenkel L. The incidence and
+natural history of Raynaud’s phenomenon in the community. Arthritis
+Rheum 2005;52:1259–1263.
+Wigley FM. Raynaud’s phenomenon. N Engl J Med 2002;347:
+1001–1008.
+
+539
+Patient with RAYNAUD’S PHENOMENON
+
+A History
+B Physical examination
+
+C Primary Raynaud’s:
+
+Symmetric, no associated
+signs or symptoms of
+systemic disease
+No concerning
+exposure
+
+D Secondary to/
+
+exacerbated by
+medication/toxin
+
+E Secondary to
+
+F Secondary to trauma/
+
+underlying disease
+(e.g., systemic
+rheumatic disease)
+Evaluation can
+include CBC,
+chemistries, urinalysis,
+ANA, C3, C4, RF, ESR,
+CRP, SPEP, cryoglobulins
+
+embolic or thrombotic
+phenomenon
+Asymmetric symptoms
+or digital ischemia
+warrants arterial Doppler
+and/or arteriography
+
+

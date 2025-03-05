@@ -1,0 +1,8 @@
+source,leaf,paths
+root,"Nearby structures inflamed: Otitis, Parotitis, Sinusitis, Dental, Temporal arteritis","Patient with TEMPOROMANDIBULAR PAIN -> Nearby structures inflamed: Otitis, Parotitis, Sinusitis, Dental, Temporal arteritis"
+root,Neuralgia,Patient with TEMPOROMANDIBULAR PAIN -> Neuralgia
+root,Osteoarthritis,Patient with TEMPOROMANDIBULAR PAIN -> Articular -> Osteoarthritis
+root,Inflammatory arthritis,Patient with TEMPOROMANDIBULAR PAIN -> Articular -> Inflammatory arthritis
+root,Internal derangement,Patient with TEMPOROMANDIBULAR PAIN -> Articular -> Internal derangement
+root,Muscular,Patient with TEMPOROMANDIBULAR PAIN -> Muscular
+root,"Structure indeterminate Consider: Atypical facial pain, Tension headache","Patient with TEMPOROMANDIBULAR PAIN -> Structure indeterminate Consider: Atypical facial pain, Tension headache"

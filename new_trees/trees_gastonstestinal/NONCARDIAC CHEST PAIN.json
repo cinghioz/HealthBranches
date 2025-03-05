@@ -1,0 +1,164 @@
+{
+  "node": "Noncardiac Chest Pain",
+  "content": "Patient with noncardiac chest pain and normal coronary arteries",
+  "children": [
+    {
+      "node": "History and Physical Examination",
+      "content": "Initial assessment of the patient",
+      "children": [
+        {
+          "node": "Trial of Double Dose of Proton Pump Inhibitor",
+          "content": "Administer a double dose of proton pump inhibitor twice daily for 14 days",
+          "children": [
+            {
+              "node": "Response",
+              "content": "Patient responds to PPI treatment",
+              "children": [
+                {
+                  "node": "Treat for GERD",
+                  "content": "Treat the patient for gastroesophageal reflux disease"
+                }
+              ]
+            },
+            {
+              "node": "No Response",
+              "content": "Patient does not respond to PPI treatment",
+              "children": [
+                {
+                  "node": "Endoscopy",
+                  "content": "Perform an endoscopy",
+                  "children": [
+                    {
+                      "node": "Structural or Mucosal Abnormality",
+                      "content": "Abnormality found during endoscopy",
+                      "children": [
+                        {
+                          "node": "Treat Accordingly",
+                          "content": "Treat based on the specific abnormality found"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "Normal",
+                      "content": "No abnormalities found during endoscopy",
+                      "children": [
+                        {
+                          "node": "24-hr pH Monitoring",
+                          "content": "Conduct 24-hour pH monitoring",
+                          "children": [
+                            {
+                              "node": "Normal pH",
+                              "content": "pH levels are normal",
+                              "children": [
+                                {
+                                  "node": "Manometry",
+                                  "content": "Perform manometry",
+                                  "children": [
+                                    {
+                                      "node": "Normal Study or Nonspecific Motility Disorder",
+                                      "content": "Manometry results are normal or show a nonspecific motility disorder",
+                                      "children": [
+                                        {
+                                          "node": "Provocative Testing",
+                                          "content": "Perform provocative testing (Bernstein, Tensilar, Balloon Distention)",
+                                          "children": [
+                                            {
+                                              "node": "Normal",
+                                              "content": "No pain induced during provocative testing",
+                                              "children": [
+                                                {
+                                                  "node": "Esophageal Cause Unlikely",
+                                                  "content": "Esophageal cause of chest pain is unlikely",
+                                                  "children": [
+                                                    {
+                                                      "node": "Reassure Patient",
+                                                      "content": "Reassure the patient"
+                                                    },
+                                                    {
+                                                      "node": "Consider Trial of a Tricyclic Antidepressant",
+                                                      "content": "Consider a trial of a tricyclic antidepressant"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "node": "Chest Pain",
+                                              "content": "Chest pain induced during provocative testing",
+                                              "children": [
+                                                {
+                                                  "node": "Esophageal Cause Likely",
+                                                  "content": "Esophageal cause of chest pain is likely",
+                                                  "children": [
+                                                    {
+                                                      "node": "Treat Accordingly",
+                                                      "content": "Treat based on the findings"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "node": "Diffuse Esophageal Spasm, Achalasia, Nutcracker Esophagus",
+                                      "content": "Specific motility disorders found",
+                                      "children": [
+                                        {
+                                          "node": "Treat Accordingly",
+                                          "content": "Treat based on the specific motility disorder"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "node": "pH < 4 but No Correlation with Chest Pain",
+                              "content": "Low pH but not correlated with chest pain",
+                              "children": [
+                                {
+                                  "node": "Possible Esophageal (GERD) Cause",
+                                  "content": "Possible esophageal cause, consider GERD",
+                                  "children": [
+                                    {
+                                      "node": "Empiric Trial of Treatment for GERD",
+                                      "content": "Initiate an empiric trial of treatment for GERD"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "node": "Chest Pain Correlating with pH < 4",
+                              "content": "Chest pain correlates with low pH",
+                              "children": [
+                                {
+                                  "node": "Esophageal (GERD) Cause",
+                                  "content": "Esophageal cause, likely GERD",
+                                  "children": [
+                                    {
+                                      "node": "Treat for GERD",
+                                      "content": "Treat the patient for gastroesophageal reflux disease"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

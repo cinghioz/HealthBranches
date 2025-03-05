@@ -1,0 +1,9 @@
+source,leaf,paths
+Patient with HYPOGLYCEMIA,Seek contributing factors or adjust insulin dosing,Symptoms -> Confirm glucose <60 mg/dl -> Patient is diabetic -> Seek contributing factors or adjust insulin dosing
+Patient with HYPOGLYCEMIA,"Drug effect: Ethanol, Salicylates, Haloperidol, Pentamidine, Trimethoprim-sulfamethoxazole","Symptoms -> Confirm glucose <60 mg/dl -> Drug effect: Ethanol, Salicylates, Haloperidol, Pentamidine, Trimethoprim-sulfamethoxazole"
+Patient with HYPOGLYCEMIA,Exogenous insulin,Symptoms -> Confirm glucose <60 mg/dl -> Patient not known to be diabetic -> Fasting glucose <45 mg/dl -> Insulin levels >6 μU/ml -> C-peptide <200 mg/dl -> Exogenous insulin
+Patient with HYPOGLYCEMIA,Sulfonylurea effect,Symptoms -> Confirm glucose <60 mg/dl -> Patient not known to be diabetic -> Fasting glucose <45 mg/dl -> Insulin levels >6 μU/ml -> C-peptide >200 mg/dl -> Positive Sulfonylurea screen -> Sulfonylurea effect
+Patient with HYPOGLYCEMIA,Insulinoma,Symptoms -> Confirm glucose <60 mg/dl -> Patient not known to be diabetic -> Fasting glucose <45 mg/dl -> Insulin levels >6 μU/ml -> C-peptide >200 mg/dl -> Negative Sulfonylurea screen -> Insulinoma
+Patient with HYPOGLYCEMIA,IGF-mediated Noninsulin-mediated hypoglycemia,Symptoms -> Confirm glucose <60 mg/dl -> Patient not known to be diabetic -> Fasting glucose <45 mg/dl -> Insulin levels <6 μU/ml -> IGF-mediated Noninsulin-mediated hypoglycemia
+Patient with HYPOGLYCEMIA,Surgery,Symptoms -> Confirm glucose <60 mg/dl -> Postprandial hypoglycemia -> Surgery
+Patient with HYPOGLYCEMIA,Early diabetes,Symptoms -> Confirm glucose <60 mg/dl -> Postprandial hypoglycemia -> Early diabetes

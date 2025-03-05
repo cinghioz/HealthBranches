@@ -1,0 +1,171 @@
+{
+    "node": "Patient with ENCEPHALITIS",
+    "content": "Evaluate patient with encephalitis",
+    "children": [
+      {
+        "node": "History and physical examination",
+        "content": "Perform history and physical examination, check for fever or headache with seizures, unusual behavior, or other CNS deficits",
+        "children": [
+          {
+            "node": "Focal neurologic deficit, seizure, or coma?",
+            "content": "Check for focal neurologic deficit, seizure, or coma",
+            "children": [
+              {
+                "node": "No",
+                "content": "If no focal neurologic deficit, seizure, or coma",
+                "children": [
+                  {
+                    "node": "Lumbar puncture",
+                    "content": "Perform lumbar puncture: Gram stain, bacterial culture, HSV-1/2, VZV PCR",
+                    "children": [
+                      {
+                        "node": "Acute presentation or meningismus",
+                        "content": "If acute presentation or meningismus is present",
+                        "children": [
+                          {
+                            "node": "Therapy for bacterial meningitis",
+                            "content": "Start therapy for bacterial meningitis",
+                            "children": [
+                              {
+                                "node": "Gram stain or culture positive for microorganisms",
+                                "content": "Check if Gram stain or culture is positive for microorganisms",
+                                "children": [
+                                  {
+                                    "node": "Continue appropriate antimicrobial therapy",
+                                    "content": "Continue appropriate antimicrobial therapy"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "node": "Acyclovir",
+                        "content": "Start empiric IV acyclovir",
+                        "children": [
+                          {
+                            "node": "No diagnosis",
+                            "content": "If no diagnosis is made",
+                            "children": [
+                              {
+                                "node": "MRI of brain",
+                                "content": "Perform MRI of the brain",
+                                "children": [
+                                  {
+                                    "node": "Space-occupying lesion",
+                                    "content": "If a space-occupying lesion is found",
+                                    "children": [
+                                      {
+                                        "node": "Evaluate for toxoplasmosis, abscess, or malignancy",
+                                        "content": "Evaluate for toxoplasmosis, abscess, or malignancy"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "node": "White matter disease, HIV positive",
+                                    "content": "If white matter disease is found and the patient is HIV positive",
+                                    "children": [
+                                      {
+                                        "node": "Antiretrovirals, assess for PML",
+                                        "content": "Administer antiretrovirals and assess for PML"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "node": "Diffuse or focal T2 parenchymal abnormality, CSF PCR and serologies nondiagnostic",
+                                    "content": "If diffuse or focal T2 parenchymal abnormality is found, and CSF PCR and serologies are nondiagnostic",
+                                    "children": [
+                                      {
+                                        "node": "Repeat lumbar puncture",
+                                        "content": "Repeat lumbar puncture and complete 14-21 days of acyclovir",
+                                        "children": [
+                                          {
+                                            "node": "No improvement, no diagnosis",
+                                            "content": "If there is no improvement and no diagnosis is made",
+                                            "children": [
+                                              {
+                                                "node": "Evaluate for noninfectious etiologies of encephalitis",
+                                                "content": "Evaluate for noninfectious etiologies of encephalitis (paraneoplastic, connective tissue disease, vasculitis)"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "node": "No improvement, no diagnosis",
+                                    "content": "If there is no improvement and no diagnosis is made",
+                                    "children": [
+                                      {
+                                        "node": "Brain biopsy",
+                                        "content": "Perform brain biopsy"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "node": "Subacute course, HIV, immunosuppressed",
+                        "content": "If subacute course, HIV, or immunosuppressed",
+                        "children": [
+                          {
+                            "node": "CSF also for:",
+                            "content": "Perform CSF also for fungal and AFB stain/culture, VDRL, PCR for JC virus, CMV, EBV, HHV-6",
+                            "children": [
+                              {
+                                "node": "CSF study or serology positive",
+                                "content": "If CSF study or serology is positive",
+                                "children": [
+                                  {
+                                    "node": "Treat appropriately or supportive management",
+                                    "content": "Treat appropriately or provide supportive management"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "node": "Yes",
+                "content": "If focal neurologic deficit, seizure, or coma is present",
+                "children": [
+                  {
+                    "node": "Head CT",
+                    "content": "Perform head CT",
+                    "children": [
+                      {
+                        "node": "Impending herniation?",
+                        "content": "Check for impending herniation",
+                        "children": [
+                          {
+                            "node": "Neurosurgical consultation, steroids",
+                            "content": "Perform neurosurgical consultation and administer steroids"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node": "Liver and renal function, toxicology, CBC, blood cultures",
+        "content": "Evaluate liver and renal function, toxicology, CBC, and blood cultures"
+      }
+    ]
+  }
+  

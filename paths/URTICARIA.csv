@@ -1,0 +1,5 @@
+source,leaf,paths
+Patient with URTICARIA,"Consider drug reaction, food hypersensitivity, infection, contact urticaria, transfusion reaction","History and Physical examination -> Consider drug reaction, food hypersensitivity, infection, contact urticaria, transfusion reaction"
+Patient with URTICARIA,"Consider Dermatographism, Cold urticaria, Heat urticaria, Solar urticaria, Aquagenic urticaria, Cholinergic urticaria","History and Physical examination -> Chronic urticaria (>6 wk) -> Consider Dermatographism, Cold urticaria, Heat urticaria, Solar urticaria, Aquagenic urticaria, Cholinergic urticaria"
+Patient with URTICARIA,Idiopathic urticaria,"History and Physical examination -> Chronic urticaria (>6 wk) -> Urticaria pigmentosa, Urticarial vasculitis (p 122) -> Normal workup -> Idiopathic urticaria"
+Patient with URTICARIA,"Consider Lupus erythematosus, Parasitic disease, Chronic infection, Occult malignancy","History and Physical examination -> Chronic urticaria (>6 wk) -> Consider Lupus erythematosus, Parasitic disease, Chronic infection, Occult malignancy"

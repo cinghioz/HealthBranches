@@ -1,0 +1,3 @@
+source,leaf,paths
+root,Pharmacologic blockade,Patient with DILATED PUPIL -> Pilocarpine 0.125% gtt OU -> Pilocarpine 1% gtt OU -> No constriction of dilated pupil -> Pharmacologic blockade
+root,Iris injury,Patient with DILATED PUPIL -> Pilocarpine 0.125% gtt OU -> Pilocarpine 1% gtt OU -> No constriction of dilated pupil -> Iris injury

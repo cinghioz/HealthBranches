@@ -1,0 +1,129 @@
+SUPERIOR VENA CAVAL SYNDROME
+Frederick R. Ahmann, MD
+
+A. Obstruction of the superior vena cava (SVC) occurs
+when this thin-walled vessel is invaded, compressed, or
+thrombosed. Blockage of the blood flow often leads to
+development of the easily recognized superior vena
+caval syndrome (SVCS) with venous distention, facial
+edema, headache, tachypnea, cyanosis, and plethora.
+SVCS is commonly characterized as an acute or subacute oncologic emergency. Establishing a diagnosis is
+essential and can be accomplished safely even if biopsies of tissue exposed to elevated venous pressures and
+a brief delay in the initiation of therapy are necessary.
+B. In a patient with the previously noted signs and symptoms, confirmation that the SVC is obstructed usually is
+not required because most patients have a mass visible
+on imaging studies. However, should confirmation be
+needed, this can be safely accomplished with either
+contrast or a nuclear venography. Nuclear venography is
+preferable because of a lower injection volume of contrast, but both are associated with low complication
+rates.
+C. Since the 1950s, bronchogenic carcinomas have been
+the leading cause of SVCS. In the past decade, with the
+increased use of intravascular devices, thrombosis
+associated with such devices now may account for
+approximately one fourth of cases. For many years
+histologic confirmation of the diagnosis was thought to
+be unnecessary because palliative radiotherapy was
+the only treatment possible. Recent advances in the
+treatment of lung cancers and lymphoproliferative
+disorders, in addition to the increasing incidence of
+benign causes for which radiotherapy is not palliative
+and is potentially dangerous, mandate accurate
+pretherapy assessment. Little evidence suggests that
+diagnostic procedures (including bronchoscopy, lymph
+node biopsies, mediastinoscopy, and thoracotomies)
+carry an excessive risk. Therefore, the evaluation of
+
+290
+
+these patients should be similar to that of any patient
+with a lung mass.
+D. Standard palliative therapy for SVCS caused by a malignancy has been radiotherapy. Some debate persists
+about the optimal dose, schedule, and fields of treatment, but in general, about 50%–70% of treated
+patients are reported to achieve symptomatic improvement within 2 weeks of initiation of radiotherapy.
+However, radiotherapy is no longer the sole or even
+the initial therapy for many patients. In one review,
+60% of all cases of SVCS were caused by lung cancer
+or lymphomas. Thus, a majority of the causes of SVCS
+are malignancies for which chemotherapy with or
+without radiotherapy is needed to accomplish the
+therapeutic objectives of improved quality of life and
+prolonged survival. SVCS can cause distressing signs
+and symptoms that should be palliated in a timely
+fashion. However, because many such patients may
+have lung cancer or lymphoma together with a definite
+incidence of benign etiologies, an accurate histologic
+diagnosis should be pursued in all patients with SVCS
+unless there are extenuating circumstances. Only with
+a definite histologic diagnosis can a rational therapeutic choice be made for both relieving SVCS and maximizing survival potential.
+References
+Ahmann FR. A reassessment of the clinical implications of the superior
+vena caval syndrome. J Clin Oncol 1984;2:961.
+Baker GL, Barnes HJ. Superior vena cava syndrome: etiology, diagnosis
+and treatment. Am J Crit Care 1992;1:54.
+Bigsby R, Greengrass R, Unruh H. Diagnostic algorithm for acute superior
+vena caval obstruction. J Cardiovasc Surg 1993;34:347.
+Perez CA, Presant CA, Van Amburg AL. Management of superior vena
+cava syndrome. Semin Oncol 1978;5:123.
+Rice JW, Rodriguez RM, Light, RW. The superior vena cava syndrome:
+clinical characteristics and evolving etiology. Medicine 2006;85:37–42.
+
+291
+SUPERIOR VENA CAVAL SYNDROME Suspected
+
+A History
+
+Physical examination
+Clinical diagnosis
+
+B
+
+Confirm Diagnosis
+with Contrast or
+Nuclear Venography
+if indicated
+Chest film
+!
+CT of chest
+
+Mass
+
+No mass
+Observation
+
+C
+
+Pathologic Diagnosis:
+Bronchoscopy
+Lymph Node Biopsy
+Mediastinoscopy
+Thoracotomy
+
+D Therapy
+
+Small cell
+lung cancer
+
+Lymphoma
+
+Chemotherapy
+"
+Radiotherapy
+(if needed)
+
+Non–small
+cell lung cancer
+
+Other
+cancers
+
+Radiotherapy
+"
+Chemotherapy (if needed)
+
+Benign
+lesions
+SURGERY
+(if needed)
+
+

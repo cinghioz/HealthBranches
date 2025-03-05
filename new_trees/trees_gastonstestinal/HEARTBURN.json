@@ -1,0 +1,106 @@
+{
+  "node": "Root",
+  "content": "Patient with HEARTBURN",
+  "children": [
+    {
+      "node": "A",
+      "content": "Typical symptoms",
+      "children": [
+        {
+          "node": "B",
+          "content": "PPI",
+          "children": [
+            {
+              "node": "C",
+              "content": "Step-down therapy",
+              "children": [
+                {
+                  "node": "",
+                  "content": "Infrequent recurrence",
+                  "children": [
+                    {
+                      "node": "",
+                      "content": "Treat again"
+                    }
+                  ]
+                },
+                {
+                  "node": "",
+                  "content": "Frequent recurrence",
+                  "children": [
+                    {
+                      "node": "F",
+                      "content": "Maintenance PPI"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node": "E",
+              "content": "Twice-Daily PPI Therapy",
+              "children": [
+                {
+                  "node": "",
+                  "content": "Relief",
+                  "children": [
+                    {
+                      "node": "F",
+                      "content": "Maintenance PPI"
+                    }
+                  ]
+                },
+                {
+                  "node": "",
+                  "content": "Failure",
+                  "children": [
+                    {
+                      "node": "G",
+                      "content": "Document reflux: 24-hr pH on PPI",
+                      "children": [
+                        {
+                          "node": "",
+                          "content": "Normal",
+                          "children": [
+                            {
+                              "node": "",
+                              "content": "Alternative therapy"
+                            }
+                          ]
+                        },
+                        {
+                          "node": "",
+                          "content": "Reflux",
+                          "children": [
+                            {
+                              "node": "",
+                              "content": "Increase PPI dose"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "D",
+      "content": "Alarm symptoms and signs",
+      "children": [
+        {
+          "node": "",
+          "content": "Upper Endoscopy"
+        }
+      ]
+    },
+    {
+      "node": "H",
+      "content": "Consider upper endoscopy for patient at high risk for Barrett's esophagus"
+    }
+  ]
+}

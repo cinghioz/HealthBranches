@@ -1,0 +1,284 @@
+SUBMERSION
+
+Drowning is death from suffocation as a result of submersion in a fluid, whereas near-drowning implies survival,
+at least temporarily, after such suffocation. In the United
+States, drowning accounts for approximately 5000 deaths,
+!10,000 hospital admissions, and ! 30,000 emergency department (ED) visits per year. Drowning is typically in the
+top-five causes of traumatic death for all age groups and
+is a leading cause of death for children and adolescents.
+The backyard swimming pool is the most common cause of
+drowning for those " 5 years, and the bathtub is the most
+common household cause of drowning.
+Submersion is usually accompanied by panic and breath
+holding. After a short period, patients will develop severe
+air hunger and some degree of hypoxia and hypercarbia,
+resulting in an involuntary gasp causing aspiration. This is
+usually followed by laryngospasm, more aspiration, and
+death. Of victims, 10%–15% succumb to asphyxia while
+submerged without evidence of aspiration, probably because of laryngospasm.
+Morbidity and mortality are multifactorial and a consequence of the duration of submersion, the temperature of
+the water, the age and comorbidities of the victim, and the
+salinity and contamination of the water. Patients who are
+awake and conscious or have minimal alteration of consciousness on arrival have very good outcomes. The degree
+of neurologic impairment at presentation directly correlates
+to outcome.
+A. Some victims of near-drowning do not aspirate water,
+have limited laryngospasm or breath holding, and regain
+effective ventilation before permanent damage occurs.
+These patients may appear sleepy or groggy or completely alert. Despite appearing stable, these patients
+may be severely hypoxic or become so quickly. Cervical
+spine (C-spine) precautions should be continued if neck
+injury is possible, and these patients should be transported with supplemental O2 to the nearest ED.
+
+650
+
+B. The fundamental goal for initial resuscitation of
+the apneic near-drowning victim is to restore Pao2 to
+normal as rapidly as possible. The victim should be
+extricated from the water as quickly as possible. If the
+victim is apneic and mouth-to-mouth ventilation in
+the water is possible, this should be initiated when the
+rescuer reaches the victim. Because chest compressions are not typically feasible in the water, they
+should be initiated when the victim can be removed.
+C-spine precaution should be followed during extrication if a fall or diving injury is suspected. The single
+most important factor related to a normal recovery is
+the prevention of irreversible hypoxia. This usually
+means that the first responder must know cardiopulmonary resuscitation (CPR) and be able to use it when
+necessary.
+C. If the patient who is initially apneic has a palpable
+pulse, the rescuer should continue providing assisted
+ventilation and activate the emergency medical system by asking another person to call 911 (or other
+local emergency number). The rescuer should continue assessing the victim’s airway to ensure its patency. If necessary, the rescuer may use a Heimlich
+maneuver to clear the airway (with the awareness
+that gastric contents may be aspirated during this
+maneuver). The Heimlich maneuver should not be
+used in an attempt to empty the stomach. The patient who is apneic should be intubated by paramedic
+personnel as soon as possible and transported to the
+nearest ED.
+D. The patient who is apneic and pulseless should receive CPR according to American Cardiac Life Support (ACLS) guidelines while C-spine precautions
+are maintained. The rescuer should have a bystander
+call 911. The patient should be intubated by paramedic personnel as soon as possible and transported
+with CPR and ACLS in progress to the nearest ED.
+(Continued on page 652)
+
+651
+Victim of SUBMERSION
+
+Spontaneous ventilation
+(awake and alert)?
+
+No
+
+Yes
+
+A Remove from water
+
+Apnea
+
+Determine core temperature
+C-spine immobilization
+ECG
+
+B Remove from water
+
+Initiate CPR
+C-spine immobilization
+
+C Apnea with pulse
+Assist ventilation
+Clear airway, if necessary
+Call 911
+Intubate and transport
+
+Admit patient
+to ED
+
+Cont’d on p 653
+
+D Apnea without pulse
+Continue CPR
+Clear airway, if necessary
+Call 911
+Intubate and transport
+
+652
+E. In the ED the patient who is alert yet hypoxic should
+be treated aggressively. If the patient is alert or able to
+be aroused, the physician may try to use a mask for
+continuous positive alveolar pressure (CPAP) first. If
+CPAP is not readily available or cannot be implemented because of altered consciousness, the patient
+should be intubated. The patient’s oxygenation may
+then be augmented with positive end-expiratory pressure (PEEP). All intubated patients should have a
+gastric tube placed to decompress the stomach. Patients with altered consciousness should not have
+stomach decompression until intubation has been
+confirmed; those with normal consciousness typically
+do not need decompression. If present, treat hypothermia, bronchospasm, and acidosis. Admit these patients
+to the intensive care unit (ICU). If the near-drowning
+patient presents with shock, consider alternative causes
+of shock, such as major associated trauma, stroke,
+acute myocardial infarction, diabetes, and the like.
+F. The near-drowning patient who is spontaneously breathing is extremely fortunate and will have a normal Pao2,
+Paco2, and pH. Check the C-spine for injuries. If the
+patient is normothermic and exhibits no other abnormalities, including bronchospasm or altered consciousness, he or she may be released to a strong social support system with strict precautionary advice. Treat the
+patient who is nonhypoxic and hypothermic for hypothermia (see I). Admit patients exhibiting bronchospasm
+or acidosis for observation. All pediatric patients should
+have a social services evaluation to determine whether
+child abuse or lack of supervision was a factor in the
+drowning.
+G. The initially apneic patient with an intact circulation
+will likely be hypoxic on arrival at the ED. If not yet
+intubated by prehospital personnel, intubate the patient on arrival. Occasionally, patients begin breathing
+spontaneously during the initial prehospital resuscitation and present without hypoxia. In this situation, they
+should be treated as in F. Intubated hypoxic patients
+benefit from PEEP. This can dramatically improve the
+ventilation/perfusion mismatch. Place an orogastric
+(OG) tube to aspirate gastric contents. If present, treat
+bronchospasm and acidosis (inhaled #2-adrenergic agonists and sodium bicarbonate). Examine the patient
+for C-spine injuries, and obtain chest film. Treat hypothermia (see I). Admit these patients to the ICU.
+H. The apneic and pulseless patient who arrives without
+previous intubation should be intubated on arrival.
+CPR and ACLS should be continued.
+I. In the patient with hypothermia, continue CPR
+until the core temperature is !32° C. In the severely
+hypothermic patient (core temperature "32° C),
+
+implement active core rewarming to prevent the
+phenomena of “afterdrop,” which can occur when
+active external rewarming (e.g., warm immersion)
+used alone leads to reperfusion of cold peripheral
+tissues and subsequent cooling of the previously
+sequestered warm-core blood. Active core rewarming
+can include heated humidified O2, heated peritoneal
+lavage, and cardiopulmonary bypass. Other methods
+include gastric and colonic irrigation, thoracostomy
+with pleural and mediastinal irrigation, and hemodialysis. Each of these techniques carries inherent risks
+and complications. Truncal active external rewarming may be added to augment core rewarming. For
+the patient with mild to moderate hypothermia (core
+temperature 32°–37° C), passive external rewarming
+is appropriate. This includes the removal of wet
+clothing and prevention of further heat loss by applying blankets. The efficacy of ACLS medications is
+controversial in hypothermia. Bretylium has been
+reported to be effective in ventricular fibrillation.
+The efficacy of atropine in hypothermia-induced
+bradycardia is doubtful. The combination of hypoxia
+and hypothermia can lead to a marked decrease in
+tissue O2 delivery. Although hypothermia may be
+protective via diminished metabolic rate, it is more
+often lethal.
+J. In the ICU, ventilatory management should be aggressive, including PEEP, frequent suctioning, and frequent monitoring of the ventilation/perfusion shunt.
+Acidosis and cardiac arrhythmias should also be treated
+aggressively. Although controversial, consider intracranial pressure (ICP) monitoring, pulmonary artery
+pressure monitoring, and barbiturate coma. These
+treatments contain risks and have questionable benefit.
+Ensure that no C-spine injury exists (if this is not
+already done). Treat hypothermia (see I). Treat bronchospasm and acidosis if present. Monitor electrolytes
+and fluid status closely. Steroids, barbiturates, and
+induced hypothermia have not been shown to improve
+survival. Address psychosocial issues with the family.
+
+References
+Feldhous KM. Submersion. In Marx JA, Hockberger RS, Walls RM, et al,
+eds. Rosen’s Emergency Medicine: Concepts and Clinical Practice,
+5th ed. St. Louis: Mosby, 2002:2050.
+Kallas HJ. Drowning and near-drowning. In Behrman RE. Nelson
+Textbook of Pediatrics, 17th ed. Philadelphia: Saunders, 2004:321.
+Olshaker JS. Submersion. Emerg Med Clin North Am 2004;22(2):
+357–367, viii.
+Zuckerbraun NS, Saladino RA. Pediat drowning: current management
+strategies for immediate care. Clin Pediatr Emerg Med 2005;6(1).
+
+653
+Victim of SUBMERSION
+(Cont’d from p 651)
+Admit patient to ED
+
+Spontaneous ventilation
+
+H Apnea without pulse
+
+Apnea with pulse
+
+Intubate, if not done
+Continue CPR, ACLS
+Rewarm if hypothermic
+C-spine series and chest film
+
+E Hypoxia
+
+G Hypoxia
+
+F Normal PaO2
+
+Conscious
+
+Comatose
+
+CPAP mask or
+intubate
+Nasogastric tube
+
+Intubate
+PEEP
+Nasogastric tube
+Suction airway
+
+Observe and
+reassess
+C-spine series
+and chest film
+
+Normothermia
+
+Discharge home
+only if patient
+has been
+asymptomatic
+from scene
+through transport
+and ED
+
+J In ICU:
+
+Intubate
+Orogastric tube
+C-spine series
+and chest film
+
+I Hypothermia
+
+Normothermia
+
+32°–37° C
+
+"32° C
+
+Passive external
+rewarming
+Continue ACLS
+Treat:
+Acidosis
+Bronchospasm
+
+Active core
+rewarming
+ACLS until
+temperature
+!32° C
+Treat:
+Acidosis
+Bronchospasm
+
+Monitor PaO2, ECG, ventilation-perfusion
+shunt
+Consider monitoring cardiac output, ICP
+Treat hypoxia, arrhythmias, bronchospasm,
+acidosis, hypothermia, electrolyte
+disturbances
+Obtain C-spine series if not yet done
+
+Continue ACLS
+Treat:
+Acidosis
+Bronchospasm
+
+

@@ -1,0 +1,171 @@
+PITUITARY TUMOR
+
+
+A. Pituitary tumors present as incidentalomas following
+radiographic imaging for another reason, as a result of
+mass effect (typically visual impairment or headache),
+or because evidence emerges for either hypofunction
+or hyperfunction. Tumors can be divided into two
+groups: Microadenomas are up to 10 mm in size, and
+anything larger is classified as a macroadenoma. Tumors can be functional or nonfunctional. Clinicians
+should consider imaging the pituitary in patients who
+have hypothyroidism with a low or low-normal thyroidstimulating hormone (TSH) level, are anovulatory with
+a low or low-normal follicle-stimulating hormone
+(FSH) level, have erectile dysfunction, or have symptoms of hypogonadism with a low or normal luteinizing
+hormone (LH) level.
+B. Any patient with a recognized pituitary tumor should
+be evaluated with a serum prolactin level. Patients with
+a macroadenoma should be more carefully evaluated
+with an assessment of their growth hormone (GH),
+gonadotropin, thyrotropin, and corticotropin levels.
+C. Pituitary hypofunction is suggested by low thyroxine
+levels with a low TSH. Patients with thyroxine levels
+below the normal range should be treated with exogenous levothyroxine. Patients with reduced gonadotropins should receive either androgens or estrogens as
+appropriate. Progesterone replacement should be provided to women with an intact uterus. Estrogen replacement doses do not need to be as high as the doses
+contained in the oral contraceptive pill. Patients with
+central hypoadrenalism should be treated with oral
+glucocorticoids; mineralocorticoid replacement is not
+necessary in these patients. GH replacement in adults
+with GH deficiency is controversial.
+D. Clinicians should consider whether the pituitary tumor is an adenoma (most common), a meningioma, a
+metastatic tumor, or a craniopharyngioma, each of
+which has typical imaging characteristics. Other considerations are a physiologic pituitary enlargement
+during pregnancy, a pituitary cyst or abscess (often
+associated with a fluid level on imaging), arteriovenous fistula, or lymphocytic hypophysitis (a rare condition usually associated with late pregnancy and
+
+158
+
+E.
+
+F.
+
+G.
+
+H.
+
+associated with a high incidence of adrenal insufficiency and diabetes insipidus).
+A serum prolactin level of !200 ng/ml is diagnostic of
+a prolactinoma. Levels lower than this may be the result of a prolactinoma or any other sellar mass. Prolactin levels should be measured on a diluted sample if
+the tumor is large and the prolactin level is low. Prolactinomas of any size are best treated with cabergoline or
+bromocriptine, even when causing apoplexy.
+Acromegaly is best excluded by measuring the level of
+serum insulinlike growth factor (IGF)-1. When the
+level is not diagnostic, GH levels can be measured
+2 hours after a 75-g glucose load. Normally the level
+should fall to "1 ng/ml. Patients with acromegaly
+should be treated with transsphenoidal resection of the
+tumor. Medical treatment with cabergoline or longacting somatostatin is first-line treatment for patients
+who have failed surgery. A GH receptor antagonist
+and/or radiotherapy may be useful when other medical
+treatments and surgery have failed.
+Elevated adrenocorticotropic hormone (ACTH) levels
+in the presence of Cushing’s syndrome suggest either
+ectopic production of ACTH or Cushing’s disease. Inferior petrosal sinus sampling is often indicated to
+confirm Cushing’s disease in such patients. Transsphenoidal resection is the best treatment for Cushing’s
+disease. (See Cushing’s Syndrome.)
+Nonfunctioning pituitary adenomas that are not causing mass effect or pituitary hypofunction can be monitored carefully with repeat imaging every 12 months.
+Tumors causing mass effect or hypopituitarism should
+be resected.
+
+References
+Aron DC, Howlett TA. Pituitary incidentalomas. Endocrinol Metab Clin
+North Am 2000;29(1):205–221.
+Chanson P, Salenave S. Diagnosis and treatment of pituitary adenomas.
+Minerva Endocrinol 2004;29(4):241–275.
+Kreutzer J, Fahlbusch R. Diagnosis and treatment of pituitary tumors.
+Curr Opin Neurol 2004;17(6):693–703.
+Verhelst J, Abs R. Hyperprolactinemia: pathophysiology and management. Treat Endocrinol 2003;2(1):23–32.
+
+159
+Patient with PITUITARY TUMOR
+
+Mass effect
+
+Syndrome
+
+Incidental finding
+
+A Pituitary tumor
+confirmed
+
+hyperfunction
+
+E Prolactin
+
+G ACTH
+
+GH
+
+cause (especially
+if large)
+
+hypofunction
+
+H Nonfunctioning
+
+F Measure
+
+IGF-1,
+postglucose
+GH level
+Measure
+24-hr urinary
+free cortisol
+
+Any size
+
+D Evaluation for
+
+C Evaluation for
+
+B Evaluation for
+
+FSH/LH
+
+TSH
+
+ACTH
+
+Arg-GHRH
+stimulation
+test
+
+If inappropriately
+low
+
+If low, replace
+thyroxine
+
+250 $g ACTH
+stimulation test
+
+Replace GH
+in some
+circumstances
+
+Diagnose
+acromegaly
+#1 cm
+
+Cabergoline
+or
+Bromocriptine
+
+GH
+
+Female
+
+Male
+
+Estrogen/
+progestin
+if age #50 yr
+Testosterone
+
+Watch
+Resect neurosurgically
+
+Replace with
+hydrocortisone
+
+

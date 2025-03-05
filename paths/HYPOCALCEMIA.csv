@@ -1,0 +1,17 @@
+source,leaf,paths
+root,Physical examination,Patient with HYPOCALCEMIA -> Physical examination
+root,Acute respiratory alkalosis,"Patient with HYPOCALCEMIA -> Confirm with ionized calcium Measure phosphate, magnesium, and 25-vitamin D -> Critical illness -> Acute respiratory alkalosis"
+root,Sepsis,"Patient with HYPOCALCEMIA -> Confirm with ionized calcium Measure phosphate, magnesium, and 25-vitamin D -> Critical illness -> Sepsis"
+root,Pancreatitis,"Patient with HYPOCALCEMIA -> Confirm with ionized calcium Measure phosphate, magnesium, and 25-vitamin D -> Critical illness -> Pancreatitis"
+root,Severe burns,"Patient with HYPOCALCEMIA -> Confirm with ionized calcium Measure phosphate, magnesium, and 25-vitamin D -> Critical illness -> Severe burns"
+root,Rhabdomyolysis,"Patient with HYPOCALCEMIA -> Confirm with ionized calcium Measure phosphate, magnesium, and 25-vitamin D -> Critical illness -> Rhabdomyolysis"
+root,Tumor lysis syndrome,"Patient with HYPOCALCEMIA -> Confirm with ionized calcium Measure phosphate, magnesium, and 25-vitamin D -> Critical illness -> Tumor lysis syndrome"
+root,Treat underlying disease Consider IV calcium if symptomatic,"Patient with HYPOCALCEMIA -> Confirm with ionized calcium Measure phosphate, magnesium, and 25-vitamin D -> Critical illness -> Treat underlying disease Consider IV calcium if symptomatic"
+root,Renal failure,"Patient with HYPOCALCEMIA -> Confirm with ionized calcium Measure phosphate, magnesium, and 25-vitamin D -> Hyperphosphatemia -> Elevated PTH -> Renal failure"
+root,Postsurgical hypoparathyroidism,"Patient with HYPOCALCEMIA -> Confirm with ionized calcium Measure phosphate, magnesium, and 25-vitamin D -> Hyperphosphatemia -> Low PTH -> Postsurgical hypoparathyroidism"
+root,Idiopathic hypoparathyroidism,"Patient with HYPOCALCEMIA -> Confirm with ionized calcium Measure phosphate, magnesium, and 25-vitamin D -> Hyperphosphatemia -> Low PTH -> Idiopathic hypoparathyroidism"
+root,Hypomagnesemia,"Patient with HYPOCALCEMIA -> Confirm with ionized calcium Measure phosphate, magnesium, and 25-vitamin D -> Hyperphosphatemia -> Low PTH -> Hypomagnesemia"
+root,Malabsorption,"Patient with HYPOCALCEMIA -> Confirm with ionized calcium Measure phosphate, magnesium, and 25-vitamin D -> Low or normal phosphate -> Low 25-vitamin D -> Malabsorption"
+root,Osteomalacia,"Patient with HYPOCALCEMIA -> Confirm with ionized calcium Measure phosphate, magnesium, and 25-vitamin D -> Low or normal phosphate -> Low 25-vitamin D -> Osteomalacia"
+root,Bisphosphonate treatment,"Patient with HYPOCALCEMIA -> Confirm with ionized calcium Measure phosphate, magnesium, and 25-vitamin D -> Low or normal phosphate -> Low 25-vitamin D -> Bisphosphonate treatment"
+root,Calcium and vitamin D replacement,"Patient with HYPOCALCEMIA -> Confirm with ionized calcium Measure phosphate, magnesium, and 25-vitamin D -> Calcium and vitamin D replacement"

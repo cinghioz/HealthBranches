@@ -1,0 +1,373 @@
+POSTEXPOSURE PROPHYLAXIS FOR HIV
+AND HEPATITIS B AND C
+
+
+The following provides a four-step process for managing occupational and nonoccupational exposures to HIV,
+hepatitis B, and hepatitis C. After obtaining baseline laboratory evaluation for the source and exposed individuals (step 1), the exposure is categorized according to risk
+(step 2), then the appropriate postexposure prophylaxis
+(PEP) regimen is chosen (step 3), and a follow-up plan is
+defined (step 4).
+A. Step 1. Baseline Testing: When HIV and hepatitis
+status of the source patient are not known, the source
+person should undergo evaluation for HIV antibody
+(with rapid testing, if available), hepatitis B surface
+antigen, and hepatitis C antibody. If the source patient
+is known to be infected with HIV, viral load, antiretroviral treatment history, and genotype testing should be
+requested. These results guide risk assessment for the
+exposed individual and the best choice of PEP.
+The patient who has been exposed should also have
+the following baseline tests performed: HIV antibody,
+hepatitis B screen (surface and core antibody and surface antigen), and hepatitis C antibody. If the source
+patient is known to be positive for the hepatitis C virus
+(HCV), the exposed individual should have baseline
+HCV RNA and alanine aminotransferase (ALT) in addition to hepatitis C antibody testing. If the exposed
+individual is likely to need antiretroviral prophylaxis,
+baseline screening laboratory tests should also include
+a CBC, serum electrolytes, BUN, creatinine, glucose,
+and liver enzymes.
+B. Step 2. Risk Stratification: The risk of transmission
+of HIV and hepatitis B and C viruses is related to (1)
+type of exposure (percutaneous, mucous membrane,
+nonintact skin); (2) type and amount of fluid/tissue
+involved (blood, fluids with blood, semen or vaginal
+secretions, cerebrospinal fluid [CSF], synovial, pleural, peritoneal, or amniotic fluids); (3) infectious status
+of the source patient; and (4) susceptibility of the
+
+340
+
+exposed individual. In the occupational setting, the
+majority of exposures are via percutaneous injury or
+mucous membrane/nonintact skin contamination with
+blood or other body fluids. Outside the health care
+setting, sexual encounters comprise the majority of
+exposures.
+HIV Exposures. The average risk of becoming infected with HIV from a needlestick exposure ranges
+from 0.04%–0.3%. Risk is increased when exposure
+involves a deep injury, when there is visible blood on
+the device, when the device was in the source patient’s vein or artery, or when the source patient has a
+high viral load. For mucous membrane exposure to
+HIV-infected blood, the risk of infection is approximately 1%, and for nonintact skin exposures (abrasions, open wounds, dermatitis) risk is !0.1%.
+Highest-risk nonoccupational exposures occur when
+the source patient is known to be HIV infected and the
+exposure involves needle sharing (IV drug use) or receptive anal intercourse. Insertive anal intercourse and
+penile-vaginal intercourse are considered lower-risk
+exposures. Oral sex and sex with a condom in place
+carry the lowest risk of HIV transmission.
+Hepatitis B Exposures. The risk of contracting hepatitis B from needlestick exposure is 6%–30%. Risk of
+hepatitis B acquisition from a mucous membrane or
+nonintact skin exposure and through fluids such as semen/vaginal fluid/saliva is difficult to quantify, but
+transmission via these routes is reported. The presence
+of hepatitis B surface antibodies secondary to prior
+vaccination or past infection confers lifelong protective
+immunity.
+Hepatitis C Exposures. Risk of contracting hepatitis C
+from a needlestick when the source patient is hepatitis
+C positive is in the range of 1%–7%. Transmission rarely
+occurs from mucous membrane exposures to blood, and
+risk from exposure to HCV-infected body fluids other
+than blood is thought to be extremely low.
+(Continued on page 342)
+
+341
+Patient with HEPATITIS EXPOSURE
+
+A Baseline testing
+Laboratory tests for
+exposed patient
+
+Laboratory tests for
+source patient
+
+Hepatitis B core and surface antibody
+and surface antigen and hepatitis C antibody
+If source is high risk or known to be hepatitis C
+positive, consider hepatitis C RNA and ALT
+in exposed individual
+
+Hepatitis B surface antigen/
+hepatitis C antibody
+
+B Risk stratification
+
+Low-risk event
+
+High-risk event
+
+Hepatitis B
+
+Hepatitis C
+
+Any percutaneous exposure;
+Any percutaneous exposure;
+any mucous membrane or
+any mucous membrane or
+nonintact skin exposure with
+nonintact skin exposure to
+blood-containing body fluid
+blood or high-risk body fluid
+Any of the above when source
+Any of the above when source
+known to be hepatitis positive
+known to be hepatitis positive
+or from high-risk group
+or from high-risk group
+
+Hepatitis B
+
+Hepatitis C
+
+Intact skin exposure to
+blood or body fluid; any
+type of exposure to non–
+blood-containing feces,
+saliva, urine, or sputum
+
+Mucous membrane or
+nonintact skin exposure
+with non–bloodcontaining body fluid
+Intact skin exposure to
+blood or body fluid
+
+Cont’d on p 343
+
+342
+C. Step 3. Intervention According to Level of Risk:
+HIV: Early use of antiretroviral therapy after exposure to HIV-infected blood or body fluid decreases
+viral acquisition. The decision to initiate antiretroviral treatment should be based on risk assessment of
+the exposure. This assessment combines the type of
+exposure with knowledge of the source patient. In
+September 2005 the U.S. Public Health Service published updated guidelines for the management of
+occupational HIV exposures. The guideline divides
+exposures into percutaneous versus mucous membrane and nonintact skin exposures. Within each of
+these categories, exposure type is further stratified to
+high-risk versus low-risk exposure.
+For percutaneous exposures that are “less severe”
+(solid needle or superficial injury) when the source
+patient is HIV positive but asymptomatic with known
+low viral load (!1500 copies/ml), a basic two-drug
+regimen is recommended. When the source patient is
+symptomatic or has AIDS, acute seroconversion, or
+known high viral load, three or more drugs should be
+initiated. If there is concern that the source patient has
+a resistant virus, expert consultation should be sought
+but therapy should not be delayed in the interim.
+When the source patient’s HIV status is unknown or no
+information is obtainable from the source, no PEP is
+warranted unless there are known HIV risk factors or
+the exposure has occurred in a setting where HIV infection in the source case is likely. In these cases, twodrug PEP is recommended.
+For percutaneous exposures with “more severe”
+characteristics (large-bore hollow needle, deep puncture, visible blood on device, needle in patient’s artery
+or vein), expanded three-drug or greater than threedrug regimen is recommended for all patients with
+HIV, regardless of symptoms or viral load.
+For mucous membrane or nonintact skin exposures
+that are “small volume” (few drops), a basic two-drug
+regimen is recommended when the source patient is
+HIV positive, regardless of the source patient’s symptoms or viral load. If the source patient’s HIV status is
+unknown or the exposure is from an unknown source,
+no PEP is warranted.
+For a mucous membrane or nonintact skin exposure that is “large volume” (major blood splash), twodrug regimens should be prescribed when the source
+patient is HIV positive and asymptomatic with low
+viral load. If the source patient is HIV positive with
+symptoms and high viral load, a regimen with three or
+more drugs is recommended. For unknown HIV status or unknown source and large-volume exposure,
+consideration can be given to two-drug regimen if
+HIV risk factors are present in the individual or source
+population.
+The choice of antiretroviral regimen should be
+based on risk level of exposure, the individual’s
+preexisting medical conditions/pregnancy status,
+and potential for drug interactions and side effects.
+
+Recommended two-drug regimens include the
+following:
+• Zidovudine (ZDV) " lamivudine (3TC) or emtricitabine (FTC)
+• Stavudine (d4T) " lamivudine (3TC) or emtricitabine (FTC)
+• Tenofovir (TDF) " lamivudine (3TC) or emtricitabine (FTC)
+For expanded PEP regimens (three or more drugs),
+the third drug should be a protease inhibitor. The
+recommended agent is ritonavir-boosted lopinavir
+(LPV/r). Alternatives include atazanavir (ATZ), fosamprenavir, ritonavir-boosted indinavir (IDV/r), ritonavirboosted saquinavir (SQV/r), and nelfinavir (NFV). Efavirenz (EFZ) can be considered as a third agent if the
+source patient has known protease inhibitor–resistant
+virus. Use of efavirenz in pregnancy has been associated with fetal malformations; thus, this drug should
+be used with caution in women of childbearing age.
+The Centers for Disease Control and Prevention
+has released guidelines for PEP after nonoccupational
+exposures. PEP is recommended only for highest-risk
+exposures (IV drug use or high-risk sexual exposure to
+individual known to have HIV) when the individual
+presents within 72 hours of the exposure. If the
+source’s HIV status is unknown, PEP can be considered on a case-by-case basis. Three-drug regimens are
+recommended in these high-risk exposures. Recommended regimens include the following:
+• Efavirenz (EFZ) 1 lamivudine (3TC) or emtricitabine (FTC) 1 zidovudine (ZDV) or tenofovir
+(TFV)
+• Lopinavir/ritonavir (LPV/r) " zidovudine (ZDV) "
+lamivudine (3TC) or emtricitabine (FTC)
+When there is concern about toxicity or adherence
+with a three-drug regimen, consideration can be given
+to two-drug PEP, as described earlier for occupational
+exposures. For all sexual exposures, risk of other sexually transmitted diseases and pregnancy should also be
+addressed.
+Hepatitis B. In the setting of a high-risk exposure
+(source patient known to be positive for hepatitis B
+surface antigen or from a high-risk group and percutaneous/mucous membrane/nonintact skin exposure)
+PEP is warranted for all nonimmune individuals. For
+individuals who have completed the hepatitis B vaccine series and are known responders (surface antibody positive with titer #10 mU/ml at any point after
+vaccine series), no further intervention is needed. Of
+note, titers may fall many years after hepatitis B vaccine series. An initial antibody response confers lifelong immunity, even if titers at the time of exposure
+are !10 mU/ml or undetectable. If the individual has
+not been vaccinated or is a known vaccine nonresponder after one vaccine series, hepatitis B immune
+globulin (HBIG) should be given (preferably within
+72 hours of exposure, dose 0.06 ml/kg) and a vaccine
+series should be initiated. If the individual has received
+(Continued on page 344)
+
+343
+Patient with HEPATITIS EXPOSURE
+(Cont’d from p 341)
+
+C Intervention
+Exposed individual
+hepatitis B immune
+No PEP warranted
+
+Exposed individual
+hepatitis B nonimmune
+or vaccine nonresponder
+after 1 series (!10 mU/ml)
+
+Exposed individual
+hepatitis B vaccine
+nonresponder after
+2 series (!10 mU/ml)
+
+Hepatitis C exposure
+(high- or low-risk event)
+No PEP (currently
+available agents of
+no proven benefit)
+
+Hepatitis B PEP for
+high-risk event
+
+Hepatitis B PEP
+for low-risk event
+
+Hepatitis B PEP
+for high-risk event
+
+Hepatitis B PEP
+for low-risk event
+
+HBIG (0.6 ml/kg)
+within 72 hr and
+initiate vaccine series
+
+Initiate vaccine
+series
+
+HBIG (0.6 ml/kg)
+within 72 hr
+Repeat HBIG in
+4 wk
+
+No PEP warranted
+
+Cont’d on p 345
+
+344
+two hepatitis B vaccine series with no antibody response after the second series, HBIG should be give at
+the time of exposure and repeated 4 weeks later. If the
+individual has been vaccinated but the antibody response is unknown, the exposed individual should be
+tested for the presence of surface antibody. If absent,
+HBIG should be given and a second vaccine series
+initiated.
+For an exposure where the source’s status is unknown and the exposed person has not been vaccinated,
+the individual should begin the vaccine series. Previously vaccinated/known responders need no treatment.
+Known nonresponders can be treated with HBIG and
+vaccine series if the source is believed to be high risk
+for hepatitis B. If the exposed individual’s antibody status is unknown, testing for antibody should be initiated
+and management of exposure should be based on the
+source patient’s risk of hepatitis B. When the source
+patient is negative for hepatitis B surface antigen, unvaccinated individuals should undergo vaccine series.
+No treatment other than vaccination is warranted in
+this circumstance.
+Hepatitis C. No prophylactic therapy has been shown
+to decrease the risk of hepatitis C exposure. Early antiviral treatment of acute HCV has been associated with
+high cure rate. Therefore, careful follow-up for seroconversion is warranted (see Step 4).
+D. Step 4. Follow-up: If HIV antiretroviral therapy is
+prescribed, the individual should be given a 72- to 96-hour
+supply of medication, with follow-up at that time to receive the HIV source patient’s results. If the source is
+found to be HIV negative, antiretrovirals should be
+discontinued. If the source patient is known to be HIV
+infected or found to be HIV positive, or if source is
+unable to be tested and believed to be high risk, the patient should be continued on antiretrovirals with follow-up
+at 2 and 6 weeks for routine monitoring of medication side
+effects and laboratory tests (glucose, electrolytes, and liver
+
+function tests). A total of 28 days of therapy is recommended. At 6 weeks, 3 months, and 6 months following
+exposure, the individual should have follow-up HIV antibody testing.
+For hepatitis B and/or C exposure in nonimmune
+individuals, follow-up hepatitis testing should be done
+at 6 weeks, 3 months, and 6 months following exposure. For individuals with high-risk hepatitis C exposure, polymerase chain reaction (PCR) testing can be
+done at 4–6 weeks to make an early diagnosis of new
+infection.
+Individuals who have had an exposure to blood or
+body fluids infected with HIV, hepatitis B, or hepatitis
+C should be counseled to use condoms when engaging
+in sexual intercourse and to refrain from donation of
+blood or blood products until 6-month testing documents lack of seroconversion. Women should be counseled on risks of becoming pregnant and/or breastfeeding during this 6-month period (because of risk of
+infection to the fetus).
+References
+Bristol Myers Squibb: Drug Information on Sustiva (Efavirenz). Available
+at www.sustiva.com. Accessed January 17, 2008.
+Case-control study of HIV seroconversion in healthcare workers after
+percutaneous exposure to HIV-infected blood—France, United
+Kingdom, and United States. January 1988–August 1994. MMWR
+Morbidity and Mortality Weekly Report 1995;44:929–933.
+Centers for Disease Control and Prevention. Antiretroviral postexposure
+prophylaxis after sexual, injection-drug use, or other nonoccupational
+exposure to HIV in the United States. MMWR Morbidity and Mortality
+Weekly Report 2005;54(RR02):1–20.
+National Institutes of Health consensus development conference statement.
+Management of Hepatitis C: 2002, Final statement. September 12,
+2002.
+Protocol for Post-Exposure Antiretroviral Prophylaxis: Occupational
+Health Services, Yale-New Haven Hospital. Updated October 2002.
+Updated U.S. Public Health Service Guidelines for the Management
+of Occupational Exposures to HIV and Recommendations for
+Postexposure Prophylaxis. MMWR Morbidity and Mortality Weekly
+Report 2005;54(RR-9):1–13.
+
+345
+Patient with HEPATITIS EXPOSURE
+(Cont’d from p 343)
+
+D Follow-up of exposed individual
+
+Source hepatitis B
+positive or unknown but
+from high-risk group and
+exposed nonimmune
+Repeat hepatitis B panel at 4 wk,
+3 mo, and 6 mo
+***No follow-up testing required
+for hepatitis B if exposed has
+documented immunity
+
+Source hepatitis C
+positive or unknown but
+from high-risk group
+
+Source hepatitis B
+and C negative
+No follow-up warranted
+
+Hepatitis C antibody at
+4 wk, 3 mo, and 6 mo
+Consider hepatitis C RNA
+testing at 4 wk
+For hepatitis C seroconversion,
+early referral to specialist is
+recommended
+
+

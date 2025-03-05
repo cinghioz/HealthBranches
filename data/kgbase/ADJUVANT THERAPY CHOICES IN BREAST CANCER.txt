@@ -1,0 +1,241 @@
+ADJUVANT THERAPY CHOICES IN BREAST CANCER
+
+
+Adjuvant systemic treatment refers to chemotherapy, endocrine therapy, or biologic agents given with curative intent
+in addition to local treatment for breast cancer (i.e., surgery
+with or without radiation). The goal is to eliminate clinically
+occult micrometastatic disease that might result in disease
+recurrence. Systemic treatment given before definitive surgery, often done in the setting of locally advanced disease, is
+termed neoadjuvant therapy.
+A. Decision making: The decision to use adjuvant therapy
+requir es balancing a patient’s risk of disease recurrence, expected benefits from systemic therapy, and
+toxicities associated with treatment. Important
+prognostic features include age, medical comorbidities, histologic subtype, tumor size, tumor grade, angiolymphatic invasion, number of lymph nodes involved, and hormone receptor and human epidermal
+growth factor receptor 2 (HER2) status. A validated
+computer-based algorithm, Adjuvant! Online (www.
+adjuvantonline.com), estimates a patient’s 10-year risk
+of recurrence and mortality based on these factors
+(except HER2) and estimates the impact that adjuvant
+treatments will have. Increasingly, oncologists are incorporating information from genomic tests (e.g.,
+Oncotype Dx) into prognostication and decision making, particularly for patients with estrogen receptorpositive (ER!) lymph node–negative disease.
+B. Chemotherapy: Overall, modern adjuvant chemotherapy
+reduces breast cancer mortality by approximately 50% in
+women "50 years and 33% in women 50–69 years of
+age. Benefits are greatest in patients with estrogen and
+progesterone receptor–negative tumors. In the United
+States, guidelines suggest consideration of adjuvant chemotherapy for tumors equal to 1 cm or any tumor with
+lymph node involvement. Patients’ with high risk features and tumors 0.6–1.0 cm should also consider treatment. Conventional chemotherapy has significant toxicities, however, including alopecia, nausea, bone marrow
+suppression, cardiomyopathy, neuropathy, and hypersensitivity reactions. Recent evaluations using genomic testing suggest that some patients may be spared the toxicity
+of chemotherapy even when conventional prognostic
+factors suggest higher-risk disease.
+There are many different regimens to choose from
+because no combination of chemotherapy has been
+shown to be superior in all situations. In the United
+States, anthracycline-containing regimens (doxorubicin
+600
+
+and cyclophosphamide, or “AC”-type regimens) have
+conventionally formed the backbone of adjuvant treatment. A large meta-analysis showed that these regimens lower the annual odds of recurrence and death
+significantly more than cytoxan methotrexate 5-fluoracil
+(CMF). The addition of paclitaxel is associated with
+a further reduction in the risk of disease recurrence
+and death (by 17% and 18%, respectively). Treatment
+schedules also matter in this setting; patients following
+an AC-type treatment with paclitaxel in a “dose-dense
+fashion,” every 2 weeks, have better outcomes than
+those treated every 3 weeks. Recent evidence suggests
+that docetaxel and cyclophosphamide (or “TC”) chemotherapy is an effective alternative regimen that
+avoids the risk of cardiotoxicity associated with anthracyclines.
+C. Endocrine therapy: Adjuvant hormonal therapy benefits patients who have hormone receptor–positive
+(HR!) tumors, including tumors that are ER! or
+progesterone receptor positive (PR!), but not patients
+with hormone-resistant tumors. In women with HR!
+disease, adjuvant tamoxifen decreases the annual odds
+of recurrence and death (by 39% and 31%, respectively) independent of age, menopausal status, lymph
+node involvement, or the use of adjuvant chemotherapy. Premenopausal women with HR! breast cancers
+should receive tamoxifen for at least 5 years, and ongoing studies are evaluating the risks and benefits of
+the addition of ovarian suppression or extended duration of tamoxifen. In recent years, several prospective
+randomized trials have shown increased disease-free
+survival and lower rates of ipsilateral, contralateral, and
+metastatic breast cancer in postmenopausal women
+treated with aromatase inhibitors (e.g., letrozole, anastrozole, and exemestane) compared to tamoxifen. Extended treatment with letrozole after 5 years of tamoxifen has also been shown to further improve these
+results, but the optimal duration of aromatase inhibitor
+treatment and sequence of therapy (i.e., when and
+whether to include tamoxifen) is under active investigation. All endocrine therapies are associated with
+menopausal symptoms, including hot flashes and night
+sweats. Tamoxifen confers an additional increased risk
+of uterine cancer and deep venous thrombosis, whereas
+aromatase inhibitors are associated with vaginal dryness, musculoskeletal symptoms, osteoporosis, and a
+higher risk of bone fracture.
+(Continued on page 602)
+
+601
+Patient with INVASIVE BREAST CANCER
+
+A Look for higher-risk
+anatomic and
+histologic features*
+
+Positive
+
+Negative
+
+B Systemic chemotherapy
+
+Cont’d on p 603
+
+generally indicated;
+additional therapy based
+on biologic features
+HER2 status
+
+Positive
+
+D Trastuzumab-based
+chemotherapy
+
+Negative
+Non–trastuzumabbased chemotherapy
+
+Hormone receptor status
+
+Positive
+
+C If premenopausal
+
+treat with tamoxifen
+#ovarian
+suppression
+
+Negative
+Hormone therapy
+not indicated
+If postmenopausal
+treat with aromatase
+inhibitors or tamoxifen
+followed by aromatase
+inhibitor
+
+*Large tumor, multiple positive lymph nodes, high-grade disease.
+
+602
+D. Biologic agents: Nearly one fifth of breast cancers
+overexpress HER2, a cell surface tyrosine kinase receptor, which is associated with a poor prognosis unless
+treated with trastuzumab, a humanized, monoclonal
+antibody. Two parallel trials, analyzed together, showed
+a dramatic reduction in disease recurrence and death
+(by 52% and 33%, respectively) associated with 1 year
+of treatment with trastuzumab following an anthracycline-based chemotherapy regimen. Other trials have
+tested trastuzumab in patients treated with a variety of
+chemotherapeutic regimens and have confirmed significantly improved disease-free survival. Treatment
+with trastuzumab is associated with up to a 4.1% risk of
+severe cardiomyopathy, so concurrent treatment with
+anthracyclines should be avoided, and patients should
+be closely monitored for signs of cardiac dysfunction.
+Other novel biologic therapies, including lapatinib and
+bevacizumab, are currently under active investigation
+in women with early breast cancer.
+
+References
+Albain K, Barlow W, Shak S, et al. Prognostic and predictive value of the
+21-gene recurrence score assay in postmenopausal, node-positive,
+ER-positive breast cancer. [meeting abstract]. San Antonio Breast
+Cancer Symposium 2007, abstract 10.
+Berry DA, Cirrincione C, Henderson IC, et al. Estrogen-receptor status
+and outcomes of modern chemotherapy for patients with node-positive
+breast cancer. JAMA 2006;295:1658–1667.
+Boccardo F, Rubagotti A, Puntoni M, et al. Switching to anastrazole versus continued tamoxifen treatment of early breast cancer: preliminary
+results of the Italian Tamoxifen Anastrozole Trial. J Clin Oncol
+2005;23:5138–5147.
+Citron ML, Berry DA, Cirrincione C, et al. Randomized trials of
+dose-dense versus conventionally scheduled and sequential versus
+concurrent combination chemotherapy as postoperative adjuvant
+treatment of node-positive primary breast cancer: first report of Intergroup Trial C9741/Cancer and Leukemia Group B Trial 9741. J Clin
+Oncol 2003;21:1431–1439.
+
+Early Breast Cancer Trialists’ Collaborative Group. Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence
+and 15-year survival: an overview of the randomized trials. Lancet
+2005;365:1687–1717.
+Early Breast Cancer Trialists’ Collaborative Group. Polychemotherapy
+for early breast cancer: an overview of the randomized trials. Lancet
+1998;352:930–942.
+Fan C, Oh DS, Wessels L, et al. Concordance among gene-expression
+based predictors for breast cancer. N Engl J Med 2006;355:560–569.
+Goss PE, Ingle JN, Martino S, et al. A randomized trial of letrozole
+in postmenopausal women after five years of tamoxifen therapy for
+early-stage breast cancer. N Engl J Med 2003;349:1793–1802.
+Henderson IC, Berry DA, Demetri GD, et al. Improved outcomes from
+adding sequential paclitaxel but not from escalating doxorubicin dose
+in an adjuvant chemotherapy regimen for patients with node-positive
+primary breast cancer. J Clin Oncol 2003;21:976–983.
+Howell A, Cuzick J, Baum M, et al. Results of the ATAC (Arimidex,
+Tamoxifen, Alone or in Combination) trial after completion of 5 years’
+adjuvant treatment for breast cancer. Lancet 2005;365:60–62.
+Joensuu H, Kellokumpu-Lehtinen PL, Bono P, et al. Adjuvant docetaxel
+or vinorelbine with or without trastuzumab for breast cancer. N Engl
+J Med 2006; 354(8): 809–820.
+Jones SE, Savin MA, Holmes FA, et al. Phase III trial comparing
+doxorubicin plus cyclophosphamide with docetaxel plus cyclophosphamide as adjuvant therapy for operable breast cancer. J Clin Oncol
+2006;24:5381–5387.
+National Comprehensive Cancer Network (www.nccn.org). Outside of
+the United States, many physicians follow practice guidelines from the
+International Consensus Panel.
+Paik S, Shak S, Tang G, et al. A multigene assay to predict recurrence of
+tamoxifen-treated, node-negative breast cancer. N Engl J Med
+2004;351:2817–2826.
+Peto R, for the Early Breast Cancer Trialists’ Collaborative Group. The
+worldwide overview: new results for systemic adjuvant therapies. San
+Antonio Breast Cancer Symposium, plenary lecture one, 12/13/07.
+Peto R, Davies C. ATLAS (Adjuvant Tamoxifen, Longer Against Shorter):
+international randomized trial of 10 versus 5 years of adjuvant tamoxifen among 11,500 women-preliminary results [meeting abstract]. San
+Antonio Breast Cancer Symposium 2007, abstract 48.
+Piccart-Gebhart MJ, Procter M, Leyland-Jones B, et al. Trastuzumab
+after adjuvant chemotherapy for HER2-positive breast cancer. N Engl
+J Med 2005;353:1659–1672.
+Romond EH, Perez EA, Bryant J, et al. Trastuzumab plus adjuvant
+chemotherapy for operable HER2-positive breast cancer. N Engl
+J Med 2005;353:1673–1684.
+Thurlimann B, Keshaviah A, Coates AS, et al. A comparison of letrozole
+and tamoxifen in postmenopausal women with early breast cancer.
+N Engl J Med 2005;353:2747–2757.
+
+603
+Patient with INVASIVE BREAST CANCER
+(Cont’d from p 601)
+Negative
+Systemic treatment
+based on biologic
+features
+HER2 status
+
+Positive
+
+Negative
+
+D Consider trastuzumabbased chemotherapy
+
+Consider non–trastuzumabbased chemotherapy,
+especially if ER/PR negative
+
+Hormone receptor status
+
+Positive
+
+C If premenopausal
+
+consider tamoxifen
+#ovarian
+suppression
+
+Negative
+
+If postmenopausal
+consider aromatase
+inhibitors or tamoxifen
+followed by aromatase
+inhibitor
+
+Hormone therapy
+not indicated
+
+

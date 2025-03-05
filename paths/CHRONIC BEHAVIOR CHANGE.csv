@@ -1,0 +1,37 @@
+source,leaf,paths
+root,History,Patient with CHRONIC BEHAVIOR CHANGE -> History
+root,Insidious progression,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Dementia -> Insidious progression"
+root,Memory and executive dysfunction,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Dementia -> Memory and executive dysfunction"
+root,Medial temporal atrophy,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Dementia -> Medial temporal atrophy"
+root,Temporoparietal hypometabolism,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Dementia -> Temporoparietal hypometabolism"
+root,Consider AD,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Dementia -> Consider AD"
+root,Behavior and executive dysfunction,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Dementia -> Behavior and executive dysfunction"
+root,Frontotemporal atrophy,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Dementia -> Frontotemporal atrophy"
+root,Frontotemporal hypometabolism,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Dementia -> Frontotemporal hypometabolism"
+root,Consider frontotemporal dementia,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Dementia -> Consider frontotemporal dementia"
+root,Depression,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Dementia -> Depression"
+root,"Psychiatric evaluation, MRI","Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Dementia -> Psychiatric evaluation, MRI"
+root,Risk factors:,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Cerebrovascular -> Risk factors:"
+root,Stepwise progression,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Cerebrovascular -> Stepwise progression"
+root,Cerebrovascular dementia,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Cerebrovascular -> Cerebrovascular dementia"
+root,Consider mass lesion,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Cerebrovascular -> Consider mass lesion"
+root,Obtain MRI,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Cerebrovascular -> Obtain MRI||Patient with CHRONIC BEHAVIOR CHANGE -> Chronic infectious/inflammatory process -> Obtain MRI"
+root,Dementia with gait disorder,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Cognitive impairment -> Dementia with gait disorder"
+root,"DLB, PSP, CBD,","Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Cognitive impairment -> DLB, PSP, CBD,"
+root,parkinsonian dementia,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Cognitive impairment -> parkinsonian dementia"
+root,Avoid neuroleptic in DLB,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Cognitive impairment -> Avoid neuroleptic in DLB"
+root,"Prion dementias (e.g., Creutzfeldt-Jacob)","Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Other dementias -> Prion dementias (e.g., Creutzfeldt-Jacob)"
+root,"Obtain MRI, EEG","Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Other dementias -> Obtain MRI, EEG"
+root,Neurology referral,"Patient with CHRONIC BEHAVIOR CHANGE -> Examinations: Mental, Medical, Neurologic -> Other dementias -> Neurology referral"
+root,Neuroimaging,Patient with CHRONIC BEHAVIOR CHANGE -> Laboratory studies -> Neuroimaging
+root,Thyroid function,Patient with CHRONIC BEHAVIOR CHANGE -> Laboratory studies -> Thyroid function
+root,Metabolism,Patient with CHRONIC BEHAVIOR CHANGE -> Laboratory studies -> Metabolism
+root,EEG,Patient with CHRONIC BEHAVIOR CHANGE -> Laboratory studies -> EEG
+root,Medications,Patient with CHRONIC BEHAVIOR CHANGE -> Toxins -> Medications
+root,Review use,Patient with CHRONIC BEHAVIOR CHANGE -> Toxins -> Review use
+root,Check levels,Patient with CHRONIC BEHAVIOR CHANGE -> Toxins -> Check levels
+root,Alcohol,Patient with CHRONIC BEHAVIOR CHANGE -> Toxins -> Alcohol
+root,Metastatic disease in patient with history of cancer,Patient with CHRONIC BEHAVIOR CHANGE -> Mass lesions -> Metastatic disease in patient with history of cancer
+root,Consider paraneoplastic syndrome,Patient with CHRONIC BEHAVIOR CHANGE -> Mass lesions -> Consider paraneoplastic syndrome
+root,Obtain laboratory studies,Patient with CHRONIC BEHAVIOR CHANGE -> Chronic infectious/inflammatory process -> Obtain laboratory studies
+root,Consider lumbar puncture,Patient with CHRONIC BEHAVIOR CHANGE -> Chronic infectious/inflammatory process -> Consider lumbar puncture

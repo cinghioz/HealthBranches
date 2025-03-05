@@ -1,0 +1,102 @@
+ANTINUCLEAR ANTIBODY TEST
+
+An ANA test is positive when a patient’s serum recognizes
+components of the nucleus of a substrate cell. If the test is
+positive, a dilution ratio is given (e.g., 1:160 means the sample was diluted 160 times and was still positive). An ANA is
+most useful when ordered in a patient in whom autoimmune
+disease is strongly suspected. This test is often used to support a diagnosis of systemic lupus erythematosus (SLE).
+A. Several features on history may make one suspect a
+diagnosis of SLE. A history positive for fever, fatigue,
+hair loss, rash, photosensitivity, Raynaud’s phenomenon, oral ulcers, chest pain, shortness of breath, hematuria, arthritis or arthralgias, seizures, or mental status
+changes can be suggestive. None of these symptoms in
+isolation, however, is specific for SLE or any other
+rheumatic disease and could be caused by infectious or
+lymphoproliferative disorders.
+B. A complete physical examination should be performed.
+Findings of rash, especially malar or discoid rash; oral
+ulcers; a pericardial friction rub; a pleural rub or effusion; or arthritis can be suggestive. If a pleural or pericardial effusion is suspected, further imaging, such as chest
+x-ray and echocardiogram is warranted. As with the historical features, none of these physical examination signs
+in isolation are specific for SLE or any rheumatic disease
+and could be caused by other diseases, including infectious or lymphoproliferative disorders.
+C. If the history and physical examination are suggestive
+of SLE, further laboratory evaluation should be
+performed. A CBC, blood chemistries, liver function
+tests, and urinalysis with sediment should be ordered.
+Infection should be ruled out. In a patient who has a
+history and physical examination suggestive of SLE, an
+ANA can be a useful part of the evaluation.
+D. A positive ANA is associated with many autoimmune
+diseases and some chronic infections and lymphoproliferative diseases. The estimated sensitivity and
+specificity of the ANA test for SLE are 100% and 86%,
+respectively. For other rheumatic diseases, it is 42%
+and 85%, respectively. The positive predictive value of
+the ANA is low—11% for SLE and 11% for other
+rheumatic diseases.
+
+552
+
+ANAs are also positive in the normal population,
+especially at low titers. Of healthy people, 32% have an
+ANA at 1:40, 13% at 1:80, and 3% present at !1:320.
+A higher titer (!1:640) is more suggestive of disease
+association.
+If the ANA is determined by immunofluorescence,
+patterns of nuclear staining can be determined. These
+patterns are operator-dependent and have a low
+sensitivity and specificity, so they have largely been
+supplanted by specific tests. An anticentromere pattern should raise suspicion for scleroderma.
+If an ANA is positive and the patient has symptoms
+suggestive of a systemic autoimmune disease,
+further specific antibody tests can be ordered. In
+addition, C3 and C4 levels are often low during an
+active lupus flare. ESR and C-reactive protein (CRP)
+are often high.
+• Anti-dsDNA (double-stranded DNA)—specific
+for SLE, associated with disease activity and lupus nephritis.
+• Anti-Sm (anti-Smith)—specific for SLE.
+• Anti-RNP (anti-small nuclear ribonucleoprotein)—
+necessary for the diagnosis of mixed connective
+tissue disease, also associated with SLE, correlates.
+• Anti-Ro (SSA)—associated with SLE and
+Sjögren’s syndrome.
+• Anti-La (SSB)—associated with SLE and
+Sjögren’s syndrome.
+• Antihistone—associated with SLE with a high
+specificity for drug-induced lupus.
+• Anti-Scl-70 (anti-topoisomerase I)—associated
+with scleroderma.
+
+References
+Egner W. The use of laboratory tests in the diagnosis of SLE. J Clin
+Pathol 2000;53:424.
+Slater CA, Davis RB, Shmerling RH. Antinuclear antibody testing: a
+study of clinical utility. Arch Intern Med 1996;156:1421.
+Tan EM, Feltkamp TE, Smolen JS, et al. Range of antinuclear antibodies
+in “healthy” individuals. Arthritis Rheum 1997;40:1601.
+
+553
+Patient with POSITIVE ANTINUCLEAR ANTIBODY TEST
+
+A History suspicious for
+
+systemic rheumatic disease
+
+B Physical examination
+suggestive of SLE
+
+C Laboratory evaluation,
+including ANA
+
+Positive
+
+D C3, C4, and ESR and/or
+CRP could be tested
+Order specific antibody
+tests for confirmation
+
+Negative
+Unlikely to have SLE
+Continue investigation
+for other etiologies
+
+

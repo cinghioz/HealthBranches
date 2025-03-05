@@ -1,0 +1,208 @@
+CHRONIC MYELOGENOUS LEUKEMIA
+
+Approximately 4300 patients are diagnosed with chronic myelogenous leukemia (CML) each year in the United States,
+with CML accounting for 14% of all cases of leukemia in
+adults. CML occurs with an incidence of 1–2 per 100,000
+population, and this incidence is constant worldwide. Males
+are more often affected than females, and the median age
+at presentation is 45–55 years. One third of the patients are
+!60 years of age. CML is uncommon in children and adolescents, accounting for "5% of childhood leukemia.
+Although CML results from the malignant transformation of a single cell, the causative factors remain unknown.
+Predisposing factors for CML remain largely unidentified,
+except that the incidence is significantly higher in survivors
+of an atomic blast. The molecular-cytogenetic pathology of
+CML has been extensively described. The molecular
+events involved in the initiation and transformation of
+CML have provided the basis for therapies that have
+changed the natural history of the disease. CML has since
+become the paradigm for our understanding of leukemogenesis and drug development.
+CML is caused by the transforming capability of the
+protein products resulting from the Philadelphia translocation, t(9;22)(q34;q11), and the cytogenetic-molecular
+changes acquired during clonal evolution and the progression of the disease. Up to 95% of patients express the
+Philadelphia chromosome, which results from a reciprocal
+translocation between the long arms of chromosomes
+9 and 22. This process involves the exchange of genetic
+material from a segment of abl (abelson) gene on chromosome 9q34 with a part of bcr (breakpoint cluster region) on
+chromosome 22q11, creating a fusion bcr-abl gene on
+22q11. Expression of bcr-abl proteins triggers molecular
+transformations through increased tyrosine kinase activity.
+Uncontrolled activations of kinases initiate downstream
+signaling pathways that upregulate transcription of gene
+complexes, mediating proliferations and transformation of
+CML progenitor cells. Manifestations of CML result from
+the unrestrained proliferation of granulocytes.
+Classically, the disease pursues a triphasic course. The
+chronic phase, which usually lasts 3–5 years, features mild
+constitutional symptoms that vanish with therapy. The
+
+260
+
+disease then transforms to an accelerated phase where
+drug resistance begins to emerge. Finally, it terminates in
+blast crisis.
+A. CML is characterized by the expansion of myeloid
+progenitor cells at various stages of maturation, their
+premature release into the circulation, and their tendency to accumulate in extramedullary sites. In most
+patients, CML presents in chronic phase. Symptoms at
+presentation often reflect the increase in cell mass and
+turnover and may include lethargy, weakness, night
+sweats, and weight loss. Occasionally there is abdominal discomfort resulting from splenomegaly. In recent
+series up to 50% of patients display no symptoms and
+have the diagnosis established through routine blood
+counts. Presentation in accelerated or blast phase constitutes "10% of patients.
+B. Laboratory manifestations of chronic-phase CML are
+myeloid hyperplasia in the marrow and thrombocytosis, neutrophilic leukocytosis, and basophilia in the
+peripheral blood. Peripheral blood leukocytosis of
+!100,000/µl is seen in 70%–90% of patients. Nucleated RBCs are usually seen in the peripheral blood
+smear and help to comprise the leukoerythroblastic
+blood picture, which is a nearly universal finding at
+diagnosis of the disease.
+C. The bone marrow is hypercellular, with a myeloid-toerythroid ratio of between 9:1 and 15:1. Myeloid cells
+show all stages of maturation, with a preponderance of
+immature precursors. Marrow fibrosis may be patchy
+and progress to a diffuse pattern with disease evolution. Metaphase spreads from bone marrow aspiration
+are the definitive tests for the Philadelphia translocation. Additional karyotypic abnormalities are observed
+with disease progression. Molecular techniques have
+now become the mainstay of diagnosis and are utilized
+in the monitoring of therapy. Patients receiving therapy are usually followed utilizing the polymerase chain
+reaction (PCR) and fluorescence in situ hybridization
+(FISH). Both tests provide a higher degree of sensitivity than conventional cytogenetics.
+(Continued on page 262)
+
+261
+Patient with Suspected CHRONIC MYELOGENOUS LEUKEMIA
+
+B CBC
+
+A History
+
+Physical examination
+
+C
+
+Bone Marrow Biopsy/Aspiration
+Cytogenetics, FISH,
+Quantitative PCR for bcr-abl
+
+Diagnosis established
+Consider patient age
+Assess treatment-related mortality with
+allogeneic stem cell transplant
+
+Cont’d on p 263
+
+262
+D. The prognosis for patients with CML has changed
+dramatically in the past 20 years. Patients diagnosed
+with chronic-phase CML now have a median survival
+of 5–7 years and up to 9 years if they have a good
+prognosis. Therapies such as allogeneic stem cell
+transplantation, imatinib, and interferon-# have all
+contributed to this progress utilizing risk-adapted
+strategies.
+E. At the time of diagnosis, most patients with CML are
+in the chronic phase. The natural history of CML
+invariably leads to blastic transformation directly or,
+more frequently, to blastic transformation with an
+intervening accelerated phase. Median time from diagnosis to transformation is between 36 and 40 months.
+Blastic transformation may result in death within
+3–6 months. Transformation is heralded by loss of response to initial therapy and clinical signs such as unexplained lymphadenopathy, fever, progressive splenomegaly, weight loss, and bone and joint pain. One third
+of patients have a transformation immunophenotypical
+of acute lymphoblastic leukemia (ALL) and may respond to ALL therapy. The remaining two thirds transform to acute myeloid or acute undifferentiated leukemia and may respond to acute myelogenous leukemia
+(AML) regimens.
+F. The development of imatinib has revolutionized the
+therapeutic approach to CML. Imatinib has been confirmed as an active agent in the treatment of chronic and
+transformed phases of CML. It can readily induce complete hematologic remissions (CHR) within 3 months of
+the institution of therapy. As the response continues to
+evolve, major cytogenetic responses (MCGR) may be
+obtained within 6–9 months. Imatinib is the single most
+active agent available for the treatment of CML. In a
+multinational study of 1106 patients, imatinib proved
+superior to a regimen of cytarabine and interferon with
+respect to response rates, improved toxicity, and tolerability. Although imatinib is the most effective therapy for
+CML, allogeneic stem cell transplantation remains the
+only curative therapy available. Hydroxyurea and busulfan used to be commonly used agents in the treatment
+of CML, but neither are curative and only rarely result
+in a cytogenetic response. Thus, therapy with these two
+agents must be regarded as palliative.
+
+G. In carefully selected patients, allogeneic stem cell
+transplantation can cure a substantial percentage of
+patients who have a suitable donor. Allogeneic stem
+cell transplantation results in long-term survival in
+50%–80% of patients. Although relapses can occur
+following transplantation, this rate is the lowest in
+younger patients and those who receive transplants
+during the chronic phase of their disease. Infusion of
+donor lymphocytes at the time of posttransplant relapse can induce durable and complete molecular remissions. Matched unrelated donor transplants have a
+high rate of treatment-related morbidity and mortality. However, highly selected younger patients can
+have 5-year survival rates as high as 70%. Early results
+of reduced-intensity transplants show rapid engraftment, complete eradication of host hematopoiesis,
+and minimal procedure-related toxicities.
+Given the availability of imatinib and stem cell
+transplantation, the decision on how best to treat
+patients with CML remains controversial. Treatment
+algorithms need to be continuously updated in light
+of emerging data and the development of a second
+generation of tyrosine kinase inhibitors that may
+overcome resistance to imatinib therapy.
+
+References
+Druker BJ, Sawyers CL, Kantarjian H, et al. Activity of a specific inhibitor
+of the BCR-ABL tyrosine kinase in the blast crisis of chronic myeloid
+leukemia and acute lymphoblastic leukemia with the Philadelphia
+chromosome. N Engl J Med 2001;344:1038.
+Druker BJ, Talpaz M, Resta DJ, et al. Efficacy and safety of a specific inhibitor of the BCR-ABL tyrosine kinase in chronic myeloid leukemia.
+N Engl J Med 2001;344:1031.
+Faderl S, Talpaz M, Estrov Z, et al. The biology of chronic myeloid leukemia. N Engl J Med 1999;341:164.
+Jemal A, Murray T, Samuels A, et al. Cancer statistics, 2003. CA Cancer
+J Clin 2003;53:5.
+Kantarjian HM, Talpaz M, O’Brien S, et al. Dose escalation of imatinib
+mesylate can overcome resistance to standard-dose therapy in patients
+with chronic myeloid leukemia. Blood 2003;101:473.
+Kurzrock R, Kantarjian HM, Druker BJ, et al. Philadelphia chromosomepositive leukemias: from basic mechanism to molecular therapeutics.
+Ann Intern Med 2003;138:819.
+Qazilbash MH, Devetten MP, Abraham J, et al. Utility of a prognostic
+scoring system for allogeneic stem cell transplantation in patients with
+chronic myeloid leukemia. Acta Haematol 2003;109:119.
+
+263
+Diagnosis established
+(Cont’d from p 261)
+
+D Chronic phase
+
+Histocompatible
+siblings
+
+E Accelerated phase or
+blast transformation
+
+No histocompatible
+siblings
+
+Imatinib 800 mg PO qd
+
+G
+
+Therapy:
+Imatinib 400 mg PO qd
+
+F Assess response to imatinib:
+CHR by 3 mo
+MCGR by 9–12 mo
+
+Yes
+
+No
+
+Continue Imatinib with
+Quarterly Monitoring
+
+Increase Imatinib to
+600–800 mg PO qd
+
+Allogeneic Stem
+Cell Transplantation
+
+

@@ -1,0 +1,35 @@
+source,leaf,paths
+root,Huntington's disease,Patient with HYPERKINESIAS -> Chorea -> Primary causes of Chorea -> Huntington's disease||Patient with HYPERKINESIAS -> Dystonia -> Generalized Dystonia -> Heredodegenerative -> Huntington's disease
+root,Neuroacanthocytosis,Patient with HYPERKINESIAS -> Chorea -> Primary causes of Chorea -> Neuroacanthocytosis
+root,Wilson's disease,Patient with HYPERKINESIAS -> Chorea -> Primary causes of Chorea -> Wilson's disease||Patient with HYPERKINESIAS -> Dystonia -> Generalized Dystonia -> Heredodegenerative -> Wilson's disease
+root,Ataxia-telangiectasia,Patient with HYPERKINESIAS -> Chorea -> Primary causes of Chorea -> Ataxia-telangiectasia
+root,Dentatorubropallido-luysian atrophy,Patient with HYPERKINESIAS -> Chorea -> Primary causes of Chorea -> Dentatorubropallido-luysian atrophy
+root,Metabolic (hepatic and renal failure),Patient with HYPERKINESIAS -> Chorea -> Secondary causes of Dystonia -> Metabolic (hepatic and renal failure)||Patient with HYPERKINESIAS -> Dystonia -> Secondary causes of Dystonia -> Metabolic (hepatic and renal failure)||Patient with HYPERKINESIAS -> Myoclonus -> Metabolic (hepatic and renal failure)
+root,"Autoimmune (lupus, chorea gravidarum)","Patient with HYPERKINESIAS -> Chorea -> Secondary causes of Dystonia -> Autoimmune (lupus, chorea gravidarum)||Patient with HYPERKINESIAS -> Dystonia -> Secondary causes of Dystonia -> Autoimmune (lupus, chorea gravidarum)"
+root,"Toxic (carbon monoxide, mercury)","Patient with HYPERKINESIAS -> Chorea -> Secondary causes of Dystonia -> Toxic (carbon monoxide, mercury)||Patient with HYPERKINESIAS -> Dystonia -> Secondary causes of Dystonia -> Toxic (carbon monoxide, mercury)"
+root,Infectious (Sydenham's chorea),Patient with HYPERKINESIAS -> Chorea -> Secondary causes of Dystonia -> Infectious (Sydenham's chorea)||Patient with HYPERKINESIAS -> Dystonia -> Secondary causes of Dystonia -> Infectious (Sydenham's chorea)
+root,Infarcts,Patient with HYPERKINESIAS -> Chorea -> Secondary causes of Dystonia -> Infarcts||Patient with HYPERKINESIAS -> Dystonia -> Secondary causes of Dystonia -> Infarcts
+root,"Drugs (neuroleptics, oral contraceptives)","Patient with HYPERKINESIAS -> Chorea -> Secondary causes of Dystonia -> Drugs (neuroleptics, oral contraceptives)||Patient with HYPERKINESIAS -> Dystonia -> Secondary causes of Dystonia -> Drugs (neuroleptics, oral contraceptives)"
+root,Infancy,Patient with HYPERKINESIAS -> Chorea -> Physiologic causes of Chorea -> Infancy
+root,Torticollis,Patient with HYPERKINESIAS -> Dystonia -> Focal Dystonia -> Torticollis
+root,Blepharospasm,Patient with HYPERKINESIAS -> Dystonia -> Focal Dystonia -> Blepharospasm
+root,Spasmodic dysphonia,Patient with HYPERKINESIAS -> Dystonia -> Focal Dystonia -> Spasmodic dysphonia
+root,Writer's cramp,Patient with HYPERKINESIAS -> Dystonia -> Focal Dystonia -> Writer's cramp
+root,Embouchure dystonia,Patient with HYPERKINESIAS -> Dystonia -> Focal Dystonia -> Embouchure dystonia
+root,Neuronal degeneration with iron accumulation type 1 (aka Hallervorden-Spatz),Patient with HYPERKINESIAS -> Dystonia -> Generalized Dystonia -> Heredodegenerative -> Neuronal degeneration with iron accumulation type 1 (aka Hallervorden-Spatz)
+root,Metabolic and storage disorders,Patient with HYPERKINESIAS -> Dystonia -> Generalized Dystonia -> Heredodegenerative -> Metabolic and storage disorders
+root,Parkinsonian syndromes,Patient with HYPERKINESIAS -> Dystonia -> Generalized Dystonia -> Heredodegenerative -> Parkinsonian syndromes
+root,DYT-1 (Oppenheim's dystonia),Patient with HYPERKINESIAS -> Dystonia -> Generalized Dystonia -> Primary Inherited -> DYT-1 (Oppenheim's dystonia)
+root,Dopa-responsive dystonia,Patient with HYPERKINESIAS -> Dystonia -> Generalized Dystonia -> Primary Inherited -> Dopa-responsive dystonia
+root,"Perinatal injury (cerebral palsy, kernicterus, delayed-onset dystonia)","Patient with HYPERKINESIAS -> Chorea -> Secondary causes of Dystonia -> Perinatal injury (cerebral palsy, kernicterus, delayed-onset dystonia)||Patient with HYPERKINESIAS -> Dystonia -> Secondary causes of Dystonia -> Perinatal injury (cerebral palsy, kernicterus, delayed-onset dystonia)"
+root,"CNS lesions (vascular malformations, stroke, tumor, head trauma)","Patient with HYPERKINESIAS -> Chorea -> Secondary causes of Dystonia -> CNS lesions (vascular malformations, stroke, tumor, head trauma)||Patient with HYPERKINESIAS -> Dystonia -> Secondary causes of Dystonia -> CNS lesions (vascular malformations, stroke, tumor, head trauma)"
+root,"Infectious, postinfectious","Patient with HYPERKINESIAS -> Chorea -> Secondary causes of Dystonia -> Infectious, postinfectious||Patient with HYPERKINESIAS -> Dystonia -> Secondary causes of Dystonia -> Infectious, postinfectious"
+root,"Drug (dopaminomimetic, dopamine, antagonists, antidepressants)","Patient with HYPERKINESIAS -> Chorea -> Secondary causes of Dystonia -> Drug (dopaminomimetic, dopamine, antagonists, antidepressants)||Patient with HYPERKINESIAS -> Dystonia -> Secondary causes of Dystonia -> Drug (dopaminomimetic, dopamine, antagonists, antidepressants)"
+root,"Toxin (manganese, carbon monoxide)","Patient with HYPERKINESIAS -> Chorea -> Secondary causes of Dystonia -> Toxin (manganese, carbon monoxide)||Patient with HYPERKINESIAS -> Dystonia -> Secondary causes of Dystonia -> Toxin (manganese, carbon monoxide)"
+root,Posthypoxic,Patient with HYPERKINESIAS -> Myoclonus -> Posthypoxic
+root,"Epilepsy (juvenile myoclonic epilepsy, progressive myoclonic epilepsies)","Patient with HYPERKINESIAS -> Myoclonus -> Epilepsy (juvenile myoclonic epilepsy, progressive myoclonic epilepsies)"
+root,"Neurodegenerative diseases (Alzheimer's disease, Creutzfeldt-Jakob disease)","Patient with HYPERKINESIAS -> Myoclonus -> Neurodegenerative diseases (Alzheimer's disease, Creutzfeldt-Jakob disease)"
+root,Myoclonus-dystonia,Patient with HYPERKINESIAS -> Myoclonus -> Myoclonus-dystonia
+root,Motor,Patient with HYPERKINESIAS -> Tics -> Motor
+root,Phonic,Patient with HYPERKINESIAS -> Tics -> Phonic
+root,Motor + phonic; consider Tourette's syndrome,Patient with HYPERKINESIAS -> Tics -> Motor + phonic; consider Tourette's syndrome

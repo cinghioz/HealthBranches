@@ -1,0 +1,106 @@
+{
+  "node": "Dysphagia",
+  "content": "Patient presents with difficulty swallowing",
+  "children": [
+    {
+      "node": "History and Physical Examination",
+      "content": "Conduct initial assessment",
+      "children": [
+        {
+          "node": "Abnormal",
+          "content": "Abnormality detected during EGD",
+          "children": [
+            {
+              "node": "Treat Specific Structural Abnormality",
+              "content": "Address the specific issue found"
+            }
+          ]
+        },
+        {
+          "node": "Normal",
+          "content": "EGD results are normal",
+          "children": [
+            {
+              "node": "History suggestive of transfer dysphagia",
+              "content": "Patient's history indicates possible transfer dysphagia",
+              "children": [
+                {
+                  "node": "Barium Video or Cine-Esophagography",
+                  "content": "Perform barium swallow study",
+                  "children": [
+                    {
+                      "node": "Abnormal",
+                      "content": "Abnormality detected",
+                      "children": [
+                        {
+                          "node": "Treat Dysphagia",
+                          "content": "Treat the specific type of dysphagia"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "Normal",
+                      "content": "Normal results",
+                      "children": [
+                        {
+                          "node": "Esophageal manometry",
+                          "content": "Proceed with esophageal manometry"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node": "History not suggestive of transfer dysphagia",
+              "content": "No indication of transfer dysphagia in patient's history",
+              "children": [
+                {
+                  "node": "Esophageal manometry",
+                  "content": "Perform esophageal manometry",
+                  "children": [
+                    {
+                      "node": "Abnormal",
+                      "content": "Abnormal manometry results",
+                      "children": [
+                        {
+                          "node": "Other motility disorders",
+                          "content": "Investigate other motility disorders"
+                        },
+                        {
+                          "node": "Achalasia",
+                          "content": "Diagnose and treat achalasia"
+                        }
+                      ]
+                    },
+                    {
+                      "node": "Normal",
+                      "content": "Normal manometry results",
+                      "children": [
+                        {
+                          "node": "Barium Esophagography",
+                          "content": "Perform barium esophagography",
+                          "children": [
+                            {
+                              "node": "Extrinsic compression",
+                              "content": "Identify extrinsic compression as the cause"
+                            },
+                            {
+                              "node": "Functional dysphagia",
+                              "content": "Consider functional dysphagia if no organic cause is found"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

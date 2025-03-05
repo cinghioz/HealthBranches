@@ -1,0 +1,276 @@
+ASCITES
+The most common cause of ascites is cirrhosis, which accounts for approximately 80% of cases. Patients with ascites should be extensively questioned regarding risk factors
+for liver disease. Cancer is the cause in about 10% of cases.
+Other causes include heart failure, tuberculosis, dialysis,
+and pancreatic diseases. Rare causes include surgery or
+trauma to the lymphatics, chlamydia peritonitis, nephrotic
+syndrome, systemic lupus erythematosus, myxedema, and
+AIDS-related infections.
+The accuracy of physical findings is variable, depending
+on the amount of fluid present, technique, and clinical setting (may be difficult in patients who are obese). The absence of flank dullness is the most accurate predictor
+against the presence of ascites. Approximately 1500 ml of
+fluid has to be present for flank dullness to be detected.
+When flank dullness is detected, it is useful to see if it
+shifts with rotation of the patient (i.e., shifting dullness).
+Ultrasound is helpful when physical examination is not
+definite.
+A. All patients with new-onset ascites should undergo abdominal paracentesis. Abdominal paracentesis is the
+most rapid and cost-effective method of diagnosing the
+cause of ascites and determining whether fluid is infected. All patients with decompensated liver disease
+with ascites should undergo paracentesis to rule out
+spontaneous bacterial peritonitis. In addition, all patients with fever, abdominal pain or tenderness, mental
+status changes, ileus, or hypotension should undergo
+paracentesis to rule out infection. Peripheral leukocytosis, acidosis, and worsening renal function are other
+indications to perform abdominal paracentesis in patients with ascites.
+B. Serum-to-ascites albumin gradient (SAAG) accurately
+identifies the presence of portal hypertension and is
+more useful than the protein-based exudate/transudate
+concept. Calculating the SAAG involves measuring the
+albumin concentration of serum and ascitic fluid specimens obtained on the same day and subtracting the
+ascitic fluid value from the serum value. If the SAAG
+is !1.1 g/dl, the patient has portal hypertension or
+high albumin gradient ascites.
+C. Initial tests on ascitic fluid include cell count and
+differential, total protein, and SAAG. If infection
+is suspected, fluid should be cultured at the bedside in
+blood culture bottles. Other tests include glucose,
+
+192
+
+lactate dehydrogenase (LDH), Gram stain, and amylase concentration. Cytology, tuberculosis smear and
+culture, triglyceride, and bilirubin concentration
+should be performed as indicated.
+D. An absolute polymorphonuclear (PMN) count !250
+cells/mm3 is the most sensitive and rapid way of detecting spontaneous bacterial peritonitis (SBP). Antibiotics
+should be considered in any patient with a PMN count
+of 250 cells/mm3. SBP is a preventable cause of death
+in patients with cirrhosis and ascites. Hence, prompt
+detection and treatment are very important.
+E. Patients with high SAAG ascites (portal hypertension)
+usually are responsive to salt restriction and diuretics.
+Fluid loss and weight change are related directly to sodium balance in patients with portal hypertension–
+related ascites. Dietary sodium is restricted to 2 g/day
+or 88 mmol/day. Fluid restriction is not necessary in
+treating patients with cirrhosis and ascites unless the
+serum sodium is "120 mmol/L. The usual diuretic
+regimen for cirrhotic ascites consists of spironolactone
+100 mg and furosemide 40 mg. If this dose is ineffective
+in increasing urinary sodium or decreasing body weight,
+the doses of both medications should be increased simultaneously as needed at a 100:40 ratio (e.g., spironolactone 200 mg plus furosemide 80 mg, then 300 mg
+plus 120 mg, and finally 400 mg plus 160 mg). A single
+large-volume paracentesis followed by diet and diuretic
+therapy is appropriate for patients with tense ascites.
+Patients who are diuretic sensitive preferably should
+be treated with sodium restriction and oral diuretics
+rather than with serial paracentesis. Liver transplantation should be considered in patients with cirrhosis and
+ascites. Serial therapeutic paracentesis or transjugular
+intrahepatic portasystemic stent (TIPS) may be performed in patients with refractory ascites.
+F. Peritoneal carcinomatosis is the most common cause
+of low albumin–gradient ascites (SAAG "1.1 g/dl).
+Ascites caused by tuberculous peritonitis are treated
+by antituberculous therapy. Pancreatic ascites may
+resolve spontaneously, require endoscopic stent placement in the pancreatic duct or operative intervention,
+or respond to treatment with somatostatin. Chlamydia
+peritonitis is treated with tetracycline. Ascites caused
+by lupus serositis may respond to glucocorticoids.
+Dialysis-related ascites may respond to aggressive
+dialysis.
+
+193
+Patient with ASCITES
+
+A Abdominal paracentesis
+
+Gross
+appearance
+of fluid
+
+Transparent yellow
+or crystal clear
+or cloudy yellow
+
+Special testing or
+cell count correction
+
+WBC count
+(cells/mm3)
+
+Bloody
+
+Milky
+
+Dark brown
+
+Subtract 1
+WBC/750 RBC
+Subtract 1
+PMN/250 RBC
+
+Triglyceride
+concentration
+
+Quantitative
+bilirubin
+concentration
+
+! 500
+
+"500
+
+PMN count
+(cells/mm3)
+
+D !250
+
+" 250
+
+B SAAG (g/dl)
+
+!50%
+PMN
+!1.1
+
+"50%
+PMN
+
+"1.1
+
+C Other
+
+testing
+TP
+"2.5 g/dl
+
+!1.1
+
+TP
+TP
+! 2.5 g/dl " 2.5 g/dl
+
+E Uncomplicated
+
+Nephrotic
+ascites
+
+cirrhotic ascites
+
+!1.1
+
+Ascitic
+fluid
+amylase
+#100 U/L
+
+Polymicrobial
+infection, TP
+#1 g/dl,
+glucose " 50
+mg/dl, LDH
+!225 U/L
+
+Positive
+cytology
+
+Send culture
+for mycobacteria
+
+"1.1
+
+Positive
+cytology
+
+Send culture
+for mycobacteria
+
+F Tuberculous
+peritonitis
+
+Cardiac
+ascites
+
+Ultrasound
+and/or liver biopsy
+
+Single
+organism in
+culture, TP
+"1 g/dl,
+glucose #50
+mg/dl, LDH
+" 225 U/L
+
+" 1.1
+
+SBP
+
+Secondary
+bacterial
+peritonitis
+
+Clinical
+response to
+antibiotic
+
+Upright
+abdominal
+film, watersoluble gut
+contrast
+studies
+
+Pancreatic Peritoneal
+ascites
+carcinomatosis
+with portal
+hypertension
+
+24-hr
+urine protein
+excretion
+
+Chest roentgenogram
+and echocardiogram
+
+Pancreatic
+protocol—
+abdominal CT
+
+Consideration of
+surgical intervention
+if gut rupture is
+documented
+
+Tuberculous Peritoneal
+peritonitis
+carcinomawith
+tosis
+underlying
+cirrhosis
+
+Search for
+primary tumor
+
+Mycobacterial
+growth on
+culture of
+laparoscopic
+biopsy of
+peritoneum
+
+Antituberculous
+Therapy
+
+TP, Total protein.
+
+References
+Cattau E, Benjamin SB, Knuff TE, Castell DO. The accuracy of the physical
+exam in the diagnosis of suspected ascites. JAMA 1982;247:1164.
+Moore KP, Wong F, Gines P, Bernardi M. The management of ascites in
+cirrhosis: Report on Consensus Conference of the International Ascites Club. Hepatology 2003;38:258.
+Runyon BA. AASLD guideline: Management of adult patients with ascites due to cirrhosis. Hepatology 2004;39:841.
+
+Runyon BA. Ascites and spontaneous bacterial peritonitis. In Feldman M,
+Friedman LS, Sleisenger MH, eds. Sleisenger and Fordtran’s GastroIntestinal and Liver Disease: Pathophysiology, Diagnosis, and Treatment. 7th ed. Philadelphia: Saunders, 2002:1517–1542.
+Runyon BA, Montano AA, Akriviadis EA, et al. The serum-ascites albumin gradient is superior to the exudate-transudate concept in the
+differential diagnosis of ascites. Ann Intern Med 1992;117:215.
+
+

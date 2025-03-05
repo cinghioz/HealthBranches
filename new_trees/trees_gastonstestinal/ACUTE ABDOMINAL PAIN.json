@@ -1,0 +1,96 @@
+{
+  "node": "root",
+  "content": "Patient with ACUTE ABDOMINAL PAIN",
+  "children": [
+    {
+      "node": "A",
+      "content": "History",
+      "children": [
+        {
+          "node": "B",
+          "content": "Physical examination",
+          "children": [
+            {
+              "node": "C",
+              "content": "Unstable or Obvious surgical indication",
+              "children": [
+                {
+                  "node": "Consider",
+                  "content": "Hemorrhage, Perforation, Acute peritonitis, Bowel obstruction, Ischemia",
+                  "children": [
+                    {
+                      "node": "Resuscitation",
+                      "content": "Resuscitation",
+                      "children": [
+                        {
+                          "node": "LAPAROTOMY",
+                          "content": "LAPAROTOMY",
+                          "children": []
+                        },
+                        {
+                          "node": "Surgical consultation",
+                          "content": "Surgical consultation",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node": "D",
+              "content": "Stable",
+              "children": [
+                {
+                  "node": "Observation",
+                  "content": "Observation",
+                  "children": [
+                    {
+                      "node": "E",
+                      "content": "Consider: Inadequate physical manifestations",
+                      "children": []
+                    },
+                    {
+                      "node": "Exclude",
+                      "content": "Exclude: Medical causes",
+                      "children": []
+                    },
+                    {
+                      "node": "F",
+                      "content": "Further studies",
+                      "children": [
+                        {
+                          "node": "Pain assessment",
+                          "content": "Continued pain, Increased pain",
+                          "children": [
+                            {
+                              "node": "G",
+                              "content": "Surgical consultation",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "node": "Decreased pain",
+                          "content": "Decreased pain",
+                          "children": [
+                            {
+                              "node": "Observation",
+                              "content": "Observation",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

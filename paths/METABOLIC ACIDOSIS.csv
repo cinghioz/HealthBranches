@@ -1,0 +1,17 @@
+source,leaf,paths
+Metabolic acidosis suspected,Methanol,Serum bicarbonate <20 mEq/L -> Anion gap -> Methanol
+Metabolic acidosis suspected,Uremia,Serum bicarbonate <20 mEq/L -> Anion gap -> Uremia
+Metabolic acidosis suspected,DKA/alcoholic,Serum bicarbonate <20 mEq/L -> Anion gap -> DKA/alcoholic
+Metabolic acidosis suspected,Paraldehyde,Serum bicarbonate <20 mEq/L -> Anion gap -> Paraldehyde
+Metabolic acidosis suspected,Isoniazid,Serum bicarbonate <20 mEq/L -> Anion gap -> Isoniazid
+Metabolic acidosis suspected,Lactic acidosis,Serum bicarbonate <20 mEq/L -> Anion gap -> Lactic acidosis
+Metabolic acidosis suspected,Alcohol/ethylene glycol,Serum bicarbonate <20 mEq/L -> Anion gap -> Alcohol/ethylene glycol
+Metabolic acidosis suspected,Salicylates,Serum bicarbonate <20 mEq/L -> Anion gap -> Salicylates
+Metabolic acidosis suspected,Hyperalimentation,Serum bicarbonate <20 mEq/L -> Anion gap -> Hyperalimentation
+Metabolic acidosis suspected,Acetazolamide,Serum bicarbonate <20 mEq/L -> Anion gap -> Acetazolamide
+Metabolic acidosis suspected,Renal tubular acidosis,Serum bicarbonate <20 mEq/L -> Anion gap -> Renal tubular acidosis
+Metabolic acidosis suspected,Diarrhea,Serum bicarbonate <20 mEq/L -> Anion gap -> Diarrhea
+Metabolic acidosis suspected,Ureteropelvic shunt,Serum bicarbonate <20 mEq/L -> Anion gap -> Ureteropelvic shunt
+Metabolic acidosis suspected,Posthypocapnia,Serum bicarbonate <20 mEq/L -> Anion gap -> Posthypocapnia
+Metabolic acidosis suspected,Spironolactone,Serum bicarbonate <20 mEq/L -> Anion gap -> Spironolactone
+Metabolic acidosis suspected,Initiate treatment if pH <7.1,"Serum bicarbonate <20 mEq/L -> Check blood chemistries -> Confirm acidosis, Winter's formula, Delta/Delta -> Initiate treatment if pH <7.1"

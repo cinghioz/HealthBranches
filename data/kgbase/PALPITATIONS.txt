@@ -1,0 +1,159 @@
+PALPITATIONS
+
+
+Palpitations are a common complaint. Although usually
+benign, they are occasionally a life-threatening condition.
+A stepwise approach is helpful in avoiding unnecessary
+workup yet still identifying patients at high risk.
+A. The initial evaluation in all patients should include
+a directed history and physical examination and a
+12-lead ECG. The initial history should be directed
+toward identifying patients at high risk for having a
+malignant etiology of their palpitations. This group includes those with prior myocardial infarction, especially with structural heart disease with an ejection
+fraction (EF) of !40% and congestive heart failure;
+those with palpitations associated with syncope; and
+patients with a family history of myopathy or sudden
+cardiac death. The patient’s description of symptoms
+can be helpful in suggesting a diagnosis. A “flip-flopping” of the heart, especially when lying quietly in bed,
+suggests ventricular premature contractions (VPCs).
+Rapid irregular heartbeats suggest atrial fibrillation. A
+sensation of pounding in the chest suggests atrioventricular (AV) dissociation and is most often seen in AV
+nodal reentrant tachycardia (AVNRT).
+Palpitations in the setting of anxiety are often misdiagnosed as being psychiatric in origin, especially in
+young women. This diagnosis should not be accepted
+until true arrhythmic causes have been excluded.
+The 12-lead ECG can be helpful in certain circumstances: a short PR interval and delta waves suggest
+Wolf-Parkinson-White syndrome, marked left ventricular hypertrophy with deep septal Q waves in I, aVL, and
+V4-6 suggests hypertrophic cardiomyopathy; left atrial
+abnormalities are often seen in patients with atrial
+fibrillation; abnormal Q waves suggest prior MI leading
+to monomorphic ventricular tachycardia (VT); and a long
+QT interval can be seen in polymorphic VT.
+B. If the patient does not have any high-risk features and
+the palpitations are not particularly bothersome, then
+reassurance can be offered. Otherwise, ambulatory
+cardiac monitoring should be performed using a
+patient-activated continuous loop monitor for up to
+2 weeks or until a diagnosis is made. This approach is
+
+78
+
+C.
+
+D.
+E.
+
+F.
+
+more cost-effective than using a Holter monitor, which
+is less likely to capture a significant event as a result of
+its shorter monitoring period.
+If isolated ventricular or atrial ectopy is identified as
+the source of palpitations, then withdrawal of potential
+precipitants such as caffeine or alcohol is often helpful.
+Reassurance is often the best therapy; however, if the
+patient remains highly symptomatic, then a trial of
+beta blockade is reasonable.
+Management of atrial fibrillation and flutter should
+focus on rate vs. rhythm control and stroke prevention
+with anticoagulation.
+Sustained supraventricular tachycardia, when identified, are often amenable to curative therapy with an
+ablation. This is especially true of AVNRT, AV reentrant trachycardia (AVRT), atrial flutter, and increasingly atrial fibrillation. This option should be offered
+to patients whose symptoms are especially frequent
+or highly symptomatic, especially if associated with
+syncope or near-syncope.
+Patients with sustained ventricular tachycardia or with
+high-risk features—family history of sudden cardiac
+death, or structural heart disease (EF !40%)—should
+be referred to an electrophysiologist for appropriate
+management, including possible electrophysiology
+study (EPS), antiarrhythmic therapy, and implantable
+cardiac defibrillator (ICD) implantation.
+
+References
+Josephson ME, Wellens HJJ. Differential diagnosis of supraventricular
+tachycardia. Cardiol Clin 1990;8:411–442.
+Kennedy HL, Sprague MK, Kennedy LJ, et al. Long-term follow-up of
+asymptomatic healthy subjects with frequent and complex ventricular
+ectopy. N Engl J Med 1985;312:193–197.
+Lessmeier TJ, Gamperling D, Johnson-Liddon V, et al. Unrecognized
+paroxysmal supraventricular tachycardia: potential for misdiagnosis as
+panic disorder. Arch Intern Med 1997;157:536–543.
+Mayou R, Sprigings D, Birkhead J, Price J. Characteristics of patients
+presenting to a cardiac clinic with palpitation. QJM 2003;96(2):115–123.
+Zimetbaum PJ, Kim KY, Josephson ME, et al. Diagnostic yield and optimal duration of continuous-loop event monitoring for the diagnosis
+of palpitations: a cost-effectiveness analysis. Ann Intern Med
+1998;128(11):890–895.
+
+79
+Patient with PALPITATIONS
+
+A History
+
+12-lead ECG
+
+Physical examination
+
+Infrequent
+Minimally symptomatic
+Low-risk profile
+
+High-risk profile
+or ECG
+Syncope
+
+Frequent
+Highly symptomatic
+
+B Reassure
+
+Transthoracic
+echocardiography
+
+No further testing
+necessary
+
+B Patient-activated
+
+No structural
+heart disease
+
+loop recorder
+
+Isolated VPCs
+
+Sustained
+supraventricular
+
+C Reassure
+
+Trial of beta blockade
+
+D Atrial fibrillation or flutter
+
+Anticoagulate if indicated
+Treat for rhythm or rate control
+Consider referral for ablation
+
+Any cardiomyopathy
+Left ventricular
+EF ! 40%
+
+Sustained
+ventricular
+
+F Referral to
+
+electrophysiologist for:
+EPS " ICD "
+antiarrhythmic
+therapy
+
+E AVNRT, AVRT, atrial tachycardia
+
+Reassure
+Educate on abortive measures
+such as Valsalva
+Consider referral for ablation
+
+

@@ -1,0 +1,219 @@
+TESTS OF THYROID FUNCTION
+
+The modern clinical laboratory offers several tests of thyroid function. The physician must be aware of the diagnostic accuracy and limitations of these tests. Abnormal test
+results must be interpreted with good clinical judgment.
+Thyroid function tests are probably not cost-effective as
+routine screens for thyroid disease.
+Sensitive Thyroid-Stimulating Hormone (sTSH): A very
+useful test. Immunometric assays for TSH were introduced in the early 1980s. These assays generally make it
+possible to distinguish hyperthyroid from euthyroid patients. The sTSH is elevated in hypothyroidism. The sTSH
+assay has virtually no cross-reactivity with luteinizing hormone (LH), follicle-stimulating hormone (FSH), and human chorionic gonadotropin (hCG). The normal range for
+an sTSH assay is about 0.4–6.2 !U/ml.
+Free Thyroxine Index (FTI): A useful calculation may
+soon be obsolete as new immunoassays for free thyroxine
+(FT4) become available:
+FTI " total T4 # T3 Resin Uptake
+This calculation “corrects” the total T4 for protein-binding
+abnormalities. In general, the FTI is a good estimate of
+free thyroid hormone concentration, although serum TSH
+is a better indicator of the total body thyroid status.
+Free Thyroxine (FT4): FT4 is the amount of non–
+protein-bound circulating thyroxine (about 0.03%). Previously, measurement of FT4 was difficult and time-consuming
+(equilibrium dialysis). Two-step immunoassays are now available to measure FT4 quickly and accurately and probably will
+replace the calculated FTI.
+Triiodothyronine by RIA (T3 RIA): Measures total T3.
+Useful only in diagnosing T3 toxicosis.
+Thyroid Antimicrosomal (TMab) and Antithyroglobulin
+(TgAb) Antibodies: These antibodies may be elevated in
+
+Graves’ disease and Hashimoto’s thyroiditis. A patient may
+have Hashimoto’s thyroiditis and no circulating antibodies.
+Positive antibodies also are found in portions of the general population and in patients with nonthyroidal illness.
+24-Hour Radioactive Iodine Uptake (RAIU): Measures
+the thyroid’s ability to metabolize iodine. The test uses a
+tracer amount of 123I or 131I given orally. A gamma scintillation counter is used to measure the radioactivity over the
+thyroid at 4–6 hours and 24 hours after the dose. Normal
+percentage uptake varies widely. By itself, this test is not a
+very accurate test of thyroid function, but it is used frequently in the diagnostic evaluation of patients with hyperthyroidism.
+Thyroid Imaging–Radionuclide Scan (123I or 99mTc
+pertechnetate): Does not produce a picture like a CT or
+MRI scan. Can provide information about gland/lobe contour. Identifies thyroid nodules as “hot” (functioning),
+“cold” (nonfunctioning), or “warm.”
+References
+Bauer DC, Brown AN. Sensitive thyrotropin and free thyroxine testing in
+outpatients: are both necessary? Arch Intern Med 1996;156:2333.
+Behnia M, Gharib H. Primary care diagnosis of thyroid disease. Hosp
+Pract (Off Ed) 1996;31:121.
+Bethune JE. Interpretation of thyroid function tests. Dis Mon
+1989;35:543.
+Kaye TB. Thyroid function tests: application of newer methods. Postgrad
+Med 1993;94:81.
+Klee GG, Hay ID. Sensitive thyrotropin assays: analytical and clinical
+performance criteria. Mayo Clin Proc 1988;63:1123.
+Santos ET, Mazzaferri EL. Thyroid function tests: guidelines for interpretation in common clinical disorders. Postgrad Med 1989;85:333.
+Surks MI, Chopra IJ, Mariash CN, et al. American Thyroid Association
+guidelines for use of laboratory tests in thyroid disorders. JAMA
+1990;263:1529.
+
+137
+
+HYPOTHYROIDISM
+Graham T. McMahon, MD, MMSc
+
+Clinically apparent hypothyroidism affects about 2%
+of adult women and about 0.2% of adult men. Primary
+hypothyroidism refers to intrinsic thyroid failure and
+accounts for 99% of cases; secondary hypothyroidism
+refers to hypothyroidism that results from pituitary
+dysfunction.
+A. Patients with hypothyroidism may present with a variety
+of nonspecific symptoms. Some of the most common
+features include dry skin, cold intolerance, weight gain,
+constipation, and fatigue. The clinical picture of hypothyroidism is now a good deal milder because thyrotropin
+screening became more common. The most common
+signs in patients with moderate to severe hypothyroidism
+include bradycardia, delayed ankle reflexes, periorbital
+puffiness, and coarse hair. The term myxedema refers to
+the appearance of the skin and subcutaneous tissues in a
+patient with severe hypothyroidism.
+B. The most common cause of primary hypothyroidism
+in iodine-sufficient areas is chronic autoimm
+une (Hashimoto’s) thyroiditis. This is most common
+among older women and is generally permanent.
+Thyroidectomy, radioiodine treatment, and external
+radiation therapy are other frequent causes of hypothyroidism. Both iodine deficiency and excess can cause
+hypothyroidism. Iodine deficiency is a type of hypothyroidism associated with goiter. It is the most common
+cause of hypothyroidism worldwide but is uncommon
+in the United States, where iodine is added to salt.
+Acute administration of iodine suppresses thyroxine
+(T4) synthesis; however, patients recover their thyroid
+function after just a few days of treatment. Other drugs
+that cause hypothyroidism include antithyroid medications (e.g., methimazole, propylthiouracil), amiodarone,
+lithium, and interferon-!.
+C. Thyrotropin (or thyroid-stimulating hormone [TSH])
+is the most sensitive marker of thyroid function. Patients with a TSH level of "10 #U/L should be treated
+with replacement T4 with a target TSH of between
+1 and 2 #U/L. Levothyroxine has a long half-life, and
+once-daily treatment results in a nearly constant serum
+T4 level. As a result of variations in the T4 content of
+individual formulations, reassessment of the adequacy
+of replacement is indicated if the formulation is
+
+138
+
+changed. The mean replacement dose of T4 is 1.6–1.8
+#g/kg (75–112 #g/day in women and 125–200 #g/day
+in men). A lower dosage should be initiated in the elderly and titrated. Patients who are obese require
+doses that are approximately 20% higher. Drugs that
+interfere with the absorption of levothyroxine include
+cholestyramine, calcium carbonate, and ferrous sulfate. Patients receiving estrogen replacement also require a higher dosage of levothyroxine.
+Combination replacement of liothyronine and levothyroxine is requested by some patients but is not
+supported by the balance of clinical trial data. If instituted, 25 #g of levothyroxine can be replaced with
+5 #g of liothyronine. Desiccated thyroid, liothyronine
+alone, and other thyroid preparations are not recommended.
+D. Patients with a TSH of 5–10 #U/L with a low free T4
+level should be treated with replacement levothyroxine. Patients with a TSH of 5–10 #U/L with a normal
+(T4) level are most likely to have subclinical hypothyroidism. Testing for the presence of thyroid peroxidase
+antibody can be helpful in such patients because it
+predicts the progression to permanent hypothyroidism. These patients should be monitored for the development of more severe hypothyroidism, or levothyroxine can be initiated at the outset.
+Hypothyroidism can be transient when related to
+thyroiditis. Inflammation of the thyroid gland can be
+painful or entirely painless. Hypothyroidism occurring
+postpartum is one of the most common presentations
+of thyroiditis. Transient hypothyroidism lasts as long as
+6 months, but the hypothyroidism will have resolved in
+a significant majority of patients within 3 months.
+Transient hypothyroidism can be difficult to distinguish from Hashimoto’s thyroiditis. It is reasonable to
+attempt to reduce the dosage of levothyroxine by 50%
+after approximately 3 months in patients who are suspected to have had transient hypothyroidism. If the
+TSH measured 6 weeks later rises, then the initial dosage is reinstated; if the TSH is stable, then T4 can be
+withdrawn and the TSH checked again.
+E. Central hypothyroidism should be suspected if the
+TSH is normal or low and the T4 level is low. These
+patients should have their T4 dose titrated to the level
+
+139
+Patient with HYPOTHYROIDISM
+
+A History
+
+Physical examination
+
+B Exclude other causes
+
+Measure TSH
+and free T4
+
+C TSH "10 #U/L
+
+D TSH 5–10 #U/L
+
+Free T4 low
+
+E TSH $5 #U/L
+Central hypothyroidism
+Post hyperthyroid
+hypothyroidism
+Assay artefact
+
+T4 normal
+Subclinical
+hypothyroidism
+
+Treat with
+levothyroxine
+titrated to
+TSH of 1–2 #U/L
+
+F Increase
+
+dosage by 30%
+among pregnant
+women and
+titrate to TSH
+
+TPO antibody
+positive
+
+TPO antibody
+negative
+
+Risk of hypothyroidism
+is high
+
+Monitor
+
+MRI pituitary
+and evaluate
+adrenal and
+gonadal axes
+
+Monitor or treat
+
+of free T4. Patients receiving high-dose salicylates or
+phenytoin appear to have low TSH levels as a result of
+an assay artifact.
+F. Levothyroxine requirements increase as early as
+the fifth week of gestation. Given the importance of
+maternal euthyroidism for normal fetal cognitive
+development, women with hypothyroidism should
+have their levothyroxine dosage increased by approximately 30% as soon as pregnancy is confirmed.
+Thereafter, serum thyrotropin levels should be monitored and the levothyroxine dosage should be adjusted accordingly.
+
+References
+Basaria S, Cooper DS. Amiodarone and the thyroid. Am J Med
+2005;118(7):706–714.
+Clarke N, Kabadi UM. Optimizing treatment of hypothyroidism. Treat
+Endocrinol 2004;3(4):217–221.
+Cooper DS. Clinical practice. Subclinical hypothyroidism. N Engl J Med
+2001;345(4):260–265.
+Escobar-Morreale HF, Botella-Carretero JI, Escobar del Rey F, Morreale
+de Escobar G. Treatment of hypothyroidism with combinations of
+levothyroxine plus liothyronine. J Clin Endocrinol Metab 2005;90(8):
+4946–4954.
+Ibay AD, Bascelli LM, Nashelsky J. Management of subclinical
+hypothyroidism. Am Fam Physician 2005;71(9):1763–1764.
+Pearce EN, Farwell AP, Braverman LE. Thyroiditis. N Engl J Med
+2003;348(26):2646–2655.
+
+

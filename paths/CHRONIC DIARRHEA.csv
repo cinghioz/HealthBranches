@@ -1,0 +1,45 @@
+source,leaf,paths
+root,"Onset: Congenital, Abrupt, Gradual","Chronic Diarrhea -> History -> Onset: Congenital, Abrupt, Gradual"
+root,"Stool characteristics: Watery, Bloody, Fatty, Fecal Incontinence","Chronic Diarrhea -> History -> Stool characteristics: Watery, Bloody, Fatty, Fecal Incontinence"
+root,"Abdominal pain: IBD, Irritable bowel syndrome, Ischemia, Weight loss, Malabsorption, Neoplasm","Chronic Diarrhea -> History -> Abdominal pain: IBD, Irritable bowel syndrome, Ischemia, Weight loss, Malabsorption, Neoplasm"
+root,"Aggravating factors: Diet, Stress, Mitigating factors, Previous evaluation","Chronic Diarrhea -> History -> Aggravating factors: Diet, Stress, Mitigating factors, Previous evaluation"
+root,"Iatrogenic diarrhea: Drugs, Radiation, Surgery, Factitious diarrhea, Laxatives","Chronic Diarrhea -> History -> Iatrogenic diarrhea: Drugs, Radiation, Surgery, Factitious diarrhea, Laxatives"
+root,"Systemic diseases: Hyperthyroidism, Diabetes mellitus, Collagen vascular diseases, Tumor syndromes, AIDS, Immunoglobulin deficiencies","Chronic Diarrhea -> History -> Systemic diseases: Hyperthyroidism, Diabetes mellitus, Collagen vascular diseases, Tumor syndromes, AIDS, Immunoglobulin deficiencies"
+root,"General: Fluid balance, Nutrition","Chronic Diarrhea -> Physical examination -> General: Fluid balance, Nutrition"
+root,"Skin: Flushing, Rashes, Dermatographism","Chronic Diarrhea -> Physical examination -> Skin: Flushing, Rashes, Dermatographism"
+root,Thyroid: Mass,Chronic Diarrhea -> Physical examination -> Thyroid: Mass
+root,Chest: Wheezing,Chronic Diarrhea -> Physical examination -> Chest: Wheezing
+root,Heart: Murmur,Chronic Diarrhea -> Physical examination -> Heart: Murmur
+root,"Abdomen: Hepatomegaly, Mass, Ascites, Tenderness","Chronic Diarrhea -> Physical examination -> Abdomen: Hepatomegaly, Mass, Ascites, Tenderness"
+root,"Anorectal: Sphincter competence, Fecal occult blood test","Chronic Diarrhea -> Physical examination -> Anorectal: Sphincter competence, Fecal occult blood test"
+root,Extremities: Edema,Chronic Diarrhea -> Physical examination -> Extremities: Edema
+root,"CBC: Anemia, Leukocytosis","Chronic Diarrhea -> Routine laboratory tests -> CBC: Anemia, Leukocytosis"
+root,"Chemistry screen: Fluid/electrolyte status, Nutritional status, Serum protein/globulin","Chronic Diarrhea -> Routine laboratory tests -> Chemistry screen: Fluid/electrolyte status, Nutritional status, Serum protein/globulin"
+root,Weight,Chronic Diarrhea -> Routine laboratory tests -> Stool analysis -> Weight
+root,Electrolytes: Osmotic gap,Chronic Diarrhea -> Routine laboratory tests -> Stool analysis -> Electrolytes: Osmotic gap
+root,pH: Carbohydrate malabsorption,Chronic Diarrhea -> Routine laboratory tests -> Stool analysis -> pH: Carbohydrate malabsorption
+root,Fecal occult blood test: Bleeding,Chronic Diarrhea -> Routine laboratory tests -> Stool analysis -> Fecal occult blood test: Bleeding
+root,Stool WBCs: Inflammation,Chronic Diarrhea -> Routine laboratory tests -> Stool analysis -> Stool WBCs: Inflammation
+root,"Fat output: Sudan stain, Quantitative","Chronic Diarrhea -> Routine laboratory tests -> Stool analysis -> Fat output: Sudan stain, Quantitative"
+root,Laxative screen,Chronic Diarrhea -> Routine laboratory tests -> Stool analysis -> Laxative screen
+root,Celiac testing,Chronic Diarrhea -> Routine laboratory tests -> Stool analysis -> Celiac testing
+root,"Bacterial pathogens: ""Standard"", Aeromonas, Plesiomonas","Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Watery diarrhea -> Exclude infection -> Bacterial pathogens: ""Standard"", Aeromonas, Plesiomonas"
+root,"Other pathogens: ""Standard"" ova + parasites, Coccidia, Microsporidia, Giardia antigen","Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Watery diarrhea -> Exclude infection -> Other pathogens: ""Standard"" ova + parasites, Coccidia, Microsporidia, Giardia antigen"
+root,Small bowel radiographs,"Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Fatty diarrhea -> Exclude pancreatic exocrine insufficiency -> Small bowel radiographs"
+root,Sigmoidoscopy or colonoscopy with biopsy,"Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Inflammatory diarrhea -> Exclude structural disease -> Sigmoidoscopy or colonoscopy with biopsy"
+root,CT scan of abdomen,"Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Fatty diarrhea -> Exclude pancreatic exocrine insufficiency -> CT scan of abdomen"
+root,Small bowel biopsy and aspirate for quantitative culture,"Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Fatty diarrhea -> Exclude pancreatic exocrine insufficiency -> Small bowel biopsy and aspirate for quantitative culture"
+root,"Plasma peptides: Gastrin, Calcitonin, VIP, Somatostatin","Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Watery diarrhea -> Selective testing -> Plasma peptides: Gastrin, Calcitonin, VIP, Somatostatin"
+root,"Urine: 5-HIAA, Metanephrines, Histamine","Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Watery diarrhea -> Selective testing -> Urine: 5-HIAA, Metanephrines, Histamine"
+root,"Other tests: TSH, ACTH stimulation, Serum protein electrophoresis, Immunoglobulins","Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Watery diarrhea -> Selective testing -> Other tests: TSH, ACTH stimulation, Serum protein electrophoresis, Immunoglobulins"
+root,Cholestyramine trial for bile acid diarrhea,"Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Watery diarrhea -> Selective testing -> Cholestyramine trial for bile acid diarrhea"
+root,Dietary review,"Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Osmotic diarrhea -> Stool analysis -> Low pH: Carbohydrate malabsorption -> Dietary review"
+root,Breath H2 test (lactose),"Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Osmotic diarrhea -> Stool analysis -> Low pH: Carbohydrate malabsorption -> Breath H2 test (lactose)"
+root,Lactase assay,"Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Osmotic diarrhea -> Stool analysis -> Low pH: Carbohydrate malabsorption -> Lactase assay"
+root,"High Mg output: Inadvertent ingestion, Laxative abuse","Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Osmotic diarrhea -> Stool analysis -> High Mg output: Inadvertent ingestion, Laxative abuse"
+root,"Bacterial pathogens: ""Standard"", Aeromonas, Plesiomonas, Tuberculosis","Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Inflammatory diarrhea -> Exclude infection -> Bacterial pathogens: ""Standard"", Aeromonas, Plesiomonas, Tuberculosis"
+root,"Other pathogens: Parasites, Viruses","Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Inflammatory diarrhea -> Exclude infection -> Other pathogens: Parasites, Viruses"
+root,Small bowel biopsy,"Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Fatty diarrhea -> Exclude structural disease -> Small bowel biopsy"
+root,Secretin test,"Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Fatty diarrhea -> Exclude pancreatic exocrine insufficiency -> Secretin test"
+root,Bentiromide test,"Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Fatty diarrhea -> Exclude pancreatic exocrine insufficiency -> Bentiromide test"
+root,Stool chymotrypsin activity,"Chronic Diarrhea -> Categorize based on history, physical examination, and lab results -> Fatty diarrhea -> Exclude pancreatic exocrine insufficiency -> Stool chymotrypsin activity"

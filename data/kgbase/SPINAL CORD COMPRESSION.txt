@@ -1,0 +1,157 @@
+SPINAL CORD COMPRESSION
+
+Guillermo Gonzalez-Osete, MD, and Manuel Modiano, MD
+
+Approximately 5% of systemic cancers involve the spinal
+cord. Spinal cord compression is a medical emergency in
+which a delay in treatment often causes irreversible loss of
+neurologic function.
+A. Tumors that most commonly affect the spinal cord are of
+the lung, breast, prostate, and lymph nodes. Myeloma,
+melanoma, and genitourinary tract tumors less commonly affect the spinal cord. An important presenting
+sign is back pain, either of recent onset or old pain that
+has returned or increased. Pain is present in 97% of all
+cord compressions, followed in frequency by weakness
+(76%) and paresthesias (57%) along a bilateral or unilateral dermatomal distribution. Associated bowel and
+bladder dysfunction is seen in 51% of patients with more
+advanced disease. A few patients have no history of
+cancer and pain as the initial presentation.
+B. Even when the physical examination does not reveal
+signs of spinal cord compression, obtain plain radiographs of the painful region to rule out neoplastic
+involvement. If the plain films are negative, consider
+nonneoplastic causes (rheumatoid arthritis, aortic aneurysm, spondylosis, herniated disc, spinal tuberculosis,
+osteoarthritis, osteomyelitis). Proceed with a detailed
+workup if there is pain with tenderness to percussion
+over the affected vertebral body, bilateral muscle weakness in the extremities, sensory changes, loss of deep
+tendon reflexes, or bowel or bladder incontinence.
+C. If plain films reveal a lesion in a painful area, follow with
+MRI or myelography, which have comparable sensitivity
+and specificity. Myelography is an invasive procedure
+that requires technical skill and the use of contrast. MRI
+is not invasive and helps in detecting intramedullary lesions, but patients may have difficulty lying still on the
+hard table or may have claustrophobia. Also, MRI is not
+always available. If these studies show a lesion, there is
+a 90% probability of cord compression.
+D. If MRI is negative and clinical findings suggest cord
+involvement, proceed with myelography. Myelography
+helps determine the upper and lower extent of the
+lesion and ascertains whether there is more than one
+lesion. If a complete block is found on lumbar myelography, cisternal myelography or MRI is required to
+identify the upper end of the block. If both studies are
+negative, there is no cord compression.
+E. The choice of treatment depends on the type of tumor,
+the level of the block, the rapidity of onset and duration of symptoms, previous treatment, and the clinical
+experience available. This medical emergency is treated
+292
+
+vigorously with radiation or surgery in addition to
+steroids. Our current recommendation is to give 10 mg
+IV dexamethasone immediately, follow with 4 mg every 6 hours daily for at least 72 hours, and then rapidly
+taper as tolerated. Begin radiotherapy immediately
+after the diagnosis is established. The earlier a lesion is
+detected and treated, the better the functional outcome. Response rates are 30%–80%. The total dose of
+radiation is 3000–4000 Gy delivered over 2–4 weeks.
+F. Consider surgery (laminectomy, stabilization) when
+there is (1) no histologic diagnosis and cord compression is the presenting sign of cancer, (2) history of
+radiation therapy to the affected area, (3) neurologic
+progression of disease despite steroids and radiotherapy, (4) instability requiring fixation, or (5) a high
+cervical lesion. Some more recent articles have reported improved outcomes with surgery followed by
+radiotherapy. This is a consideration especially in patients who are expected to have longer life expectancy
+and are in general good physical condition to tolerate
+such a procedure. After surgery, give radiotherapy to
+avoid recurrences. Initial response to combined surgery and radiation is 20%–100%, depending on tumor
+type and timing of treatment. The best prognostic index for eventual recovery of function is pretreatment
+status: 60% of patients who are ambulatory at diagnosis remain so postoperatively, whereas only 7% of
+those who are paraplegic at diagnosis are ambulatory
+after treatment.
+G. When plain films are negative and physical examination
+is not definitive, adjust pain medications and observe.
+If pain persists or worsens or if the history is highly
+suspicious, perform MRI and proceed accordingly.
+References
+Gilbert RW, Kim J-H, Posner JB. Epidural spinal cord compression from
+metastatic tumor: diagnosis and treatment. Ann Neurol 1978;3:40.
+Maranzano E, Latini P, Checcaglini F, et al. Radiation therapy in metastatic
+spinal cord compression. Cancer 1991;67:1333.
+Patchell RA, Tibbs PA, Regine WF, et al. Direct decompressive surgical
+resection in the treatment of spinal cord compression caused by
+metastatic cancer: a randomised trial. Lancet 2005;366(9486):
+643–638; comment Lancet 2005;366(9486):609–610.
+Rodichok L, Harper GR, Ruckdeschel JC, et al. Early diagnosis of spinal
+epidural metastases. Am J Med 1981;70:1181.
+Wasserstrom W, Glass PJ, Posner JB. Diagnosis and treatment of leptomeningeal metastases from solid tumors: experience with 90 patients.
+Cancer 1982;49:759.
+Willson JKV, Masaryk T. Neurologic emergencies in the cancer patient.
+Semin Oncol 1989;16:490.
+Young RF, Post EM, King GA. Treatment of spinal epidural metastases.
+J Neurosurg 1980;53:741.
+
+293
+Patient with Suspected SPINAL CORD COMPRESSION
+
+A History
+B Physical examination:
+
+Pain
+Tenderness
+Weakness
+Sensory
+Abnormal deep tendon
+reflexes
+
+Absence of physical signs:
+Consider other causes
+
+Plain films of spine
+
+G Negative
+
+Positive
+
+C
+
+Adjust pain
+medication
+
+MRI/Myelography
+
+D Negative
+
+Positive
+
+Pain present
+
+E
+Myelography
+
+Positive
+
+Negative
+
+Treatment
+
+Follow-up
+
+Steroids
+Radiotherapy
+
+F Neurologic
+
+progression
+Previous radiotherapy
+No histologic
+diagnosis
+Consider:
+Surgery
+
+Persistent pain
+with tenderness
+or
+Highly suspicious
+history
+MRI
+
+Treat According
+to Findings
+
+

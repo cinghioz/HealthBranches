@@ -1,0 +1,242 @@
+DEEP VENOUS THROMBOSIS
+
+Deep venous thrombosis (DVT) is caused by intravascular deposits of predominantly fibrin, RBCs, platelets, and
+WBC components, accumulating in a vein and producing
+obstruction to venous outflow and/or vessel wall inflammation. The clinical manifestations depend on the severity of
+these inflammatory processes. Often the initial sign is a pulmonary embolism (PE).
+A. Detailed history taking should look for previous episodes and for inherited disorders of protein C and
+S deficiency, antithrombin (AT) III deficiency, or an
+abnormal factor V (factor VLEIDEN). With such deficiencies there is a strong family history of recurrent DVT or
+PE that presents at an early age; !80% of patients with
+protein C deficiency have had an episode of DVT or PE
+by age 40. Patients with ATIII deficiency have a similar
+presentation and also may have a history of failure to be
+anticoagulated with heparin. Other hypercoagulable
+causes are the MTHFR (5,10-methylenetetrahydrofolate
+reductase) gene mutation, prothrombin gene mutation,
+and activated protein C resistance. Some are acquired,
+such as the anticardiolipin antibodies. It is important
+to obtain a complete drug and medication history,
+including use of estrogen or oral contraceptives. A history of frequent abortions with a prolonged partial
+thromboplastin time (PTT) should make one suspect a
+lupus anticoagulant (i.e., anticardiolipin antibodies).
+This also is present in some collagen vascular diseases
+such as systemic lupus erythematosus. Surgery that
+requires !30 minutes and certain surgical procedures
+(orthopedics, those involving trauma to lower limbs
+[e.g., knee surgery, urologic, gynecologic]) are associated with increased incidence of DVT. Other risk factors
+are trauma, pregnancy, puerperium, congestive heart
+failure (CHF), myocardial infarction, cerebrovascular
+accidents, extremity paralysis, malignancy (especially of
+the prostate, breast, or pancreas), obesity, varicose veins,
+immobilization, use of estrogens, smoking, and age. All
+of these may increase the risk of DVT by stasis and/or
+increased activation of coagulation.
+B. Pain is present in approximately 50% of patients with
+DVT. Swelling and tenderness to compression also are
+found in 75% of patients. The clinical diagnosis of
+DVT is not accurate. Thrombosis does not always produce complete obstruction or inflammation. In 30% of
+patients who have pain and swelling, there is proven
+DVT. The classic Homan sign (discomfort in the calf
+muscles on forced dorsiflexion of the foot) is not sensitive. It is noted in 33% of patients with positive venography and 50% with negative venography. Unilateral
+244
+
+C.
+
+D.
+
+E.
+
+F.
+
+swelling associated with discoloration is an important
+sign that should alert one to the diagnosis.
+The differential diagnosis includes ruptured Baker’s
+cyst, muscle tear, cramp, hematoma, arthritis, bone
+disease, varicose veins, and postphlebitic syndrome. If
+no cause is apparent, consider noninvasive screening.
+When the history and physical examination suggest
+DVT, ancillary tests such as noninvasive impedance
+plethysmography (IPG) and duplex ultrasound or invasive tests such as 125I and contrast venography will corroborate the diagnosis. Laboratory tests should include
+platelet count, prothrombin time (PT), PTT, and Ddimer. The D-dimer test has emerged as a good
+screening tool; a positive result supports further
+workup to rule out DVT and pulmonary embolism in
+the appropriate clinical setting, and a negative result
+does not exclude it.
+Noninvasive diagnostic tests available are IPG and
+duplex ultrasonography (D-US). IPG is good for detecting proximal vein thrombosis and/or recurrent DVT but
+is insensitive for detecting nonobstructive proximal
+thrombosis and calf vein thrombosis. Its sensitivity is
+83%–93%; its specificity is 83%–90%. It must be
+repeated serially to increase its sensitivity. False-positive
+results may occur with CHF, postoperative leg swelling,
+excessive leg tension, or external compression. D-US
+(sensitivity, 95%; specificity, 98%) is the ideal method of
+screening patients with suspected DVT. It is good for
+detecting proximal but not calf vein thrombosis. Calf
+vein thrombosis usually requires no treatment other
+than bed rest and elevation of the extremity. In
+20%–30% of cases, however, the thrombus may extend
+into the popliteal vein, and full anticoagulation is
+required because of the increased incidence of PE.
+Extension into the popliteal system often is missed on
+initial noninvasive tests but may be seen if the examination is repeated after 3–5 days.
+125
+I with fibrinogen detects fibrin accretion to a thrombus and will be positive with active ongoing clotting.
+It detects calf vein thrombosis in 90% of cases and
+proximal vein thrombosis in 60%–80%. Fibrinogen carries with it the risks inherent with the use of any blood
+product, including allergic reactions and transmittal of
+infections. It is contraindicated in iodine allergy, pregnancy, and lactation. The combined approach of 125I and
+IPG was positive in 81 of 86 patients with positive venograms; both tests were negative in 104 of 114 patients
+who had negative venograms. This is a useful approach
+if DVT is suspected clinically and 125I is inconclusive.
+Venography is the gold standard but is invasive, is not
+
+245
+Patient with suspected DEEP VENOUS THROMBOSIS
+
+A History
+B Physical examination
+
+Pain
+Swelling
+Homan’s sign:
+Sensitivity 8%–10%
+False-positive rate 11%–12%
+
+C History and physical
+
+D History and physical
+
+examination with
+low probability for
+DVT
+
+examination suspicious for DVT
+
+E Noninvasive
+
+Consider:
+Ruptured Baker’s
+cyst
+Muscle tear
+Hematoma
+Arthritis
+Bone disease
+Varicosities
+
+F Invasive
+
+tests
+
+IPG
+
+125I
+
+D-US
+
+Negative
+
+Positive
+
+Repeat
+tests
+
+Negative
+
+tests
+
+with
+Fibrinogen
+
+Venography
+
+Negative
+
+Positive
+
+IPG
+or
+D-US
+
+Calf
+vein
+
+Positive
+
+Negative
+
+Standard
+Therapy
+
+Follow-up:
+IPG
+D-US
+Negative
+
+Positive
+Positive
+Therapy
+
+G
+
+Standard Therapy:
+Bed Rest
+Warfarin
+Heparin
+
+always available, and may not visualize the deep venous
+system. It may itself cause a DVT.
+G. If the diagnosis is confirmed, begin treatment. Standard treatment includes IV heparin, SC heparin, low
+molecular weight heparins, oral anticoagulants, bed
+rest, and extremity elevation. Patients with protein C
+deficiency may have skin necrosis and increased sensitivity to warfarin. Start therapy with IV heparin
+bolus, 5000 U, followed by continuous infusion of
+heparin, approximately 1000 U/h or 800–10,000 U
+SC heparin every 6–8 hours. Monitor activated PTT
+at 6 hours and thereafter until stabilized at 1.5–2
+times control values. Obtain a baseline platelet count
+and monitor every 3 days while the patient is taking
+heparin. Watch for heparin-associated thrombocytopenia and heparin-associated thrombosis. Alternatively, Lovenox twice daily at a dosage of 1 mg/kg SC
+every 12 hours or at dosage of 1.5 mg/kg once a day
+could be used instead of heparin. Begin warfarin sodium on the first day by instituting the estimated
+daily maintenance dosage (5–10 mg). Maintain INR
+at 2.0–3.0. It usually takes 72–96 hours for the INR
+to reach this range, and heparin should be continued
+
+Positive
+
+Negative
+
+Standard
+Therapy
+
+Bed rest
+Elevation
+
+until the INR is at this level. Treatment should last at
+least 12 weeks.
+References
+Hommes DW, Bura A, Mazzolai L, et al. Subcutaneous heparin compared
+with continuous intravenous heparin administration in the initial treatment of deep vein thrombosis: a meta-analysis. Ann Intern Med
+1992;116:279.
+Hull R, Raskob G, Pineo G, et al. A comparison of subcutaneous
+low-molecular-weight heparin with warfarin sodium for prophylaxis
+against deep-vein thrombosis after hip or knee implantation. N Engl
+J Med 1993;329:1370.
+Hull RD, Raskob GE, Rosenbloom D, et al. Heparin for 5 days as compared
+with 10 days in the initial treatment of proximal venous thrombosis.
+N Engl J Med 1990;322:1260.
+Hyers T, Hull RD, Weg J. Antithrombotic therapy for venous thromboembolic disease. Chest 1989;95:37s.
+Lensing AWA, Hirsh J, Buller HR. Diagnosis of venous thrombosis. In
+Colman RW, Hirsh J, Marder VJ, et al, eds. Hemostasis and Thrombosis,
+3rd ed. Philadelphia: JB Lippincott, 1994.
+Pini M, Pattachini C, Quintavalla R, et al. Subcutaneous vs. intravenous
+heparin in the treatment of deep venous thrombosis—a randomized
+clinical trial. Thromb Haemost 1990;64:222.
+Salzman EW, Hirsh J. The epidemiology, pathogenesis, and natural history of
+venous thrombosis. In Colman RW, Hirsh J, Marder VJ, et al, eds. Hemostasis and Thrombosis, 3rd ed. Philadelphia: JB Lippincott, 1994.
+White R, McGahan JP, Daschbach M, et al. Diagnosis of deep vein
+thrombosis using duplex ultrasound. Ann Intern Med 1989;111:297.
+
+

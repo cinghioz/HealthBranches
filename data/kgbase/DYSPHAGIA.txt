@@ -1,0 +1,161 @@
+DYSPHAGIA
+Philip E. Jaffe, MD
+
+A. The term dysphagia is used to describe a sense of food
+sticking in the throat or difficulty swallowing. It can result from (1) abnormalities in preparing or delivering
+the food bolus to the esophagus (transfer or oropharyngeal dysphagia), (2) structural abnormalities of the
+esophagus (e.g., benign strictures, malignancy-related
+obstruction), (3) compression by extrinsic structures
+(e.g., the left atrium, aortic aneurysm, lymphadenopathy, tumors), or (4) motility disturbances of the esophagus (achalasia or diffuse esophageal spasm). Obtaining a
+detailed history is the first and perhaps most important
+step in evaluating dysphagia. Complaints isolated to
+solid food usually suggest esophageal obstruction,
+whereas liquid dysphagia is more often seen with motility disorders. Similarly, difficulty initiating a swallow or
+difficulty associated with nasal regurgitation in the setting of a recent cerbrovascular accident (CVA), Parkinson’s disease, or amyotrophic lateral sclerosis strongly
+suggests a problem with oropharyngeal neuromuscular
+coordination. Long-standing intermittent solid food dysphagia in an otherwise healthy individual is commonly
+seen with benign rings, whereas new onset of progressive solid food dysphagia associated with weight loss is
+more often seen with malignancy or tight inflammatory
+strictures. Recently it has become recognized that young
+adults who present with food impactions may have a
+distinct condition (allergic eosinophilic esophagitis) that
+requires a high level of clinical suspicion to diagnose and
+treat appropriately. In patients with a history or temporal medical history to suggest an oropharyngeal or motility disorder, the evaluation may begin with a barium
+esophagram or modified barium swallow. Because of the
+relative insensitivity of barium studies in detecting
+esophageal mucosal disease, esophagogastroduodenoscopy (EGD) should be part of the evaluation of any patient with the complaint of dysphagia.
+B. When endoscopy is performed and a specific etiology
+for dysphagia is determined, diagnosis-specific treatment is undertaken. Strictures may be dilated with
+rubber or polyethylene bougies and balloon catheters.
+Active esophagitis and peptic strictures are treated
+with antisecretory agents, including H2-receptor antagonists and proton pump inhibitors. Occasionally
+severe reflux disease can cause dysphagia without anatomic obstruction. Options for treating obstructing
+esophageal cancers include laser photocoagulation,
+radiation therapy, chemotherapy, alcohol injection, and
+stenting. Their application depends on the extent and
+location of the tumor and the condition of the patient.
+178
+
+C. If the EGD results are normal, a motility disturbance or
+subtle esophageal ring should be suspected. Again, history is usually helpful, but esophageal manometry and
+barium esophagography with ingestion of a bariumsoaked marshmallow, cookie, or pill can establish the etiology and exclude such treatable conditions as achalasia.
+D. Abnormalities in the preparation and passage of the
+food bolus from the tongue to the pharynx and then
+into the esophagus (transfer dysphagia) are most commonly seen with acute CVAs or progressive neurologic
+disorders (see section A). The dysfunction may slowly
+improve over several weeks following a CVA, and temporary nasogastric feeding or placement of a gastrostomy tube may be needed. In patients with progressive
+neurologic disorders and oropharyngeal dysphagia, referral to a speech pathologist for specific directions on
+the optimal food consistency and neck position to facilitate swallowing can be useful. However, many patients will ultimately require gastrostomy tube placement for enteral feeding.
+E. Abnormalities in esophageal peristalsis and lower esophageal sphincter (LES) pressure and coordination with
+peristalsis are known as motility disorders. Measurement
+of the esophageal intraluminal pressures via manometric probes may define (1) achalasia—aperistalsis of
+the esophageal body and incomplete LES relaxation;
+(2) diffuse esophageal spasm—intermittent, simultaneous contractions; (3) nutcracker esophagus—highamplitude esophageal contractions; and (4) nonspecific
+motility disorder—nontransmitted, triple-peaked, or simultaneous contractions that do not meet criteria for the
+other defined motility disturbances. The frequent association of chest pain with liquid dysphagia in patients
+with motility disturbances may be the most dominant
+and disturbing symptom. Treatment of achalasia with
+forceful pneumatic balloon dilation is effective in 60%–
+95% of patients but is complicated by esophageal perforation in 2%–5% of cases. Botulinum toxin injection into
+the LES may provide a relatively short-lived but less
+risky alternative. Other measures, including serial traditional bougienage, nitrates, and calcium channel blockers, may provide some temporary but generally less effective relief. Surgery (Heller myotomy) provides relief
+in !90% of patients when performed by an experienced
+surgeon. The treatment of symptoms related to other
+motility disorders is more difficult because the effect of
+nitrates and calcium channel blockers is generally less
+consistent. Low-dose tricyclic antidepressants may provide effective symptom relief for these patients.
+
+179
+Patient with DYSPHAGIA
+
+A History
+
+Physical examination
+EGD
+
+B Abnormal
+
+C Normal
+
+Treat Specific
+Structural
+Abnormality
+
+D History
+
+History not
+suggestive
+of transfer
+dysphagia
+
+suggestive
+of transfer
+dysphagia
+
+Barium Video
+or Cine-Esophagography
+
+Abnormal
+Treat
+Dysphagia
+
+Normal
+
+E Esophageal
+manometry
+
+Abnormal
+
+Other
+motility
+disorders
+
+Achalasia
+
+Normal
+
+F
+
+Barium
+Esophagography
+
+Extrinsic
+compression
+
+F. If esophagagoscopy and manometry are normal and
+symptoms persist, consider extraesophageal extrinsic
+compression by masses or adjacent structures. Barium
+esophagography may be more useful than endoscopy
+in this scenario. Mediastinal tumors, left atrial or thoracic aortic enlargement, and osteophytes from cervical degenerative disease are the most common causes.
+G. In a substantial number of patients the evaluation
+yields no specific diagnosis. It is important to confirm
+the precise nature of symptoms to be certain the other
+symptoms are not being confused with true dysphagia.
+This would include the sense of a constant “lump in
+the throat” (“globus”) or postinflammatory sensitivity
+that could create symptoms interpreted as dysphagia.
+In the remaining patients, the symptoms may be related to emotional or psychiatric disorders or may be
+part of a more complex functional gastrointestinal disturbance (global visceral sensitivity).
+
+G Functional
+dysphagia
+
+References
+Castell D, Donner M. Evaluation of dysphagia: a careful history is crucial.
+Dysphagia 1987;2:65.
+Gelfand M, Botoman V. Esophageal motility disorders: a clinical overview. Am J Gastroenterology 1987;82:181.
+Remedios M, Campbell C, Jones D, Kerlin P. Eosinophilic esophagitis in
+adults: clinical, endoscopic, histologic findings, and response to treatment with fluticasone propionate. Gastrointest Endosc 2006;63:3.
+Rothstein R. A systematic approach to the patient with dysphagia. Hosp
+Pract (Off Ed) 1997;32:169.
+Scolapio J, Gostout C, Schroeder K, et al. Dysphagia without endoscopically evident disease: to dilate or not? Am J Gastroenterol
+2001;96:327.
+Spechler S. American Gastroenterological Association medical position
+statement on treatment of patients with dysphagia caused by benign
+disorders of the distal esophagus. Gastroenterology 1999;117:229.
+Trate D, Parkman H, Fisher R. Dysphagia: evaluation, diagnosis, and
+treatment. Prim Care 1996;23:417.
+Varadarajulu S, Eloubeidi MA, Pate RS, et al. The yield and the predictors of esophageal pathology when upper endoscopy is used for the
+initial evaluation of dysphagia. Gastrointest Endosc 2005;61:804.
+
+

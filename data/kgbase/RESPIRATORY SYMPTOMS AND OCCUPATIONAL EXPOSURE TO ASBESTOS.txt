@@ -1,0 +1,169 @@
+RESPIRATORY SYMPTOMS AND OCCUPATIONAL EXPOSURE TO ASBESTOS
+
+A. The first step in any assessment is to take a comprehensive history with a focus on the exposure to asbestos. In the United States, the majority of exposure was
+to chrysolite, a serpentine fiber, which is thought to be
+less likely to cause disease. In contrast, the long rodlike
+fibers of amphibole asbestos (e.g., crocidolite, amosite,
+and tremolite) were much less commonly used. Specific occupations with the potential for high exposure
+to asbestos include plumbers, pipe fitters, insulation
+workers, electricians, boilermakers, and obviously
+those who worked mining asbestos. Shipyards, particularly in the 1940s, were a common place for occupational exposure. More recently, mechanics who specifically work on brakes are at risk for exposure to the
+asbestos found in brake linings. For the most part,
+symptomatic lung disease related to asbestos exposure
+manifests itself 15–20 years after the exposure. If
+symptoms occur much closer temporally to an exposure, the differential for the cause of dyspnea should
+be broadened.
+B. A complete physical examination with particular emphasis on the lung examination should accompany history taking. The finding of crackles, decreased breath
+sounds, or dullness to percussion may suggest specific
+pathologies. In almost all cases, the next step should be
+a chest x-ray (CXR). Further evaluation is guided by
+what is found on imaging.
+C. The most common finding in patients with asbestos
+exposure is pleural plaques—areas of pleural thickening and calcification. Plaques themselves are generally
+benign, although they may be seen in conjunction with
+other forms of asbestos-related lung disease. The clinician should obtain lung volumes to evaluate for restrictive physiology (total lung capacity !70% predicted) as
+a result of pleural disease if the patient presents with
+dyspnea. As plaques are associated with future asbestosis, these patients should be followed and monitored
+for future fibrosis.
+D. Distinct from the parietal pleural plaques and much
+less common is diffuse visceral pleural thickening associated with asbestos exposure. This pathology is
+much more likely to result in restrictive physiology,
+which should be evaluated for with pulmonary function testing.
+E. Although the majority of findings associated with asbestos are found many years after exposure, pleural
+effusions can be found after an acute exposure and
+504
+
+more remotely. These effusions are exudative, often
+with a prominent eosinophilia. Although generally
+painless and often found incidentally, an acute asbestos
+pleural effusion may be painful and associated with
+fever and dyspnea. All of these effusions should be
+tapped. Chronic effusions warrant cytologic examination for malignancy and if there are any concerning
+features (e.g., loculation, associated irregular pleural
+thickening), a thoracoscopic pleural biopsy should be
+considered.
+F. Malignant mesothelioma is strongly associated with
+asbestos; approximately 70% of patients with this disease have a known exposure. It is often difficult to
+diagnose and commonly requires pleural biopsy.
+Although in the past this may be have been done with
+needle biopsy, as the yield of this procedure is quite
+low, patients generally should proceed to thoracoscopic biopsy if pleural fluid cytology is unrevealing.
+Unfortunately, both surgical and chemotherapeutic
+options for mesothelioma are of limited benefit. Physicians should consider referral to a center that specializes in treatment of these rare cancers.
+G. If the CXR reveals reticulonodular changes, the physician should have concern for asbestosis, which is often
+difficult to distinguish from idiopathic pulmonary fibrosis (IPF). Features that help distinguish these two
+diseases are a history of exposure to asbestos and associated pleural plaques. Although both diseases are
+generally lower lobe predominant, there is a subtype of
+asbestosis that is severe, upper lobe disease. Next steps
+in assessment include lung volumes and measurement
+of carbon dioxide diffusion in the lungs (DLCO) to assess for restrictive physiology and abnormal gas exchange in addition to a CT scan of the chest to better
+characterize the infiltrates. A clinical diagnosis is usually made without the need for a lung biopsy, although
+at times this is undertaken to rule out alternative diagnoses. The finding of asbestos fibers or asbestos bodies
+adds to the diagnostic certainty but is not required and
+in itself is not pathognomonic of asbestosis. There is no
+specific therapy for asbestosis and care is generally
+supportive.
+H. Cigarette smoking and asbestos have a synergistic effect in increasing the risk for primary lung cancer. If a
+mass is found on CXR, a CT scan should be obtained
+and further evaluation, as with any lung mass, should
+be pursued.
+
+505
+Patient with RESPIRATORY SYMPTOMS AND OCCUPATIONAL EXPOSURE TO ASBESTOS
+
+A Complete history and
+
+physical examination
+Emphasis on occupational
+exposures
+
+B CXR
+C Pleural plaques
+Obtain lung
+volumes
+Follow clinically
+
+D Diffuse pleural
+thickening
+
+E Pleural effusion
+
+G Fibrosis
+Pulmonary
+function tests:
+Lung volumes
+DLCO
+CT scan
+
+Thoracentesis
+Obtain lung volumes Cell count
+Follow clinically
+Lactate dehydrogenase/
+protein
+Cytology
+
+Positive cytology
+
+Negative
+cytology
+
+H Lung mass
+Bronchoalveolar lavage,
+transbronchial biopsy
+Needle biopsy or
+surgical biopsy
+
+Clinical diagnosis
+of asbestosis
+
+Competing alternative
+diagnoses
+
+Supportive care
+
+Consider surgical biopsy
+
+Treat malignancy
+
+Benign features
+Follow clinically
+
+F Concerning features
+Thoracoscopic pleural biopsy
+
+Malignant mesothelioma
+
+Benign pathology
+
+Surgery or chemotherapy
+
+Follow clinically
+
+References
+American Thoracic Society. Diagnosis and initial management of
+nonmalignant diseases related to asbestos. Am J Respir Crit Care Med
+2004;170(6):691–715.
+BTS statement on malignant mesothelioma in the UK, 2007. Thorax
+2007;62(Suppl 2):ii1–ii19.
+Chapman SJ, Philadelphia Cookson WO, Musk AW, et al. Benign asbestos pleural diseases. Curr Opin Pulm Med 2003;9(4):266–271.
+Cugell DW, Kamp DW. Asbestos and the pleura: a review. Chest
+2004;125(3):1103–1117.
+Fraser RS, Paré PD. Fraser and Paré’s Diagnosis of Diseases of the
+Chest, ed 4, Philadelphia: W.B. Saunders, 1999.
+Gevenois PA, de Maertelaer V, Madani A, et al. Asbestosis, pleural
+plaques and diffuse pleural thickening: three distinct benign responses
+to asbestos exposure. Eur Respir J 1998;11(5):1021–1027.
+
+Ghio AJ, Roggli VL. Diagnosis and initial management of nonmalignant
+diseases related to asbestos. Am J Respir Crit Care Med 2005;171(5):
+527; author reply 528–530.
+Ohar J, Sterling DA, Bleecker E, et al. Changing patterns in asbestosinduced lung disease. Chest 2004;125(2):744–753.
+O’Reilly KM, Mclaughlin AM, Beckett S, et al. Asbestos-related lung
+disease. Am Fam Physician 2007;75(5):683–688.
+Ross RM. The clinical diagnosis of asbestosis in this century requires
+more than a chest radiograph. Chest 2003;124(3):1120–1128.
+Weill D, Weill H. Diagnosis and initial management of nonmalignant
+diseases related to asbestos. Am J Respir Crit Care Med
+2005;171(5):527–528; author reply 528–530.
+
+

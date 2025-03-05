@@ -1,0 +1,270 @@
+CHEST PAIN IN WOMEN
+
+The evaluation of chest pain in women is an important step
+in the diagnosis of coronary artery disease (CAD). The diagnosis of CAD in women is problematic because most of the
+diagnostic pathways and outcomes are based on research in
+men. Epidemiologic studies show that CAD is a significant
+cause of morbidity and mortality in women and that women
+have a worse prognosis than men with myocardial infarction. Improved diagnosis of CAD in early stages is critical to
+prevent complications in women. This chapter’s algorithm
+includes not only the pretest likelihood of disease but also
+guidelines for choosing the best tests for women.
+A. There are clear gender differences in presenting symptoms of chest pain and in risk factor stratification.
+Women may have more atypical sites of pain, such as
+neck, shoulder, and intrascapular pain, and may have
+more associated symptoms of exertional dyspnea or
+decreased exercise tolerance. It is thus important to
+ask not only the usual historical questions to try to determine whether the patient has angina but also to ask
+about atypical characteristics. Risk factor assessment
+can be divided into major, intermediate, and minor
+determinants (Table 1). These, along with the character of the pain, can be used to place women in categories of likelihood of CAD. This stratification makes
+testing for CAD more cost effective and informative.
+Risk factor assessment is more likely to predict CAD in
+women (54.5% of cases, compared with 39.3% of cases
+in men). Stronger predictive value exists, particularly
+in younger women with risk factors.
+Table 1 Risk Factor Determinants of Coronary Artery
+Disease in Women with Chest Pain
+Major
+Typical angina
+Postmenopausal status
+Diabetes (twice the risk of CAD of male diabetic patients)
+Peripheral vascular disease
+Intermediate
+Hypertension
+Smoking, especially in premenopausal women
+Lipid abnormalities, including high-density lipoprotein !35 mg/dl and
+triglycerides "400 mg/dl
+Minor
+Age "65 years
+Central obesity (waist/hip ratio "0.85 or waist "38 cm)
+Sedentary lifestyle
+Family history of CAD (2.8 times increase in relative risk of nonfatal
+myocardial infarction and 5 times increase in CAD)
+Other risk factors (hemostatic, psychosocial)
+
+592
+
+B. Evaluate a baseline electrocardiogram (ECG) before
+conducting other tests in women. Because exercise
+tolerance testing (ETT) in women may be flawed by
+false-positive results, having a normal resting ECG
+improves the diagnostic yield of testing. If the resting
+ECG is abnormal, with left ventricular hypertrophy,
+bundle branch block, or an early J point elevation, it
+may increase the likelihood of a false-positive result,
+and therefore an imaging ETT may be the most costeffective test in this group. The use of stress echocardiography as an initial test in all women with chest pain
+has been proposed as a cost-effective approach, achieving a diagnostic accuracy similar to that of stress thallium ETT. Stress echocardiography is less costly than
+stress thallium ETT but is technically demanding for
+the average echo laboratory and thus may not be
+widely available.
+C. High likelihood of disease or definite angina is predicted by two or more major determinants or by one
+major plus more than one intermediate or minor determinant. This group of women has a pretest likelihood of CAD of 80%. In this group, ETT without imaging is the initial test of choice (unless the patient has
+clinical characteristics other than being female that
+necessitate imaging). Studies show that 60%–75% of
+women in this group had significant CAD at angiography, and 29%–53% had multivessel disease. The specificity of ETT in this setting is 57%, with a sensitivity of
+80%. Women with single-vessel disease may be missed
+by ETT; only 43% of them will have abnormal findings.
+When following women with characteristics suggestive
+of angina, remember that single-vessel disease is more
+common in women than in men. Nonetheless, despite
+its limitations, a maximal negative ETT should not
+be overlooked, because it largely rules out exerciseinduced ischemia associated with multivessel disease.
+If symptoms persist despite a negative maximal ETT,
+raising concern of single-vessel disease, stress echocardiography or pharmacologic stress echocardiography
+may be appropriate. This technique has a sensitivity
+and specificity of 80%–90% for single-vessel disease in
+women.
+D. The most cost-effective approach in women with typical angina and a normal baseline ECG is ETT. Women
+in this group are unlikely to have false-positive results,
+and the likelihood of false-negative results is much less
+than in their male counterparts if they achieve maximal
+heart rate. Imaging ETT increases the cost of this test
+and adds little clinically useful information.
+(Continued on page 594)
+
+593
+Female patient with CHEST PAIN
+
+A History:
+
+Pain characteristics
+Risk factors
+
+C High likelihood
+
+(80% chance)
+of disease
+Definite angina
+
+Moderate likelihood
+of disease
+Cont'd on p 595
+
+D Routine ETT
+
+Negative
+Careful
+clinical
+follow-up
+
+B Baseline ECG
+
+Nondiagnostic
+
+Pharmacologic
+or Imaging ETT
+
+Nonischemic
+pain
+Cont'd on p 595
+
+594
+E. If the ETT is negative, the patient can be followed
+closely. A decision about management may be difficult
+for the woman with a positive test result. The literature
+holds convincing evidence of the gender differences in
+further testing after a positive ETT result. It is unclear
+whether this gender difference represents patient
+preference (women perceive their risk of heart disease
+as low); physician perception of the “benign” nature of
+CAD in women, based on the Framingham and CASS
+studies; or overtreatment of men. A woman should be
+referred for coronary angiography for the same reasons
+as her male counterpart (i.e., unstable angina or markedly positive ETT at low workload). Some advocate
+angiography for women with a positive ETT at high
+workload. Some studies show a higher incidence of
+cardiac events in women regardless of initial ETT response: 14.3% of women with an abnormal ETT result
+will have a cardiac event, versus 6% of men with a
+positive ETT. Because most of the coronary events
+occurred in patients who did not undergo revascularization procedures, one can make an excellent case for
+complete evaluation and treatment, including catheterization, for all women with positive tests. This strategy may actually be of greater benefit to women than
+similar care is to men.
+F. Moderate likelihood of disease is predicted by one major or by multiple indeterminate and minor determinants. This group has the widest pretest probability of
+CAD, ranging from 20%–80%. Most women in actual
+practice are in this category. The prevalence of CAD in
+this group is about 30%–40%, with 4%–22% having
+multivessel disease. These women clearly need further
+examination, but the best test to use is unclear. The
+sensitivity and specificity of routine ETT in this group
+are about 65%. Therefore, a test result has a reasonable
+chance of being either a false positive or a false negative. Because this may not add to the diagnostic certainty, it may be more prudent to proceed with either
+a thallium/sestamibi ETT or stress echocardiography.
+
+Although the sensitivity of these tests does not add
+significantly to the ETT, the addition of imaging improves specificity in women to 80%–90%. In particular,
+stress echocardiography may dramatically improve the
+sensitivity and specificity for single-vessel disease.
+G. Women with nonischemic pain are in the lowest risk
+group, with "20% likelihood of CAD. This group is
+defined as those with no major determinants, no or one
+intermediate determinant, and two or fewer minor
+determinants. On further analysis, the nonischemic
+pain group will have a 2%–7% incidence of CAD and
+virtually no multivessel disease. Because of the low
+prevalence of significant disease in this group, any test
+that might show an abnormality is of little value, or
+more likely a false positive. Look for noncardiac causes
+of pain (e.g., cholecystitis, gastroesophageal reflux,
+chest wall pain, pulmonary etiologies, or anxiety) in
+this group before proceeding with evaluation.
+H. If the patient continues to have symptoms that limit
+her lifestyle, further evaluation with imaging, ETT, or
+even angiography may be needed to refute or confirm
+the existence of CAD, particularly in postmenopausal
+women.
+
+References
+DeSanctis R. Clinical manifestations of coronary artery disease: chest
+pain in women. In: Wenger N, Speroff L, Packard B, eds. Cardiovascular health and disease in women. Proceedings of an NHLBI Conference. LeJacq Communications, 1993.
+Douglas P, Ginsburg G. The evaluation of chest pain in women. N Engl
+J Med 1996;334:1311.
+Gibbons EF. Evaluation of chest pain. In Lemcke D, Pattison J,
+Marshall L, et al., eds. Primary care of women, Norwalk, CT:
+Appleton-Lange; 1995.
+Gibbons EF. Risk factors for coronary artery disease and their treatment.
+In Lemcke D, Pattison J, Marshall L, et al., eds. Primary care of women,
+Norwalk, CT: Appleton-Lange; 1995.
+Judelson D. Coronary heart disease in women: risk factors and prevention.
+JAMA 1994;49:186.
+Wenger N. Coronary heart disease in women: gender differences in
+diagnostic evaluation. JAMA 1994;49:181.
+
+595
+Female patient with CHEST PAIN
+(Cont’d from p 593)
+
+G Nonischemic pain
+
+F Moderate likelihood
+E Positive
+
+at low
+workload
+
+Cardiac
+Angiography
+
+Positive
+at high
+workload
+Medical
+Management
+with Close
+Follow-Up
+
+Seek noncardiac
+cause
+
+Routine ETT
+
+H Persistent limiting
+Negative
+
+Consider:
+Cardiac
+angiography
+
+(!20% likelihood of
+disease)
+
+(20%– 80% chance)
+of disease
+Probable angina
+
+Noncardiac
+
+Negative
+Noncardiac
+pain
+
+pain and no other
+cause
+
+Positive
+
+Consider:
+Imaging ETT
+
+Imaging ETT
+
+Positive
+at low
+workload
+
+Positive
+at high
+workload
+
+Cardiac
+Angiography
+
+Medical
+Management
+with Close
+Follow-Up
+Consider:
+Cardiac
+angiography
+
+

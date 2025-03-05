@@ -1,0 +1,21 @@
+source,leaf,paths
+Patient with JOINT HYPERMOBILITY,Counsel,History of ligamentous laxity or recurrent dislocations -> Joint hypermobility -> Beighton score ≥4 -> History of arthralgia or arthritis -> Recurrent subluxations -> Fibromyalgia symptoms -> Possible MVP -> Counsel
+Patient with JOINT HYPERMOBILITY,Treat fibromyalgia,History of ligamentous laxity or recurrent dislocations -> Joint hypermobility -> Beighton score ≥4 -> History of arthralgia or arthritis -> Recurrent subluxations -> Fibromyalgia symptoms -> Possible MVP -> Treat fibromyalgia
+Patient with JOINT HYPERMOBILITY,Treat joint pain or swelling with NSAIDs,History of ligamentous laxity or recurrent dislocations -> Joint hypermobility -> Beighton score ≥4 -> History of arthralgia or arthritis -> Recurrent subluxations -> Fibromyalgia symptoms -> Possible MVP -> Treat joint pain or swelling with NSAIDs
+Patient with JOINT HYPERMOBILITY,Ectopia lentis,History of ligamentous laxity or recurrent dislocations -> Marfan's syndrome -> Ectopia lentis
+Patient with JOINT HYPERMOBILITY,MVP or mitral regurgitation,History of ligamentous laxity or recurrent dislocations -> Marfan's syndrome -> MVP or mitral regurgitation
+Patient with JOINT HYPERMOBILITY,Scoliosis,History of ligamentous laxity or recurrent dislocations -> Marfan's syndrome -> Scoliosis
+Patient with JOINT HYPERMOBILITY,Pneumothoraces,History of ligamentous laxity or recurrent dislocations -> Marfan's syndrome -> Pneumothoraces
+Patient with JOINT HYPERMOBILITY,Pes planus,History of ligamentous laxity or recurrent dislocations -> Marfan's syndrome -> Pes planus
+Patient with JOINT HYPERMOBILITY,High arched palate,History of ligamentous laxity or recurrent dislocations -> Marfan's syndrome -> High arched palate
+Patient with JOINT HYPERMOBILITY,Arachnodactyly,History of ligamentous laxity or recurrent dislocations -> Marfan's syndrome -> Arachnodactyly
+Patient with JOINT HYPERMOBILITY,Measure serum/urine homocysteine for homocystinuria,History of ligamentous laxity or recurrent dislocations -> Marfan's syndrome -> Measure serum/urine homocysteine for homocystinuria
+Patient with JOINT HYPERMOBILITY,"If aorta >40 cm or very rapid heart rate, consider surgery","History of ligamentous laxity or recurrent dislocations -> Marfan's syndrome -> Echocardiogram of heart and aorta -> If aorta >40 cm or very rapid heart rate, consider surgery"
+Patient with JOINT HYPERMOBILITY,All adults on beta blockers,History of ligamentous laxity or recurrent dislocations -> Marfan's syndrome -> All adults on beta blockers
+Patient with JOINT HYPERMOBILITY,Counsel regarding pregnancy,History of ligamentous laxity or recurrent dislocations -> Marfan's syndrome -> Counsel regarding pregnancy
+Patient with JOINT HYPERMOBILITY,Counsel regarding physical activity,History of ligamentous laxity or recurrent dislocations -> Marfan's syndrome -> Counsel regarding physical activity
+Patient with JOINT HYPERMOBILITY,Hypermobility,History of ligamentous laxity or recurrent dislocations -> Ehlers-Danlos syndrome -> Hypermobility
+Patient with JOINT HYPERMOBILITY,Thin skin,History of ligamentous laxity or recurrent dislocations -> Ehlers-Danlos syndrome -> Thin skin
+Patient with JOINT HYPERMOBILITY,Scars over knees and elbows,History of ligamentous laxity or recurrent dislocations -> Ehlers-Danlos syndrome -> Scars over knees and elbows
+Patient with JOINT HYPERMOBILITY,Type III: very hypermobile but skin not lax or thin,History of ligamentous laxity or recurrent dislocations -> Ehlers-Danlos syndrome -> Type III: very hypermobile but skin not lax or thin
+Patient with JOINT HYPERMOBILITY,Type IV can have arterial and organ ruptures,History of ligamentous laxity or recurrent dislocations -> Ehlers-Danlos syndrome -> Type IV can have arterial and organ ruptures

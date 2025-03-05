@@ -1,0 +1,125 @@
+{
+  "node": "Asymptomatic Abnormal Liver Aminotransferases",
+  "content": "Evaluation of elevated ALT and AST",
+  "children": [
+    {
+      "node": "A",
+      "content": "History and physical examination, discontinuation of hepatotoxic medications",
+      "children": [
+        {
+          "node": "Confirm abnormality",
+          "content": "Confirm if an error is suspected",
+          "children": [
+            {
+              "node": "B",
+              "content": "Liver chemistries, PT, albumin, CBC with platelets, Hepatitis A, B, and C serologies, Iron, total iron-binding capacity, ferritin",
+              "children": [
+                {
+                  "node": "Negative serology",
+                  "content": "Asymptomatic patient without hepatic decompensation",
+                  "children": [
+                    {
+                      "node": "Lifestyle modification",
+                      "content": "Discontinue alcohol, stop hepatotoxic medications, weight loss, diabetes control",
+                      "children": [
+                        {
+                          "node": "6 months",
+                          "content": "Repeat liver chemistries",
+                          "children": [
+                            {
+                              "node": "Normal",
+                              "content": "Observation",
+                              "children": []
+                            },
+                            {
+                              "node": "Abnormal",
+                              "content": "Consider ultrasound, ANA, anti-smooth-muscle Ab, ceruloplasmin, \u03b11-antitrypsin, LKM Ab, alkaline phosphatase",
+                              "children": [
+                                {
+                                  "node": "Abnormal results",
+                                  "content": "Liver biopsy",
+                                  "children": []
+                                },
+                                {
+                                  "node": "Elevated results",
+                                  "content": "5'-nucleotidase, Gamma glutamyl transferase",
+                                  "children": [
+                                    {
+                                      "node": "Clinical improvement",
+                                      "content": "Liver chemistries normalize <6 mo",
+                                      "children": [
+                                        {
+                                          "node": "Observation",
+                                          "content": "",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "node": "Persistent liver chemistries abnormality",
+                                      "content": ">6 mo",
+                                      "children": [
+                                        {
+                                          "node": "D",
+                                          "content": "Liver biopsy",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "node": "Ultrasound and serologic evaluation",
+                      "content": "ANA, anti-smooth-muscle Ab, ceruloplasmin, \u03b11-antitrypsin, antigliadin, and antiendomysial Ab",
+                      "children": [
+                        {
+                          "node": "D",
+                          "content": "Liver biopsy",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "node": "Positive serologic evaluation",
+                  "content": "",
+                  "children": [
+                    {
+                      "node": "Positive hepatitis A IgM serology or Positive hepatitis B IgM serology",
+                      "content": "",
+                      "children": [
+                        {
+                          "node": "Follow clinically",
+                          "content": "Serial liver chemistries",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "node": "Positive hepatitis C Ab or hepatitis B virus-antigen positive",
+                      "content": "",
+                      "children": [
+                        {
+                          "node": "Treat",
+                          "content": "",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

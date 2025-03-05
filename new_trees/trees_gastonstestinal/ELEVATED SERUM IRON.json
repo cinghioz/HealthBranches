@@ -1,0 +1,134 @@
+{
+  "node": "Root",
+  "content": "Patient with ELEVATED SERUM AMYLASE",
+  "children": [
+    {
+      "node": "A",
+      "content": "History and Physical examination",
+      "children": [
+        {
+          "node": "Abdominal pain",
+          "content": "Abdominal pain",
+          "children": [
+            {
+              "node": "Diagnostic tests",
+              "content": "Serum lipase, Abdominal ultrasonography, Plain abdominal radiography",
+              "children": [
+                {
+                  "node": "B",
+                  "content": "Acute pancreatitis",
+                  "children": [
+                    {
+                      "node": "Consider",
+                      "content": "Gallstone pancreatitis, Alcohol induced, Hypertriglyceridemia, Hepatitis, Drug induced, Postoperative, Trauma, Abdominal surgery, ERCP, Blunt trauma, Renal transplantation, Hypercalcemia, Pregnancy"
+                    },
+                    {
+                      "node": "C",
+                      "content": "Persistent amylase elevation",
+                      "children": [
+                        {
+                          "node": "Diagnostic Tests",
+                          "content": "Abdominal Ultrasonography, Abdominal CT Scan, MRI of Pancreas with MRCP, EUS, ERCP"
+                        },
+                        {
+                          "node": "Consider",
+                          "content": "Pseudocyst, Abscess, Pancreatic ascites, Biliary tract disease, Carcinoma, Pancreas divisum"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "node": "D",
+                  "content": "Acute exacerbation of chronic pancreatitis"
+                },
+                {
+                  "node": null,
+                  "content": "Nonpancreatic intraabdominal condition",
+                  "children": [
+                    {
+                      "node": "Consider",
+                      "content": "Perforated viscus, Mesenteric infarction, Bowel obstruction, Acute appendicitis, Ruptured ectopic pregnancy, Afferent loop syndrome, Dissecting aortic aneurysm, Biliary tract disease, Acute cholecystitis"
+                    },
+                    {
+                      "node": null,
+                      "content": "Acute or chronic pancreatitis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": "No abdominal pain",
+          "content": "No abdominal pain",
+          "children": [
+            {
+              "node": "Diagnostic tests",
+              "content": "Serum creatinine, Urine creatinine, Urine amylase, Isoamylase measurements",
+              "children": [
+                {
+                  "node": "E",
+                  "content": "Identified cause",
+                  "children": [
+                    {
+                      "node": null,
+                      "content": "Renal insufficiency"
+                    },
+                    {
+                      "node": null,
+                      "content": "Macroamylasemia"
+                    },
+                    {
+                      "node": null,
+                      "content": "Salivary gland disease: Trauma, Infection (mumps), Calculus, Radiation, Alcohol"
+                    }
+                  ]
+                },
+                {
+                  "node": "F",
+                  "content": "Obscure causes",
+                  "children": [
+                    {
+                      "node": null,
+                      "content": "Lung disease",
+                      "children": [
+                        {
+                          "node": "Consider",
+                          "content": "Pneumonia, Tuberculosis, Carcinoma"
+                        }
+                      ]
+                    },
+                    {
+                      "node": null,
+                      "content": "Malignant tumors",
+                      "children": [
+                        {
+                          "node": "Consider",
+                          "content": "Ovary, Prostate, Lung"
+                        }
+                      ]
+                    },
+                    {
+                      "node": null,
+                      "content": "Salivary-type hyperamylasemia"
+                    },
+                    {
+                      "node": null,
+                      "content": "Other considerations: Cerebral trauma, Burns and traumatic shock, Diabetic ketoacidosis, Anorexia nervosa, Celiac sprue"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "Treat",
+      "content": "Treat diagnosed condition"
+    }
+  ]
+}

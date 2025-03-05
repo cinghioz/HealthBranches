@@ -1,0 +1,77 @@
+HYPERMAGNESEMIA
+
+Hypermagnesemia is defined as an increase of serum magnesium (Mg+2) to !1.1 mmol/L (2.2 mEq/L; 2.6 mg/dl). Hypermagnesemia is relatively uncommon but can be seen in
+patients with acute renal failure (ARF) who are taking magnesium-containing antacids, laxatives, enemas, or infusions.
+Acute rhabdomyolysis also is associated with hypermagnesemia. Increasing age is an important risk factor for hypermagnesemia in individuals with apparently normal renal
+function and presumably reflects the decline in glomerular
+filtration rate that normally accompanies old age. Mg"2 is
+efficiently excreted through the kidneys. Even patients with
+chronic renal failure can develop an increased fractional excretion of magnesium in the remaining functional nephrons.
+Generally, the kidneys can maintain Mg"2 equilibrium until the creatinine clearance falls below 20 ml/min. Despite
+declining renal function, patients with end-stage renal
+disease (ESRD) and ARF rarely develop hypermagnesemia. Exogenous administration is usually necessary
+to cause significant hypermagnesemia. Even in a patient with normal renal function, exogenous administration may cause toxicity. It is common for patients to have
+an enhanced absorption of Mg"2 as a result of inflammatory disease, obstruction, or perforation of the GI tract.
+Other causes of hypermagnesemia include lithium therapy, metastatic disease to the bone, milk-alkali syndrome,
+familial hypocalciuric hypercalcemia, hypothyroidism,
+pituitary dwarfism, and Addison’s disease. The neurologic
+symptoms often result from the inhibition of acetylcholine
+release from the neuromuscular end plate by increased
+extracellular Mg"2 levels.
+
+heart block, and respiratory depression. Nonspecific
+ECG changes are often seen and may include prolonged PR intervals and increased QRS duration. Hypotension and cutaneous flushing may be the result of
+vasodilator effect and inhibition of norepinephrine release from sympathetic postganglionic nerves. Voluntary muscle paralysis and general smooth-muscle paralysis can cause the life-threatening complication of
+respiratory muscle paralysis and apnea. Coma and cardiac arrest eventually may ensue in patients with severe
+Mg"2 toxicity.
+B. The withdrawal of the magnesium infusion is usually
+sufficient to treat most cases of hypermagnesemia when
+the patient has normal renal function. Hydration should
+be initiated with saline diuresis and furosemide. Mg"2
+can be efficiently cleared through the kidneys in a short
+amount of time. In patients who have severe complications that may require emergent treatment, administration of Ca"2 (1 g for 2–5 minutes of IV calcium chloride
+or calcium gluconate) may be useful. Patients who have
+ARF or ESRD may require dialysis against a low magnesium bath. Generally, the expected change in serum
+Mg"2 after 3–4 hours of dialysis with a high-efficiency
+membrane is approximately one third to one half the
+difference between the dialysate Mg"2 concentration
+and the predialysis serum ultrafilterable Mg"2 level
+(estimated at 80% of total serum Mg"2). Peritoneal dialysis can also be used to effectively remove Mg"2 in
+patients who cannot tolerate hemodialysis.
+
+A. Hypermagnesemia can be serious and potentially fatal.
+Lethargy, drowsiness, hypotension, nausea, vomiting,
+facial flushing, urinary retention, and ileus may be the
+initial symptoms observed when the serum Mg"2 level
+exceeds 4–6 mg/dl. If untreated, this condition may
+progress to flaccid skeletal muscular paralysis and hyporeflexia, bradycardia and bradyarrhythmias, complete
+
+References
+
+390
+
+Moe SM. Disorders involving calcium, phosphorus, and magnesium.
+Prim Care 2008;35(2):215–237, v-vi.
+Topf JM, Murray PT. Hypomagnesemia and hypermagnesemia. Rev
+Endocr Metab Disord 2003;4(2):195–206.
+Sanders GT, Huijgen HJ, Sanders R. Magnesium in disease: a review with
+special emphasis on the serum ionized magnesium. Clin Chem Lab
+Med 1999;37(11–12):1011–1033.
+
+391
+Patient with HYPERMAGNESEMIA
+Serum Mg+2 !2.2 mEq/L (2.6 mg/dl)
+
+A Check for:
+
+Initial symptoms
+Changes in EKG
+Check blood chemistries
+
+24 hr urine Mg+2
+
+B Withdrawal Mg+2 infusion
+Hydration
+Dialysis
+
+

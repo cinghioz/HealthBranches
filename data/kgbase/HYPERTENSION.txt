@@ -1,0 +1,226 @@
+HYPERTENSION
+
+
+A. Appropriate and standard measurement of blood pressure
+(BP) is imperative to accurately diagnose, manage, and
+treat hypertension. Caffeine, exercise, and smoking should
+be avoided for at least 30 minutes prior to measurement
+and patients should be seated with the arm being
+measured at heart level. Indications for ambulatory BP
+monitoring include suspected “white coat” hypertension,
+hypotensive symptoms on therapy, episodic hypertension,
+and autonomic dysfunction.
+B. Newer clinical guidelines for the management of hypertension stress the importance of treating all patients
+with hypertension (systolic BP [SBP] !140 mm Hg or
+diastolic BP [DBP] !90 mm Hg), rather than risk
+stratifying based on cardiovascular risk factors to determine who to treat. This is seen by the new designation
+of “prehypertension,” which comprises those patients at
+high risk for the development of hypertension. In addition, those who present with markedly elevated BP
+(!180/120 mm Hg) must be assessed for end-organ
+damage to rule out hypertensive crisis (urgency or
+emergency) (see Table 2).
+C. The initial evaluation of a patient with hypertension
+includes history, physical examination, laboratory tests
+(urinalysis [UA], glucose, chemistry, fasting lipids),
+and ECG. This allows for screening of identifiable
+causes of hypertension (e.g., hypokalemia → mineralocorticoid excess; elevated creatinine → kidney disease; striae → cushingoid state; age "30 and/or femoral bruit → renovascular disease; etc.).
+D. The use of lifestyle modifications is a requisite component of hypertension management. Weight loss, physical activity, moderation of alcohol consumption, and
+the adoption of a low-salt diet can lower BP up to
+20 mm Hg.
+E. A large body of evidence from randomized controlled
+trials now supports the use of specific classes of antihypertensive medications based on underlying comorbid
+states (or compelling indications). Initial pharmacologic
+therapy should be guided based on such an indication
+(Table 1). When one is not present, a thiazide diuretic
+or angiotensin-converting enzyme (ACE) inhibitor (if
+risk for coronary artery disease is high) should be firstline therapy. If the target BP is not achieved, a different
+class of antihypertensive medication should be added
+rather than substituted because recent data indicate
+that most people will require multiple agents to achieve
+their target BP. As a result, two-drug combinations are
+reasonable first choices in those with stage 2 hypertension. In the event of a hypertensive crisis, the medications in Table 2 are indicated.
+74
+
+Table 1 Classes of Antihypertensive Medications
+Based on Compelling Indications
+Drug Class
+ACE inhibitor
+ARB
+Beta blocker
+
+Diuretic
+Calcium channel
+blocker
+
+Compelling
+Indications
+Heart failure, post-MI,
+CKD, DM, high
+CAD risk
+Heart failure, DM,
+CKD, LVH
+Heart failure, post-MI,
+angina
+Heart failure, elderly,
+African American
+Angina, PSVT,
+Raynaud’s disease
+
+Adverse Effects
+Cough, renal failure,
+hyperkalemia
+Hyperkalemia, renal failure
+Bronchospasm, heart block
+(2nd or 3rd), worsening
+peripheral vascular disease
+Gout, dyslipidemia
+Heart block (2nd or 3rd
+degree), heart failure
+(systolic)
+
+ACE, angiotensin-converting enzyme; ARB, adrenergic receptor binder;
+CAD, coronary artery disease; CKD, chronic kidney disease; DM, diabetes mellitus; LVH, left ventricular hypertrophy; MI, myocardial infarction;
+PSVT, paroxysmal supraventricular tachycardia.
+
+Table 2 Hypertensive Crises
+Drug
+Nitroglycerin
+Nitroprusside
+
+Mechanism
+Venodilator
+Arteriolar/venous dilator
+
+Nicardipine
+
+Calcium channel blocker
+(dihydropyridine)
+Alpha/beta blocker
+Direct vasodilator
+
+Labetalol
+Hydralazine
+
+Indication
+Myocardial ischemia
+Aortic dissection (with
+concomitant beta
+blocker)
+Most situations (caution
+in heart failure)
+Most situations
+Pregnancy (preeclampsia)
+
+If evidence of end-organ damage (Myocardial infarction, cerebrovascular
+accident, congestive heart failure, glomerulonephritis), must use parenteral agent to urgently lower BP. If asymptomatic, can use oral agents
+and follow up closely.
+
+References
+The ALLHAT Officers and Coordinators for the ALLHAT Collaborative
+Research Group. Major outcomes in high-risk hypertensive patients
+randomized to angiotensin-converting enzyme inhibitor or calcium
+channel blocker vs. diuretic: the Antihypertensive and Lipid-Lowering
+Treatment to Prevent Heart Attack Trial (ALLHAT). JAMA
+2002;288:2981–2997.
+August P. Initial treatment of hypertension. N Engl J Med 2003;348: 610617.
+Chobanian AV, Bakris GL, Black HR, et al. The seventh report of the
+Joint National Committee on Prevention, Detection, Evaluation, and
+Treatment of High Blood Pressure: the JNC 7 Report. JAMA
+2003;289:2560–2572.
+The Heart Outcomes Prevention Evaluation Study Investigators. Effects
+of an angiotensin-converting-enzyme inhibitor, ramipril, on cardiovascular events in high-risk patients. N Engl J Med 2000;342:145–153.
+Kaplan N. Kaplan’s Clinical Hypertension, 8th ed. Philadelphia: Lippincott
+Williams & Wilkins, 2002.
+
+75
+Patient with HYPERTENSION
+
+A Blood pressure
+
+(average of two readings
+at two separate times)
+
+B SBP 120 –139 mm Hg or
+
+B SBP !140 mm Hg or
+
+B SBP !180 mm Hg or
+
+DBP !90 mm Hg
+
+DBP 80 – 89 mm Hg
+
+DBP !120 mm Hg
+
+C History, physical
+
+Prehypertension
+
+New onset or endorgan damage?
+
+examination,
+laboratory tests,
+ECG
+
+Encourage lifestyle
+modifications, monitor
+closely
+
+D Lifestyle modifications:
+
+No
+
+Yes
+
+Treat with oral
+agents
+Follow closely
+
+Hypertensive crisis
+(see Table 2)
+
+low-salt diet, weight
+loss, exercise
+
+At target BP?
+"140/90 mm Hg
+or
+"130/80 mm Hg for
+diabetes mellitus,
+chronic kidney disease
+
+No
+
+E Compelling
+indication
+
+Treatment based
+on indication
+(see Table 1)
+
+Yes
+
+No compelling
+indication
+
+Stage 1:
+140 –159/80 – 89 mm Hg
+Single-drug therapy
+with thiazide diuretic
+or ACE inhibitor
+
+Continue lifestyle
+modifications
+
+Stage 2:
+SBP !160 mm Hg
+or DBP !90 mm Hg
+Consider two-drug
+combination
+
+If not at target BP,
+add different class of
+drug based on side effect
+profile and/or indication
+
+

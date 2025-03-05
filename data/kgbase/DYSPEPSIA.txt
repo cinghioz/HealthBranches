@@ -1,0 +1,196 @@
+DYSPEPSIA
+
+A. Dyspepsia is defined as chronic or recurrent pain or
+discomfort centered in the upper abdomen, mainly in or
+around the midline as opposed to the right or left hypochondrium (Rome II criteria). Discomfort is characterized by or associated with fullness, early satiety, bloating,
+or nausea. Dyspepsia may or may not be related to eating meals. The annual prevalence of recurrent dyspepsia
+is approximately 25% over a 3- to 12-month period. If
+frequent heartburn is included in dyspeptic symptoms,
+the prevalence exceeds 40%.
+The physical examination is usually normal except
+for mild epigastric tenderness. Examination should assess for GI blood loss, jaundice, abdominal mass or organomegaly, and signs of malabsorption. Screening
+laboratory tests include CBC and general biochemistries, including liver function tests and amylase. Additional studies may include stool inspection for parasites,
+abdominal radiography (for obstruction, calcifications),
+and gastroduodenal motility studies.
+Dyspepsia can be caused by a number of disorders.
+Functional (idiopathic) dyspepsia, also referred to as
+nonulcer dyspepsia, accounts for up to 60% of cases.
+Gastroduodenal ulcer disease is found in approximately
+15%–25% of patients with dyspepsia but cannot be accurately distinguished from functional dyspepsia based
+on the symptom pattern. Atypical gastroesophageal reflux disease accounts for 5%–15% of cases. The presence of gastroesophageal reflux disease (GERD) is important to identify because the treatment of this disorder
+differs from the treatment of other causes of dyspepsia.
+Gastric or esophageal cancer is present in !2% of cases
+with dyspepsia. Biliary tract disease is a rare cause of
+chronic dyspepsia. Association between gallstones and
+
+186
+
+dyspepsia should be made cautiously to avoid unnecessary cholecystectomy because gallstones may silently
+coexist in patients with dyspepsia.
+B. NSAIDs can cause dyspepsia, and their use should
+be discontinued. Other medications that commonly
+cause dyspepsia include potassium supplements, iron,
+antibiotics (especially macrolides, sulfonamides, metronidazole), digitalis, corticosteroids, niacin, gemfibrozil, narcotics, colchicine, quinidine, estrogens, and
+theophylline.
+C. Gastroesophageal malignancy is an uncommon cause
+of chronic dyspepsia. In addition to age older than
+45–55 years, alarm symptoms such as weight loss, persistent vomiting, dysphagia, anemia, hematemesis, palpable abdominal mass, family history of upper GI
+carcinoma, and previous gastric surgery raise the suspicion of gastric malignancy and should lead to prompt
+endoscopy. Referral for upper endoscopy is always indicated in older patients presenting with new-onset
+dyspepsia.
+D. It is recommended that young patients with dyspepsia
+without any alarm features undergo a noninvasive Helicobacter pylori test such as H. pylori breath or stool
+test. The rationale for testing for H. pylori in patients
+with dyspepsia is based on peptic ulcer disease as the
+etiology of a minority of cases of chronic dyspepsia. If
+H. pylori infection is present, then an empiric trial of
+H. pylori eradication treatment is recommended. A
+2- to 4-week trial of an antisecretory agent is recommended for patients with negative H. pylori results.
+Endoscopy is recommended for all patients whose
+symptoms persist or who relapse after empirical
+therapy.
+(Continued on page 188)
+
+187
+Patient with DYSPEPSIA
+
+A Assess symptoms
+
+Heartburn and/or
+regurgitation are
+presenting complaint,
+predominant or frequent
+
+Manage as GERD
+(acid suppression)
+
+B NSAID/COX-2
+inhibitor use
+
+Dyspepsia without
+obvious GERD or
+NSAID use
+
+Consider discontinuing
+NSAID, switching to
+another agent, or
+adding a proton pump
+inhibitor (PPI)
+
+D Age ! 55 yr
+
+No alarm symptoms
+
+C Age " 55 yr or
+
+Test for H. pylori
+
+alarm symptoms
+present
+
+Esophagogastroduodenoscopy
+(EGD)
+
+Negative
+
+Positive
+
+PPI trial
+4– 6 wk
+
+Treat for
+H. pylori
+
+Fails
+
+Fails
+PPI trial
+4 wk
+Fails
+
+Provide reassurance
+Reassess diagnosis
+Cont’d on p 189
+
+188
+E. Patients who fail to respond to empiric therapeutic approaches should also undergo endoscopy. The majority
+of patients will be diagnosed as having functional dyspepsia. These patients may respond to reassurance and
+if necessary a course of antisecretory or prokinetic
+therapy. If symptoms persist, other treatments may
+include behavioral therapy, psychotherapy, or antidepressant therapy.
+F. Functional dyspepsia, the most common type of dyspepsia encountered in clinical practice, is defined as follows:
+at least 12 weeks, which need not be consecutive, within
+the preceding 12 months of (1) persistent or recurrent
+dyspepsia (pain or discomfort and centered in the upper
+abdomen); (2) no evidence of organic disease (including
+upper GI endoscopic examination) that is likely to explain symptoms; and (3) no evidence that dyspepsia is
+
+exclusively relieved by defecation or associated with the
+onset of a change in stool frequency or stool form (i.e.,
+not irritable bowel syndrome [IBS]).
+References
+Malfertheiner P, Mégraud F, O’Morain C, et al. Current concepts in the
+management of Helicobacter pylori infection—The Maasstricht 2-2000
+Consensus Report. Aliment Pharmacol Ther 2002;16:167.
+Ofman JJ, Rabe Neck L. The effectiveness of endoscopy in the management of dyspepsia: a qualitative systematic review. Am J Med
+1999;106:335.
+Talley NJ, American Gastroenterological Association. American Gastroenterological Association medical position statement: evaluation of
+dyspepsia. Gastroenterology 2005;129:1753–1755.
+Talley NY, Stanghellini V, Heading RC, et al. Functional gastroduodenal
+disorders. Gut 1999;45(suppl 2):II37–II42.
+
+189
+Provide reassurance
+Reassess diagnosis
+(Cont’d from p 187)
+
+E Consider EGD
+
+Abnormal
+endoscopic
+findings
+
+Biopsies/treatments
+based on endoscopic
+findings
+
+H. pylori detected
+
+Salvage therapy
+
+F H. pylori—negative functional
+
+dyspepsia (normal endoscopy)
+and failed adequate trial of PPI
+
+Normal
+endoscopy
+
+Consider:
+Rapid urease test
+and/or histology
+for H. pylori
+Culture/sensitivity
+testing if previously
+treated for H. pylori
+
+Negative
+Go to F
+
+Reevaluate the symptoms
+and diagnosis
+Consider other sources of
+abdominal pain:
+pancreas, colon, biliary tract
+Does the patient have IBS?
+Does the patient have panic
+disorder or other psychological
+issues?
+
+If symptoms persist with no
+other cause established,
+consider antidepressants,
+hypnotherapy, behavior therapy,
+prokinetic agents
+
+

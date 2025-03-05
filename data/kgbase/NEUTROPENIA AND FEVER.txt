@@ -1,0 +1,307 @@
+NEUTROPENIA AND FEVER
+
+Infection during episodes of chemotherapy-induced neutropenia is the most common cause of treatment-related
+mortality in patients with cancer. Most infections originate
+in the alimentary tract, sinuses, lungs, and skin. The risk of
+infection in a patient with neutropenia primarily is dictated
+by the severity and duration of neutropenia. The lower the
+absolute granulocyte nadir and the more prolonged the
+neutropenia, the greater the risk of serious infection. Fever is common in patients with cancer and may have many
+causes, including infection, the tumor itself, inflammation,
+transfusion of blood products, and chemotherapeutic and
+antimicrobial drugs. In patients with neutropenia, however,
+fever (a single temperature !38.3° C orally or !38° C over
+at least 1 hour) usually is secondary to infection, especially
+if the patient has "500 granulocytes/#l.
+A. In addition to identifying localizing symptoms, the
+medical history should focus on special immunologic
+circumstances or defects that may predispose the patient to opportunistic infections. For example, patients
+with Hodgkin’s disease are at increased risk for herpes
+zoster and cryptococcal meningitis; those who have
+undergone bone marrow transplantation are at risk for
+severe interstitial pneumonia with cytomegalovirus
+(CMV) or respiratory syncytial virus (RSV); and those
+taking high-dose steroids are at increased risk for
+pneumocystis pneumonia and fungal infections. Steroid use may further hide the signs and symptoms
+of infection, masking the seriousness of the clinical
+presentation. For instance, delirium may be the
+only manifestation of a serious infection in a patient
+receiving high-dose steroids.
+B. A thorough physical examination must include careful
+auscultation of the lungs and meticulous evaluation
+of the integument, oral cavity, genitalia, and perianal
+region. Evaluation of the entire integument should
+focus especially on sites of vascular access and previous
+invasive procedures as potential portals for infection.
+The characteristic signs and symptoms of infections
+may be absent in patients with neutropenia who are
+unable to mount an adequate inflammatory response.
+C. In addition to routine blood tests, culture blood from
+two separate sites, culture urine, and order a chest
+radiograph. Perform other tests such as stool culture,
+lumbar puncture, abdominal radiography, and bronchoscopy only if clinically indicated. For instance, in
+patients with diarrhea, culture for bacteria, ova, and
+parasite and perform a toxic screen for Clostridium difficile. Even with a comprehensive evaluation, a specific
+pathogen is initially identified in only 30%–50%
+274
+
+D.
+
+E.
+
+F.
+
+G.
+
+of patients. With profound neutropenia ("100 cells/#l),
+bacteremias can be documented in only 15%–20% of
+febrile episodes.
+Antimicrobial therapy is directed against the pathogens
+most likely to be responsible for the primary infection.
+Aerobic gram-negative bacilli, especially Klebsiella,
+Escherichia coli, and Pseudomonas aeruginosa, account
+for 30%–40% of all culture-confirmed infections. The
+incidence of gram-positive cocci (e.g., Staphylococcus
+aureus, coagulase-negative staphylococci, streptococci,
+pneumococci, Corynebacterium spp.) has risen significantly and now represents 60%–70% of isolates in many
+hospitals. Monotherapy with carbapenems (imipenem
+or meropenem), cefepime, or occasionally ceftazidime
+is acceptable for uncomplicated episodes of fever in
+patients with neutropenia, particularly in those with
+fever of unknown origin. Although, alternatively, aminoglycosides may be given in combination with an antipseudomonal penicillin in all patients with fever and
+neutropenia, aminoglycosides may be added to a
+third- or fourth-generation cephalosporin or carbapenems in patients with documented P. aeruginosa infection, pneumonia, or sepsis with mental status changes or
+hypoxemia with the emergence of vancomycin-resistant
+gram-positives such as E. faecium. Use vancomycin only
+in (1) patients with catheter-related infection with
+catheter site inflammation, (2) patients who received
+quinolone prophylaxis, (3) patients with severe mucositis, or (4) patients known to have been colonized with
+methicillin-resistant S. aureus or penicillin-resistant
+S. pneumoniae.
+If the patient becomes afebrile within 48 hours, no
+organism is identified, all sites of infection resolve,
+and the absolute neutrophil count (ANC) is !500/#l,
+discontinue the antibiotic regimen after 7 days.
+If a patient remains neutropenic but has been afebrile
+for $5 days, has stable vital signs, and is without mucositis but has an ANC 100–500/#l, discontinue antibiotics
+and monitor closely. If the temperature increases again,
+panculture immediately and resume broad-spectrum
+antibiotics. Patients with neutropenia at high risk (ANC
+"100/#l or with mucositis or unstable vital signs) should
+be continued on antibiotics until ANC is !500/#l and
+the patient is clinically improved.
+Patients who remain neutropenic and febrile at day 4 but
+are clinically improved may continue the same initial
+regimen for a total of 7 days. However, if there is clinical
+deterioration, modify the antibiotic regimen depending
+on the clinical picture. For instance, for patients with
+severe mucositis or catheter site inflammation who have
+
+NEUTROPENIA AND FEVER
+Ana Maria López, MD, MPH, FACP
+
+Infection during episodes of chemotherapy-induced neutropenia is the most common cause of treatment-related
+mortality in patients with cancer. Most infections originate
+in the alimentary tract, sinuses, lungs, and skin. The risk of
+infection in a patient with neutropenia primarily is dictated
+by the severity and duration of neutropenia. The lower the
+absolute granulocyte nadir and the more prolonged the
+neutropenia, the greater the risk of serious infection. Fever is common in patients with cancer and may have many
+causes, including infection, the tumor itself, inflammation,
+transfusion of blood products, and chemotherapeutic and
+antimicrobial drugs. In patients with neutropenia, however,
+fever (a single temperature !38.3° C orally or !38° C over
+at least 1 hour) usually is secondary to infection, especially
+if the patient has "500 granulocytes/#l.
+A. In addition to identifying localizing symptoms, the
+medical history should focus on special immunologic
+circumstances or defects that may predispose the patient to opportunistic infections. For example, patients
+with Hodgkin’s disease are at increased risk for herpes
+zoster and cryptococcal meningitis; those who have
+undergone bone marrow transplantation are at risk for
+severe interstitial pneumonia with cytomegalovirus
+(CMV) or respiratory syncytial virus (RSV); and those
+taking high-dose steroids are at increased risk for
+pneumocystis pneumonia and fungal infections. Steroid use may further hide the signs and symptoms
+of infection, masking the seriousness of the clinical
+presentation. For instance, delirium may be the
+only manifestation of a serious infection in a patient
+receiving high-dose steroids.
+B. A thorough physical examination must include careful
+auscultation of the lungs and meticulous evaluation
+of the integument, oral cavity, genitalia, and perianal
+region. Evaluation of the entire integument should
+focus especially on sites of vascular access and previous
+invasive procedures as potential portals for infection.
+The characteristic signs and symptoms of infections
+may be absent in patients with neutropenia who are
+unable to mount an adequate inflammatory response.
+C. In addition to routine blood tests, culture blood from
+two separate sites, culture urine, and order a chest
+radiograph. Perform other tests such as stool culture,
+lumbar puncture, abdominal radiography, and bronchoscopy only if clinically indicated. For instance, in
+patients with diarrhea, culture for bacteria, ova, and
+parasite and perform a toxic screen for Clostridium difficile. Even with a comprehensive evaluation, a specific
+pathogen is initially identified in only 30%–50%
+274
+
+D.
+
+E.
+
+F.
+
+G.
+
+of patients. With profound neutropenia ("100 cells/#l),
+bacteremias can be documented in only 15%–20% of
+febrile episodes.
+Antimicrobial therapy is directed against the pathogens
+most likely to be responsible for the primary infection.
+Aerobic gram-negative bacilli, especially Klebsiella,
+Escherichia coli, and Pseudomonas aeruginosa, account
+for 30%–40% of all culture-confirmed infections. The
+incidence of gram-positive cocci (e.g., Staphylococcus
+aureus, coagulase-negative staphylococci, streptococci,
+pneumococci, Corynebacterium spp.) has risen significantly and now represents 60%–70% of isolates in many
+hospitals. Monotherapy with carbapenems (imipenem
+or meropenem), cefepime, or occasionally ceftazidime
+is acceptable for uncomplicated episodes of fever in
+patients with neutropenia, particularly in those with
+fever of unknown origin. Although, alternatively, aminoglycosides may be given in combination with an antipseudomonal penicillin in all patients with fever and
+neutropenia, aminoglycosides may be added to a
+third- or fourth-generation cephalosporin or carbapenems in patients with documented P. aeruginosa infection, pneumonia, or sepsis with mental status changes or
+hypoxemia with the emergence of vancomycin-resistant
+gram-positives such as E. faecium. Use vancomycin only
+in (1) patients with catheter-related infection with
+catheter site inflammation, (2) patients who received
+quinolone prophylaxis, (3) patients with severe mucositis, or (4) patients known to have been colonized with
+methicillin-resistant S. aureus or penicillin-resistant
+S. pneumoniae.
+If the patient becomes afebrile within 48 hours, no
+organism is identified, all sites of infection resolve,
+and the absolute neutrophil count (ANC) is !500/#l,
+discontinue the antibiotic regimen after 7 days.
+If a patient remains neutropenic but has been afebrile
+for $5 days, has stable vital signs, and is without mucositis but has an ANC 100–500/#l, discontinue antibiotics
+and monitor closely. If the temperature increases again,
+panculture immediately and resume broad-spectrum
+antibiotics. Patients with neutropenia at high risk (ANC
+"100/#l or with mucositis or unstable vital signs) should
+be continued on antibiotics until ANC is !500/#l and
+the patient is clinically improved.
+Patients who remain neutropenic and febrile at day 4 but
+are clinically improved may continue the same initial
+regimen for a total of 7 days. However, if there is clinical
+deterioration, modify the antibiotic regimen depending
+on the clinical picture. For instance, for patients with
+severe mucositis or catheter site inflammation who have
+
+275
+Patient with FEVER !38% C AND ABSOLUTE NEUTROPHIL COUNT "500/#l
+
+A History
+B Physical examination
+
+C Blood cultures
+
+Urine cultures
+Chest films
+If needed:
+Stool culture
+Lumbar puncture
+Abdominal radiograph
+Bronchoscopy
+
+D
+
+Start Broad-Spectrum Antibiotics According to Clinical Setting
+
+Fever of unknown
+origin
+
+Pneumonia
+or
+Sepsis syndrome
+or
+Pseudomonas infection
+
+Mucositis
+or
+Catheter site
+inflammation
+
+Monotherapy
+(Carbapenems,
+Third- or FourthGeneration
+Cephalosporins)
+
+Monotherapy
+and
+Aminoglycoside
+
+Monotherapy
+and
+Vancomycin
+
+Reassess
+
+G Persistent fever at day 4
+
+Rapid defervescence
+
+E ANC !500/ml
+
+F ANC "500/#l
+
+Add Amphotericin B
+and/or
+Modify Antibiotic Regimen
+
+Stop antibiotics
+after total of
+7 days
+Clinically well
+and low risk
+Stop antibiotics
+after total of 5–7
+afebrile days
+
+High risk:
+Mucosal lesion
+ANC "100 #l
+Unstable vital signs
+
+May Continue
+Antibiotics until
+ANC !500/#l and
+Clinically Well
+
+a high likelihood of a gram-positive infection, vancomycin may be added if not previously included. For patients
+with pneumonia or sepsis syndrome, add aminoglycoside, IV quinolone (e.g., ciprofloxacin), or trimethoprimsulfamethoxazole (if not previously included) to cover
+resistant gram-negatives such as P. aeruginosa or Stenotrophomonas maltophilia, respectively. Add fluconazole
+if the patient is febrile through day 5 and resolution of
+neutropenia is not imminent. If the patient received
+fluconazole prophylaxis before the onset of fever, consider amphotericin B. Even if the patient is clinically
+improved while receiving antibiotics, perform a thorough examination daily, including the skin, oral cavity,
+genitalia, perianal area, and sites of venous access as
+outlined previously. Take seriously any medical complaint, and pursue the cause immediately. For instance,
+mild discomfort in the maxillary region is often the first
+
+sign of a grave fungal infection caused by Aspergillus or
+Mucor; tenderness in the perianal area may indicate a
+superimposed anaerobic infection; and right-sided abdominal discomfort may be the first clue to the diagnosis
+of typhlitis.
+References
+Bodey GP. Evolution of antibiotic therapy for infection in neutropenic
+patients: studies at M.D. Anderson Hospital. Rev Infect Dis
+1989;11:1582S.
+Hughes WT, Armstrong D, Bodey GP, et al. Guidelines for the use of
+antimicrobial agents in neutropenic patients with unexplained fever.
+J Infect Dis 1990;161:381.
+Hughes WT, Armstrong D, Bodey GP, et al. 1997 Guidelines for the use
+of antimicrobial agents in neutropenic patients with unexplained fever.
+Clin Infect Dis 1997;25:551.
+Pizzo PA. Management of fever in patients with cancer and treatmentinduced neutropenia. N Engl J Med 1993;328:1323.
+
+

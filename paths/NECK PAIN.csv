@@ -1,0 +1,11 @@
+source,leaf,paths
+root,Trauma,Patient with NECK PAIN -> History -> Trauma
+root,Onset of pain,Patient with NECK PAIN -> History -> Onset of pain
+root,Neurologic symptoms,Patient with NECK PAIN -> History -> Neurologic symptoms
+root,Features of inflammatory arthritis,Patient with NECK PAIN -> History -> Features of inflammatory arthritis
+root,Neurologic findings,Patient with NECK PAIN -> Physical examination -> Neurologic findings
+root,Localization of painful areas,Patient with NECK PAIN -> Physical examination -> Localization of painful areas
+root,"Plain radiographs (Include anteroposterior, lateral, oblique, flexion-extension, and open-mouth views of odontoid)","Patient with NECK PAIN -> Imaging -> Plain radiographs (Include anteroposterior, lateral, oblique, flexion-extension, and open-mouth views of odontoid)"
+root,MRI or CT,Patient with NECK PAIN -> Imaging -> MRI or CT
+root,Electromyography,Patient with NECK PAIN -> Imaging -> Electromyography
+root,Laboratory tests: ESR or C-reactive protein in patients with suspected inflammatory arthritis or infection,Patient with NECK PAIN -> Imaging -> Laboratory tests: ESR or C-reactive protein in patients with suspected inflammatory arthritis or infection

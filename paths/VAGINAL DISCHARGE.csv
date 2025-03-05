@@ -1,0 +1,9 @@
+source,leaf,paths
+root,Possible allergic reaction,"Patient with Vaginal Discharge -> History, Physical examination -> Wet mount and Pap smear -> Nondiagnostic -> Possible allergic reaction"
+root,"Check cultures for gonorrhea, Chlamydia. Observe for evidence of HSV, HPV, or aphthous ulcers","Patient with Vaginal Discharge -> History, Physical examination -> Wet mount and Pap smear -> Nondiagnostic -> Check cultures for gonorrhea, Chlamydia. Observe for evidence of HSV, HPV, or aphthous ulcers"
+root,Treat Patient and Partner,"Patient with Vaginal Discharge -> History, Physical examination -> Wet mount and Pap smear -> Evidence of Trichomonas -> Treat Patient and Partner"
+root,Treat Orally or Topically,"Patient with Vaginal Discharge -> History, Physical examination -> Wet mount and Pap smear -> Evidence of BV (i.e., clue cells) -> BV -> Treat Orally or Topically"
+root,Topical Therapy ×3-6 wk,"Patient with Vaginal Discharge -> History, Physical examination -> Wet mount and Pap smear -> Evidence of BV (i.e., clue cells) -> BV -> Recurrence -> Topical Therapy ×3-6 wk"
+root,"Evaluate for risk factors, Check cultures","Patient with Vaginal Discharge -> History, Physical examination -> Wet mount and Pap smear -> Evidence of yeast (i.e., pseudohyphae) -> Treat Topically or Orally -> Frequent recurrence -> Evaluate for risk factors, Check cultures"
+root,Treat with 30-day Topical Course,"Patient with Vaginal Discharge -> History, Physical examination -> Wet mount and Pap smear -> Evidence of yeast (i.e., pseudohyphae) -> Treat Topically or Orally -> Frequent recurrence -> Treat with 30-day Topical Course"
+root,Suppressive Therapy ×6-12 mo Topically,"Patient with Vaginal Discharge -> History, Physical examination -> Wet mount and Pap smear -> Evidence of yeast (i.e., pseudohyphae) -> Treat Topically or Orally -> Frequent recurrence -> Suppressive Therapy ×6-12 mo Topically"

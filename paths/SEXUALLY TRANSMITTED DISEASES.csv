@@ -1,0 +1,8 @@
+source,leaf,paths
+Suspected SEXUALLY TRANSMITTED DISEASE,Screen all patients for occult STDs,Patient with Suspected SEXUALLY TRANSMITTED DISEASE -> Comprehensive history and physical examination -> Screen all patients for occult STDs
+Suspected SEXUALLY TRANSMITTED DISEASE,Consider herpes simplex,Patient with Suspected SEXUALLY TRANSMITTED DISEASE -> Comprehensive history and physical examination -> Genital ulcers -> Genital ulcers -> Vesicles ± pain and pruritus -> Consider herpes simplex
+Suspected SEXUALLY TRANSMITTED DISEASE,Consider LGV,Patient with Suspected SEXUALLY TRANSMITTED DISEASE -> Comprehensive history and physical examination -> Genital ulcers -> Genital ulcers -> Unilateral inguinal lymphoadenopathy ± suppuration (bubo) -> Consider LGV
+Suspected SEXUALLY TRANSMITTED DISEASE,Consider syphilis,Patient with Suspected SEXUALLY TRANSMITTED DISEASE -> Comprehensive history and physical examination -> Genital ulcers -> Genital ulcers -> Painless ulcers -> Consider syphilis
+Suspected SEXUALLY TRANSMITTED DISEASE,Exquisitely painful genital ulcers,Patient with Suspected SEXUALLY TRANSMITTED DISEASE -> Comprehensive history and physical examination -> Genital ulcers -> Genital ulcers -> Exquisitely painful genital ulcers
+Suspected SEXUALLY TRANSMITTED DISEASE,Urethritis,Patient with Suspected SEXUALLY TRANSMITTED DISEASE -> Comprehensive history and physical examination -> Urethritis
+Suspected SEXUALLY TRANSMITTED DISEASE,Cervicitis vaginitis,Patient with Suspected SEXUALLY TRANSMITTED DISEASE -> Comprehensive history and physical examination -> Cervicitis vaginitis

@@ -1,0 +1,148 @@
+SERONEGATIVE ARTHRITIS
+A. The algorithm for this chapter starts at a point where a
+patient is suspected of inflammatory arthritis and serologic testing is negative for rheumatoid factor. Inflammatory arthritis is suggested by morning stiffness lasting
+!30 minutes, improvement rather than worsening with
+exercise, and soft-tissue swelling. Notable among the
+seronegative arthritides are the spondyloarthropathies,
+including ankylosing spondylitis, reactive arthritis, psoriatic arthritis, and arthritis associated with inflammatory
+bowel disease (IBD).
+B. The distinction between inflammatory and degenerative disease, particularly of the spine, hip, and shoulder
+joints, is often difficult. Elevated ESR and C-reactive
+protein (CRP) are nonspecific and insensitive markers
+of seronegative arthritis but are nevertheless suggestive of inflammatory disease if elevated. The presence
+of effusion in a peripheral joint is suggestive of inflammatory arthritis, which can be documented by aspiration of synovial fluid having a WBC count of !2000
+cells/mm3. Human leukocyte antigen (HLA)-B27 is
+highly associated with ankylosing spondylitis and reactive arthritis syndromes that include the extraarticular
+manifestations described later (Reiter’s syndrome).
+HLA-B27 is less strongly linked to arthritis associated
+with IBD or psoriasis unless the syndrome features
+spinal arthritis and/or anterior uveitis (iritis). Because
+HLA-B27 is common in populations at risk for seronegative arthritides, testing is only theoretically helpful
+when the pretest probability of ankylosing spondylitis
+is between 30% and 70%, a problematic estimation in
+routine practice. An infectious workup is indicated in
+the event of acute onset of seronegative arthritis with
+or without extracellular manifestations. Stool culture
+for Salmonella, Shigella, Yersinia, and Campylobacter
+should be considered, as should urethral swab or urine
+testing for Chlamydia. Streptococcal and other infections are also associated with reactive inflammatory
+syndromes involving arthritis, but these are not associated with HLA-B27 and do not present with the characteristic features of the spondyloarthropathies.
+C. Spinal and/or sacroiliac (SI) involvement is suggested
+by low back pain and stiffness, neck pain and stiffness,
+or posterior thoracic pain with deep breathing or
+coughing. Schober’s test is sensitive for lumbar spine
+disease but is nonspecific. With the patient standing, a
+mark is made at the L5 level (“dimples of Venus”) and
+another 10 cm above. The patient is asked to flex the
+trunk forward with the arms hanging down toward the
+516
+
+floor (and may bend the legs slightly so as to avoid a
+false-positive test result because of hamstring tightness), and the space between the points is measured.
+Expansion to "15 cm is abnormal. Chest expansion
+should be measured from forced expiration to full inspiration; expansion !5 cm is normal, and "2.5 cm is
+clearly abnormal. Physical examination tests for SI joint
+pathology are insensitive and nonspecific.
+D. Radiography of the SI joints should be done to look for
+evidence of erosive disease suggestive of inflammation.
+An anteroposterior (AP) view of the pelvis is usually
+sufficient, although the Ferguson view is probably more
+sensitive. Radiography of the spine may show characteristic bony changes at the corners of the vertebral
+bodies (syndesmophytes). Radiographic changes usually occur only after several years of disease; earlier, CT,
+MRI, and bone scan are more sensitive, although bone
+scan does not distinguish between inflammatory and
+degenerative disease. All patients with ankylosing
+spondylitis have SI and/or spinal arthritis, but the spine
+is involved in a minority of patients with other spondyloarthropathies.
+E. Peripheral joint involvement is often asymmetric; oligoarticular; and most common in proximal and lower
+extremity joints in ankylosing spondylitis, reactive arthritis, and IBD-associated arthritis. Patients with psoriatic
+arthritis can have symmetric polyarthritis that resembles
+rheumatoid arthritis, asymmetric oligoarthritis resembling the other spondyloarthropathies, or arthritis limited to several distal interphalangeal (DIP) joints. Often
+multiple joints and the intervening soft tissue are
+inflamed in a single digit, creating a “sausage digit” (dactylitis), particularly in psoriatic and reactive arthritis.
+Tenosynovitis is also common, particularly around the
+hand/wrist and foot/ankle, in these conditions.
+F. The integumentary findings in psoriasis are most common on the extensor surfaces of the elbows and knees;
+other particularly common locations include the low
+back, hands and feet, scalp, umbilicus, gluteal cleft,
+and glans penis. Nail pitting and onycholysis are common and are associated with arthritis. Clinically and
+histologically similar lesions can occur acutely in reactive arthritis: keratoderma blennorrhagica of the feet,
+circinate balanitis, and nail pitting. Erythema nodosum
+is a syndrome of painful, red, cutaneous nodules on the
+lower legs and is common in IBD. Pyoderma gangrenosa is a more severe and less common neutrophilic
+dermatosis associated with IBD.
+
+517
+Patient with SERONEGATIVE ARTHRITIS
+
+B Laboratory tests:
+
+A History
+
+Physical examination
+
+C Spinal
+
+involvement
+
+E Peripheral
+
+joint
+involvement
+
+ESR
+CRP
+Joint fluid if available
+Infectious workup if indicated
+HLA -B27, selectively
+
+F Skin
+
+involvement
+
+G Other organ
+system
+involvement
+
+D Radiography:
+Plain x-ray
+CT
+MRI
+Bone scan
+
+G. Conjunctivitis is part of the classic triad of Reiter’s
+syndrome. However, anterior uveitis (iritis) is also
+common in reactive arthritis and in ankylosing spondylitis and IBD. A recent history of self-limited diarrhea
+and abdominal pain suggests a precipitating episode of
+gastroenteritis; a chronic history raises suspicion for
+IBD. Urethritis may suggest recent infection with
+Chlamydia. Patients with reactive arthritis may
+develop cardiac conduction defects that are generally
+not serious. Over the longer term, patients with
+ankylosing spondylitis may develop inflammation of
+the ascending aorta, leading to aortic valve insufficiency and/or aneurysm.
+H. Noninflammatory disease of the spine is common.
+Degenerative disk disease and osteoarthritis of the
+spine and SI joints appear different on radiography,
+
+H Noninflammatory
+
+arthritis:
+Osteoarthritis
+Degenerative disk
+disease
+DISH
+
+featuring disk shrinkage and marginal osteophytes
+rather than syndesmophytes. Diffuse idiopathic skeletal hyperostosis (DISH) is a noninflammatory disease
+that features exuberant ossification at sites of tendon
+and ligament attachment, including the spine, often in
+a patchy distribution and usually on the right side.
+
+References
+Kataria RK, Brent LH. Spondyloarthropathies. Am Fam Physician
+2004;69:2853–2860.
+Slobodin G, Rozenbaum M, Boulman N, Rosner I. Varied presentation
+of enthesopathy. Semin Arthritis Rheum 2007;37:119–126.
+
+

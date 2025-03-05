@@ -1,0 +1,11 @@
+source,leaf,paths
+Patient with TREMOR,Asymmetric Idiopathic PD,Patient with TREMOR -> Rest tremor 3-6 Hz -> Asymmetric Idiopathic PD
+Patient with TREMOR,"(multiple system atrophy, progressive supranuclear palsy)","Patient with TREMOR -> Rest tremor 3-6 Hz -> (multiple system atrophy, progressive supranuclear palsy)"
+Patient with TREMOR,(vascular),Patient with TREMOR -> Rest tremor 3-6 Hz -> (vascular)
+Patient with TREMOR,"Cerebellar infarct, mass demyelination or degeneration","Patient with TREMOR -> Kinetic tremor course, large amplitude -> Cerebellar infarct, mass demyelination or degeneration"
+Patient with TREMOR,"Can affect arms, head, and voice","Patient with TREMOR -> Postural and/or kinetic tremor 8-12 Hz -> Can affect arms, head, and voice"
+Patient with TREMOR,Family history and alcohol responsiveness support diagnosis,Patient with TREMOR -> Postural and/or kinetic tremor 8-12 Hz -> Family history and alcohol responsiveness support diagnosis
+Patient with TREMOR,"(hyperthyroidism, hypoglycemia)","Patient with TREMOR -> Postural and/or kinetic tremor 8-12 Hz -> (hyperthyroidism, hypoglycemia)"
+Patient with TREMOR,"(caffeine, lithium, amphetamines, theophylline, valproic acid, tricyclics)","Patient with TREMOR -> Postural and/or kinetic tremor 8-12 Hz -> (caffeine, lithium, amphetamines, theophylline, valproic acid, tricyclics)"
+Patient with TREMOR,"(mercury, lead, alcohol withdrawal)","Patient with TREMOR -> Postural and/or kinetic tremor 8-12 Hz -> (mercury, lead, alcohol withdrawal)"
+Patient with TREMOR,"(fatigue, anxiety)","Patient with TREMOR -> Postural and/or kinetic tremor 8-12 Hz -> (fatigue, anxiety)"

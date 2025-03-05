@@ -1,0 +1,240 @@
+ASYMPTOMATIC ABNORMAL LIVER
+AMINOTRANSFERASES
+
+Liver aminotransferases include aspartate aminotransferase
+(AST, formerly SGOT) and alanine aminotransferase (ALT,
+formerly SGPT). They actively participate in the process of
+gluconeogenesis as mitochondrial and cytosolic enzymes
+within the hepatocyte. Other liver biochemical enzymes include alkaline phosphatase (canalicular membrane), gamma
+glutamyl transpeptidase (hepatocyte and biliary epithelia),
+and 5´-nucleotidase (sinusoidal and canalicular membrane).
+Abnormally increased serum liver enzymes are reported
+in approximately 0.5%–4% of the asymptomatic population, usually when routine health screening testing is
+performed. The first step when evaluating a patient with
+increased liver biochemistries is to assess the degree of
+abnormality. If those are minimal (usually 2–5 times the
+upper limit of the reference range), retesting is necessary
+to avoid excessive and expensive workup.
+Of significance is that reference laboratory values are
+defined as the mean of the distribution ± 2 standard deviations of the normal population. Therefore, there will always
+be a subset of asymptomatic patients (2.5% above and
+2.5% below the reference range) without any demonstrable
+cause of minimally “abnormal” liver chemistries. However,
+patients with underlying chronic liver disease may have
+fluctuating levels of “normal” serum liver biochemistries
+throughout the course of their disease. Physiologic states
+can also lead to elevated liver enzymes (e.g., pregnancy induces elevation of alkaline phosphatase).
+A. If a significant abnormal pattern is detected, use the
+diagnostic clues to guide further testing. During the
+initial evaluation, review patient symptoms; risk factors
+for liver disease (alcohol abuse, illicit drug use, tattoos,
+history of blood transfusions, sexual history); associated
+morbid conditions (diabetes or glucose intolerance,
+
+222
+
+obesity, dyslipidemia); medications (including herbal/
+alternative and over-the-counter medications); and
+family history. Perform a thorough physical examination. Look for stigmata of chronic liver disease such as
+spider angiomas, palmar erythema, gynecomastia, testicular atrophy, and Duputyren’s contractures during
+physical examination.
+B. The clinical significance of any liver chemistry test abnormality must be interpreted in the context of each
+clinical setting. Generally, these abnormalities can be
+further categorized into three main groups: hepatocellular injury predominance (AST/ALT), associated
+cholestasis (increased alkaline phosphatase and bilirubin), and/or associated impaired metabolic/synthetic
+liver function (low albumin, prolonged prothrombin
+time [PT]). Specific ratios and levels of serum AST to
+ALT may be useful in differential diagnosis. For example, in most forms of acute liver injury this ratio is
+!1, whereas in alcoholic hepatitis it is typically "2.
+Elevation of these enzymes "1000 U/L suggests ongoing acute viral, drug, or ischemic insult to the liver.
+Epidemiologic factors help guide further evaluation
+and management. Worldwide, viral hepatitides are the
+most common causes of abnormal liver transaminases.
+Hereditary hemochromatosis (HH) is also frequent.
+Therefore, initial testing for mildly elevated aminotransferases must include serologies for hepatitis A, B,
+and C viruses as well as fasting iron (Fe) studies (serum ferritin and iron saturation). Nonalcoholic fatty
+liver disease (NAFLD) unfortunately has no specific
+serologic test available, and it is increasing in frequency. Risk factors for fatty liver include the presence
+of obesity, hypertriglyceridemia, glucose intolerance,
+and diabetes mellitus.
+(Continued on page 224)
+
+223
+Patient with ASYMPTOMATIC ABNORMAL LIVER AMINOTRANSFERASES
+Elevated ALT and AST#5 times normal
+
+A History and
+
+physical examination,*
+Discontinuation of
+hepatotoxic medications
+Confirm abnormality
+if an error is suspected
+
+B Liver chemistries, PT,
+
+albumin, CBC with platelets
+Hepatitis A, B, and C serologies†
+Iron, total iron-binding capacity, ferritin
+
+Negative serology,
+asymptomatic patient
+without hepatic
+decompensation
+
+Positive serologic
+evaluation
+Cont’d on p 225
+
+Cont’d on p 225
+
+224
+C. If hepatitis serologies and iron studies are normal, serum ceruloplasmin and alpha-1-antitrypsin should be
+measured to screen for Wilson’s disease and alpha1-antitrypsin deficiency disorders, respectively.
+Chronic autoimmune hepatitis can be another less
+common cause of liver AST/ALT elevation. It occurs
+predominantly in women and is often associated with
+thyroiditis and other autoimmune disorders. Serum
+serologic markers to screen for autoimmune hepatitis
+include antinuclear antibody (ANA), anti–smoothmuscle antibody (Ab), and potentially liver kidney
+microsomal (LKM) antibody. Other hepatotropic viruses (concomitant hepatitis E and D, Epstein-Barr,
+cytomegalovirus, and herpes) or infiltrating liver disease (sarcoidosis, tuberculosis, amyloidosis, fungal
+infection, and lymphomas) can be a cause for elevated
+aminotransferases. Uncommon nonhepatic causes for
+abnormal transaminases include thyroid disease,
+muscle disorders, celiac disease, hemolysis, and
+strenuous exercise.
+When the alkaline phosphatase is also found to be
+abnormally elevated, hepatobiliary or nonhepatic origin
+should be differentiated. Serum assays of 5$-nucleotidase or gamma glutamyl transferase are generally used to
+confirm or exclude a liver-specific origin. Once confirmed, liver imaging studies are recommended to complete inital evaluation. Radiologic tests available include
+utrasonography (US), CT, radionuclide scans, and MRI.
+For biliary obstruction or parenchymal disease, US or
+CT are included as a part of the inital evaluation. If a
+primary or metastasic liver malignancy is suspected, a
+triple-phase CT of the liver is recommended. For the
+
+detection of intrahepatic vascular lesions, a nuclear scan
+or MRI of the liver is necessary. Finally, magnetic resonance cholangiopancreatography (MRCP) is an effective noninvasive imaging technique to evaluate biliary
+ductal anatomy.
+D. Liver biopsy provides important prognostic and diagnostic information in patients with liver disease. However, it should be performed only if the expected
+results exceed the low risks of the procedure. In patients with chronically elevated ("6 months) liver enzymes or with impaired hepatic function, liver biopsy
+should be considered. Recent studies have shown that
+the most likely diagnosis is steatosis and steatohepatitis
+when biopsy is performed for abnormal liver chemistries with unremarkable serologies.
+References
+Daniel S, Ben-Menachem T, Vasudevan G, et al. Prospective evaluation of
+unexplained chronic liver transaminase abnormalities in asymptomatic
+and symptomatic patients. Am J Gastroenterol 1999;94(10):3010–3014.
+Feldman M, Friedman LS, Sleisenger MH. Biochemical liver test. In
+Davern TJ, Scharrschmidt BF, eds. Gastrointestinal and Liver Disease: Pathophysiology, Diagnosis, Management. Vol. 2. Philadelphia:
+Saunders, 2002:1227–1239.
+Goessling W, Friedman LS. Increased liver chemistry in an asymptomatic
+patient. Clin Gastroenterol Hepatol 2005;3(9):852–858.
+Green RM, Flam S. AGA Technical review on the evaluation of liver
+chemistry tests. Gastroenterology 2002;123(4):1367–1384.
+Neuschwander-Tetri BA, Caldwell SH. Nonalcoholic steatohepatitis:
+summary of an AASLD Single Topic Conference. Hepatology
+2003;37(5):1202–1219.
+Pratt DS, Kaplan MM. Evaluation of abnormal liver-enzyme results in
+asymptomatic patients. N Engl J Med 2000;342(17):1266–1271.
+Sampliner RE. The liver disease of asymptomatic patients with elevated
+aminotransferases. Hepatology 1989;10(4):524–525.
+
+225
+Negative serology,
+asymptomatic patient
+without hepatic
+decompensation
+(Cont’d from p 223)
+
+Lifestyle modification:
+Discontinue alcohol
+Stop hepatotoxic
+medications
+Weight loss
+Diabetes control
+
+Positive hepatitis A
+lgM serology
+or
+Positive hepatitis B
+IgM serology
+
+C Consider ultrasound, ANA,
+
+anti–smooth-muscle Ab,
+ceruloplasmin, %1-antitrypsin,
+LKM Ab, alkaline phosphatase
+
+6 months
+
+Abnormal
+results
+
+Repeat liver
+chemistries
+
+Liver biopsy
+
+Normal
+
+Positive serologic
+evaluation
+(Cont’d from p 223)
+
+Elevated
+results
+
+5$-nucleotidase
+Gamma glutamyl
+transferase
+
+Follow clinically
+Serial liver
+chemistries
+
+Positive hepatitis C Ab
+or
+hepatitis B virus–
+antigen positive
+
+Abnormal
+
+Observation
+
+C Ultrasound and serologic evaluation:
+ANA, anti–smooth-muscle Ab,
+ceruloplasmin, %1-antitrypsin,
+antigliadin, and antiendomysial Ab
+
+Clinical improvement
+Liver chemistries
+normalize #6 mo
+
+Observation‡
+
+D Liver biopsy
+
+Persistent liver
+chemistries
+abnormality
+"6 mo
+
+Treat
+
+D Liver biopsy
+
+Elective radiologic and serologic evaluations should be dependent on the clinical scenario specific to an individual patient.
+In addition, depending on the clinical scenario, computerized tomography or abdominal magnetic resonance imaging may
+be preferable to ultrasonography. Patients with more significant elevations of the ALT or AST, with an abnormal albumin or
+prothrombin time, or with evidence of chronic liver disease and/or hepatic decompensation should typically have more
+expeditious evaluations.
+* When findings from these indicate that one or more diagnostic considerations are likely, subsequent evaluation should be
+direct toward establishing these diagnoses.
+† HAV–IgM, HBsAg, and Hepatitis B core antibody–IgM fraction (HBclgM), HCV antibody (consider HCV–RNA).
+‡ Liver biopsy may considered in patients with chronic HCV viremia and either normal or abnormal serum ALT levels.
+Modified from the American Gastroenterological Association. American Gastroenterological Association medical position
+statement: Evaluation of liver chemistry tests. Gastroenterology 2002; 123:1364.
+
+

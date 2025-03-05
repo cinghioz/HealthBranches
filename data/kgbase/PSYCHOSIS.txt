@@ -1,0 +1,282 @@
+PSYCHOSIS
+
+
+A psychotic episode is typified by deranged thinking,
+speech, and behavior, often manifesting as hallucinations
+(false sensory impressions: visual, auditory, olfactory, gustatory, tactile), delusions (false fixed beliefs), difficulty
+distinguishing reality from fantasy, disorganized thinking,
+and strange and inappropriate behavior.
+A. When confronted with a patient who is acutely
+psychotic, the first task is to ensure the safety of the
+patient and others against injury or possible death. A
+calm, low-stimulus environment with nonthreatening
+behavior by staff is essential. Physical force should not
+be threatened unless overwhelming force is available.
+The patient should not be left alone, and an examining
+physician should be accompanied by at least one
+other person. Some patients may need to be restrained
+chemically and/or physically. Patients should be
+questioned about any thoughts of suicide or injuring
+others, which must be taken extremely seriously,
+especially if the hallucinations are auditory and are of
+a command type.
+B. A medical history is essential in the evaluation of a patient who is psychotic. Given the patient’s mental status,
+the most valuable information will probably come from
+
+672
+
+others who know him or her. Inquire about the time
+course of the emerging bizarre behavior and possible
+relation to any preexisting or acute medical conditions,
+recent-onset physical symptoms, exposure to infectious
+or toxic agents, medication use, drug abuse, recent surgery, or physical or psychological trauma.
+C. Possible medical causes of acute psychotic behavior
+should be considered and ruled out immediately.
+Despite the difficulties, perform as complete a physical
+examination as possible, including pupils and, to the
+extent possible, fundi. Examine carefully the patient’s
+entire body for evidence of trauma, substance abuse,
+or any other medical condition. Staring or stereotypic
+motor behavior may suggest a drug-induced or
+seizure-related state, and obtaining an electroencephalogram may be advisable.
+D. Address such readily treatable (and potentially hazardous) conditions as hypoglycemia by such means as
+immediate drawing of blood followed by IV injection
+of a concentrated dextrose solution.
+E. If the history (usually from others), a careful physical
+examination, and indicated laboratory tests fail to reveal
+any organic causes of psychosis, consider a psychiatric
+differential diagnosis.
+(Continued on page 674)
+
+673
+PSYCHOTIC PATIENT
+
+A Ensure safety of patient and others
+Restrain if necessary
+
+B History
+
+Usually from family
+and significant others
+Physical examination
+may require restraint
+of patient
+
+Indicated laboratory tests
+
+C Consider metabolic, neurologic,
+or toxic etiology:
+Hypoglycemia
+Electrolyte or endocrine
+dysfunction
+Seizure disorder
+Intracranial bleeding
+Cerebral tumor
+Drug intoxication
+
+Organic cause found
+
+D Treat condition as appropriate
+
+Place patient in secure setting
+Sedate if necessary
+Diminish stimuli
+
+No organic cause found
+
+E Psychiatric differential
+diagnosis (by history
+and mental status
+examination)
+
+Cont’d on p 675
+
+674
+F. Schizophrenia is a lifelong chronic condition marked
+by acute psychotic episodes interspersed with periods
+of less disturbed but still abnormal behavior. Between
+episodes, people with schizophrenia often show poor
+motivation, social awkwardness, and isolation. Acute
+schizophrenic episodes are typically treated with antipsychotic agents, which usually are maintained at
+lower dosages to mitigate the likelihood and severity of
+future episodes. Now, more patients with schizophrenia
+are taking newer-generation antipsychotic drugs such
+as clozapine (Clozaril), risperidone (Risperdal), olanzapine (Zyprexa), and quetiapine (Seroquel). It is unclear whether these drugs are as able as traditional
+antipsychotic medications to suppress acutely emergent
+psychotic behavior. Moreover, to date, newer agents do
+not come in parenteral form. Use benzodiazepine sedation as needed as an adjunct to antipsychotic drugs
+during acute episodes, especially when the patient
+presents as a danger to self and others.
+G. Mania often presents as an acute psychosis. A history
+typically reveals past episodes of mania or major
+depression. A mental status examination shows the
+patient to have grandiose ideas and be highly excited,
+emotionally labile, overtalkative, pressured in speech,
+and hypersexual. Acute treatment consists of antipsychotic drugs as needed, often with adjunctive lithium.
+Divalproex (Depakote) increasingly is being used to
+suppress acute symptoms of mania. Lithium is the
+mainstay therapy for most patients who are bipolar
+(manic-depressive). The mood stabilizer olanzapine
+(Zyprexa) is also effective in preventing manic and
+mixed-episode relapse/recurrence in patients acutely
+stabilized with olanzapine and lithium cotreatment.
+Both agents are comparable in preventing depression
+relapse/recurrence. Carbamazepine (Tegretol and others) and newer anticonvulsants (notably gabapentin
+[Neurontin] and lamotrigine [Lamictal]) are coming
+into use also. Electroconvulsive therapy (ECT) usually
+is effective for patients who fail to benefit or cannot
+tolerate these medications. Benzodiazepines can be
+used adjunctively to control an acute episode.
+
+H. Psychotic depression may become manifest either as
+a recurrent mood disorder itself or as an episode in
+the course of a bipolar illness. Delusions and hallucinations commonly manifest such depressive themes as
+guilt and punishment. Effective treatments include
+ECT and combined antipsychotic and antidepressant
+drugs. Clozapine and possibly other new antipsychotics
+may be especially helpful in treating psychotic
+depression. Guard against suicide, an omnipresent
+hazard in these patients. In March 2004 the U.S. Food
+and Drug Administration warned physicians and patients regarding increased risk of suicide with 10 newer
+antidepressant drugs. However, available data do not
+indicate a significant increase in risk of suicide or
+serious suicide attempt after starting treatment with
+these newer antidepressant drugs.
+I. Delusional (paranoid) disorder is a chronic condition
+characterized by a fixed and focused delusional system
+in the midst of otherwise-intact thinking. It often is
+refractory to biologic and psychologic treatments.
+J. Patients with dementia often manifest psychotic behaviors that can complicate long-term management.
+Rule out acute medical conditions, and, if possible,
+handle disruptive behaviors through behavioral and
+environmental means. If this is not possible, low dosages of antipsychotic drugs may assist management.
+References
+American Psychiatric Association. Treatment of Psychiatric Disorders: A
+Task Force of the American Psychiatric Association. Washington, DC:
+American Psychiatric Association, 1989:1485, 1655, 1725.
+Gelenberg AJ, Keith SJ. Psychosis. In Gelenberg AJ, Bassak EL,
+eds. The Practitioner’s Guide to Psychoactive Drugs, 4th ed. New York:
+Plenum, 1997.
+Kaplan HI, Sadock BJ, eds. Comprehensive Textbook of Psychiatry, 6th
+ed. Baltimore: Williams & Wilkins, 1994.
+Practice guideline for the psychiatric evaluation of adults, 2nd ed. Am J
+Psychiatry 2006;163(6 Suppl):3–36
+Simon GE, Savarino J, Operskalski B, et al. Suicide risk during antidepressant treatment. Am J Psychiatry 2006;163:41.
+Tohen M, Greil W, Calabrese JR, et al. Olanzapine versus lithium in the
+maintenance treatment of bipolar disorder: a 12-month, randomized,
+double-blind, controlled clinical trial. Am J Psychiatry 2005;162:1281.
+
+675
+PSYCHOTIC PATIENT
+(Cont’d from p 673)
+
+F Schizophrenia
+
+G Acute mania
+
+H Psychotic
+
+Chronic course
+Usually begins in
+adolescence
+Behavior never
+returns to
+normal
+Bizarre thoughts
+and behavior,
+often suspicious
+Social awkwardness
+even when not
+psychotic
+
+History of previous
+episodes of
+mania and
+depression with
+intervening
+periods of
+normalcy
+Excited behavior,
+overtalkative and
+pressured speech
+Grandiose delusions
+Hypersexuality
+
+History of
+previous
+mood episodes
+Intervening
+periods of
+normalcy
+Hallucinations
+and delusions
+consistent with
+depressive
+themes
+
+Acute Treatment
+with Antipsychotic
+Drugs and
+Benzodiazepines
+for Sedation
+
+Antipsychotic Drugs,
+Probably Lithium
+(Usually Effective
+in Maintenance
+Therapy), or
+Possibly Other
+Anticonvulsants
+(e.g., Divalproex)
+Often Adjunctive
+Benzodiazepines
+
+Maintenance Therapy
+with Same Agents
+at Lower Dosages
+
+Consider:
+ECT
+Benzodiazepines
+
+depression
+
+I Delusional
+disorder
+
+Usually chronic
+Thinking may
+be intact
+except for
+fixed, usually
+paranoid
+delusion
+
+Consider:
+ECT
+Combined
+antipsychotic
+and
+antidepressant
+Clozapine and
+perhaps other newer
+antipsychotic drugs
+
+Usually
+difficult
+to treat
+
+J Dementia
+Diagnosis
+established
+If possible,
+manage
+behaviorally:
+Low stimulation
+Consistent
+environment
+Consider low
+dosages of
+antipsychotics
+
+

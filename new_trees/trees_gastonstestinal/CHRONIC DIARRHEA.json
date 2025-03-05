@@ -1,0 +1,314 @@
+{
+  "node": "root",
+  "content": "Chronic Diarrhea",
+  "children": [
+    {
+      "node": "A",
+      "content": "History",
+      "children": [
+        {
+          "node": "A1",
+          "content": "Onset: Congenital, Abrupt, Gradual"
+        },
+        {
+          "node": "A2",
+          "content": "Stool characteristics: Watery, Bloody, Fatty, Fecal Incontinence"
+        },
+        {
+          "node": "A3",
+          "content": "Abdominal pain: IBD, Irritable bowel syndrome, Ischemia, Weight loss, Malabsorption, Neoplasm"
+        },
+        {
+          "node": "A4",
+          "content": "Aggravating factors: Diet, Stress, Mitigating factors, Previous evaluation"
+        },
+        {
+          "node": "A5",
+          "content": "Iatrogenic diarrhea: Drugs, Radiation, Surgery, Factitious diarrhea, Laxatives"
+        },
+        {
+          "node": "A6",
+          "content": "Systemic diseases: Hyperthyroidism, Diabetes mellitus, Collagen vascular diseases, Tumor syndromes, AIDS, Immunoglobulin deficiencies"
+        }
+      ]
+    },
+    {
+      "node": "B",
+      "content": "Physical examination",
+      "children": [
+        {
+          "node": "B1",
+          "content": "General: Fluid balance, Nutrition"
+        },
+        {
+          "node": "B2",
+          "content": "Skin: Flushing, Rashes, Dermatographism"
+        },
+        {
+          "node": "B3",
+          "content": "Thyroid: Mass"
+        },
+        {
+          "node": "B4",
+          "content": "Chest: Wheezing"
+        },
+        {
+          "node": "B5",
+          "content": "Heart: Murmur"
+        },
+        {
+          "node": "B6",
+          "content": "Abdomen: Hepatomegaly, Mass, Ascites, Tenderness"
+        },
+        {
+          "node": "B7",
+          "content": "Anorectal: Sphincter competence, Fecal occult blood test"
+        },
+        {
+          "node": "B8",
+          "content": "Extremities: Edema"
+        }
+      ]
+    },
+    {
+      "node": "C",
+      "content": "Routine laboratory tests",
+      "children": [
+        {
+          "node": "C1",
+          "content": "CBC: Anemia, Leukocytosis"
+        },
+        {
+          "node": "C2",
+          "content": "Chemistry screen: Fluid/electrolyte status, Nutritional status, Serum protein/globulin"
+        },
+        {
+          "node": "C3",
+          "content": "Stool analysis",
+          "children": [
+            {
+              "node": "C3a",
+              "content": "Weight"
+            },
+            {
+              "node": "C3b",
+              "content": "Electrolytes: Osmotic gap"
+            },
+            {
+              "node": "C3c",
+              "content": "pH: Carbohydrate malabsorption"
+            },
+            {
+              "node": "C3d",
+              "content": "Fecal occult blood test: Bleeding"
+            },
+            {
+              "node": "C3e",
+              "content": "Stool WBCs: Inflammation"
+            },
+            {
+              "node": "C3f",
+              "content": "Fat output: Sudan stain, Quantitative"
+            },
+            {
+              "node": "C3g",
+              "content": "Laxative screen"
+            },
+            {
+              "node": "C3h",
+              "content": "Celiac testing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": "Categorize",
+      "content": "Categorize based on history, physical examination, and lab results",
+      "children": [
+        {
+          "node": "D",
+          "content": "Watery diarrhea",
+          "children": [
+            {
+              "node": "D1",
+              "content": "Exclude infection",
+              "children": [
+                {
+                  "node": "D1a",
+                  "content": "Bacterial pathogens: \"Standard\", Aeromonas, Plesiomonas"
+                },
+                {
+                  "node": "D1b",
+                  "content": "Other pathogens: \"Standard\" ova + parasites, Coccidia, Microsporidia, Giardia antigen"
+                }
+              ]
+            },
+            {
+              "node": "D2",
+              "content": "Exclude structural disease",
+              "children": [
+                {
+                  "node": "D2a",
+                  "content": "Small bowel radiographs"
+                },
+                {
+                  "node": "D2b",
+                  "content": "Sigmoidoscopy or colonoscopy with biopsy"
+                },
+                {
+                  "node": "D2c",
+                  "content": "CT scan of abdomen"
+                },
+                {
+                  "node": "D2d",
+                  "content": "Small bowel biopsy and aspirate for quantitative culture"
+                }
+              ]
+            },
+            {
+              "node": "D3",
+              "content": "Selective testing",
+              "children": [
+                {
+                  "node": "D3a",
+                  "content": "Plasma peptides: Gastrin, Calcitonin, VIP, Somatostatin"
+                },
+                {
+                  "node": "D3b",
+                  "content": "Urine: 5-HIAA, Metanephrines, Histamine"
+                },
+                {
+                  "node": "D3c",
+                  "content": "Other tests: TSH, ACTH stimulation, Serum protein electrophoresis, Immunoglobulins"
+                },
+                {
+                  "node": "D3d",
+                  "content": "Cholestyramine trial for bile acid diarrhea"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": "E",
+          "content": "Osmotic diarrhea",
+          "children": [
+            {
+              "node": "E1",
+              "content": "Stool analysis",
+              "children": [
+                {
+                  "node": "E1a",
+                  "content": "Low pH: Carbohydrate malabsorption",
+                  "children": [
+                    {
+                      "node": "E1a1",
+                      "content": "Dietary review"
+                    },
+                    {
+                      "node": "E1a2",
+                      "content": "Breath H2 test (lactose)"
+                    },
+                    {
+                      "node": "E1a3",
+                      "content": "Lactase assay"
+                    }
+                  ]
+                },
+                {
+                  "node": "E1b",
+                  "content": "High Mg output: Inadvertent ingestion, Laxative abuse"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": "F",
+          "content": "Inflammatory diarrhea",
+          "children": [
+            {
+              "node": "F1",
+              "content": "Exclude structural disease",
+              "children": [
+                {
+                  "node": "F1a",
+                  "content": "Small bowel radiographs"
+                },
+                {
+                  "node": "F1b",
+                  "content": "Sigmoidoscopy or colonoscopy with biopsy"
+                },
+                {
+                  "node": "F1c",
+                  "content": "CT scan of abdomen"
+                }
+              ]
+            },
+            {
+              "node": "F2",
+              "content": "Exclude infection",
+              "children": [
+                {
+                  "node": "F2a",
+                  "content": "Bacterial pathogens: \"Standard\", Aeromonas, Plesiomonas, Tuberculosis"
+                },
+                {
+                  "node": "F2b",
+                  "content": "Other pathogens: Parasites, Viruses"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": "G",
+          "content": "Fatty diarrhea",
+          "children": [
+            {
+              "node": "G1",
+              "content": "Exclude structural disease",
+              "children": [
+                {
+                  "node": "G1a",
+                  "content": "Small bowel biopsy"
+                }
+              ]
+            },
+            {
+              "node": "G2",
+              "content": "Exclude pancreatic exocrine insufficiency",
+              "children": [
+                {
+                  "node": "G2a",
+                  "content": "Small bowel radiographs"
+                },
+                {
+                  "node": "G2b",
+                  "content": "CT scan of abdomen"
+                },
+                {
+                  "node": "G2c",
+                  "content": "Secretin test"
+                },
+                {
+                  "node": "G2d",
+                  "content": "Bentiromide test"
+                },
+                {
+                  "node": "G2e",
+                  "content": "Stool chymotrypsin activity"
+                },
+                {
+                  "node": "G2f",
+                  "content": "Small bowel biopsy and aspirate for quantitative culture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

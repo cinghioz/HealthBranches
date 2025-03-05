@@ -1,0 +1,3 @@
+source,leaf,paths
+Root,Maintenance PPI,Patient with HEARTBURN -> Typical symptoms -> PPI -> Step-down therapy -> Upper Endoscopy -> Maintenance PPI||Patient with HEARTBURN -> Typical symptoms -> PPI -> Twice-Daily PPI Therapy -> Upper Endoscopy -> Maintenance PPI||Patient with HEARTBURN -> Alarm symptoms and signs -> Upper Endoscopy -> Maintenance PPI
+Root,Consider upper endoscopy for patient at high risk for Barrett's esophagus,Patient with HEARTBURN -> Consider upper endoscopy for patient at high risk for Barrett's esophagus

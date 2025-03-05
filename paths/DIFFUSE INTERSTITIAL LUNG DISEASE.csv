@@ -1,0 +1,10 @@
+source,leaf,paths
+root,History,Patient with DIFFUSE INTERSTITIAL LUNG DISEASE -> History
+root,Physical examination,Patient with DIFFUSE INTERSTITIAL LUNG DISEASE -> Physical examination
+root,Laboratory values,Patient with DIFFUSE INTERSTITIAL LUNG DISEASE -> Laboratory values
+root,PFTs,Patient with DIFFUSE INTERSTITIAL LUNG DISEASE -> PFTs
+root,CXR,Patient with DIFFUSE INTERSTITIAL LUNG DISEASE -> CXR
+root,Chest CT,Patient with DIFFUSE INTERSTITIAL LUNG DISEASE -> Chest CT
+root,No recovery,Patient with DIFFUSE INTERSTITIAL LUNG DISEASE -> Disease thought to be secondary to drug or exposure -> Eliminate agent -> No recovery
+root,Consider treatment without biopsy,"Patient with DIFFUSE INTERSTITIAL LUNG DISEASE -> Above consistent with diseases such as IPF, PLCH, LAM -> Consider treatment without biopsy"
+root,Treatment based on biopsy results,"Patient with DIFFUSE INTERSTITIAL LUNG DISEASE -> Suspected infection, AEP, CEP, DAH, PLCH, CBD, PAP -> BAL -> Nondiagnostic -> VATS or open-lung biopsy -> Treatment based on biopsy results||Patient with DIFFUSE INTERSTITIAL LUNG DISEASE -> Suspected sarcoidosis, lymphangitic carcinomatosis and others -> BAL -> Nondiagnostic -> VATS or open-lung biopsy -> Treatment based on biopsy results||Patient with DIFFUSE INTERSTITIAL LUNG DISEASE -> Less invasive diagnostic means unlikely to be successful given suspected disease -> VATS or open-lung biopsy -> Treatment based on biopsy results"

@@ -1,0 +1,193 @@
+GYNECOMASTIA
+
+Gynecomastia refers to enlargement of glandular breast
+tissue behind the male nipple. The breast tissue usually
+hypertrophies in response to an absolute or apparent excess
+of estrogen or a deficiency of androgen. These levels may
+be affected by changes in the function of the adrenal gland
+or testes, conversion of estrogens in tissues such as adipose,
+the circulating level of sex-hormone–binding globulin, or
+tissue-specific sensitivity to hormonal stimulation.
+A. If the patient is an adolescent or young adult, then pubertal gynecomastia is the most likely etiology. Transient
+imbalances in the ratio of estrogen to androgen during
+puberty can result in erratic and asymmetric breast development in boys. These changes may persist to adulthood. As the ratio of adipose to muscle increases with
+age, the increased peripheral conversion of androgens
+to estrogens may trigger the onset of gynecomastia de
+novo. Germ cell tumors of the testis, prevalent in this
+age group, should be excluded and the patients reexamined for stability in 6 months.
+B. Testicular neoplasms often secrete human chorionic gonadotropin (hCG) that interferes with normal testicular
+androgen production and increases the conversion of
+androgen to estrogen. Gynecomastia in these patients is
+a poor prognostic sign. In patients in whom further
+investigation of gynecomastia is warranted, levels of
+luteinizing hormone (LH), testosterone (T), estradiol
+(E2), and hCG should be determined.
+C. Drugs are commonly implicated in the etiology of
+gynecomastia. Gynecomastia should not be unexpected
+when treating patients with antiandrogens or estrogens. Some drugs have an intrinsic estrogenic activity;
+others, such as chemotherapeutic agents and drugs of
+abuse (especially marijuana and heroin), interfere with
+normal androgen production in the testes or centrally.
+Spironolactone is an antiandrogen and increases the
+conversion of androgen to estrogen. Similar changes
+are not noted with eplerenone, a newer aldosterone
+antagonist. Alcohol, antituberculous agents, and H2
+receptor antagonists (such as cimetidine or ranitidine)
+have also been implicated as etiologic agents in causing
+gynecomastia.
+D. Other systemic causes should be considered in patients
+not taking contributing drugs, who are beyond puberty,
+and have testicular neoplasm excluded. Malnutrition
+induces a central hypogonadism that does not affect
+
+162
+
+adrenal estrogen production. Cirrhosis is associated
+with an increase in the adrenal production of estrogen
+precursors and increased conversion to estrogen.
+E. Endocrine causes of gynecomastia include central hypogonadism, testicular failure, hyperthyroidism, feminizing adrenal tumors, and true hermaphroditism. The
+etiology and investigation of primary and secondary
+hypogonadism are presented in standard endocrinology texts. Hyperthyroidism is associated with an increase in the concentration of sex-hormone–binding
+globulin, and a shift in the androgen-to-estrogen ratio.
+A feminizing adrenal tumor-can produce large amounts
+of estrogen. Patients with true hermaphroditism who
+have functioning ovarian tissue may similarly present
+with gynecomastia.
+F. Most patients with gynecomastia require no therapy
+other than the removal of the inciting cause, if identified. Even if the cause is not identified, spontaneous
+regression occurs in up to 85% of cases, particularly in
+younger men. Therapy is indicated in cases where the
+gynecomastia causes sufficient pain, embarrassment, or
+distress to interfere with daily life. Surgery remains the
+mainstay of treatment, because gynecomastia of long
+duration becomes fibrosed and unresponsive to medical
+treatment. When onset is recent, medical therapy may
+be useful. Several drugs have been tried for gynecomastia, including the antiestrogens tamoxifen and
+clomiphene, the aromatase inhibitor testolactone, and
+danazol, a weak androgen that inhibits gonadotropin
+secretion. Treatment with dihydrotestosterone, which
+cannot be aromatized to estrogen, is reported to provide symptomatic improvement. Prophylactic radiation
+to the breasts can be used where gynecomastia can be
+predicted, such as when treating prostate cancer
+patients with estrogens.
+References
+Bembo SA, Carlson HE. Gynecomastia: its features, and when and how
+to treat it. Cleve Clin J Med 2004;71(6):511–517.
+Braunstein GD. Gynecomastia. N Engl J Med 1993;328:490–495.
+Daniels IR, Layer GT. Gynaecomastia. Eur J Surg 2001;167(12):
+885–892.
+De Sanctis V, Bernasconi S, Bona G, et al. Pubertal gynecomastia.
+Minerva Pediatr 2002;54(4):357–361.
+Glass AR. Gynecomastia. Endocrinol Metab Clin North Am 1994;23(4):
+825–837.
+Neuman JF. Evaluation and treatment of gynecomastia. Am Fam
+Physician 1997;55(5):1835–1844, 1849–1850.
+
+163
+Male Patient with GYNECOMASTIA
+
+A Etiology
+B Measure serum hCG, LH, T, E2*
+
+C Drugs
+
+D Systemic
+E
+
+F Treatment
+
+causes
+Endocrine
+causes
+
+↑ hCG
+
+↑ LH, ↓ T
+
+↓ or normal LH, ↓ T
+
+↑ LH, ↑ T
+
+↑ E2, ↓ or normal LH
+
+Normal
+
+Testicular
+ultrasonography
+
+Primary
+hypogonadism
+
+Measure serum
+prolactin
+
+Measure thyroxine,
+TSH
+
+Testicular
+ultrasonography
+
+Idiopathic
+gynecomastia
+
+Mass
+Testicular
+germ cell
+tumor
+
+Normal
+Extragonadal
+germ cell
+tumor
+or
+hCG-secreting
+nontrophoblastic
+neoplasm
+Chest film
+Abdominal CT
+
+*Modified from Braunstein.
+
+Elevated
+Probable
+prolactinsecreting
+pituitary
+tumor
+
+Normal
+
+Normal
+
+↑ Thyroxine,
+↓ TSH
+
+Secondary
+hypogonadism
+Hyperthyroidism
+
+Mass
+
+Normal
+
+Leydig
+Adrenal CT or MRI
+or
+Sertoli
+cell tumor
+
+Androgen
+resistance
+
+Mass
+
+Normal
+
+Adrenal
+neoplasm
+
+Increased
+extraglandular
+aromatase
+activity
+
+

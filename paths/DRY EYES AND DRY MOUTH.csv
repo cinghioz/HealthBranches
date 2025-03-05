@@ -1,0 +1,4 @@
+source,leaf,paths
+root,Medication side effects,Patient with DRY EYES AND DRY MOUTH -> Medication side effects
+root,"Rule out other connective tissue disease, Evaluate for organ system involvement","Patient with DRY EYES AND DRY MOUTH -> High probability for Sjögren's syndrome -> Serology: ANA, anti-Ro/SSA, anti-La/SSB -> Consider confirmatory testing: Schirmer's test, Rose bengal, Lip biopsy -> Diagnosis Sjögren's syndrome -> Rule out other connective tissue disease, Evaluate for organ system involvement"
+root,Low probability for Sjögren's syndrome,Patient with DRY EYES AND DRY MOUTH -> Low probability for Sjögren's syndrome

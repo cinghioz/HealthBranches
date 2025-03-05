@@ -1,0 +1,4 @@
+source,leaf,paths
+Patient with HYPONATREMIA,Body Na: low,"Determine plasma osmolality -> by history and physical examination and measure urine Na concentration -> Exclude renal failure, hypothyroidism, and adrenal insufficiency -> Body Na: low"
+Patient with HYPONATREMIA,Body Na: normal,"Determine plasma osmolality -> by history and physical examination and measure urine Na concentration -> Exclude renal failure, hypothyroidism, and adrenal insufficiency -> Body Na: normal"
+Patient with HYPONATREMIA,Body Na: High,"Determine plasma osmolality -> by history and physical examination and measure urine Na concentration -> Exclude renal failure, hypothyroidism, and adrenal insufficiency -> Body Na: High"

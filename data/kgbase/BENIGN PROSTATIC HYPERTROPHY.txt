@@ -1,0 +1,278 @@
+BENIGN PROSTATIC HYPERTROPHY
+
+A. The most common presentation for benign prostatic
+hypertrophy (BPH) is obstructive and irritative lower
+urinary tract symptoms (LUTS). Irritative symptoms of
+LUTS include frequency, nocturia, and urgency; obstructive symptoms of LUTS include hesitancy, incomplete bladder emptying, straining, weak stream, and
+dribbling. Assessment of LUTS begins with a focused
+history and physical examination, including onset and
+duration of urinary symptoms, medical and surgical
+history, sexual history, neurologic history, and rectal
+examination. The differential diagnosis includes BPH,
+prostate cancer, urinary tract infection (UTI), bladder
+cancer, bladder or ureteral calculi, urethral stricture,
+cystitis, prostatitis, polyuria, colovesical fistula, and
+neurogenic bladder.
+B. Patients with a prostate-specific antigen (PSA) level
+!4.0 ng/ml, PSA velocity !0.75 ng/ml per year, or
+prostatic nodule palpated on rectal examination
+should undergo a prostate biopsy to assess for prostate cancer. When assessing risk for prostate cancer
+in patients who take 5-alpha reductase inhibitors,
+double the serum PSA value. PSA may be transiently
+elevated with prostatitis, UTI, ejaculation, urethral
+instrumentation, rectal manipulation, or extensive
+physical activity.
+C. Irritative urinary symptoms with microhematuria warrant workup for ureteral calculi, bladder calculi, and
+malignancy of the urinary tract. Significant hematuria is
+defined as 3 RBCs per high-power field (hpf) on two
+of three voided urine specimens, !100 RBCs/hpf on
+any urinary specimen, or gross hematuria. Urine cytology is a useful screening tool for high-grade transitional
+cell carcinoma (TCC) of the urinary tract: negative or
+atypical cytology is considered negative for TCC; suspicious or TCC cytology is considered positive for TCC.
+D. Use the American Urological Association Symptom
+Score and Quality of Life Questionnaire (AUASS/
+QOL) for a subjective measure of LUTS attributable
+to BPH. The AUASS/QOL is a validated questionnaire
+that quantifies common symptoms of LUTS, including
+incomplete bladder emptying, frequency, hesitancy,
+urgency, weak stream, straining, and nocturia, and an
+overall bother score from voiding symptoms. AUASS/
+QOL "7 indicates mild or nonbothersome symptoms;
+AUASS/QOL #8 indicates moderate/severe or bother-
+
+564
+
+some symptoms. Objective measures for BPH include
+postvoid residual (PVR) volume, uroflowmetry, and
+urodynamics. In patients with normal bladder function, PVR !50 cc or urine flow $10 cc/sec suggest
+lower urinary tract obstruction.
+E. Medical therapy generally is used as the initial treatment for patients with moderate to severe LUTS from
+BPH. Medical therapy consists of two major classes:
+selective alpha-1 antagonists and type II 5-alpha reductase inhibitors. Alpha-1 antagonists relax the smooth
+muscle in the prostate and bladder neck to improve
+urinary flow. Symptomatic improvement begins 1 week
+after starting alpha blockers. Hypotension and retrograde ejaculation are common side effects that limit the
+use of alpha blockers. Both therapeutic and undesired
+effects of alpha blockers are dose dependent. Type II
+5-alpha reductase metabolizes testosterone to dihydrotestosterone (DHT); DHT stimulates prostate
+growth. 5-Alpha reductase inhibitors decrease prostate
+size by inducing prostate apoptosis and inhibiting the
+conversion of testosterone to DHT. These medications
+are indicated in patients with a large prostate (!40 g).
+Therapeutic effects of 5-alpha reductase inhibitors begin in 4–6 weeks with maximal results at 6–9 months.
+The major side effects are decreased libido, impotence,
+and ejaculatory dysfunction. Of note, 5-alpha reductase
+inhibitors reduce PSA by 50% after 6 months without
+reducing the risk of prostate cancer.
+F. Surgical intervention is reserved for patients who fail
+or do not tolerate medical therapy and for patients
+with complications related to BPH, such as refractory
+urinary retention, bladder calculi, renal insufficiency
+from lower urinary tract obstruction, or recurrent
+UTIs. Transurethral resection of the prostate (TURP)
+or laser vaporization of the prostate (PVP) is the firstline surgical treatment for BPH. Open or laparoscopic
+prostatectomy is an option for patients with extremely
+large prostates (!75 g) or for those with concomitant
+bladder stones or bladder diverticulum. Various minimally invasive therapies have been developed that use
+energy sources low in heat to cause prostate necrosis,
+including microwave thermotherapy, radiofrequency
+waves, and ultrasound waves. Minimally invasive therapies for BPH provide symptomatic improvement superior to medical therapy but inferior to TURP.
+
+565
+Patient with BENIGN PROSTATIC HYPERTROPHY
+
+A History and physical examination
+PSA
+Urinalysis & urine culture
+Urine cytology (if % smoking history)
+
+B Elevated PSA or
+Abnormal rectal
+examination
+
+C Hematuria or
+
+Consider:
+Prostate cancer
+Prostatitis
+
+% urine cytology
+
+Consider:
+Bladder cancer
+Urolithiasis
+
+PSA not elevated
+Urinalysis negative for
+infection and blood
+
+% Urine culture
+
+Exclude:
+Urethral stricture
+Chronic pelvic pain
+syndrome
+Polyuria
+Colovesical fistula
+
+Consider:
+UTI
+Urolithiasis
+
+D AUASS/QOL questionnaire
+Postvoid residual
+Uroflowmetry
+Urodynamics (if concern
+for neurogenic bladder)
+
+BPH:
+LUTS not bothersome
+
+Watchful waiting
+
+BPH:
+LUTS bothersome
+No complications from BPH
+
+E Medical therapy
+
+BPH:
+LUTS bothersome
+Complications from BPH
+Failure or intolerance
+of medical therapy
+Exclude:
+Neurogenic bladder
+Prostate cancer
+
+F Surgical therapy
+
+References
+Abrams PH, Griffiths DJ. The assessment of prostatic obstruction
+from urodynamic measurements and from residual urine. Br J Urol
+1979;51:129.
+
+Barry MJ, Fowler FJ Jr, O’Leary MP et al. The American Urological Association Symptom Index for benign prostatic hyperplasia: J Urol
+1997;148:1549–1557.
+McConnell JD. Benign prostatic hyperplasia: treatment guidelines and
+patient classification. Brit J Urol 1995;76 Suppl. 1:29.
+
+PROSTATITIS
+
+David Yeo, MD, and Graeme Steele, MD, FCS, FACS
+
+A. Prostatitis is inflammation of the prostate gland that
+encompasses a spectrum of clinical disease. The most
+common presentation is recurrent dysuria with irritative and obstructive urinary symptoms in the absence of
+bacterial infection. Specific complaints may include
+perineal pain, low back pain, suprapubic pain, dysuria,
+frequency, urgency, nocturia, straining, weak stream,
+hesitancy, and a sense of incomplete bladder emptying.
+The differential diagnosis for prostatitis includes sexually transmitted diseases (STDs), urinary tract infections, genitourinary malignancy, urolithiasis, urethral
+stricture, and neurogenic bladder. Workup for all cases
+of prostatitis begins with a focused history and physical
+examination, including sexual history, urinalysis, and
+urine culture. Based on a patient’s risk factors, further
+studies may include urethral cultures for gonorrhea and
+chlamydia, testing for herpes and HIV, serum creatinine, serum prostate-specific antigen (PSA), postvoid
+residual recording, voided urine cytology, CT scan, cystoscopy, transrectal ultrasound of the prostate (TRUS),
+and urodynamics.
+B. Hematuria warrants workup for urolithiasis, genitourinary malignancy, and urinary tract infection. Significant hematuria is defined as !3 RBCs per high-power
+field (hpf) on two of three voided urine specimens,
+"100 RBCs/hpf on any urinary specimen, or gross
+hematuria.
+C. Acute bacterial prostatitis, a bacterial infection of the
+prostate of sudden onset, represents 2%–5% of prostatitis cases. Typically, patients are sexually active men
+#35 years, presenting with perineal or suprapubic
+pain, urethral discharge, obstructive urinary symptoms, and systemic signs of infection. Transmission can
+be sexual from Neisseria gonorrhoeae and Chlamydia
+trachomatis or by direct extension of Escherichia coli
+from the lower urinary tract or rectum.
+D. Chronic bacterial prostatitis, a recurrent or persistent
+bacterial infection of the prostate, represents 2%–5%
+of prostatitis cases. Typically, patients are older men,
+presenting with intermittent and milder symptoms of
+dysuria than those with acute bacterial prostatitis.
+
+566
+
+On examination, the prostate is tender and boggy
+with suprapubic tenderness during acute episodes of
+prostatitis. The most common causative organism is
+E. coli; other organisms include Enterobacteriaceae,
+enterococci, and Pseudomonas aeruginosa. Start empiric treatment with 8–16 weeks of trimethoprim/
+sulfamethoxazole (TMP) or quinolone antibiotics.
+Symptomatic control may be achieved with alpha
+blockers, anticholinergics, NSAIDs, and sitz baths.
+Consider surgical management with transurethral
+resection of the prostate (TURP) in men with prostate calculi, prostatic abscess, or persistent prostatitis
+after extensive medical management.
+E. Chronic pelvic pain syndrome represents 90%–95% of
+prostatitis cases and is a diagnosis of exclusion. This
+syndrome is defined as genitourinary pain in the absence of identifiable infection, malignancy, urethral
+structure, and neurologic dysfunction. Proposed mechanisms include nonbacterial infection, reflux of urine into
+the ejaculatory ducts, and autoimmune disease. Possible
+infectious agents include Trichomonas vaginalis, Chlamydia trachomatis, Ureaplasma urealyticum, cytomegalovirus, and Mycobacterium tuberculosis. Empiric treatment begins with trimethoprim/sulfamethoxazole or
+quinolone antibiotics for 6–8 weeks. If there is no response, consider 4–6 weeks of doxycycline or metronidazole. For severe symptoms, patients can be started
+with some combination of alpha blockers, anticholinergics, narcotics, NSAIDs, tricyclics, and allopurinol.
+Other supportive measures include sitz baths, avoidance
+of alcohol and caffeine, prostatic message, pelvic floor
+exercises, stress reduction, and biofeedback.
+Refrences
+Meares EM Jr: Prostatitis and related disorders. In Walsh PC, Retik AB,
+Vaughan ED, Wein AJ (eds): Campell’s Urology, 7th ed. Philadelphia,
+WB Saunders, 1998, pp 615–530.
+Nickel JC: Effective office management of chornic prostatitis. Urol Clin
+North Am 1998;25:677–684
+Nickel JC, Moon T: Chronic bacterial prostatitis: an evolving clinical
+enigma. Urology 2005;66:2–8.
+
+567
+Patient with PROSTATITIS
+
+A History and physical examination
+Urinalysis % urine culture
+Urethral culture (if $ risk factors for STD)
+
+B Hematuria
+
+$ Urine culture or
+$ urethral culture
+
+Consider:
+Bladder cancer
+Urolithiasis
+
+C Infection resolved
+with antibiotics
+
+Consider:
+Acute bacterial prostatitis
+Urinary tract infection
+
+D Recurrent or
+
+persistent infection
+
+Consider:
+Chronic bacterial
+prostatitis
+Prostate abscess
+
+E Urinalysis negative for
+
+infection and blood
+Urethral culture negative
+
+Exclude:
+Urethral stricture
+Genital herpes
+Benign prostatic hypertrophy
+Neurogenic bladder
+Genitourinary malignancy
+
+Consider:
+Chronic pelvic
+pain syndrome
+
+

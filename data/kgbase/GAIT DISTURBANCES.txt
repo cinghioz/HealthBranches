@@ -1,0 +1,213 @@
+GAIT DISTURBANCES
+
+
+Gait disturbances denote a problem with the initiation
+and/or maintenance of walking. Many gait disturbances
+are not primarily of neurologic etiology (e.g., medication effects, illness-related deconditioning). Neurologic
+systems subserving gait include the frontal cortex and white
+matter, basal ganglia, diencephalon, midbrain, cerebellum,
+vestibular system, spinal cord, peripheral nervous system,
+and muscle. Thus, the initial evaluation of gait disturbances
+seeks to localize the dysfunction. Some common neurologic
+etiologies of gait disturbance are reviewed here.
+A. A thorough history and physical examination should
+aim to determine the character and time course of the
+gait disturbance and associated symptoms and signs,
+such as rest tremor, bradykinesia, rigidity, numbness,
+weakness, back pain, urinary incontinence, dementia,
+and headaches. Alcohol use history, general medical
+history, and medication use should be reviewed.
+B. A spastic gait typically results from upper motor
+neuron (UMN; cerebral or spinal cord) dysfunction
+from conditions such as cerebrovascular disease or demyelinating disorders, including multiple sclerosis
+(MS). In the older population, a common myelopathic
+etiology of spastic gait is cervical spondylosis. In the
+younger population, myelopathy may be associated
+with a demyelinating illness or trauma. This gait is characterized by stiffness in the lower extremities and circumduction of the leg. Scissoring can also be seen and
+results from increased tone in the adductors. Patients
+may exhibit exaggerated deep tendon reflexes (DTRs)
+and may exhibit a unilateral or bilateral Babinski’s sign.
+Neuroimaging of the brain and spinal cord, typically
+with MRI, is important, as is a laboratory screen (e.g.,
+for vitamin B12 deficiency). If a demyelinating illness is
+suspected, then MRI with and without contrast should
+be performed.
+C. Gait disturbance from sensory dysfunction is typically
+wide-based with a stamping or slapping character. The
+examination may reveal reduced deep tendon reflexes,
+weakness and sensory loss that are greatest distally, and
+the presence of Romberg’s sign (an abnormality in
+stance that occurs with eye closure). Sensory gait disturbance is usually from disorders affecting the peripheral nervous system or dorsal columns of the spinal
+cord. This type of gait was classically seen in patients
+with tabes dorsalis and neurosyphilis. Today it is more
+commonly seen as a result of large-fiber neuropathy
+secondary to certain vitamin deficiencies (B12) or diabetic peripheral neuropathy.
+438
+
+D. Neuromuscular disease can also cause an abnormal
+gait. The distinguishing features are that of high steppage gait to compensate for problems such as foot
+drop. Patients with illnesses such as myopathy will
+present with proximal weakness and report difficulty
+climbing stairs. Weakness of the hip girdle can also
+lead to a waddling gait, which is a result of excess pelvic rotation. Electromyography would be helpful in
+either of these scenarios to look for signs of neuropathy
+or myopathy.
+E. Extrapyramidal disorders arise from basal ganglia dysfunction. Associated symptoms and signs include rest
+tremor, slowness, and rigidity, which could suggest
+Parkinson’s disease. The parkinsonian gait is usually
+associated with flexed posture, shuffling, decreased
+arm swing, difficulty initiating, en bloc turning, and
+festination. Chorea is seen in Huntington’s disease.
+Dystonia, an involuntary contraction of muscles, can
+also be a cause of gait abnormality.
+F. A cerebellar gait disorder can result from an infarct,
+tumor, alcohol, or demyelination. The lesion is primarily found in the flocculonodular or anterior lobes of the
+cerebellum. The typical cerebellar gait is ataxic—widebased and unsteady. Tandem walking may be difficult
+or impossible. Cerebellar gait disorders are usually, but
+not always, associated with other cerebellar signs such
+as intention tremor, dysmetria, rebound, and hypotonia. MRI is the diagnostic test of choice.
+G. A frontal gait disturbance is common in older patients
+and is also known as gait apraxia. Typically no weakness or
+sensory loss is found. Patients walk with a wide base, short
+stride, and shuffling steps, and feet appear to be “sticking
+to the floor,” with difficulty initiating gait and en bloc
+turning. Dementia, bilateral grasp reflexes, and a history
+of urinary incontinence may be present. Etiologies of
+frontal gait disorder include normal-pressure hydrocephalus, severe small vessel disease in the basal ganglia or
+periventricular white matter, or large frontal lobe tumors.
+MRI is essential to demonstrate ventricular size, the degree of white matter disease, and presence of tumors.
+H. Toxins are one of the most common causes of gait
+difficulty, including excess alcohol intake. Certain
+prescription or nonprescription drugs and metabolic
+derangement can also have important effects on balance and gait.
+I. Psychogenic gait is a diagnosis of exclusion. Astasia–
+abasia is the term used to denote such bizarre gait;
+patients may exhibit dramatic fluctuation over time,
+exaggerated caution, and slowness.
+
+439
+Patient with GAIT DISTURBANCE
+(Orthopedic Disease Excluded)
+
+A Abnormalities on neurologic examination
+
+B Slowness
+
+Spasticity
+Bilateral Babinski’s
+sign
+
+D Steppage gait
+
+F Wide-based
+
+E Decreased arm swing
+
+unsteady gait
+
+Test DTRs
+
+C Absent tendon
+Paraparesis
+Spine MRI
+to detect
+compressive
+lesion
+
+Grasp reflexes
+Incontinence
+Head CT or MRI
+to detect
+hydrocephalus
+or cause of
+bifrontal
+dysfunction
+
+Decreased
+or absent
+Peripheral
+neuropathy
+
+Increased tendon
+reflexes
+Unilateral
+Babinski’s
+sign
+
+Parkinsonism
+
+Hemiparesis
+
+reflexes
+Poor position
+sense
+
+Cogwheel
+rigidity
+and/or
+rest tremor
+
+Head CT or MRI
+to confirm cause
+
+Consider:
+Friedreich’s
+ataxia
+Vitamin B12
+deficiency
+Tabes
+Peripheral
+neuropathy
+
+I With
+
+extremity
+ataxia
+
+MRI scan
+to detect:
+MS
+Cerebellar
+tumor
+Brainstem
+stroke
+Cerebellar
+atrophy
+
+Normal
+
+G Extremity coordination tests normal
+Tandem walking difficult
+
+Mononeuropathy
+
+H History of recent
+aminoglycoside
+or streptomycin
+use
+
+Vestibular damage
+from drugs
+
+References
+Gilman S. Gait disorders. In Rowland LP, ed. Merritt’s Textbook of
+Neurology, 9th ed. Baltimore: Williams & Wilkins, 1995:51–56.
+Nutt JG, Horak FB. Gait and balance disorders. In Watts RL, Koller WC,
+eds. Movement Disorders: Neurologic Principles and Practice.
+New York: McGraw-Hill, 1997:649–660.
+
+Associated
+with vertigo
+
+History of
+alcoholism
+
+See p 424
+
+Alcoholic vermal
+degeneration
+
+Sudarsky L. Gait impairment and falls. In Samuels MA, Feske SK, eds.
+Office Practice of Neurology, 2nd ed. Philadelphia: Churchill Livingstone, 2003:25–29.
+
+

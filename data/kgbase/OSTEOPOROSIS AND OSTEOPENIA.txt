@@ -1,0 +1,137 @@
+OSTEOPOROSIS AND OSTEOPENIA
+
+A. The initial evaluation for osteoporosis begins with a
+careful history and physical examination for risk factors
+for bone loss. Patients at risk for osteoporosis include
+postmenopausal women !65 years, postmenopausal
+women of any age with additional risk factors (personal
+history of fracture as an adult, fracture in a first-degree
+relative, current smoker, use of steroids, more than two
+alcoholic drinks per day, low weight, menopause before
+age 45, recent falls, low physical activity, lifelong low
+calcium intake, impaired vision, dementia), men and
+premenopausal women with low-impact fractures, and
+anyone with known secondary causes of osteoporosis.
+Patients in any of these categories should obtain a bone
+mineral density (BMD) scan.
+B. Bone density scans measure a given individual’s bone
+mass. The World Health Organization (WHO) defines
+osteopenia as a T score (standard deviations below or
+above the mean for young adults) of "#1.0 but
+!#2.5. Osteoporosis is defined as a T score $#2.5.
+C. Lifestyle interventions should be recommended to all
+patients who have osteoporosis or osteopenia. These
+include calcium supplements of 1200–1500 mg daily,
+vitamin D supplementation of 800 IU daily, weightbearing exercise, smoking cessation, and limiting
+alcohol intake to no more than two drinks per day.
+D. Initial laboratory evaluation for patients with osteoporosis and osteopenia should include a calcium, albumin,
+phosphorus, and alkaline phosphatase test to assess for
+possible hyperparathyroidism, osteomalacia, or other
+calcium and phosphate disorders. Renal function should
+be assessed with a BUN and creatinine, and a thyroidstimulating hormone (TSH) test should be ordered to
+exclude hyperthyroidism. A 25-OH vitamin D level
+should be ordered to assess for possible vitamin D
+deficiency. In men with osteoporosis, a total testosterone level should be measured.
+E. Renal insufficiency can cause low BMD. The etiology
+is multifactorial and includes secondary hyperparathyroidism from low 1,25-dihydroxyvitamin D levels.
+F. Vitamin D deficiency may contribute to bone loss.
+Vitamin D deficiency is defined as levels "15 ng/ml.
+
+630
+
+G.
+
+H.
+
+I.
+
+J.
+
+The goal vitamin D level for optimal bone health
+is !30 ng/ml.
+Hyperthyroidism increases bone turnover and, as a
+result, decreases bone mass. Studies have demonstrated
+that even subclinical hyperthyroidism (specifically when
+the TSH is "0.1 mU/L) can place patients at increased
+risk for osteoporosis.
+If calcium is increased and/or phosphorus is decreased,
+the patient may have hyperparathyroidism. If this
+pattern is seen, an intact parathyroid hormone (iPTH),
+calcium, albumin, and phosphorus level should be
+drawn simultaneously to assess for this possibility.
+If the patient has a Z score (standard deviations above
+or below the mean for age-matched controls) that is
+"#2.0, a thorough evaluation for secondary causes of
+osteoporosis should be performed. This additional
+testing may include a serum protein electrophoresis
+(SPEP), urine protein electrophoresis (UPEP) to exclude multiple myeloma, iPTH to definitively exclude
+hyperparathyroidism, 24-hour urine calcium and creatinine to evaluate for hypercalciuria, and overnight
+dexamethasone suppression test to assess for Cushing’s
+syndrome.
+Treatment of osteoporosis and osteopenia should be
+focused on treating the underlying secondary cause, if
+present, and appropriate calcium and vitamin D intake. Other therapies that should be considered include bisphosphonates (oral or IV) and raloxifene. For
+patients with very severe osteoporosis, PTH injections
+should be considered. All patients should have repeat
+BMD scans in 1–2 years to assess effectiveness of
+treatment.
+
+References
+Kanis JA, Borgstrom F, De Laet C, et al. Assessment of fracture risk.
+Osteoporos Int 2005;16:581.
+Khosla S, Melton LJM. Osteopenia. N Engl J Med 2007;356:2293.
+National Osteoporosis Foundation. Physician’s guide to prevention and
+treatment of osteoporosis. www.nof.org/physguide/index.htm. 2003.
+Raisz LG. Screening for osteoporosis. N Engl J Med 2005;353:164.
+
+631
+Patient with OSTEOPOROSIS/OSTEOPENIA
+
+A History, physical examination
+B Bone mineral density scan
+Osteopenia or osteoporosis
+
+C Lifestyle interventions
+
+Laboratory test
+results normal;
+Z score !#2.0
+
+E Renal
+
+disease
+
+D Laboratory evaluation
+
+F Vitamin D
+
+deficiency
+
+G Hyperthyroidism ↑ Calcium
+
+and/or
+↓ phosphorus
+
+H iPTH
+
+Consider bisphosphonates
+if T score "#1.5
+Reassess risk factors yearly
+Repeat BMD scan in 2 yr
+
+J Treatment
+
+Repeat BMD scan in 1–2 yr
+to assess treatment effect
+
+Laboratory test
+results normal
+Z score "2.0
+
+I Additional
+
+evaluation
+for secondary
+causes
+
+

@@ -1,0 +1,263 @@
+COMA
+
+
+Coma is defined as a “sleeplike unresponsiveness without
+evidence of awareness of the self or the environment, a state
+from which patients cannot be aroused.” Patients in coma
+do not show any meaningful responsiveness to their environment but may have variably intact brainstem reflexes. To be
+considered in coma, the patient may exhibit reflex posturing
+in response to noxious stimuli but cannot withdraw to pain
+or otherwise show signs of awareness of external or internal
+stimuli. The responsibilities of the physician include stabilization of the patient’s vital functions and institution of the
+initial steps in evaluation and management.
+Consciousness is predicated on both arousal and awareness and is mediated by the ascending reticular activating
+system, which originates in the rostral brainstem and then
+projects into both cerebral hemispheres. Thus, to produce
+coma, a cerebral process must either affect the rostral brainstem primarily, both cerebral hemispheres concomitantly,
+or all of the above. Primary brainstem processes include
+vascular events (e.g., ischemic stroke, hemorrhage), drug
+intoxication, and compression from a supratentorial or
+infratentorial mass lesion. Diffuse hemispheric processes
+include hypoxic-ischemic injuries (e.g., from cardiac arrest),
+drug intoxication, seizures, infection (e.g., meningoencephalitis), and metabolic disorders (e.g., hypoglycemia, hyponatremia, renal failure, liver failure).
+A. The foremost clinical goal in the management of a patient
+presenting in coma is the ABCs of basic life support. IV
+access should be obtained promptly, as should nasogastric
+and urinary catheters. Endotracheal intubation is usually
+necessary, secondary to poor airway protection or ineffective respiratory efforts. Blood should be sent for CBC,
+extended chemistries, ammonia level, ABGs, liver function studies, and toxicology screen (including urine).
+Thiamine (100 mg IV) and glucose (1 amp D50 IV) should
+be administered early. Naloxone (0.4–2.0 mg IV) administration should be considered in cases of suspected narcotic overdose.
+B. A rapid medical and neurologic examination should be
+performed, preferably prior to intubation, because
+sedating and/or paralytic medications are often administered for intubation. Specific attention should be
+paid to the cranial nerves and to movements in the
+extremities to noxious stimulation. The Glasgow Coma
+Scale (Table 1) provides a quick, systematic way to
+
+460
+
+Table 1. Glasgow Coma Scale
+Function
+Motor response
+Obeys
+Localizes
+Withdraws
+Abnormal flexion
+Extensor response
+No response
+Verbal response
+Oriented
+Confused conversation
+Inappropriate words
+Incomprehensible sounds
+No response
+Eye opening
+Spontaneous
+To command
+To pain
+No response
+
+Score*
+6
+5
+4
+3
+2
+1
+5
+4
+3
+2
+1
+4
+3
+2
+1
+
+*
+
+The best score from each of the three areas is
+summed. Scores can range from 15 (essentially
+a normal examination) to 3 (no response in
+any area).
+
+assess brain dysfunction in patients who are comatose.
+It most often is used in traumatic coma. The skull
+should be palpated for hematomas, and one should
+look for Battle’s sign (ecchymosis over the mastoid) or
+“raccoon eyes” (ecchymosis around the eyes), either of
+which suggest a basal skull fracture. Other signs include hemotympanum and cerebrospinal fluid (CSF)
+leakage from the nose or ears. The cervical spine
+should be immobilized, especially in cases of trauma or
+if the patient’s loss of consciousness was unwitnessed.
+C. Neuroimaging should be performed in all patients
+who are comatose to rule out a structural lesion. Initially, CT is preferable to MRI because of its ability
+to detect acute blood and bone abnormalities, but
+results can be normal in the early stages of stroke,
+meningitis, or following cardiac arrest. MRI is superior to CT for the detection of acute cerebral infarction or early signs of encephalitis. CT of the C-spine
+is performed to evaluate for stability in the acute
+setting, but MRI may also be required to assess for
+ligamentous injury.
+(Continued on page 462)
+
+461
+Patient in COMA
+
+A Stabilize patient
+B Neurologic examination
+Assess depth of coma
+
+C Sign or history
+of trauma
+
+Neuroimaging
+Neurosurgery consult
+
+No sign or
+history of
+trauma
+Cont’d on p 463
+
+462
+D. A nonfocal examination should raise suspicion of a
+toxic or metabolic etiology. Dysfunction in virtually any
+organ system may lead to confusional states and coma.
+Look for systemic signs of renal or liver insufficiency/
+failure. Consider drug ingestion or toxin exposure.
+In most cases, metabolic dysfunction does not cause
+nonreactive pupils or focal neurologic signs. However,
+atropine-like substances and glutethimide can abolish
+pupillary reflexes, and opiate overdose may cause the
+pupils to be so constricted that a very bright light and
+a magnifying glass may be needed to detect any reactivity. Toxic-metabolic insults also may result in seizures
+and lateralizing neurologic signs that may wax and
+wane or even shift from side to side. Extensor plantar
+responses also may be seen. However, metabolic causes
+of coma (especially intoxication) may obscure signs of
+an underlying focal lesion. Therefore, neuroimaging
+should still be performed.
+E. If a focal lesion is responsible for coma, it is useful to
+localize the lesion to a supratentorial or infratentorial
+location. The examination should emphasize the following: eye opening to loud auditory or vigorous
+physical stimulation, blinking to visual threat, pupillary
+response to bright light (size, symmetry, reactivity), eye
+movement abnormalities (including the oculocephalic
+reflex or “doll’s eyes” and the oculovestibular reflex or
+“cold calorics”), corneal reflex, gag reflex, respiratory
+pattern (e.g., Cheyne-Stokes, central neurogenic
+hyperventilation, ataxic and apneustic breathing), extremity movements to noxious stimulation (e.g., symmetric vs. asymmetric responses, decorticate/decerebrate
+posturing), deep tendon reflexes, and the Babinski
+reflex. A complete discussion of the abnormalities observed with lesions in different brain areas is beyond
+the scope of this chapter. The key is to carefully and
+systematically perform and document the neurologic
+examination so that clinical stability or progression can
+be appreciated by the medical team.
+F. Signs of meningismus include nuchal rigidity and
+Kernig’s and Brudzinski’s signs. Such findings may
+accompany either a nonfocal or focal examination.
+Nonfocal examinations may reflect subarachnoid hemorrhage (SAH) or meningoencephalitis. Focal lesions
+
+may induce meningismus through direct meningeal irritation (e.g., parenchymal hemorrhage with rupture
+into the subarachnoid space) or through increased intracranial pressure, which may lead to herniation. After
+obtaining neuroimaging to rule out a mass lesion, a
+lumbar puncture should be performed, looking for evidence of blood, xanthochromia, or infection. Approximately 6% of SAHs are diagnosed by lumbar puncture
+after a falsely negative CT scan. Furthermore, signs of
+meningismus may be absent in deep coma, so consider
+performing a lumbar puncture if the history suggests an
+infectious etiology or if there is no alternative explanation for the patient’s state.
+G. Prolonged or sustained seizure activity (i.e., status
+epilepticus) may lead to impaired consciousness and
+coma. Patients may be in status epilepticus without
+overt signs of seizures (i.e., nonconvulsive status
+epilepticus). Seizures also may reflect an underlying
+process that itself leads to coma. Observe patients
+carefully for evidence of seizure activity, especially the
+eyes, which may be deviated to one side or moving
+rhythmically. Focal seizures suggest a focal lesion, and
+generalized seizures or myoclonus suggest a toxic–
+metabolic insult, although these rules are not absolute.
+Laboratory studies should include anticonvulsant
+levels as well as metabolic parameters. An EEG may
+be useful not only to assess seizure activity but also to
+look for abnormalities compatible with metabolic abnormalities (e.g., rhythmic discharges in hepatic encephalopathy) or focal lesions (i.e., focal slowing).
+
+References
+Adams RD, Victor M, Ropper AH. Coma and related disorders of consciousness. In Adams RD, Victor M, Ropper AH, eds. Principles of
+Neurology, 6th ed. New York: McGraw-Hill, 1997:344.
+Brust JCM. Coma. In Rowland LP, ed. Merritt’s Textbook of Neurology, 9th
+ed. Baltimore: Williams & Wilkins, 1995.
+Plum F, Posner J. The Diagnosis of Stupor and Coma, 3rd ed. Oxford:
+Oxford University Press, 1982.
+Young GB, Ropper AH, Bolton CF. Coma and Impaired Consciousness.
+New York: McGraw-Hill, 1998.
+
+463
+No sign or history of trauma
+(Cont’d from p 461)
+
+D Nonfocal
+Possible
+toxic – metabolic
+etiologies
+Consider:
+Drug ingestion
+Toxic exposure
+Thyroid dysfunction
+Hepatic dysfunction
+Renal dysfunction
+Electrolyte, glucose,
+or acid-base
+abnormalities
+Hypoxic -ischemic
+conditions
+Hypothermia/hyperthermia
+Neuroimaging
+Appropriate laboratory
+evaluation
+Treat
+
+E Focal
+Findings
+compatible
+with dysfunction
+at defined level
+of neuraxis
+Consider:
+Cerebrovascular
+accident
+Mass lesion
+
+F Nonfocal
+or
+Focal
+
+known seizure disorder
+
+Meningismus
+
+Consider:
+Status epilepticus
+
+Consider:
+SAH
+Meningitis
+
+EEG
+Check anticonvulsant levels
+Obtain metabolic screen
+Neuroimaging
+
+Neuroimaging
+Lumbar Puncture
+
+Neuroimaging
+Treat
+
+G Observed seizure activity or
+
+Treat
+
+Treat
+
+

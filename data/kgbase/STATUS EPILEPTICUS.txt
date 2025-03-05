@@ -1,0 +1,225 @@
+STATUS EPILEPTICUS
+
+
+Status epilepticus is generally defined as 30 minutes of
+either continuous seizure activity or repetitive seizures
+without recovery. Convulsive status epilepticus is a medical emergency. Delay in treatment may result in difficult
+seizure control and poor outcome. Given these risks, aggressive therapy is appropriate for any convulsion lasting
+!5 minutes. After a convulsion has ended, the patient
+should be carefully assessed for the possibility of nonconvulsive or subtle ongoing seizures.
+A. Types of simple partial status epilepticus include
+somatomotor (including epilepsy partialis continua),
+somatosensory, aphasic, visual, oculoclonic, and affective. The electroencephalogram (EEG) shows focal or
+lateralized discharges. Treatment is with benzodiazepines, phenobarbital, phenytoin, valproate, carbamazepine, and the newer antiepileptic drugs (AEDs).
+B. Complex partial status epilepticus (CPSE) consists of
+complex partial seizures that alternate with a postictal
+state and may eventually evolve into a continuous
+epileptic state. It often occurs in patients with known
+partial epilepsy. Diagnosis may require EEG monitoring. The EEG shows rhythmic activity beginning
+focally and spreading bilaterally. Treatment is similar
+to that of simple partial status epilepticus. The use of
+more aggressive treatment is controversial and should
+be individualized.
+C. Absence status epilepticus is also referred to as petit mal
+status epilepticus or spike-wave stupor. Clinically, there
+is a variable degree of responsiveness from slowing of
+ideation and confusion to lethargy. There is no cycle
+between levels of responsiveness and unresponsiveness
+as in CPSE. It is usually seen in children with absence
+epilepsy but can also be seen in adults, particularly with
+benzodiazepine withdrawal or use of specific AEDs
+such as tiagabine. The EEG shows generalized spikewave discharges. Traditional treatment consists of IV
+benzodiazepines, valproate, or ethosuximide. The newer
+broad-spectrum AEDs may also be helpful.
+D. True myoclonic status epilepticus is rare and limited to
+children and adolescents. In adults, myoclonic movements
+associated with an EEG showing periodic discharges on
+an attenuated background (burst-suppression pattern) can
+
+430
+
+be seen following an anoxic-ischemic event and portends
+a bad prognosis. It can also be seen following prolonged
+convulsive seizures and may indicate a need for more
+aggressive treatment.
+E. Convulsive status epilepticus is the most common and
+the most dangerous form of status epilepticus. The
+initial evaluation consists of assessing the airway and
+assessing and monitoring cardiorespiratory status, providing oxygen and suctioning, obtaining IV access, and
+sending blood for laboratory tests. Thiamine and glucose are administered unless the patient has a documented normal glucose level. A focused history and
+neurologic examination are performed, assessing for a
+known seizure disorder or other illnesses, trauma, focal
+neurologic signs, and signs of medical illness (e.g.,
+infection, substance abuse).
+F. Administer a benzodiazepine as a first-line therapeutic
+agent. Lorazepam is the preferred agent because of a
+longer duration of antiseizure action and is given up to
+0.1 mg/kg at 1–2 mg/min. Diazepam can also be used
+at up to 0.25 mg/kg at 2–4 mg/min or midazolam
+0.2 mg/kg at 1–4 mg/min.
+G. Phenytoin (or fosphenytoin) is administered immediately following lorazepam. It is given at 20 mg/kg
+("50 mg/min). The fosphenytoin dose is 20 mg phenytoin equivalents (PE)/kg ("150 mg/min). An additional 10 mg/kg can be administered if seizures continue. Phenytoin is associated with risk of hypotension
+and bradycardia. These side effects are less frequently
+seen with fosphenytoin, but the increased cost of
+fosphenytoin limits its availability. Other agents that
+may be used instead of phenytoin, or may follow phenytoin infusion if seizures continue, include IV valproate at 20–30 mg/kg (200 mg/min) or phenobarbital
+10–20 mg/kg (100 mg/min). Phenobarbital is also
+associated with a risk of hypotension. Once the
+patient is stabilized, further diagnostic workup may
+include CT, lumbar puncture (LP), EEG, and MRI.
+Immediate EEG assessment is required if there is
+use of a long-acting paralytic agent, when there is no
+improvement or return to baseline mental status after
+controlling overt convulsive movements, or in cases
+of refractory status epilepticus.
+(Continued on page 432)
+
+431
+Patient with STATUS EPILEPTICUS
+
+Partial
+
+A Simple
+
+Generalized
+
+B Complex partial
+
+D Convulsive
+
+Benzodiazepines
+Other AEDs
+
+Tonic-clonic
+
+C Nonconvulsive (absence)
+
+E Myoclonic
+
+Benzodiazepine
+Valproate
+Ethosuximide
+
+Clonazepam
+Valproate
+0– 5 min:
+Assess airway and respiratory
+status —administer O2
+Asses and monitor cardiac and blood pressure
+Establish IV access
+Send blood for CBC, SMA12, liver function tests,
+ABG, AED levels, toxicology screen
+Thiamine 100 mg and 50 ml of 50% glucose
+(unless documented normoglycemia)
+Focused history and neurologic examination
+
+0–10 min (do not wait for AED levels to return)
+
+G
+
+Valproate
+20–30 mg/ kg (200 mg/min)
+
+F
+
+Lorazepam 2 mg (may repeat
+up to 0.1 mg/kg) at 2 mg/min
+
+G
+
+Phenytoin
+20 mg/kg ("50 mg/min)
+(or fosphenytoin 20 mg PE/kg
+["150 mg PE/ min])
+If no effect reload 10 mg/kg
+
+CT, LP,
+MRI, EEG
+
+Cont’d on p 433
+
+G
+
+Phenobarbital
+10–20 mg/kg (100 mg/min)
+
+432
+H. If seizures persist despite therapy with benzodiazepines
+and a second AED, status epilepticus is considered
+refractory and will likely require drug-induced coma
+with intubation, intensive care unit (ICU) admission,
+and continuous EEG monitoring. Medication is titrated
+to induce a burst-suppression pattern on EEG or suppression of epileptiform activity. Medication-induced
+hypotension is to be expected and can be treated by
+slowing or stopping the infusion, giving fluid boluses,
+and using vasopressors as necessary. Historically, pentobarbital has been the agent most widely used. More
+recently midazolam and propofol have been used with
+success. These agents are thought to exert their antiseizure action by increased GABAergic activity. Pentobarbital has a higher lipid solubility than phenobarbital,
+allowing a more rapid passage through the blood-brain
+barrier, and has a longer half-life than either midazolam
+or propofol. It is bolused at 5–20 mg/kg and infused at
+a rate of 0.5–5.0 mg/kg/hr. For breakthrough seizures,
+another bolus should be administered and the drip
+should be increased by 0.5 to 3.0 mg/kg/hr. Propofol is
+increasingly being used as an alternative to pentobarbital and has a rapid onset and the shortest half-life,
+allowing for the ability to periodically monitor the neurologic examination. It is bolused at 1–3 mg/kg and
+infused at a rate of 2–10 mg/kg/hr. Higher infusion rates
+are associated with more adverse reactions. Midazolam
+
+has a very rapid onset of action, but tachyphylaxis can
+often occur. It is bolused at 0.15–0.2 mg/kg and infused
+at a rate of 0.02 mg/kg/hr.
+I. With failure to respond to the previous treatments,
+status epilepticus is considered severely refractory with
+a high risk of mortality. Further treatment options include ketamine, lidocaine, thiopental, and isoflurane.
+Paraldehyde may also be helpful, but availability is
+limited. Other AEDs via a nasogastric tube, such as
+topiramate and levetiracetam, can be tried as well.
+
+References
+Alldredge BK, Gelb AM, Isaacs SM, et al. A comparison of lorazepam,
+diazepam, and placebo for the treatment of out-of-hospital status epilepticus. N Engl J Med 2001;345:631–637.
+Claassen J, Hirsch LJ, Emerson RG, et al. Treatment of refractory status
+epilepticus with pentobarbital, propofol, or midazolam: a systematic
+review. Epilepsia 2002;43:146–153.
+Gastaut H. Classification of status epilepticus. Adv Neurol 1983;34:15–35.
+Lowenstein DH, Alldredge BK. Status epilepticus. N Engl J Med
+1998;338:970–976.
+Sinha S, Naritoku DK. Intravenous valproate is well tolerated in unstable
+patients with status epilepticus. Neurology 2000;55:722–724.
+Treatment of convulsive status epilepticus. Recommendations of the
+Epilepsy Foundation of America’s Working Group on Status Epilepticus. JAMA 1993;270:854–859.
+Treiman DM, Meyers PD, Walton NY, et al. A comparison of four treatments for generalized convulsive status epilepticus. N Engl J Med
+1998;339:792–798.
+
+433
+Patient with STATUS EPILEPTICUS
+(Cont’d from p 431)
+
+H Refractory status epilepticus
+ICU, intubation,
+EEG monitoring
+
+"60 min
+
+Propofol
+Bolus 1– 3 mg/kg
+Infusion at 2–10 mg/kg/hr
+
+Pentobarbital
+Bolus 5– 20 mg/kg
+Infusion at 0.5– 5.0 mg/kg/hr
+
+Severe refractory status epilepticus
+
+I
+
+Ketamine, Lidocaine, Thiopental,
+Isoflurane (Other AEDs via
+Nasogastric Tube)
+
+Midazolam
+Bolus 0.15– 0.2 mg/kg
+Infusion at 0.02 mg/kg/hr
+
+

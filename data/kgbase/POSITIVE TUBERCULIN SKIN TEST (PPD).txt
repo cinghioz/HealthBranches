@@ -1,0 +1,180 @@
+POSITIVE TUBERCULIN SKIN TEST (PPD)
+
+Tuberculosis (TB) infection remains a leading cause of
+morbidity worldwide, making it an important area for
+public health prevention and treatment efforts. In the
+United States, its impact is seen in the 10–15 million
+individuals who are infected. Although annual rates of TB
+infection in the United States are declining, there are still
+cases in every state, and drug-resistant TB looms as the
+next hurdle in the care of patients with TB. One of the
+most important decision points in evaluating and treating patients for TB is to determine whether they have
+active TB disease or latent TB infection (LTBI). As part
+of that diagnostic evaluation, the tuberculin skin test
+(purified protein derivative; PPD) has historically been and
+continues to be an important tool.
+A. Testing for TB or LTBI using the PPD is most useful
+when applied carefully in targeted populations. Random testing is of little utility and may unnecessarily
+expose patients to unneeded medications or health
+care evaluations. Knowledge of disease prevalence
+and patient risk are important factors in deciding who
+to test. The overall goals of PPD testing are to find
+people with LTBI who would benefit from prophylactic treatment and to find people with TB disease who
+would benefit from treatment. Individuals at low risk
+should not be routinely tested. PPD testing is safe in
+pregnancy.
+B. Certain conditions place people into high-risk groups
+for exposure to TB. These conditions include close
+contact with a known or suspected case of TB, foreignborn individuals from endemic areas, residents of highrisk settings such as jails or nursing homes, health care
+workers, individuals who are medically underserved,
+injection drug users, or people in high-risk racial or
+ethnic populations. Once infected (i.e., patient has
+LTBI), individuals with HIV, substance abuse, diabetes,
+silicosis, prolonged immunosuppression, head and neck
+cancer, end-stage renal disease, hematologic malignancies, low body weight, gastrectomy or intestinal bypass,
+or malabsorption syndromes are at higher risk for progression to active disease.
+C. The PPD skin test is a combination of low molecular
+weight proteins and carbohydrate components of the
+tubercle bacillus. It is administered intradermally on
+the volar forearm as 5 thousand units (TU) of PPD.
+Results are interpreted 48–72 hours later based
+
+502
+
+D.
+
+E.
+
+F.
+
+G.
+
+H.
+
+on millimeters of skin induration, with predetermined thresholds for positivity based on patient
+demographics and risk factors to determine further
+treatment.
+It is important that PPD results be read by health care
+professionals rather than by patients. The presence
+of induration meeting threshold criteria is termed
+positive PPD and generally represents infection with
+TB. False-positive PPD results may arise from nontuberculous mycobacterial infection or BCG (Bacille
+Calmette-Guérin) vaccination. False-negative PPD
+results may occur in the setting of anergy, recent
+TB infection, recent vaccination with live viruses, or
+overwhelming TB disease. Nonetheless, in immunocompetent individuals with latent TB infection, the
+PPD test approaches 100% sensitivity. On average,
+there is a 10% lifetime risk of developing TB disease
+from LTBI with a normal immune system. In patients
+who are HIV positive, this risk increases to a 7%–10%
+annual risk of developing TB disease. The greatest
+risk in all people occurs within the first 2 years after
+initial exposure to TB.
+A result of 0–5 mm in any patient is read as “negative.”
+Although there is a small risk of a false-negative result
+in patients who are anergic (usually as a result of
+immunosuppression), the current American Thoracic
+Society/Centers for Disease Control and Prevention/
+Infectious Diseases Society of America (ATS/CDC/
+ISDA) guidelines do not recommend routinely planting
+controls to test for anergy.
+A PPD result is positive at !5 mm for patients who
+are HIV positive, recent contacts of those with TB,
+persons with chest radiographic findings of fibrotic
+changes, or patients who have received organ transplants or are immunosuppressed.
+A threshold of !10 mm is used for people who have
+recently arrived from high prevalence areas, injection
+drug users, residents of nursing homes or jails, people
+who work with tuberculosis in a laboratory setting,
+health care workers, or children/adolescents exposed
+to adults at high risk.
+A threshold of !15 mm is considered positive for people with no known risk factors for TB. As previously
+stated, for the most part, these patients should not have
+a PPD placed because LTBI testing should be targeted
+to those with increased risk of infection.
+
+503
+Patient with POSITIVE TUBERCULIN SKIN TEST
+
+A
+
+B Individual identified as needing
+
+testing for tuberculosis based
+on medical history, demographics,
+or exposure
+
+C PPD placed by health care professional
+D Patient returns to have PPD
+
+read by health care professional
+at 48–72 hr
+
+E 0–5 mm
+
+Negative
+
+Potentially anergic
+if no induration
+Consider whether
+patient is immune
+suppressed
+
+G !10 mm
+
+F !5 mm
+Positive if patient is:
+HIV positive
+Recent contact of a
+TB case
+Has radiograph
+consistent with old TB
+Immunosuppressed or
+organ transplant recipient
+
+Positive if patient is:
+Injection drug user
+Resident of highrisk setting
+(jail/nursing home)
+Health care worker
+TB laboratory employee
+Recent immigrant from
+high prevalence area
+
+H !15 mm
+Positive for
+patients with no
+known risk factors
+
+Evaluate for active
+TB disease
+
+I If no evidence for active
+TB disease, determine
+risk/benefit of treatment
+choices for LTBI and
+begin therapy
+
+I. Once a patient is established as having a positive PPD,
+the next step involves using clinical and radiographic
+information to determine whether he or she has LTBI
+or active TB disease. For LTBI, the current ATS/CDC/
+ISDA guidelines recommend a course of isoniazid
+(also called INH) 300 mg daily for 9 months’ duration,
+regardless of whether the patient is immunocompromised. Because patient compliance is often a challenge, there are three alternative regimens of one or
+two drugs of shorter duration.
+
+References
+American Thoracic Society Statement: Targeted tuberculin testing and
+treatment of latent tuberculosis infection. Am J Respir Crit Care Med
+2000;161:5221–5247.
+Blumberg HM, Burman WJ, Chaisson RE, et al. American Thoracic
+Society/Centers for Disease Control and Prevention/Infectious
+Diseases Society of America: Treatment of tuberculosis. Am J Respir
+Crit Care Med 2003;167:603.
+Core curriculum on tuberculosis: What the clinician should know, 4th ed.
+Washington, DC: U.S. Department of Health and Human Services,
+Center for Disease Control and Prevention, National Center for HIV,
+STD, and TB Prevention, Division of Tuberculosis Elimination, 2000.
+
+

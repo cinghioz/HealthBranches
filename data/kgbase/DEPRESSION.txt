@@ -1,0 +1,313 @@
+DEPRESSION
+
+
+Depression occurs in children, adolescents, adults, and
+the elderly. It is found in all ethnic groups, has high prevalence, and is a significant cause of disability worldwide.
+Following hypertension, it is the most commonly encountered chronic illness in general medical practice. It can
+be an emotion, a specific disease entity, or a symptom
+of another mental or medical illness such as schizophrenia or thyroid dysfunction. It can also be iatrogenically
+induced by medications such as glucocorticoids, narcotics, and benzodiazepines.
+Dysphoria, a milder form of major depression, occurs in
+5% of the general population, with women and persons
+aged 25–44 years most at risk. The full syndrome of major
+depression carries significant morbidity and mortality in
+terms of suicide risk and poorer outcome of concomitant
+medical disorders. Many patients with depression present
+first to the primary care physician with somatic concerns
+and seek a medical diagnosis or treatment for anxiety
+or “nerves,” which often leads to overlooking the proper
+diagnosis and delaying treatment.
+A. Depression is a clinical syndrome without a specific
+laboratory test to confirm the diagnosis; comprehensive
+clinical assessments provide the main data.
+B. Criteria for diagnosis of major depression include
+having at least five of nine symptoms present daily
+or almost daily during the same 2-week period and
+indicative of a change from previous functioning. Symptoms are (1) depressed mood, (2) markedly reduced
+interest or pleasure in activities, (3) significant weight
+loss or gain or decrease or increase in appetite, (4) insomnia or hypersomnia, (5) psychomotor agitation or
+retardation, (6) fatigue or low energy, (7) feelings of
+worthlessness or inordinate guilt, (8) difficulty concentrating or indecisiveness, and (9) recurrent thoughts of
+death or suicide or a suicide attempt. Broad differential
+diagnosis must include organic mood disorder, depressed, and a major depression.
+C. A screening battery of laboratory tests helps rule out
+specific organic causes. In combination with the history and physical examination, findings may suggest
+more specific laboratory studies (see D). Specialized
+tests that are sensitive, but not specific, to major
+depression include the dexamethasone suppression
+test, the thyrotropin-releasing hormone stimulation
+test, and polysomnography.
+D. Differential diagnosis for organic causes includes substance abuse or dependence and use of certain prescription drugs. The latter group includes antihypertensives,
+662
+
+E.
+
+F.
+
+G.
+H.
+
+hormones, analgesics, anticancer drugs, tiparkinsonian
+drugs, antianxiety and hypnotic drugs, and GI drugs;
+endocrine and metabolic disorders (especially thyroid
+and adrenal); nutritional deficiencies (vitamin B1, niacin,
+folate, vitamin B12); and heavy metal toxicity (e.g., lead).
+Depression in alcoholics may resolve with abstinence.
+Depressive symptoms follow stroke in up to 60% of
+cases within 2 years. Treatment of underlying medical
+problems may lead to resolution of depression; if not,
+standard antidepressant treatment strategies often are
+effective.
+Initial antidepressant regimens, especially in patients
+whose illness is medically complex, often involve selective serotonin reuptake inhibitors (SSRIs; e.g., fluoxetine, sertraline, paroxetine). Secondary amine tricyclics such as nortriptyline and desipramine are an
+important alternative, especially for comorbid chronic
+pain. These may have less anticholinergic side effects
+and therefore are better tolerated than amitriptyline or
+doxepin. If SSRIs and tricyclics fail or are contraindicated, other choices include bupropion, nefazodone,
+venlafaxine, or monoamine oxidase inhibitors (MAOIs;
+phenelzine, tranylcypromine). Low-dose trazodone
+(note priapism as a possible side effect in males) is
+sometimes used for insomnia, in combination with
+activating agents such as fluoxetine. Choose medication to specific target symptoms (e.g., agitation versus
+psychomotor retardation) and address side effect
+profile. Watch for drug interactions with fluoxetine and
+MAOIs. MAOIs necessitate a tyramine-free diet.
+Amphetamine-based stimulants may mobilize patients
+who are apathetic and medically ill, but their long-term
+efficacy for major depression is uncertain.
+Up to 50% of patients who are unipolar depressed
+with partial or no response to antidepressant therapy
+may respond more fully to the addition of lithium.
+More controversial augmentation strategies include
+buspirone supplementation (especially in agitated
+depression), thyroid supplementation, combination
+therapy of fluoxetine with a tricyclic, and combination therapy of an MAOI with a tricyclic; the last
+two approaches involve a significant risk of drug
+interactions.
+Growing evidence suggests that bright-light therapy
+may suffice in some cases of winter depression; more
+standard somatic therapies also are effective.
+Recent studies have shown the need for a combination
+of antidepressant and antipsychotic drugs rather than
+single-agent therapy to treat psychotic depression.
+
+663
+Patient with DYSPHORIC MOOD
+
+A Medical and psychiatric history
+Medication/substance history
+Physical examination
+Mental status examination
+
+Additional symptoms and signs
+
+B 5 of 9 severe symptoms
+
+during same 2-wk period
+
+Chronic course
+Less severe depression
+
+History of
+stressor !6 mo
+
+Cont’d on p 665
+
+Cont’d on p 665
+
+Consider:
+Organic mood disorder, depressed
+Major depression
+
+C Diagnostic tests:
+
+CBC, ESR
+Blood chemistries
+Thyroid index, thyroid-stimulating hormone
+Rapid plasma reagin, HIV screen
+Head CT or MRI
+Toxic screen
+
+Organic factor present
+
+Specific organic factor not present
+
+D Consider:
+
+Consider:
+Major
+depression
+with or
+without
+melancholia
+
+Substance-induced
+depressive disorder
+Medication-induced
+depressive disorder
+Endocrine/metabolic
+disorder
+Nutritional deficiency
+Toxic disorder
+Malignancy
+Infection
+Neurologic disorder
+Cardiopulmonary
+disorder/hypoxia
+
+Treat specific
+underlying
+disorder
+
+Psychotic
+symptoms
+
+Consider:
+Seasonal
+affective
+disorder
+
+Consider:
+Major depression
+with psychotic
+features
+Schizoaffective
+disorder
+Depressive
+disorder NOS
+
+G Bright-
+
+light
+therapy
+
+H
+
+Specific diagnostic tests
+
+Eliminate
+drug
+
+Seasonal
+pattern
+
+E
+
+Substance
+abuse
+treatment
+
+F
+
+Combination
+Antidepressant
+and Antipsychotic
+Medications
+"
+Psychotherapy
+
+Manic or
+hypomanic
+history
+Consider:
+Bipolar disorder
+Cyclothymia
+
+I
+
+Antidepressant
+Medication
+"
+Lithium
+"
+Psychotherapy
+
+Antidepressant
+Medication
+"
+Psychotherapy
+Medication
+Augmentation
+
+J
+
+I. Patients who are bipolar may switch into manic episodes
+during treatment with antidepressant medications alone.
+This may necessitate concomitant coverage with lithium
+or another mood-stabilizing agent (e.g., divalproex, carbamazepine). Anecdotal evidence suggests possible usefulness of bupropion in treating bipolar depression.
+
+ELECTROCONVULSIVE THERAPY
+
+J. Electroconvulsive therapy is the most effective treatment for major depression, especially for the subtype
+with psychotic features. It is the treatment of choice for
+acute suicidality, severe cachexia and dehydration secondary to poor intake, many medically complex major
+depressions, and antidepressant medication failures.
+(Continued on page 664)
+
+664
+K. A chronic course of at least 2 years and a less severe
+depressive picture suggest a dysthymic disorder, which
+can co-occur with major depression. Dysphoria or fluctuating mood instability is also characteristic of a range of
+chronic personality disorders that vary in responsiveness
+to psychotherapeutic interventions.
+L. An identifiable stressor, maladaptive symptoms lasting
+!6 months, and a generally less severe depressive picture suggest an adjustment disorder with depressed
+mood, which usually resolves with time and supportive
+psychotherapy.
+References
+Brown SA, Inaba RK, Gillin JC, et al. Alcoholism and affective disorder:
+clinical course of depressive symptoms. Am J Psychiatry 1995;152:45.
+Charney DS, Miller HL, Licinio J, et al. Treatment of depression. In
+Schatzberg AF, Nemeroff CB, eds. Textbook of Psychopharmacology.
+Washington, DC: American Psychiatric Press, 1995:575.
+
+Cole S, Raju M. Making the diagnosis of depression in the primary care
+setting. Am J Med 1996;101:10S.
+Fava GA, Grandi S, Zielezny M, et al. Four-year outcome for cognitive
+behavioral treatment of residual symptoms in major depression. Am J
+Psychiatry 1996;153:945.
+Kleinman S. Culture and depression. N Engl J Med 2004;351:
+951–953.
+Klerman GL, Weissman MM. The course, morbidity, and costs of
+depression. Arch Gen Psychiatry 1992;49:831.
+McCoy DM. Treatment considerations for depression in patients
+with significant medical comorbidity. J Fam Practice 1996;43
+(6 Suppl):S35.
+Nierenberg AA. Treatment choice after one antidepressant fails: a survey
+of Northeastern psychiatrists. J Clin Psychiatry 1991;52:383.
+Wells KB, Sturm R, Sherbourne CD, et al. Caring for Depression.
+Cambridge, MA: Harvard University Press, 1996.
+Whooley MA, Simon GE. Primary care: managing depression in medical
+outpatients. N Engl J Med 2000;343:1942–1950.
+
+665
+Patient with DYSPHORIC MOOD
+(Cont’d from p 663)
+
+K Chronic course
+
+Less severe depression
+
+Consider:
+Dysthymia
+Psychotherapy
+#
+Antidepressants
+
+Consider:
+Concomitant
+personality
+disorder
+Psychotherapy
+
+L History of
+
+stressor !6 mo
+
+Consider:
+Adjustment
+disorder with
+depressed mood
+Psychotherapy
+
+

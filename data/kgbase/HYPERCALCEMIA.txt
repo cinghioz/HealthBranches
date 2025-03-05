@@ -1,0 +1,155 @@
+HYPERCALCEMIA
+
+A. Hypercalcemia is frequently encountered by primary
+care physicians. Hypercalcemia is considered mild when
+the total serum calcium level is between 10.5 and 12 mg/
+dl. Levels >14 mg/dl are considered to be a hypercalcemic crisis and can be lethal. Patients with mild hypercalcemia are often asymptomatic. Patients with more severe
+hypercalcemia can present with nonspecific symptoms
+that include nausea, anorexia, constipation, abdominal
+pain, bone pain, fatigue, polydipsia, and confusion. Signs
+of hypercalcemia include dysrhythmias, hypertension,
+and short QT on an ECG. The two most common causes
+of hypercalcemia are primary hyperparathyroidism and
+neoplastic disease, accounting for !90% of cases, and
+these can be discriminated on the basis of the serum
+parathyroid hormone (PTH) level.
+B. Primary hyperparathyroidism has a relatively benign
+course. Osteoporosis and renal impairment are two
+important long-term consequences that drive early intervention. Parathyroidectomy is recommended for
+patients with an elevated PTH level and hypercalcemia
+who are "50 years or if the calcium is !12.5 mg/dl,
+there are renal stones, there is evidence of renal insufficiency, the Z-score on bone densitometry is "2, or
+urinary calcium excretion is particularly high. A preoperative parathyroid sestamibi scan can assist the endocrine surgeon and limit the extent of surgery. Determining intraoperative PTH levels allows the surgeon to
+be confident of the procedure’s success before surgical
+closure. Medical management of primary hyperparathyroidism with calcimimetics is currently limited to
+clinical trials.
+Chronic renal failure generally causes hypocalcemia.
+If untreated, prolonged high phosphate and low vitamin D levels can lead to increased PTH secretion and
+subsequent hypercalcemia. This is termed tertiary
+hyperparathyroidism and can be managed surgically
+or medically.
+C. Familial hypocalciuric hypercalcemia (FHH) is an autosomal-dominant condition caused by a mutation in
+the gene for the calcium receptor. Patients have an innocuous course characterized by mild to moderate
+hypercalcemia, normal or slightly elevated PTH levels,
+and low urinary calcium excretion. These patients do
+not benefit from parathyroidectomy.
+D. Hypercalcemia of malignancy is usually symptomatic
+and can be severe. Solid tumors induce hypercalcemia
+by releasing parathyroid hormone–related protein
+(PTHrp), which mimics the action of endogenous PTH.
+Bone destruction by metastatic disease or myeloma can
+134
+
+also induce hypercalcemia, often in association with an
+elevated alkaline phosphatase level.
+E. Vitamin D can induce hypercalcemia if taken in overdose,
+or if there is excessive action of the 1-alpha-hydroxylase
+that creates the active form of vitamin D. This enzyme is
+hyperactive in patients with granulomatous disease such
+as sarcoidosis and responds well to treatment with glucocorticoids while the underlying disease is being treated.
+Consumption of large amounts of calcium or vitamin A
+can lead to hypercalcemia, but it is rare.
+Treatment of severe hypercalcemia includes emergent fluid repletion with saline and IV administration
+of bisphosphonates. Initially saline is given at 200–300
+ml/hr and is adjusted to maintain the urine output to
+100–150 ml/hr. A loop diuretic can be added but is
+not always necessary and can lead to hypokalemia and
+hypomagnesemia. In the United States, pamidronate
+and zoledronate are bisphosphonates licensed for use
+in this indication. Zoledronate is preferred because it
+can be given over a shorter time (15 minutes as compared with 2 hours for pamidronate) and is more potent. Hypocalcemia occurs in up to 50% of patients
+treated with bisphosphonates for hypercalcemia of
+malignancy, although symptomatic hypocalcemia is
+rare. Calcitonin is characterized by good tolerability
+but poor efficacy in normalizing the serum calcium
+level. However, a major advantage of calcitonin is the
+acute onset of the hypocalcemic effect (reduction of
+1–2 mg/dl within 6 hours), which contrasts with the
+delayed (approximately 2–4 days) but more pronounced effect of bisphosphonates. It is administered
+intramuscularly or subcutaneously every 12 hours at a
+dose of 4 IU/kg. Gallium nitrate is characterized by
+high efficacy and few adverse events apart from renal
+toxicity (10% of cases). However, data are limited, and
+further trials are necessary.
+
+References
+Jacobs TP, Bilezikian JP. Clinical review: rare causes of hypercalcemia.
+J Clin Endocrinol Metab 2005;90(11):6316–6322.
+Mikhail N, Cope D. Evaluation and treatment of primary hyperparathyroidism. JAMA 2005;294(21):2700.
+NIH conference. Diagnosis and management of asymptomatic primary
+hyperparathyroidism: consensus development conference statement.
+Ann Intern Med 1991;114:593–597.
+Pecherstorfer M, Brenner K, Zojer N. Current management strategies
+for hypercalcemia. Treat Endocrinol 2003;2(4):273–292.
+Saunders Y, Ross JR, Broadley KE, et al. Systematic review of bisphosphonates for hypercalcaemia of malignancy. Palliat Med
+2004;18(5):418–431.
+
+135
+Patient with HYPERCALCEMIA
+
+A Total calcium
+!10.5 mg/dl
+
+Exclude contributing
+medications
+
+B Measure PTH
+
+Low
+
+Normal or
+high
+Check 24-hour
+urinary calcium excretion
+
+Low
+
+D PTHrp elevated
+
+Normal or
+high
+
+C FHH
+
+Malignancy
+
+Primary or
+tertiary
+hypercalcemia
+
+Evaluate for:
+Calcium !12 mg/dl
+Marked hypercalciuria
+Nephrolithiasis or
+impaired renal function
+Z-score "2 on bone
+mineral density
+Age "50 yr
+
+Any of the above
+are present
+
+None of the above
+are present
+
+Parathyroid Sestamibi Scan
+and Parathyroidectomy
+
+Maintain hydration
+and monitor
+
+E 1,25 Vitamin D
+
+Granulomatous
+disease
+(tuberculosis,
+sarcoidosis)
+
+↑Alkaline
+phosphatase
+
+Bone lysis
+(e.g., metastatic
+tumor)
+
+

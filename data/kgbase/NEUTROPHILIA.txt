@@ -1,0 +1,110 @@
+NEUTROPHILIA
+
+
+Increases in the number of circulating WBCs may represent either a primary disorder of WBC production or,
+more commonly, a secondary response to an underlying
+disease. Leukocytosis is defined by age-adjusted population normal values. Abnormal elevations in mature neutrophil count (neutrophilia) represent the most common
+cause of leukocytosis and are the subject of this decision
+matrix.
+A. Neutrophilia is best defined as an increase in the absolute blood neutrophil count to a level !2 standard
+deviations above the mean value for normal adult individuals. From a practical standpoint, this is usually
+defined as a neutrophil count !10,000/mm3. Neutrophil counts follow a diurnal variation, with the peak
+counts occurring late in the afternoon. However, this
+variation is not enough to produce neutrophilia.
+B. Initially, laboratory error should be excluded as a cause
+of neutrophilia. With the advent of electronic complete
+blood counting, error has been virtually eliminated.
+Blood counts that do not make sense in a given clinical
+context should be repeated. There is no substitute to
+evaluating the peripheral blood smear. Factitious neutrophilia may result from preanalytic variables such as a
+blood sample obtained with inadequate anticoagulant.
+C. The evaluation of neutrophilia begins with a thorough
+history and physical examination to search for an underlying disease state. Neutrophilia commonly results from
+an acute or chronic inflammatory process. A bone
+marrow examination rarely provides useful information
+except in those patients in whom a primary marrow
+dyscrasia is suspected. Bone marrow biopsy with culture
+may be useful in the detection of chronic infections
+(fungal or mycobacterial). In patients with very mild
+neutrophilia, remember that the neutrophil count in
+2.5% of the general population must be !2 standard
+deviations above the mean. The regulation of the neutrophil count is also genetically controlled, and examination of siblings and family members can be helpful in
+difficult cases.
+D. The workup of neutrophilia is greatly simplified when
+it can be classified as primary or secondary. In normal
+individuals the neutrophil count varies directly with
+the serum cortisol level, with both levels peaking in the
+late afternoon. Neutrophil counts increase slightly after meals, with postural changes, and with stress and
+emotional stimuli. These physiologic changes are not
+
+240
+
+enough to cause a clinically meaningful increase in the
+neutrophil count.
+E. Primary neutrophilia is that without evidence of an associated disease and may result from a wide variety of
+bone marrow disorders. These can be idiopathic, familial, or malignant. Benign hematologic disorders, including rebound from agranulocytosis, megaloblastic anemia, or chronic idiopathic leukocytosis, can produce
+chronic neutrophilia. Malignant hematologic disorders
+such as chronic myeloid leukemia and myeloproliferative disorders must also be considered as other causes
+of persistent primary neutrophilia.
+F. Secondary neutrophilia may result from a wide variety
+of stimuli. Both physical and emotional stimuli may
+cause neutrophilia. These stimuli may include cold,
+heat, exercise, seizures, pain, labor, surgery, panic, and
+rage. Localized and systemic bacterial and mycotic
+infections may result in secondary neutrophilia. Ongoing tissue necrosis with the activation of the complement system is responsible for increases in neutrophil
+count. Finally, colony-stimulating factors such as filgrastim, sargramostim, and pegylated filgrastim can elicit a
+striking neutrophilia. Mild chronic neutrophilia most
+often is the result of smoking. Long-standing chronic
+inflammation can also produce puzzling cases of secondary chronic neutrophilia. Vasculitis, rheumatoid arthritis, gout, myositis, colitis, dermatitis, periodontal disease, and drug reactions are often associated with
+chronic neutrophilia. Nonhematologic malignancy can
+produce chronic neutrophilia; causes commonly include
+carcinomas of the lung, stomach, breast, kidney, pancreas, and uterus. Neutrophilia in response to drug
+administration is rare except in the case of the administration of glucocorticoids, epinephrine, and lithium salts.
+Specific therapy to reduce only the neutrophil counts is
+not recommended. Instead, treatment of the underlying
+cause is preferred.
+
+References
+Hoffbrand AV, Catovsky D, Tuddenham EGD. Postgraduate Hematology.
+Oxford: Blackwell, 2005:277.
+Hoffman R, Benz EJ, Shattill SJ, et al., eds. Hematology: Basic Principles
+and Practice, 4th ed. Philadelphia: Elsevier/Churchill Livingstone,
+2005:802.
+Lichtman MA, Beutler E, Kipps TJ, et al., eds. Williams Hematology, 7th
+ed. New York: McGraw-Hill, 2006:907.
+
+241
+Patient with NEUTROPHILIA
+
+A Satisfy diagnostic criteria
+B Exclude laboratory error
+Peripheral blood smear
+
+C History
+
+Physical examination
+
+D Determine whether neutrophilia
+is primary or secondary
+
+E Primary
+Consider:
+Hereditary neutrophilia
+Chronic idiopathic neutrophilia
+Chronic myeloid leukemia
+Myeloproliferative disorders
+Leukemoid reaction
+Familial cold urticaria
+Leukocyte adhesion deficiency
+
+F Secondary
+Consider:
+Infection
+Stress
+Chronic inflammation
+Nonhematologic malignancy
+Drug-induced
+Asplenia
+Generalized marrow stimulation
+
+

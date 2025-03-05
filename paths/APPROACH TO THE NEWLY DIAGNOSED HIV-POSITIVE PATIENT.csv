@@ -1,0 +1,52 @@
+source,leaf,paths
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Test limitations,Initial steps for newly diagnosed HIV-positive patients -> Pretest and posttest counseling -> Test limitations
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Treatment availability,Initial steps for newly diagnosed HIV-positive patients -> Pretest and posttest counseling -> Treatment availability
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Risk reduction,Initial steps for newly diagnosed HIV-positive patients -> Pretest and posttest counseling -> Risk reduction
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Available resources for support,Initial steps for newly diagnosed HIV-positive patients -> Pretest and posttest counseling -> Available resources for support
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Partner disclosure,Initial steps for newly diagnosed HIV-positive patients -> Pretest and posttest counseling -> Partner disclosure
+NEWLY DIAGNOSED HIV-POSITIVE Patient,ELISA to screen for chronic infection,Initial steps for newly diagnosed HIV-positive patients -> Testing -> ELISA to screen for chronic infection
+NEWLY DIAGNOSED HIV-POSITIVE Patient,"If acute infection suspected, order ELISA and HIV viral load","Initial steps for newly diagnosed HIV-positive patients -> Testing -> If acute infection suspected, order ELISA and HIV viral load"
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Source of infection,Initial steps for newly diagnosed HIV-positive patients -> Detailed history -> Source of infection
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Risks for other STDs,Initial steps for newly diagnosed HIV-positive patients -> Detailed history -> Risks for other STDs
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Substance abuse,Initial steps for newly diagnosed HIV-positive patients -> Detailed history -> Substance abuse
+NEWLY DIAGNOSED HIV-POSITIVE Patient,"Prior Ols (tuberculosis, shingles, thrush)","Initial steps for newly diagnosed HIV-positive patients -> Detailed history -> Prior Ols (tuberculosis, shingles, thrush)"
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Prior vaccines,Initial steps for newly diagnosed HIV-positive patients -> Detailed history -> Prior vaccines
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Current medications,Initial steps for newly diagnosed HIV-positive patients -> Detailed history -> Current medications
+NEWLY DIAGNOSED HIV-POSITIVE Patient,"Comorbidities, especially cardiovascular disease or risks","Initial steps for newly diagnosed HIV-positive patients -> Detailed history -> Comorbidities, especially cardiovascular disease or risks"
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Women: last Pap smear,Initial steps for newly diagnosed HIV-positive patients -> Detailed history -> Women: last Pap smear
+NEWLY DIAGNOSED HIV-POSITIVE Patient,"Energy, appetite, weight loss","Initial steps for newly diagnosed HIV-positive patients -> Detailed review of systems -> Energy, appetite, weight loss"
+NEWLY DIAGNOSED HIV-POSITIVE Patient,"Fever, chills, night sweats","Initial steps for newly diagnosed HIV-positive patients -> Detailed review of systems -> Fever, chills, night sweats"
+NEWLY DIAGNOSED HIV-POSITIVE Patient,"Headache, visual changes, focal paresthesia, focal weakness, confusion","Initial steps for newly diagnosed HIV-positive patients -> Detailed review of systems -> Headache, visual changes, focal paresthesia, focal weakness, confusion"
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Skin rashes,Initial steps for newly diagnosed HIV-positive patients -> Detailed review of systems -> Skin rashes
+NEWLY DIAGNOSED HIV-POSITIVE Patient,"Cough, shortness of breath, sputum production","Initial steps for newly diagnosed HIV-positive patients -> Detailed review of systems -> Cough, shortness of breath, sputum production"
+NEWLY DIAGNOSED HIV-POSITIVE Patient,"Abdominal pain, nausea, vomiting, dysphagia, odynophagia, diarrhea, hematochezia","Initial steps for newly diagnosed HIV-positive patients -> Detailed review of systems -> Abdominal pain, nausea, vomiting, dysphagia, odynophagia, diarrhea, hematochezia"
+NEWLY DIAGNOSED HIV-POSITIVE Patient,"Dysuria, genital discharge, genital itching, genital ulcer or rash","Initial steps for newly diagnosed HIV-positive patients -> Detailed review of systems -> Dysuria, genital discharge, genital itching, genital ulcer or rash"
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Body mass index,Initial steps for newly diagnosed HIV-positive patients -> Complete physical examination -> Body mass index
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Funduscopy for retinal lesions,Initial steps for newly diagnosed HIV-positive patients -> Complete physical examination -> Funduscopy for retinal lesions
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Oral evaluation for opportunistic infections,Initial steps for newly diagnosed HIV-positive patients -> Complete physical examination -> Oral evaluation for opportunistic infections
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Lymphadenopathy,Initial steps for newly diagnosed HIV-positive patients -> Complete physical examination -> Lymphadenopathy
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Rashes,Initial steps for newly diagnosed HIV-positive patients -> Complete physical examination -> Rashes
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Genital and anal lesions or discharge,Initial steps for newly diagnosed HIV-positive patients -> Complete physical examination -> Genital and anal lesions or discharge
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Neurologic examination,Initial steps for newly diagnosed HIV-positive patients -> Complete physical examination -> Neurologic examination
+NEWLY DIAGNOSED HIV-POSITIVE Patient,"CD4 count, HIV viral load","Initial steps for newly diagnosed HIV-positive patients -> Laboratory studies -> CD4 count, HIV viral load"
+NEWLY DIAGNOSED HIV-POSITIVE Patient,HIV genotype assay for drug resistance,Initial steps for newly diagnosed HIV-positive patients -> Laboratory studies -> HIV genotype assay for drug resistance
+NEWLY DIAGNOSED HIV-POSITIVE Patient,CBC and differential,Initial steps for newly diagnosed HIV-positive patients -> Laboratory studies -> CBC and differential
+NEWLY DIAGNOSED HIV-POSITIVE Patient,"Liver function tests, creatinine, electrolytes, fasting glucose","Initial steps for newly diagnosed HIV-positive patients -> Laboratory studies -> Liver function tests, creatinine, electrolytes, fasting glucose"
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Syphilis test,Initial steps for newly diagnosed HIV-positive patients -> Laboratory studies -> Syphilis test
+NEWLY DIAGNOSED HIV-POSITIVE Patient,"Serology for hepatitis A, B, C, Toxoplasma gondii, varicella, CMV","Initial steps for newly diagnosed HIV-positive patients -> Laboratory studies -> Serology for hepatitis A, B, C, Toxoplasma gondii, varicella, CMV"
+NEWLY DIAGNOSED HIV-POSITIVE Patient,G6PD assay,Initial steps for newly diagnosed HIV-positive patients -> Laboratory studies -> G6PD assay
+NEWLY DIAGNOSED HIV-POSITIVE Patient,PPD,Initial steps for newly diagnosed HIV-positive patients -> Laboratory studies -> PPD
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Pap smear,Initial steps for newly diagnosed HIV-positive patients -> Laboratory studies -> Pap smear
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Strength of immune system,"Initial steps for newly diagnosed HIV-positive patients -> Integrate history, physical examination, and laboratory tests to determine -> Strength of immune system"
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Possible presence of active opportunistic infections,"Initial steps for newly diagnosed HIV-positive patients -> Integrate history, physical examination, and laboratory tests to determine -> Possible presence of active opportunistic infections"
+NEWLY DIAGNOSED HIV-POSITIVE Patient,"Need for active treatment against opportunistic infections, prophylaxis, and/or antiretroviral therapy","Initial steps for newly diagnosed HIV-positive patients -> Integrate history, physical examination, and laboratory tests to determine -> Need for active treatment against opportunistic infections, prophylaxis, and/or antiretroviral therapy"
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Contingent upon CD4 count and prior infections,Initial steps for newly diagnosed HIV-positive patients -> Prophylaxis for opportunistic infections -> Contingent upon CD4 count and prior infections
+NEWLY DIAGNOSED HIV-POSITIVE Patient,See Table 3 for details,Initial steps for newly diagnosed HIV-positive patients -> Prophylaxis for opportunistic infections -> See Table 3 for details
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Pneumococcal vaccine (often deferred until CD4 count >200 cells/mm³),Initial steps for newly diagnosed HIV-positive patients -> Immunizations -> Pneumococcal vaccine (often deferred until CD4 count >200 cells/mm³)
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Hepatitis A (for patients who practice anal intercourse or international travelers) contingent upon CD4 count and prior infections,Initial steps for newly diagnosed HIV-positive patients -> Immunizations -> Hepatitis A (for patients who practice anal intercourse or international travelers) contingent upon CD4 count and prior infections
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Hepatitis B,Initial steps for newly diagnosed HIV-positive patients -> Immunizations -> Hepatitis B
+NEWLY DIAGNOSED HIV-POSITIVE Patient,"Tetanus, diphtheria, and acellular pertussis boosters","Initial steps for newly diagnosed HIV-positive patients -> Immunizations -> Tetanus, diphtheria, and acellular pertussis boosters"
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Influenza (yearly),Initial steps for newly diagnosed HIV-positive patients -> Immunizations -> Influenza (yearly)
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Repeat CD4 count and viral load 2–8 wk following treatment initiation,Initial steps for newly diagnosed HIV-positive patients -> Monitoring -> Repeat CD4 count and viral load 2–8 wk following treatment initiation
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Repeat testing every 3–4 mo,Initial steps for newly diagnosed HIV-positive patients -> Monitoring -> Repeat testing every 3–4 mo
+NEWLY DIAGNOSED HIV-POSITIVE Patient,Refer patient to an HIV specialist or refer to www.aidsinfo.nih.gov for the latest recommendations,Initial steps for newly diagnosed HIV-positive patients -> Monitoring -> Refer patient to an HIV specialist or refer to www.aidsinfo.nih.gov for the latest recommendations

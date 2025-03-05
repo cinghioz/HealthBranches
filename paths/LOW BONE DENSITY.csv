@@ -1,0 +1,13 @@
+source,leaf,paths
+root,"Primary osteoporosis: No evidence of underlying conditions on history, physical examination, or laboratory evaluation","Patient with LOW BONE DENSITY -> History and physical examination -> Primary osteoporosis: No evidence of underlying conditions on history, physical examination, or laboratory evaluation"
+root,"Secondary osteoporosis: Medications, Endocrine disorders, Gl disorders, Hematologic disorders, Inflammatory diseases","Patient with LOW BONE DENSITY -> History and physical examination -> Secondary osteoporosis: Medications, Endocrine disorders, Gl disorders, Hematologic disorders, Inflammatory diseases"
+root,"Osteomalacia: ↓phosphate, ↑ alkaline phosphatase: most common
+↓ alkaline phosphatase: hypophosphatasia
+↓ phosphate, ↓ calcium: vitamin D deficiency
+Isolated ↓ phosphate: renal wasting","Patient with LOW BONE DENSITY -> Laboratory tests -> Osteomalacia: ↓phosphate, ↑ alkaline phosphatase: most common
+↓ alkaline phosphatase: hypophosphatasia
+↓ phosphate, ↓ calcium: vitamin D deficiency
+Isolated ↓ phosphate: renal wasting"
+root,"Hyperparathyroidism: Primary hyperparathyroidism— ↑ Ca, ↑ PTH
+Secondary hyperparathyroidism— ↓Ca,↑ phosphate, ↑ PTH","Patient with LOW BONE DENSITY -> Laboratory tests -> Hyperparathyroidism: Primary hyperparathyroidism— ↑ Ca, ↑ PTH
+Secondary hyperparathyroidism— ↓Ca,↑ phosphate, ↑ PTH"

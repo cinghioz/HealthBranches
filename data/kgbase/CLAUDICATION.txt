@@ -1,0 +1,249 @@
+CLAUDICATION
+
+Claudication, the symptom of exertional (typically lower) limb discomfort that resolves with rest, is a common
+problem among elderly patients, estimated to involve up
+to 10% of patients !70 years. Claudication is generally
+caused by atherosclerotic blockages of the arteries of the
+limbs, termed peripheral arterial disease (PAD). Epidemiologic research has demonstrated that the prevalence
+of PAD goes far beyond patients with typical claudication
+to include patients with atypical leg symptoms, patients
+with abnormalities of gait, and patients with no leg symptoms at all. In fact, most patients with PAD do not have
+the classic symptom of claudication. Given the limited
+reliability of a history of claudication for diagnosing all patients with PAD, the ankle-brachial index (ABI) is a critical
+clinical tool to identify PAD. This review will focus on the
+approach to management of claudication. The management of the patient with asymptomatic PAD or with atypical
+leg symptoms is beyond the scope of this review, although
+general principles apply.
+A. The history and physical examination are important
+components of the evaluation of the patient with suspected claudication. The history should focus on
+whether the leg symptoms are typical for claudication
+or whether they are more consistent with an alternative
+diagnosis. Claudication is a sensation of leg discomfort that comes on with a predictable amount of exertion and typically resolves within 5 minutes of rest.
+The discomfort may be unilateral or bilateral and may
+involve the buttocks, hips, thighs, or calves, depending on the anatomic location of arterial blockages. It
+is crucial to determine whether limb discomfort occurs at rest or only with exertion. Discomfort that
+occurs at rest may represent critical limb ischemia
+(CLI), a vascular urgency. A complete cardiovascular
+(CV) review of systems is important, because many
+patients with PAD also have occult coronary artery
+and cerebrovascular disease. Patients should also be
+asked about erectile dysfunction, neurologic symptoms, and postprandial abdominal pain (a symptom of
+mesenteric ischemia). A detailed smoking history
+
+106
+
+must be obtained along with assessment of all other
+risk factors for atherosclerosis. The physical examination should include a comprehensive vascular examination, including measurement of blood pressures in
+both arms, palpation of the major pulses of the upper
+and lower extremities, and auscultation for bruits.
+The absence of a pedal pulse is suggestive of PAD in
+the patient who presents with exertional leg symptoms. The posterior tibial pulse is a more specific indicator of PAD, as the dorsalis pedis pulse is congenitally absent or anomalous in upward of 10% of
+patients. Careful inspection of the feet, with shoes
+and socks removed, is critical. Ischemic ulcers may
+occur on the foot or the heel or in between the toes
+(“kissing ulcers”). Other physical findings consistent
+with the presence of PAD include hair loss, diminished skin temperature, and elevation pallor of the
+symptomatic extremity.
+B. The ABI is the cornerstone of diagnosis of PAD. The
+ABI should be measured with the patient in the supine
+position after a rest period of at least 5 minutes. A
+standard blood pressure cuff and handheld Doppler
+device are used to measure systolic blood pressure in
+both arms (brachial pressures) and at each ankle. The
+cuff is placed directly above the ankle. Systolic pressures are measured by listening over both the posterior
+tibial and dorsalis pedis arteries. The ABI for each leg
+is the ratio of the higher ankle pressure (dorsalis pedis
+or posterior tibial) over the higher of the two arm pressures. A normal resting ABI is generally defined as
+falling between 0.91 and 1.3, although a truly normal
+value should be "1.1. An ABI of #0.9 is diagnostic of
+PAD. An ABI !1.3 is also abnormal and is due to artifact from noncompressible vessels. This is a relatively
+common finding in diabetic patients and in patients
+with end-stage renal disease. An ABI of !1.3 is not
+interpretable, and an alternative diagnostic study
+should be obtained, such as measurement of the toebrachial index, pulse volume recordings, or a magnetic
+resonance angiogram (MRA) or computed tomographic angiogram (CTA) of the lower extremities.
+(Continued on page 108)
+
+107
+Patient with SUSPECTED CLAUDICATION
+
+A History and
+
+physical examination
+
+B ABI
+
+Normal
+
+Abnormal (ABI #0.9)
+
+C Postexercise ABI
+
+Normal
+
+Abnormal
+
+E Evaluate for
+
+alternative diagnosis
+
+D PAD confirmed
+Additional testing
+only if necessary
+Cont’d on p 109
+
+C. The presence of a normal ABI at rest, particularly if it is
+within the 0.91–1.1 range, does not exclude the possibility that a patient has PAD as the cause of his or her leg
+symptoms. In some patients with mild disease, or disease localized to the aortoiliac segment, the ABI may be
+normal at rest but may fall during exercise. Formal exercise testing protocols are in place in most vascular
+laboratories. A patient walks on a treadmill, using a standardized protocol, until the occurrence of leg symptoms
+or until the protocol has been completed. The ABI is
+remeasured with the patient in the supine position as
+soon as possible after exercise is completed. Any fall in
+ankle pressure after exercise is abnormal. The ABI will
+often fall by "20% in a patient with PAD who experiences claudication during the test. A simple bedside alternative to formal exercise testing is to measure the
+ABI at rest and then ask the patient to perform a series
+of standing calf raises until leg discomfort is provoked.
+The ABI in the symptomatic leg is then remeasured.
+D. In most cases of claudication, the clinical evaluation
+and ABI complete the diagnostic workup for PAD. In
+the author’s practice, an ABI along with measurement
+of segmental leg pressures and pulse volume recordings is routinely obtained in the vascular laboratory.
+
+In the author’s practice, the use of additional diagnostic imaging, such as MRA, arterial duplex ultrasound,
+or CTA is limited to cases in which additional anatomic information is required. Settings in which additional imaging for claudication is obtained would
+include evaluation of PAD in a patient without risk
+factors for atherosclerosis when an unusual arterial
+disorder is suspected (e.g., Takayasu’s arteritis, fibromuscular dysplasia, arterial entrapment syndrome),
+there is suspected aneurysmal disease, or arterial
+anatomy needs to be defined to delineate revascularization options, as well as for follow-up after lower
+extremity revascularization.
+E. If PAD has been excluded as the cause of the patient’s
+limb symptoms, a number of alternative diagnoses
+should be considered, depending upon the nature of
+the patient’s symptoms. The differential diagnosis of leg
+pain is broad and includes lumbar canal stenosis
+(pseudoclaudication), osteoarthritis, venous disease,
+and painful peripheral neuropathy. Similarly,alternative
+diagnoses must be considered for a patient with a leg or
+foot ulcer and a normal resting ABI. The most common
+causes of nonischemic limb ulcers are venous insufficiency and diabetes mellitus–associated neuropathy.
+
+108
+F. Myocardial infarction and stroke are the leading causes
+of death among patients with PAD. As such, aggressive
+CV risk factor modification is critical for all patients with
+claudication, as well as for patients with PAD who have
+CLI, are asymptomatic, or have atypical leg symptoms.
+Specifically, patients should receive an antiplatelet drug
+(aspirin or clopidogrel), a statin, and rigorous blood
+pressure control. Smoking cessation is vital for improvement in limb-related outcomes and for the prevention
+of CV events. Diabetic patients with PAD should achieve
+appropriate glycemic control, often with the input of an
+endocrine specialist.
+G. A patient with rest pain of an extremity, a nonhealing
+ulcer, or gangrene in the setting of an abnormal ABI
+has CLI. The ABI in these patients is typically <0.4.
+Patients with PAD and diabetes mellitus and those
+who continue to smoke are at particularly increased
+risk of developing CLI. CLI is a vascular urgency
+with the potential for loss of limb and a high rate of
+CV morbidity. The clinician must vigilantly follow all
+patients with claudication for the development of
+CLI. Deterioration to CLI can occur in previously
+stable patients, including those who had initially responded to conservative therapy. Although atypical,
+some patients with claudication may also present
+with a nonhealing ulcer in the absence of ischemic
+rest pain. All patients with CLI should be urgently
+referred to a vascular specialist for evaluation for
+revascularization.
+
+H. For most patients, the initial management of claudication includes a trial of medical therapy. All patients
+should receive counseling regarding proper foot care.
+Supervised exercise training programs are highly successful at improving exercise capacity among claudicants, although they are not widely available. Patients
+with PAD should be advised to begin a walking program with a goal of walking for one-half hour (does
+not include rest periods) 5 times per week. Of the two
+FDA-approved medications available for the treatment of claudication (cilostazol and pentoxifylline),
+there is stronger efficacy data in support of the use of
+cilostazol. Cilostazol is contraindicated for use among
+patients with congestive heart failure.
+I. If a patient with claudication does not experience improvement in leg symptoms with conservative therapy,
+particularly if there is substantial impairment of quality
+of life or functional capabilities, he or she should be
+referred to a vascular specialist for revascularization.
+During the past two decades, there have been great
+advances in catheter-based techniques, which allow for
+nonsurgical revascularization of many patients. Carefully
+selected patients with severely disabling symptoms or
+vocational disability caused by claudication may be considered for revascularization as first-line therapy, particularly if the patient has favorable anatomy for a catheterbased procedure. Patients with aortoiliac disease or short
+segment lesions of the femoral vessels are the most
+attractive candidates for catheter-based therapies.
+
+109
+Additional testing
+(Cont’d from p107)
+
+F CV risk factor modification
+Smoking cessation
+Statins
+Antiplatelet therapy
+Glycemic control
+Exercise
+Blood pressure control
+
+Does patient have rest pain,
+ulcer, or gangrene?
+
+Yes
+
+No
+
+G CLI
+
+Refer for revascularization
+
+H Begin medical therapy
+
+Foot care
+Supervised exercise
+Cilostazol
+Pentoxifylline
+
+Response to medical therapy
+
+Adequate response
+Continue medical therapy
+Continue CV risk reduction
+Follow for CLI
+
+References
+Creager MA, White CJ, Hiatt WR, et al. Atherosclerotic Peripheral Vascular
+Disease Symposium II: executive summary. Circulation 2008;118(25):
+2811–2825.
+Gornik HL, Creager MA. Contemporary management of peripheral arterial disease: I. Cardiovascular risk-factor modification. Cleve Clin J
+Med 2006;73(Suppl 4):S30–37.
+Hirsch AT, Criqui MH, Treat-Jacobson D, et al. Peripheral arterial
+disease detection, awareness, and treatment in primary care. JAMA
+2001;286(11):1317–1324.
+Hirsch AT, Haskal ZJ, Hertzer NR, et al. ACC/AHA 2005 practice guidelines for the management of patients with peripheral arterial disease
+(lower extremity, renal, mesenteric, and abdominal aortic): a collaborative report from the American Association for Vascular Surgery/
+Society for Vascular Surgery, Society for Cardiovascular Angiography
+
+I Inadequate response
+Refer for revascularization
+
+and Interventions, Society for Vascular Medicine and Biology, Society
+of Interventional Radiology, and the ACC/AHA Task Force on Practice Guidelines (Writing Committee to Develop Guidelines for the
+Management of Patients With Peripheral Arterial Disease): endorsed
+by the American Association of Cardiovascular and Pulmonary Rehabilitation; National Heart, Lung, and Blood Institute; Society for Vascular Nursing; TransAtlantic Inter-Society Consensus; and Vascular
+Disease Foundation. Circulation 2006;113(11):e463–654.
+McDermott MM, Greenland P, Liu K, et al. Leg symptoms in peripheral
+arterial disease: associated clinical characteristics and functional
+impairment JAMA 2001;286(13):1599–1606.
+Norgren L, Hiatt WR, Dormandy JA, et al. Inter-Society Consensus for
+the Management of Peripheral Arterial Disease (TASC II). J Vasc Surg
+2007;45(Suppl S):S5–67.
+Stewart KJ, Hiatt WR, Regensteiner JG, et al. Exercise training for
+claudication. N Engl J Med 2002;347(24):1941–1951.
+
+

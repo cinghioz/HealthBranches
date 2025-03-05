@@ -1,0 +1,135 @@
+{
+    "node": "Polycythemia Suspected",
+    "content": "",
+    "children": [
+      {
+        "node": "Increased plasma hemoglobin",
+        "content": "",
+        "children": [
+          {
+            "node": "Normal RBC mass",
+            "content": "Indicates decreased plasma volume",
+            "children": [
+              {
+                "node": "Spurious polycythemia",
+                "content": "",
+                "children": [
+                  {
+                    "node": "Discontinue diuretics",
+                    "content": "Manage by addressing diuretic use or other volume-reducing factors"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node": "Increased RBC mass with normal plasma volume",
+            "content": "Indicates true polycythemia",
+            "children": [
+              {
+                "node": "ABG testing",
+                "content": "Evaluate arterial blood gases",
+                "children": [
+                  {
+                    "node": "O2 saturation <90%",
+                    "content": "Suggests secondary polycythemia due to hypoxia",
+                    "children": [
+                      {
+                        "node": "Secondary polycythemia hypoxia",
+                        "content": "",
+                        "children": [
+                          {
+                            "node": "Provide supplemental O2",
+                            "content": "Treat underlying hypoxia"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "node": "O2 saturation >90%",
+                    "content": "",
+                    "children": [
+                      {
+                        "node": "Plasma EPO assessment",
+                        "content": "Evaluate erythropoietin (EPO) levels",
+                        "children": [
+                          {
+                            "node": "Increased EPO",
+                            "content": "Suggests a secondary cause",
+                            "children": [
+                              {
+                                "node": "Renal ultrasonography or CT scan",
+                                "content": "Evaluate for potential sources of increased EPO production",
+                                "children": [
+                                  {
+                                    "node": "Consider:",
+                                    "content": "Hepatoma, cerebellar hemangioma, fibroma, pheochromocytoma"
+                                  }
+                                ]
+                              },
+                              {
+                                "node": "Oxyhemoglobin dissociation curve",
+                                "content": "Evaluate hemoglobin binding characteristics",
+                                "children": [
+                                  {
+                                    "node": "Increased P50",
+                                    "content": "Indicates hemoglobinopathy or altered oxygen transport",
+                                    "children": [
+                                      {
+                                        "node": "Hemoglobinopathy",
+                                        "content": "Evaluate for structural hemoglobin disorders"
+                                      },
+                                      {
+                                        "node": "Carboxyhemoglobin",
+                                        "content": "Assess for carbon monoxide exposure"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "node": "Reduced or normal EPO",
+                            "content": "Suggests autonomous erythropoiesis",
+                            "children": [
+                              {
+                                "node": "PVSG criteria",
+                                "content": "Apply Polycythemia Vera Study Group criteria",
+                                "children": [
+                                  {
+                                    "node": "Major criteria",
+                                    "content": "Palpable spleen, normal O2 saturation, increased RBC mass"
+                                  },
+                                  {
+                                    "node": "Minor criteria",
+                                    "content": "Increased leukocyte alkaline phosphatase, WBC, or platelets; increased B12 or B12-binding capacity; bone marrow biopsy findings; low EPO"
+                                  },
+                                  {
+                                    "node": "Diagnosis: Two major or RBC mass with two minor criteria",
+                                    "content": "Confirm polycythemia vera",
+                                    "children": [
+                                      {
+                                        "node": "Treat polycythemia vera",
+                                        "content": "Initiate treatment as per clinical guidelines"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,177 @@
+MUSCLE CRAMPS AND ACHES
+
+“True” cramps are sudden, periodic, involuntary, painful
+contractions of a muscle, or part of a muscle, that last from
+seconds to several minutes. They are usually relieved by
+stretching of the muscle. Cramps must be differentiated
+from myalgias: muscle pains that are not associated with
+muscle contractions. Contractions may also occur without pain. These may be associated with specific activities
+or occupations, such as “writer’s cramp.” These contractions are actually dystonias that typically affect “overlearned” tasks, such as writing or playing an instrument.
+Cramps are often confused with contractures, seen in
+certain metabolic myopathies such as phosphorylase deficiency (McArdle’s disease). Contractures usually occur
+with intense exercise and result from depletion of muscle
+energy stores. There may also be a history of myoglobinuria. Contractures, unlike cramps, are electrically silent
+on electromyography (EMG). True cramps may occur
+spontaneously at rest, but more often they are precipitated by a muscle contraction. They are neural in origin,
+caused by a hyperexcitability of the motor neurons supplying the muscle. In many cases the reason for recurrent
+cramps remains unclear even after a complete diagnostic
+evaluation. Treatment with quinine sulfate often is helpful in controlling nocturnal cramps. Frequent daytime
+cramps may respond to carbamazepine or amitriptyline.
+After establishing through history that the patient suffers with true cramps, the physician should then explore
+whether they occur at rest or with exercise.
+A. In older patients, children, and pregnant women, leg
+cramps tend to occur at rest, often at night, after unusual daytime activity, and especially when the feet are
+cold. The neurologic examination and serum creatine
+kinase (CK) and aldolase levels are normal. These may
+require no treatment or be improved by stretching the
+affected muscle three times a day.
+B. Cramps occurring at rest or precipitated by minor
+exercise may have a specific underlying cause and are
+listed in the accompanying diagram. These causes
+should be identified by a thorough history and
+laboratory examinations, including thyroid-stimulating
+hormone (TSH), routine chemistry panel (including
+renal and liver function studies), CK, B12, and folate.
+These cramps usually lessen or resolve with treatment
+of the underlying problem.
+
+448
+
+C. For frequent cramps precipitated during or after exercise, in addition to the laboratory tests listed previously
+perform a forearm exercise test in which serum lactate,
+pyruvate, and ammonia are measured at rest and after
+1 minute of exercise every minute for 5 minutes. EMG
+should be performed, looking for evidence of myopathy. Muscle biopsy should be considered. A history of
+myoglobinuria must be sought.
+D. Exercise intolerance, along with cramps or myalgia,
+characterizes the metabolic myopathies. These disorders commonly result in myoglobinuria after especially
+strenuous exercise. All but the last two listed are abnormalities of glycogen or glucose metabolism. A “secondwind phenomenon” is a specific feature of myophosphorylase deficiency in which, after the onset of mild
+exertional cramps, patients rest briefly and then may
+resume the exercise at the previous or a slightly reduced
+level. Carnitine palmitoyl transferase deficiency is a
+disorder of lipid metabolism in which cramps are
+precipitated by more prolonged strenuous exercise.
+E. Cramps, and other entities that may be confused with
+cramps, occur in a variety of neurologic and neuromuscular disorders. These disorders are accompanied by
+weakness and/or sensory loss on neurologic examination. Because investigations to evaluate the diagnostic
+possibilities vary from patient to patient in this situation, such cases are usually best handled by a neurologist. Many of the conditions are treatable.
+F. It is important to remember that leg pain and cramps
+in adults that are precipitated by exercise and promptly
+relieved by rest often are the result of ischemia from
+peripheral vascular disease. These patients with “vascular claudication” may have risk factors for cardiovascular disease along with trophic changes and reduced
+pulses in their legs. Surgical treatment and addressing
+the cardiovascular risk factors can be successful.
+References
+Joekes AM. Cramp: a review. J R Soc Med 1982;75:546.
+Layzer RB. Muscle pain, cramps, and fatigue. In Engel AG, FranziniArmstrong C, eds. Myology, 2nd ed, Vol 2. New York: McGraw-Hill,
+1994:1754.
+McGee SR. Muscle cramps. Arch Intern Med 1990;150:511.
+Miller TM, Layzer RB. Muscle cramps. Muscle Nerve 2005 32(4):
+431–442.
+
+449
+Patient with MUSCLE CRAMPS and ACHES
+
+A At rest
+
+With exercise
+
+Mainly legs
+Normal neurologic
+examination
+
+Pregnant
+woman
+
+Ordinary
+(benign)
+cramps
+
+thighs, calves
+
+Neurologic examination
+
+Normal serum
+enzyme levels
+
+Child
+
+F Focal, buttocks,
+
+C Exercising muscles
+
+Normal
+
+Adult
+
+Abnormal
+
+Serum enzyme
+levels
+
+Adult
+
+Disappears with rest
+Claudication
+Exclude:
+Peripheral
+vascular
+disease
+
+B Exclude:
+
+Volume depletion
+(diarrhea, diuretics,
+hemodialysis)
+Metabolic (uremia,
+pregnancy, cirrhosis,
+hypothyroid)
+Medications (statins)
+
+Treat underlying cause
+
+Elevated
+EMG !
+forearm
+exercise test
+
+Muscle biopsy
+Biochemical studies
+Metabolic
+myopathy
+
+D Consider deficiency of:
+
+Normal
+
+Investigate and treat accordingly
+
+E Exclude:
+
+ALS, after poliomyelitis
+Myotonic dystrophy
+Radiculopathy
+Neuropathy
+Hereditary disorders
+
+Normal
+
+Observe
+Repeat
+studies
+normal
+
+Myophosphorylase
+Phosphofructokinase
+Phosphoglyceraldehyde kinase
+Ordinary
+Phosphoglycerate mutase
+(benign)
+Lactate dehydrogenase
+cramps
+Carnitine palmityl transferase
+
+Refer to
+neurologist
+
+

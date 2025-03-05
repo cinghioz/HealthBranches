@@ -1,0 +1,15 @@
+source,leaf,paths
+root,Persistent pain (weeks),Patient with LOW BACK PAIN -> History -> Persistent pain (weeks)
+root,Fever/systemic symptoms,Patient with LOW BACK PAIN -> History -> Fever/systemic symptoms
+root,Neurologic deficits,Patient with LOW BACK PAIN -> History -> Neurologic deficits
+root,Age > 60 yr,Patient with LOW BACK PAIN -> History -> Age > 60 yr
+root,Trauma,Patient with LOW BACK PAIN -> History -> Trauma
+root,Physical examination,Patient with LOW BACK PAIN -> Physical examination
+root,Fracture identified,Patient with LOW BACK PAIN -> Diagnostic tests -> Plain radiographs -> Fracture identified
+root,Severe multilevel disk degeneration,Patient with LOW BACK PAIN -> Diagnostic tests -> Plain radiographs -> Severe multilevel disk degeneration
+root,Consider in patients: With refractory pain,Patient with LOW BACK PAIN -> Diagnostic tests -> CT or MRI -> Consider in patients: With refractory pain
+root,With systemic complaints,Patient with LOW BACK PAIN -> Diagnostic tests -> CT or MRI -> With systemic complaints
+root,With focal neurologic deficits,Patient with LOW BACK PAIN -> Diagnostic tests -> CT or MRI -> With focal neurologic deficits
+root,For targeted epidural steroid injections,Patient with LOW BACK PAIN -> Diagnostic tests -> CT or MRI -> For targeted epidural steroid injections
+root,CBC,Patient with LOW BACK PAIN -> Laboratory tests -> CBC
+root,ESR,Patient with LOW BACK PAIN -> Laboratory tests -> ESR

@@ -1,0 +1,192 @@
+METABOLIC ACIDOSIS
+
+A. Metabolic acidosis is characterized by a primary decrease in the serum bicarbonate concentration, which
+is a result of depletion of bicarbonate or by endogenous consumption of bicarbonate to buffer exogenous
+or endogenous generation of acid. Metabolic acidosis
+can be subdivided into elevated anion gap (AG)
+or normal AG acidosis (Table 1). Renal tubular acidosis
+(RTA) is a classical cause for a normal AG metabolic
+acidosis (Table 2). In proximal RTA the primary defect
+is impaired reabsorption of bicarbonate by the proximal tubule. It frequently is associated with defective
+phosphate, glucose, urate, and amino acid resorption.
+With distal RTA, the primary defect is an inability to
+maximally acidify the urine. Type III RTA is a combination of type I and type II RTA. Type IV RTA is characterized by impaired urinary acidification because of
+hypoaldosteronism. An elevated AG acidosis may occur commonly as a complication of a systemic illness.
+The AG is equal to the difference between the plasma
+concentrations of the measured plasma cation (i.e.,
+Na!) and the measured anions (i.e., chloride [Cl"],
+HCO3"). AG calculation # (Na!) " ([Cl"] ! [HCO3"]).
+The normal AG is 8"16 mEq/L, with an average value
+of 12. Causes of a high AG, lactic acidosis, ketoacidosis,
+renal failure, and ingestions are salicylate, methanol or
+formaldehyde (formate), ethylene glycol (glycolate,
+oxalate), paraldehyde (organic anions), sulfur (SO4"),
+phenformin/metformin, and pyroglutamic acidemia
+(5-oxoprolinemia). The mnemonic MUDPILES is
+Table 1 Causes of Metabolic Acidosis
+Normal Anion Gap
+GI
+Diarrhea
+Ureteroileostomy
+Renal
+Renal tubular acidosis
+Aldosterone deficiency (hyporeninemic hypoaldosteronism)
+Drugs
+Ammonium chloride
+Lysine or arginine hydrochloride
+Elevated Anion Gap
+Diabetic ketoacidosis
+Alcoholic ketoacidosis
+Starvation ketoacidosis
+Lactic acidosis
+Toxic ingestion
+Methanol
+Ethylene glycol
+Salicylates
+Paraldehyde
+Renal failure
+
+372
+
+Table 2 Key Features of Renal Tubular Acidosis
+RTA Type
+
+Urine pH
+
+Type I RTA (distal)
+
+%5.5
+
+Type II RTA (proximal)
+Type IV RTA
+(hyporeninemic
+hypoaldosteronism)
+
+$5.5
+$5.5
+
+Serum Potassium
+Normal limits or
+decreased
+Decreased
+Increased
+
+popular: M—methanol; U—uremia; D—diabetic ketoacidosis (DKA), AKA; P—paraldehyde, phenformin; I—iron, isoniazid; L—lactic (i.e., CO, cyanide);
+E—ethylene glycol; and S—salicylates.
+B. The clinical features of metabolic acidosis are nonspecific. The most common manifestation is hyperventilation because the respiratory center in the brainstem is
+stimulated to compensate for the acidosis. At its most
+severe, patients report air hunger. Severe metabolic
+acidosis may also be associated with hemodynamic instability—a problem most frequently encountered in
+the intensive care unit. Other manifestations of metabolic acidosis reflect the underlying cause or trigger
+(e.g., diarrhea, DKA, drug ingestion). The diagnostic
+approach pivots on the measurement of serum electrolytes, BUN, creatinine, and an ABG level. A low serum
+HCO3" and a pH $7.40 on ABG analysis confirm metabolic acidosis. The AG should be calculated to help
+with the differential diagnosis of the metabolic acidosis
+and to diagnose mixed disorders. A high-AG acidosis is
+present if the AG is %10–12 mEq/L, and a non-AG
+acidosis is present if the AG is $10"12 mEq/L. If the
+AG is elevated, the osmolar gap should be calculated
+by subtracting the calculated serum osmolality from
+the measured serum osmolality. (Ethylene glycol and
+methanol poisoning increase the AG and the osmolar
+gap.) In the case of an increased AG, the ratio of AG
+and HCO3" should be calculated (&:&). A &:& $1
+suggests mixed normal-AG and high-AG acidosis; an
+&:& %2 suggests coexisting metabolic alkalosis. Increases in AG may be observed in nonacidotic states,
+such as metabolic alkalosis and respiratory alkalosis;
+however, increases in AG beyond 3–5 mEq/L are unusual. Assessment of the urinary anion gap (UAG) can
+also be helpful in diagnosis. The urine anion gap
+(UAG) # (UNa ! UK) " UCl. The UAG is normally
+positive (range: 30–50). A negative UAG suggests renal
+excretion of unmeasured cation (e.g., NH4!; an extrarenal acidosis). A positive UAG suggests minimal renal
+
+373
+Patient with Suspected METABOLIC ACIDOSIS
+
+A Metabolic acidosis suspected
+
+Serum bicarbonate $20 mEq/L
+Anion gap
+
+High anion gap
+
+Low anion gap
+
+Methanol
+Uremia
+DKA/alcoholic
+Paraldehyde
+Isoniazid
+Lactic acidosis
+Alcohol/ethylene glycol
+Salicylates
+
+Hyperalimentation
+Acetazolamide
+Renal tubular acidosis
+Diarrhea
+Ureteropelvic shunt
+Posthypocapnia
+Spironolactone
+
+B Check ABG
+
+Check blood chemistries
+
+C Confirm acidosis
+Winter’s formula
+Delta/Delta
+
+Winter’s formula:
+PCO2 # (1.5 ' HCO3") ! 8.
+& $1 suggests mixed normal-AG
+and high-AG acidosis;
+&:& %2 suggests coexisting
+metabolic alkalosis.
+
+D Initiate treatment if pH $7.1
+
+excretion of unmeasured cation (e.g., NH4!). Causes
+include proximal RTA type II, distal RTA or type I, or
+type IV RTA. Other tests can be performed, including
+a screen for toxins (e.g., ethylene glycol, salicylate) and
+tests for metabolic disorders (e.g., ketoacidosis, lactic
+acidosis) that are known to elevate the AG.
+C. Lactic acidosis can be classified as type A, which occurs
+as a consequence of tissue hypoxia from tissue hypoperfusion or reduced arterial oxygen content. The
+second category is type B, which does not reflect tissue
+hypoxia. The most common category is type B1—from
+sepsis, hepatic failure, renal failure, diabetes mellitus,
+cancer, malaria, or cholera. The second category is
+type B2 from drugs or toxins (e.g., acetaminophen,
+ethanol, salicylates, and ethylene glycol). The third
+category is type B3, reflecting strenuous muscular
+exercise, grand mal seizures, and d-lactic acidosis. The
+clinical presentation of lactic acidosis reflects the underlying etiology (e.g., sepsis or drug ingestion).
+D. Treatment of metabolic acidosis depends on the underlying cause and the severity of manifestations. A general
+rule is that treatment should be initiated if the pH is
+
+$7.1, especially when associated with hemodynamic
+instability. In patients with chronic metabolic acidosis,
+such as a patient with RTA, oral repletion with sodium
+bicarbonate is usually sufficient. The HCO3" deficit can
+be calculated by using the following equation: HCO3"
+deficit # deficit/L (desired serum HCO3" " measured
+HCO3") ' 0.5 ' body weight (volume of distribution
+for HCO3"). Sodium bicarbonate can be administered
+intravenously.
+
+References
+Ayers P, Warrington L. Diagnosis and treatment of simple acid-base disorders. Nutr Clin Pract 2008;23(2):122–127.
+Kraut JA, Madias NE. Serum anion gap: its uses and limitations in
+clinical medicine. Clin J Am Soc Nephrol 2007;2(1):162–174. Epub
+2006 Dec 6.
+Kwon KT, Tsai VW. Metabolic emergencies. Emerg Med Clin North Am
+2007;25(4):1041–1060, vi.
+Madias NE. Lactic acidosis. Kidney Int 1986;29(3):752–774.
+Morris CG, Low J. Metabolic acidosis in the critically ill: part 2. causes
+and treatment. Anaesthesia 2008;63(4):396–411.
+Rodríguez Soriano J. Renal tubular acidosis: the clinical entity. J Am
+Soc Nephrol 2002;13(8):2160–2170.
+
+

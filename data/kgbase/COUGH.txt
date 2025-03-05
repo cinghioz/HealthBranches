@@ -1,0 +1,179 @@
+COUGH
+
+
+Cough is one of the most common reasons that patients
+seek medical attention. Although it is one of the defense
+mechanisms protecting the respiratory system, it also
+contributes to the spread of airborne disease and can be
+bothersome to patients. Cough can result from infection,
+inflammation, and mechanical or chemical irritation. The
+majority of cases of cough can be diagnosed and treated by
+following a stepwise approach.
+A. Obtaining a thorough history is the first step in the
+diagnosis and therapy of cough. Initial evaluation begins
+with categorizing the cough as acute (!3 weeks), subacute (3–8 weeks), or chronic ("8 weeks). This categorization is helpful because the majority of acute cough is
+infectious in nature, most commonly viral. Chronic
+cough has a more varied differential diagnosis (see later).
+Other important features of the history include current
+and past smoking history and occupational exposures. All
+patients with cough should be asked about the use of
+angiotensin-converting enzyme (ACE) inhibitors because cough is a common side effect of this class of
+medications. Review should also include potential infectious exposures such as tuberculosis, endemic fungi, and
+Bordetella pertussis.
+B. Physical examination should focus on signs of underlying
+disease that would predispose to cough. These findings
+include cobblestoning of the posterior oropharynx or sinus tenderness suggesting postnasal drip, wheezing suggestive of asthma, or crackles consistent with interstitial
+lung disease. Many of the most common causes of
+cough, however, will have no localizing physical examination findings.
+C. Acute cough is commonly caused by viral infections of
+the upper or lower respiratory tract. New-onset cough
+can also be a sign of an exacerbation of an underlying
+disease such as asthma, chronic obstructive pulmonary
+disease (COPD), or bronchiectasis or a response to a
+new allergen or irritant. Most causes of acute cough can
+be treated with an antihistamine and/or decongestant
+and do not require further evaluation. Although most
+acute coughs have a less serious cause, clinicians should
+remain vigilant to the possibility of life-threatening
+cough, including diagnoses such as pneumonia, congestive heart failure (CHF), and pulmonary embolism.
+D. There are less data to guide the evaluation and management of subacute cough. Subacute cough that is not
+thought to follow an infection should be treated as
+chronic cough. Postinfectious cough can be from a variety
+of etiologies, including postnasal drip, exacerbation of
+486
+
+E.
+
+F.
+G.
+
+H.
+
+I.
+
+J.
+
+underlying asthma, or bronchitis. Treatment should be
+guided by most likely cause of persisting cough.
+The majority of chronic cough is the result of coughvariant asthma, upper airway cough syndrome (UACS),
+and gastroesophageal reflux disease (GERD). The most
+recent American College of Chest Physicians (ACCP)
+guidelines recommend the use of the term UACS in lieu
+of postnasal drip because it is more comprehensive.
+These guidelines also support the addition of nonasthmatic eosinophilic bronchitis (NAEB) as a common
+cause of chronic cough. NAEB consists of cough with
+normal spirometry without airway responsiveness and
+eosinophilic infiltration of the bronchial tree that
+resolves with steroid inhaler therapy.
+All patients with chronic cough should have a chest
+x-ray (CXR) study to assess for mass lesions and infiltrates and other anatomic causes of cough.
+Most algorithms, including that of the ACCP, recommend a strategy of empiric therapy after history, physical
+examination, and CXR. Initial therapy usually begins
+with UACS or asthma, but it can be guided by clinical
+impression based on history and physical examination. If
+UACS seems most likely, initiate empiric therapy with
+antihistamines and decongestants. If there is only a
+partial response, addition of nasal steroids or nasal
+anticholinergics should be considered. Further evaluation, including sinus films, is warranted in patients with
+persistent UACS symptoms after maximal therapy.
+Patients in whom asthma is suspected should be treated
+with inhaled steroids and inhaled beta agonists. It is
+recommended that these patients initially undergo
+spirometry, with bronchodilator responsiveness testing. Some favor bronchoprovocation with methacholine to better assess for underlying asthma, but this is
+not needed in all patients. If patients respond partially,
+continued stepwise asthma therapy is indicated.
+Treatment for NAEB entails inhaled steroids and patients usually respond within weeks of initiation of
+therapy. As stated previously, these patients have normal spirometry without bronchodilator responsiveness.
+The diagnosis can be confirmed by an examination of
+sputum for eosinophils.
+If response is incomplete or there is no response to
+the initial empiric strategies, treatment for GERD is
+warranted. If patients have symptoms of reflux, it is
+reasonable to initiate a proton pump inhibitor (PPI) and
+lifestyle modifications to decrease reflux. Some recommend 24-hour esophageal pH monitoring to establish
+the diagnosis in patients without clear GERD symptoms.
+
+487
+Patient with COUGH
+
+A History
+B Physical examination
+
+C Acute cough
+
+Infectious
+etiology
+
+Noninfectious
+etiology
+
+Treat symptoms
+with antihistamine
+and/or decongestant
+
+Consider serious
+alternative diagnoses
+Pneumonia, CHF
+Lung mass
+Exacerbation of
+underlying lung
+disease
+
+G UACS
+
+D Subacute cough
+
+Infectious
+etiology
+
+Noninfectious
+etiology
+
+E Chronic cough
+Treat postnasal drip
+or bronchospasm
+
+F CXR study
+
+H Asthma
+
+I NAEB
+
+Treat with decongestants, Treat with inhaled
+nasal steroids, nasal
+steroids and
+anticholinergics
+beta agonists
+
+Treat with
+inhaled steroids
+
+J GERD
+
+Treat with lifestyle
+modification and PPI
+
+K If empiric therapy fails
+
+consider chest CT,
+full pulmonary function
+tests, and bronchoscopy
+
+This therapy, at times, will take up to several months to
+have an impact on the patient’s cough.
+K. If all the previously mentioned empiric trials are ineffective, further diagnostic evaluation is appropriate. In most
+cases, CT scan of the chest, full pulmonary function testing (lung volumes, spirometry, DLco [diffusing capacity
+of the lung for carbon monoxide]), and bronchoscopy are
+recommended.
+
+References
+Murray JF, Nadel JA. Textbook of Respiratory Medicine. Philadelphia:
+Saunders, 2000.
+Pratter M. Overview of common causes of chronic cough: ACCP
+Evidence Based Clinical Practice Guidelines. Chest 2006;129:
+59S–62S.
+Pratter M, Brightling CE, Boulet LP, et al. An empiric integrative
+approach to the management of cough: ACCP Evidence Based
+Clinical Practice Guidelines. Chest 2006;129:222S–231S.
+
+

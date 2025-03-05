@@ -1,0 +1,20 @@
+source,leaf,paths
+root,Hereditary by family history,Patient with HEARING LOSS -> History -> Otoscopy -> Normal -> Formal hearing evaluation -> Sensorineural hearing loss -> Hereditary by family history
+root,Congenital,Patient with HEARING LOSS -> History -> Otoscopy -> Normal -> Formal hearing evaluation -> Sensorineural hearing loss -> Congenital
+root,Trauma,Patient with HEARING LOSS -> History -> Otoscopy -> Normal -> Formal hearing evaluation -> Sensorineural hearing loss -> Acquired -> Sudden -> Trauma
+root,Idiopathic,Patient with HEARING LOSS -> History -> Otoscopy -> Normal -> Formal hearing evaluation -> Sensorineural hearing loss -> Acquired -> Sudden -> Idiopathic
+root,Infection,Patient with HEARING LOSS -> History -> Otoscopy -> Normal -> Formal hearing evaluation -> Sensorineural hearing loss -> Acquired -> Sudden -> Infection
+root,Vascular,Patient with HEARING LOSS -> History -> Otoscopy -> Normal -> Formal hearing evaluation -> Sensorineural hearing loss -> Acquired -> Sudden -> Vascular
+root,Toxin or medication induced,Patient with HEARING LOSS -> History -> Otoscopy -> Normal -> Formal hearing evaluation -> Sensorineural hearing loss -> Acquired -> Sudden -> Toxin or medication induced
+root,Bilateral,Patient with HEARING LOSS -> History -> Otoscopy -> Normal -> Formal hearing evaluation -> Sensorineural hearing loss -> Acquired -> Progressive -> Bilateral
+root,Unilateral,Patient with HEARING LOSS -> History -> Otoscopy -> Normal -> Formal hearing evaluation -> Sensorineural hearing loss -> Acquired -> Progressive -> Unilateral
+root,Urgent ENT referral,"Patient with HEARING LOSS -> History -> Otoscopy -> Normal -> Formal hearing evaluation -> Mixed -> Trauma -> Assess for:
+Penetrating
+trauma
+Obtain:
+CT of temporal
+bone -> Urgent ENT referral"
+root,Treat,Patient with HEARING LOSS -> History -> Otoscopy -> Normal -> Formal hearing evaluation -> Mixed -> No trauma -> Treat||Patient with HEARING LOSS -> History -> Otoscopy -> Normal -> Formal hearing evaluation -> Conductive -> Abnormal acoustic stapedius Reflex testing -> Assess for: Canal obstruction Middle ear effusion -> Treat||Patient with HEARING LOSS -> History -> Otoscopy -> Abnormal tympanic membrane -> Infection -> Treat
+root,ENT referral,Patient with HEARING LOSS -> History -> Otoscopy -> Normal -> Formal hearing evaluation -> Conductive -> Abnormal acoustic stapedius Reflex testing -> Assess for: Canal obstruction Middle ear effusion -> ENT referral||Patient with HEARING LOSS -> History -> Otoscopy -> Normal -> Formal hearing evaluation -> Conductive -> Abnormal acoustic stapedius Reflex testing -> Assess for mass -> ENT referral
+root,Remove,Patient with HEARING LOSS -> History -> Otoscopy -> Abnormal tympanic membrane -> Cerumen impaction or foreign body -> Remove
+root,Physical examination,Patient with HEARING LOSS -> Physical examination

@@ -1,0 +1,212 @@
+CARDIAC DYSPNEA
+
+
+
+Dyspnea, the subjective sensation of breathlessness, is
+a common problem in patients with underlying cardiac
+disease. Because dyspnea has numerous cardiovascular
+and noncardiovascular causes, establishing a definitive diagnosis can be difficult. A thorough initial evaluation with
+emphasis on the history, examination, and several key tests
+is essential.
+Although the pathophysiology responsible for dyspnea
+is complex and incompletely understood, most cardiac
+causes are attributable to elevations in intracardiac
+pressures, pulmonary vascular stretch, and activation of
+perivascular nerve fibers.
+A. The history and physical examination should first be
+aimed at excluding noncardiac causes of dyspnea (pulmonary, musculoskeletal, and neurologic) and then on
+establishing the primary location of underlying cardiac
+dysfunction (right ventricular [RV] vs. left ventricular
+[LV]).
+B. Cardiac causes of dyspnea can be conveniently dichotomized into processes with primary RV dysfunction and
+those with primary LV dysfuntion.
+C. Physical examination findings suggestive of RV dysfunction include elevated jugular venous pressure (JVP), ascites, and lower extremity swelling. In contrast, LV dysfunction with resultant rise in pulmonary venous pressure
+is suggested by the presence of pulmonary rales.
+D. RV failure can be divided on the basis of pathophysiology
+into three distinct categories. These include primary
+myocardial RV dysfunction, impairment of RV filling due
+to pericardial disease, and inadequate RV output due to
+increases in RV afterload.
+E. The findings of an RV heave and right-sided extra
+heart sounds (S3 or S4) suggest intrinsic RV muscular
+dysfunction. Important causes include acute and
+chronic ischemia, restrictive cardiomyopathy, and pressure/volume overload due to intracardiac shunts from
+congenital and acquired causes.
+F. Pericardial diseases resulting in clinical RV failure include pericardial tamponade and constrictive pericardial disease. Pericarditis, inflammation of the pericardium presenting with chest pain exacerbated by lying
+supine, pericardial friction rub, and diffuse ST-segment
+
+96
+
+G.
+
+H.
+
+I.
+
+J.
+
+K.
+
+elevation on the ECG, can precipitate pericardial tamponade and set the stage for future constrictive disease.
+The presence of distant heart sounds, elevated neck
+veins, and systemic hypotension suggests the presence
+of a pericardial effusion with the resultant syndrome of
+tamponade. A history of pericardial injury with examination findings of RV failure and a pericardial knock
+suggest constrictive disease.
+The findings of RV dysfunction associated with an
+increased P2 component of the S2 and a pulmonary
+artery (PA) tap suggest pulmonary arterial hypertension (PAH). Rare cases of pulmonary hypertension are
+attributable to primary disease (PPH), whereas most
+PAH is the result of an identifiable concomitant disease. Common causes of secondary PAH include
+thromboembolic disease, connective tissue diseases,
+HIV infection, and medication side effects.
+Dyspnea attributable to primary LV dysfunction is
+caused by elevations in pulmonary venous pressures
+with resultant vascular stretch and extravascular fluid
+shifts impairing gas exchange. These processes are
+reflected by the physical examination finding of rales.
+Impairment of contraction, relaxation, and left cardiac
+valves can underlie this process.
+A diffuse and laterally displaced left ventricle with an S3
+suggests decreased LV ejection fraction (LVEF) and
+dilation of the LV chamber. Dilated cardiomyopathy
+most often results from coronary artery disease, but
+other insults including toxin exposure, infection, endocrine disorders, long-standing arrhythmia, and chronic
+hypertension must be considered.
+A normally located and focal point of maximal impluse
+(PMI) suggests preserved LVEF. Dyspnea from LV
+dysfunction with preserved LV function can result from
+intrinsic abnormalities in relaxation (acute ischemia, LV
+hypertrophy, and restrictive processes) and from processes that increase LV afterload (hypertensive urgency
+and aortic coarctation)
+The presence of a murmur is often indicative of valvular pathology. In the dyspneic patient, the finding of a
+murmur may be explanatory and should be clarified
+with confirmatory examination maneuvers and echocardiography.
+
+97
+Patient with CARDIAC DYSPNEA
+
+A Evaluate for potential
+
+Consider noncardiovascular
+causes of dyspnea:
+Pulmonary
+Neurologic
+Musculoskeletal
+
+cardiovascular causes:
+History and physical examination
+ECG/chest x-ray
+Echocardiography
+Laboratory testing
+
+B Determine primary anatomic
+location of dysfunction
+
+C
+
+H LV dysfunction ! RV dysfunction:
+
+D RV dysfunction ! LV dysfunction:
+Elevated jugular venous pressure
+Ascites
+Lower extremity swelling
+
+E RV heave, PA tap
+
+Right-sided S3 or S4
+
+Distant heart
+sounds, knock, rub
+
+Rales
+Crackles
+
+J Normal PMI, S4
+
+F Pericardial disease:
+
+LVEF normal
+
+I
+
+Diffuse/lateral
+PMI, S3
+
+K Murmur
+
+LVEF decreased
+
+Tamponade constriction
+
+Intrinsic RV
+dysfunction
+
+Acute RV infarction/
+ischemia
+Restrictive
+cardiomyopathy
+Congenital or
+acquired left-toright intracardiac
+shunts
+
+G RV dysfunction
+
+Primary myocardial
+dysfunction:
+Prior myocardial infarction
+Diffuse cardiomyopathy
+
+secondary to
+pulmonary
+hypertension
+
+Cor pulmonale:
+Thromboembolic
+disease
+PPH
+Pulmonic stenosis
+Connective tissue
+diseases
+HIV
+Medications
+
+Increased LV afterload:
+Systemic hypertension
+Aortic coarctation
+Renal artery stenosis
+
+Valvular disease:
+Aortic stenosis/insufficiency
+Mitral stenosis/regurgitation
+
+Diastolic dysfunction:
+Acute ischemia
+LV hypertrophy (hypertrophic
+cardiomyopathy or
+secondary to hypertension,
+diabetes mellitus, aortic stenosis)
+Restrictive cardiomyopathy
+
+References
+Antman EM, Anbe DT, Armstrong PW, et al. ACC/AHA guidelines for
+the management of patients with ST-elevation myocardial infarction: a
+report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (Committee to Revise the
+1999 Guidelines for the Management of patients with acute myocardial infarction). J Am Coll Cardiol 2004;44(3):E1–E211.
+Braunwald E, Antman EM, Beasley JW, et al. ACC/AHA 2002 guideline
+update for the management of patients with unstable angina and nonST-segment elevation myocardial infarction—summary article: a report of the American College of Cardiology/American Heart Association task force on practice guidelines (Committee on the Management
+of patients With Unstable Angina). J Am Coll Cardiol 2002;40(7):1366–
+1374.
+
+Büller HR, Agnelli G, Hull RD, et al. Antithrombotic therapy
+for venous thromboembolic disease: the Seventh ACCP Conference on Antithrombotic and Thrombolytic Therapy. Chest
+2004;126(3 Suppl):401S–428S.
+Hunt SA, Abraham WT, Chin MH, et al. ACC/AHA 2005 guideline
+update for the diagnosis and management of chronic heart failure in
+the adult: a report of the American College of Cardiology/American
+Heart Association Task Force on Practice Guidelines (Writing Committee to Update the 2001 Guidelines for the Evaluation and Management of Heart Failure). Developed in collaboration with the
+American College of Chest Physicians and the International Society
+for Heart and Lung Transplantation: endorsed by the Heart Rhythm
+Society. Circulation 2005;112(12):e154–e235.
+
+

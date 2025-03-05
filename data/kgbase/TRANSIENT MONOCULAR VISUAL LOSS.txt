@@ -1,0 +1,221 @@
+TRANSIENT MONOCULAR VISUAL LOSS
+
+Transient monocular blindness (TMB) is a medical emergency. The most common etiologies include embolic
+disease, hemodynamic changes, primary ocular pathology,
+or primary neurologic disease other than vascular compromise. If the temporary visual loss is caused by vascular
+ischemia, whether from embolic disease or hemodynamic
+changes, it is commonly called amaurosis fugax (AF).
+A. Embolic disease: AF typically is described as impairment of vision that begins in the upper field of vision of
+one eye and progresses to involve the entire visual field
+of that eye. It usually lasts seconds to minutes. AF may
+stop with a hemifield loss, ascend, or rarely progress
+across the visual field laterally. Repeat episodes of AF
+tend to follow a stereotypical pattern for each patient.
+Of emboli, 50% are cholesterol plaques, most often
+originating from the ipsilateral carotid bifurcation or
+from the distal internal carotid artery. Funduscopy
+rarely, but diagnostically, reveals a glistening yellow or
+white object within the retinal vessel (Hollenhorst
+plaque). Of emboli, 4% may contain fibrin clot and
+originate from ulcerated vascular plaques or mural
+cardiac thrombi. Pure calcific emboli are rare and arise
+exclusively from cardiac valves. An episode of TMB is
+an indication of increased risk of stroke similar to
+a hemispheric transient ischemic attack (TIA). Of
+patients with TMB, 11% later develop strokes; in 41%
+of those, strokes occur within 1 week of the event.
+In younger patients with history of trauma or neck
+manipulations who present with TMB, embolic disease
+or hypoperfusion state from carotid dissection needs to
+be considered.
+B. Temporal arteritis may cause blindness as a result of
+thrombosis of the central retinal artery as a result of giant
+cell arteritis. Patients are usually older and complain of
+visual loss or changes in a setting of headache. They may
+also have fever, anorexia, and weight loss. Leukocytosis,
+anemia, and elevated ESR are common. The disease
+process is self-limited over a period of months. The risk
+of permanent visual loss from temporal arteritis is approximately 35%, and timely evaluation and treatment
+
+410
+
+with high-dose steroids can prevent further visual loss,
+although restoration of vision is rare.
+Migraine may present with unilateral visual changes
+and headache. Homonymous hemianopsia may be misinterpreted by the patient as a monocular loss of vision.
+Retinal migraine, a rare diagnosis of exclusion that is
+truly monocular, is presumed to be a vasospastic event.
+Positive visual phenomena such as scintillating scotoma
+or “white-outs” may be seen. Most patients with retinal
+migraines respond well to calcium channel blockers.
+In a young individual, transient unilateral loss of central vision associated with pain on eye movement and
+headache is seen in acute retrobulbar optic neuritis—
+either as a clinically isolated syndrome or as a manifestation of a known diagnosis of multiple sclerosis. Symptoms of optic neuritis tend to worsen with increased
+body temperature (Uhthoff’s phenomenon). Inflammation and demyelination of the optic nerve are responsible for visual loss. High-dose IV steroids given once
+daily for 3–5 days shorten the duration of symptoms but
+seem to have little effect on the degree of visual recovery based on Optic Neuritis Treatment Trial data.
+C. Vascular ocular diseases causing anterior ischemic optic neuropathy (AION), occlusion of the central retinal
+vein, and malignant arterial hypertension sometimes
+begin with attacks of TMB. AION involves infarction
+of the anterior portion of the optic nerve that can be
+visualized with direct ophthalmoscopy. It has recently
+been described as a rare complication from use of
+drugs for erectile dysfunction (the PDEF5 inhibitors).
+Nonvascular causes of TMB include increased intraorbital pressure and congenital anomalies. Subacute
+attacks of angle-closure glaucoma can present with
+transient visual loss and should be considered especially if patients complain of halos around lights. This
+symptom is a result of corneal edema resulting from
+rapid elevation of intraorbital pressure. Papilledema
+from any cause can present with visual obscurations.
+These disorders can be identified with the aid of a
+careful ophthalmologic examination showing abnormal
+ocular findings with a normal retina.
+(Continued on page 412)
+
+411
+Patient with TRANSIENT MONOCULAR VISUAL LOSS
+
+B Headache
+
+A No headache
+
+Ophthalmologic
+examination
+
+Ophthalmologic
+examination
+
+Retinal disease
+or
+Normal ophthalmologic
+examination
+Cont’d on p 413
+
+C Ocular disease:
+
+Nonvascular causes
+(hemorrhage,
+pressure, tumor,
+congenital)
+Papilledema from
+malignant arterial
+hypertension
+Optic neuritis
+Glaucoma
+Anterior ischemic
+optic neuropathy
+
+Laboratory tests:
+CBC, differential,
+and platelets
+Westergren ESR
+
+ESR elevated
+
+ESR normal
+
+Presumed
+temporal
+arteritis
+
+Migraine
+Occipital seizure
+
+Temporal Artery Biopsy
+High-Dose Steroids
+
+412
+D. Laboratory evaluation of patients with a history of
+transient monocular visual loss includes CBC, differential, and platelet count (e.g., for polycythemia, leukemia, thrombocytosis), ESR (e.g., for evidence of arteritis—giant cell or Takayasu’s), fasting blood glucose
+(diabetes mellitus), prothrombin and partial thromboplastin times (if prolonged, check antiphospholipid
+antibodies), and lipid profile (hyperlipidemia).
+E. Noninvasive vascular studies include duplex (B mode
+and Doppler) ultrasonography, transcranial Doppler,
+and ophthalmodynamometry. Identification of the
+percent stenosis and plaque characteristics helps to
+inform the need for further, possibly more invasive,
+evaluation. Ipsilateral carotid artery stenosis !70%
+(severe) in the setting of TMB indicates the need for
+carotid endarterectomy. Surgical intervention was
+shown to be superior to medical treatment for symptomatic high-grade stenosis in a multicenter randomized trial. Benefits of surgical versus medical treatment
+in patients with ipsilateral carotid stenoses of 30%–69%
+(moderate) who have had an ischemic event (stroke,
+TIA, TMB) are questionable. Antiplatelet and hydroxymethyl glutaryl coenzyme A HMG-CoA reductase
+inhibitors (statins) can be used in combination for
+maximum antiplatelet aggregation effects. Patients with
+chronic, complete occlusion of the internal carotid artery should be prescribed maximal antiplatelet therapy.
+
+Anticoagulants can be used in the setting of symptomatic acute occlusion of carotid artery while a decision
+about surgical treatment or interventional radiology
+treatment is made.
+F. Transcranial Doppler studies can provide further information about intracranial stenosis in patients in
+whom cerebral CT angiogram is not performed. MRI
+scans can reveal “clinically silent” cerebral infarctions
+or nonvascular lesions. Cardiac evaluation is important in the evaluation of a potential embolic source.
+Transthoracic or transesophageal echocardiography is
+performed to assess for potential sources of cardiac
+emboli, patent foramen ovale, or low cardiac output
+that occasionally can cause TMB through hypoperfusion mechanism, particularly with concomitant severe
+ipsilateral carotid disease.
+
+References
+Feinberg AW. Recognition and significance of amaurosis fugax. Heart Dis
+Stroke 1993;2:382.
+Laskowitz D, Liu GT, Galetta SL. Acute visual loss and other disorders of
+the eyes. Neurol Clin 1998;16:323–353.
+Liu GT. Disorders of the eyes and eyelids. In Samuels MA, Feske SK,
+eds. Office Practice of Neurology. Philadelphia: Churchill-Livingstone, 2003:35–68.
+Miller NR. Walsh and Hoyt’s Clinical Neuro-ophthalmology, 5th ed.
+Baltimore: Williams & Wilkins, 2004.
+
+413
+Retinal disease
+or
+Normal ophthalmologic
+examination
+(Cont’d from p 411)
+
+D Laboratory tests
+E Noninvasive studies:
+
+CT or MRI of head
+Carotid duplex
+ultrasonography
+
+"30%
+stenosis
+
+30%– 69%
+stenosis
+
+!70% stenosis
+
+Ulcerated
+plaque
+
+Possible
+occlusion
+
+F Normal
+Cardiac
+evaluation
+
+Arteriography
+
+Total
+occlusion
+
+Medical Therapy:
+Modification of
+Risk Factors
+Antiplatelet Therapy
+
+!70%
+ipsilateral
+stenosis
+SURGICAL THERAPY:
+IPSILATERAL
+CAROTID
+ENDARTERECTOMY
+
+

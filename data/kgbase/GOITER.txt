@@ -1,0 +1,119 @@
+GOITER
+
+
+Patients with goiters usually are euthyroid but can have significant hyperthyroidism or hypothyroidism, compressive
+symptoms of dysphagia or choking, and concerns about the
+appearance of the goiter. Common types of goiter include
+multinodular goiter (MNG) and those associated with hypothyroidism (Hashimoto’s thyroiditis) or hyperthyroidism
+(Graves’ disease). Less commonly, goiters are produced by
+consumption of goitrogens. Lithium commonly induces a
+modest goiter. Rarer goitrogens include kelp, the antithyroidal medications propylthiouracil and methimazole, and
+cassava root, rutabaga, and turnips in association with
+an iodine-deficient diet. Excess iodine, including iodinecontaining medications (amiodarone), occasionally can
+cause significant goiters. Iodine treatment during pregnancy has been associated with goiter in newborns. Endemic goiter has essentially disappeared in the United
+States because of adequate iodine intake, but about 200
+million people around the world have it. Rarely, thyroid
+cancer or metastasis from other malignancies can cause a
+goiter through nodule growth.
+A. Physical examination of the thyroid starts with careful
+visual inspection while the patient is swallowing. Often
+the outline of the entire goiter can be seen because the
+thyroid gland moves with swallowing. Next, palpate the
+entire gland during repeated swallows to characterize
+the goiter as diffuse or nodular, and identify any dominant nodules. Nodules longer than 1 cm should have a
+fine needle aspiration (see the chapter Thyroid Nodule).
+If the inferior border of the goiter is not easily palpable,
+try palpation with the patient supine and the neck moderately extended. If the inferior border is still not palpable, the patient may have a substernal goiter.
+B. Measure serum concentrations of thyroid-stimulating
+hormone (TSH) and free thyroxine (FT4). If the TSH
+is completely suppressed (“undetectable”), the patient
+is hyperthyroid. If the TSH is !10 "U/ml, the patient
+is hypothyroid. If the TSH is normal, the patient typically is euthyroid. If the TSH is mildly but not completely suppressed, the thyroid gland is producing a
+slight excess of thyroid hormone. This typically occurs
+in patients with MNGs that develop autonomously
+functioning nodules and cause subclinical hyperthyroidism. Some of these patients may develop frank
+
+142
+
+hyperthyroidism, but most remain with goiters that are
+autonomously functioning. All such patients should be
+treated.
+C. Hypothyroidism with goiter usually is caused by the
+autoimmune disease lymphocytic (or Hashimoto’s)
+thyroiditis. Autoantibodies destroy parts of the thyroid.
+The goiters typically are modest in size, 2–3 times normal, and slightly nodular (bosselated) and firmer than
+normal thyroid tissue because there are areas of fibrosis, inflammation, and active follicles. Treat with T4
+replacement.
+D. Euthyroid patients with goiters usually are older adults
+with MNG. One theory on the formation of MNG
+(simple or nonimmunologic goiters) is that there is
+underproduction of thyroid hormone with a compensatory increase in TSH that stimulates goiter formation. Therefore a common, but now not commonly
+accepted, therapy is T4 suppression to remove the TSH
+stimulation. However, T4 therapy in older adults must
+be administered cautiously, starting at a low dosage,
+perhaps 0.05 mg/day, and keeping TSH within the
+normal range while increasing the dosage. MNG can
+slowly develop autonomous functioning nodules that
+produce enough hormone to cause hyperthyroidism in
+combination with exogenous T4. Therefore patients
+should be aware of the symptoms of hyperthyroidism
+and have TSH monitored at least every year after
+achieving a steady dose of T4. Substernal and large
+goiters may respond to radioactive 131I, so surgical
+treatment for goiter rarely is necessary. Large substernal goiters can cause superior venocaval syndrome,
+and some patients have signs of obstruction if they
+raise their arms above their head (Pemberton’s sign).
+Occasionally surgery is done because of a patient’s
+concern about appearance, or persistent obstructive
+symptoms.
+E. Hyperthyroid patients with diffuse goiters usually have
+autoimmune Graves’ disease. Thyroid-stimulating antibodies typically cause a diffuse enlargement of the
+entire gland. A unilateral asymmetric goiter associated
+with hyperthyroidism can occur in patients with a large
+functioning adenoma (Plummer’s disease). Treatment
+of hyperthyroidism usually decreases the size of these
+goiters (see section on Hyperthyroidism).
+
+143
+Patient with GOITER
+
+A Physical
+
+examination
+
+B Measure TSH and FT4
+
+C Hypothyroid
+
+E Hyperthyroid
+
+D Euthyroid
+
+Hashimoto’s thyroiditis
+
+Assess for
+multinodular goiter
+
+T4 Replacement
+
+Recommend
+thyroid scan
+If functional
+(“hot”) nodule,
+consider 131I therapy
+
+Nodule !1–1.5 cm
+
+Nodule !4 cm or
+patient has symptoms
+
+Consider:
+Nodule
+aspiration to
+exclude
+malignancy
+
+Consider:
+Surgery
+
+

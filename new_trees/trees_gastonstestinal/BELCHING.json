@@ -1,0 +1,130 @@
+{
+  "node": "root",
+  "content": "Patient with Belching",
+  "children": [
+    {
+      "node": "A",
+      "content": "History, Physical examination",
+      "children": [
+        {
+          "node": "B",
+          "content": "No other symptoms, Explain process of air swallowing, Reassure patient",
+          "children": [
+            {
+              "node": "B1",
+              "content": "Symptoms abate, No further evaluation"
+            },
+            {
+              "node": "B2",
+              "content": "Symptoms continue",
+              "children": [
+                {
+                  "node": "D",
+                  "content": "Upper GI x-ray series or upper GI endoscopy",
+                  "children": [
+                    {
+                      "node": "D1",
+                      "content": "Normal findings, Belched gas (not foul smelling)",
+                      "children": [
+                        {
+                          "node": "E",
+                          "content": "Abdominal ultrasonography",
+                          "children": [
+                            {
+                              "node": "E1",
+                              "content": "Gallstones",
+                              "children": [
+                                {
+                                  "node": "E1A",
+                                  "content": "Reassure patient"
+                                }
+                              ]
+                            },
+                            {
+                              "node": "E2",
+                              "content": "No gallstones",
+                              "children": [
+                                {
+                                  "node": "G",
+                                  "content": "Consider: Gut motility testing"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "node": "D2",
+                      "content": "Abnormal findings",
+                      "children": [
+                        {
+                          "node": "D2A",
+                          "content": "Treat Accordingly"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": "C",
+          "content": "Other symptoms or signs present: Abdominal pain, Vomiting, Weight loss, Foul-smelling belched gas",
+          "children": [
+            {
+              "node": "D",
+              "content": "Upper GI x-ray series or upper GI endoscopy",
+              "children": [
+                {
+                  "node": "D1",
+                  "content": "Normal findings, Belched gas (foul smelling)",
+                  "children": [
+                    {
+                      "node": "F",
+                      "content": "Barium Enema",
+                      "children": [
+                        {
+                          "node": "F1",
+                          "content": "Normal findings",
+                          "children": [
+                            {
+                              "node": "F1A",
+                              "content": "Consider: Colonoscopy"
+                            }
+                          ]
+                        },
+                        {
+                          "node": "F2",
+                          "content": "Abnormal findings",
+                          "children": [
+                            {
+                              "node": "F2A",
+                              "content": "Treat Accordingly"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "node": "D2",
+                  "content": "Abnormal findings",
+                  "children": [
+                    {
+                      "node": "D2A",
+                      "content": "Treat Accordingly"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

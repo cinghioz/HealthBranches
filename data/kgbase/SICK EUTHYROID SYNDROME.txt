@@ -1,0 +1,134 @@
+SICK EUTHYROID SYNDROME
+
+
+Changes in the function of the hypothalamic-pituitarythyroid axis and in thyroid hormone transport and metabolism are common in patients with nonthyroidal illness.
+The magnitude of these changes usually correlates with
+the severity of the illness. Changes include reduced activity of the hypothalamic-pituitary axis and reduced extrathyroidal production of triiodothyronine (T3).
+A. The earliest physiologic change in thyroid function
+that occurs during illness is a decreased concentration
+of free T3. Low free T3 levels result from decreased
+concentrations of 5-monodeiodinase, the enzyme that
+catalyzes the conversion of thyroxine (T4) to T3. High
+concentrations of cortisol and free fatty acids, present
+during illness, inhibit the activity of this enzyme.
+Changes in the activity of the 5-monodeiodinase also
+result in higher levels of reverse T3, which is used in
+research studies to help distinguish nonthyroidal illness from true central hypothyroidism. High reverse
+T3 levels correlate with increased mortality in severe
+nonthyroidal illness.
+B. Thyrotropin (or thyroid-stimulating hormone [TSH])
+levels also may be normal to low. Low TSH occurs in
+patients with the most severe nonthyroidal illness.
+Although most of these patients have TSH levels at the
+low end of normal, TSH may be undetectable in some.
+This may be followed by low free T4 and TSH concentrations, resulting in transient central hypothyroidism.
+The central and peripheral changes can occur independently of each other. Together these changes result in a
+reduction of the level of T3 that is speculated to represent a beneficial adaptation to illness, conserving energy and limiting tissue catabolism.
+The finding of very low TSH and low total T4 and T3
+levels suggests altered pituitary or hypothalamic responsiveness to circulating thyroid hormone levels.
+TSH levels may also be low among patients treated
+with dopamine or corticosteroids. During the recovery
+period, TSH levels return to normal or may even increase transiently before returning to normal.
+TSH levels can be mildly to moderately elevated during nonthyroidal illness, particularly during the recovery
+phase. In combination with very low serum free T4
+values, an elevated TSH level suggests primary hypothyroidism, as does finding an enlarged thyroid gland.
+Normal changes in thyroid hormones that are common during illness must be distinguished from those
+resulting from thyroid disease, which are appropriately
+sought in patients for other reasons. Secondary
+148
+
+(central) hypothyroidism can mimic the changes of
+nonthyroidal illness, but it is very rare. Additionally, an
+elevated TSH, particularly when !20 "U/ml, may be
+considered indicative of underlying primary hypothyroidism unless the patient is in the recovery phase of
+his or her illness.
+C. The diagnosis of secondary hypothyroidism during severe illness is challenging. In patients with severe illness, TSH and total T4 and T3 values are usually low.
+These patients are often given medications that inhibit
+TSH, such as dopamine and glucocorticoids. If the
+levels are very low, pituitary dysfunction should be
+considered more strongly and repletion with corticosteroid and thyroid hormone supplements may be indicated. Additional tests, including measurement of
+cortisol, gonadotropin, and prolactin levels, may clarify
+the cause of unusually low thyroid tests. If the cortisol
+and prolactin levels are high, as would be expected in
+stressful situations, no intervention is needed. T3, T4,
+and TSH levels should be tested again when the illness
+is resolved or improved.
+D. Although severe nonthyroidal illness may become maladaptive, the limited data available suggest that administration of thyroid hormone to patients with nonthyroidal
+illness does not improve the outcome of their illness. In
+studies where supraphysiologic doses of T3 were given
+for 1 day following bypass surgery, the cardiac index was
+slightly higher and systemic vascular resistance was
+slightly lower in patients given T3 as compared with patients given a placebo; however, neither morbidity nor
+mortality differed between groups. Patients with primary
+hypothyroidism or very low thyroid hormone levels may
+benefit from replacement. However, evidence does not
+support the routine treatment of patients suspected to
+have sick euthyroidism with thyroid hormone.
+
+References
+Camacho PM, Dwarkanathan AA. Sick euthyroid syndrome. What to do
+when thyroid function tests are abnormal in critically ill patients. Postgrad Med 1999;105(4):215–219.
+Chopra IJ. Euthyroid sick syndrome: is it a misnomer? J Clin Endocrinol
+Metab 1997;82:329.
+Stathatos N, Wartofsky L. Perioperative management of patients with
+hypothyroidism. Endocrinol Metab Clin North Am 2003;32(2):
+503–518.
+Utiger RD. Altered thyroid function in nonthyroidal illness and surgery—
+to treat or not to treat? N Engl J Med 1995;333:1562–1563.
+Wartofsky L, Burman KD, Ringel MD. Trading one “dangerous dogma” for
+another? Thyroid hormone treatment of the “euthyroid sick syndrome.”
+J Clin Endocrinol Metab 1999;84:1759–1760.
+
+149
+Patient with SICK EUTHYROIDISM
+
+A Free T4
+
+Low
+
+B Measure
+TSH
+
+C Very
+low
+
+Consider
+secondary
+hypothyroidism
+or use of
+dopamine
+
+Measure
+prolactin and
+random cortisol
+
+D Low or
+
+normal
+
+Sick
+euthyroid
+syndrome
+likely
+
+High
+See Hyperthyroidism (p 140)
+
+High
+(5–20 "U/L)
+
+Very high
+(!20 "U/L)
+
+Consider
+recovery phase
+of sick
+euthyroidism or
+primary
+hypothyroidism
+
+Primary
+hypothyroidism
+most likely
+
+

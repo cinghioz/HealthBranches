@@ -1,0 +1,186 @@
+TOXIC SHOCK SYNDROMES
+
+Toxic shock syndromes are rare but life-threatening
+infectious syndromes characterized by fever, hypotension,
+and multisystem organ failure. They were first described
+in 1978 in a case series of young women who became
+critically ill with fever, rash, and hypotension soon after
+onset of menstruation. The syndrome was linked to the
+use of highly absorbent tampons colonized with a toxinproducing strain of Staphylococcus aureus. In subsequent
+years, similar syndromes have been traced to extravaginal
+infections with S. aureus, severe skin and soft-tissue infections with Streptococcus pyogenes, and rarely with other
+bacteria. Approximately one third of cases of toxic shock
+syndrome are now associated with postpartum and postsurgical wound infections, but cases have been reported of
+the syndrome arising after infection of virtually any part of
+the body, including sinusitis, arthritis, osteomyelitis, and
+respiratory infections.
+The syndrome is caused by elaboration of toxins by
+bacteria colonizing or infecting the body. Both Staphylococcus and Streptococcus are capable of producing socalled superantigens that can rapidly activate massive
+numbers of T cells at once. The clinical manifestations of
+toxic shock syndrome are secondary to cytokine storms
+precipitated by the activated T cells or directly by the
+toxins themselves.
+A. In patients with fever and hypotension an infectious
+syndrome should be highly suspected and assiduously
+sought. The presence of a diffuse erythroderma resembling a total body sunburn in a patient who has rapidly
+become very ill is highly suggestive of a toxic shock syndrome, particularly that caused by S. aureus. Evidence
+of other organ dysfunction, including confusion, profuse
+diarrhea, severe myalgias, elevated liver enzymes, and
+thrombocytopenia, confirms the diagnosis. The rash
+classically desquamates but only 1–3 weeks after presentation; hence, this feature is not helpful for initial diagnosis. The formal case definition for staphylococcal toxic
+shock syndrome (STSS) is given in Table 1. A thorough
+examination for a locus of infection should follow,
+including close assessment of any site of recent surgical
+intervention and a full gynecologic examination to look
+for retained tampons or contraceptive sponges. Sites of
+recent surgery should be opened for irrigation and
+drainage even if the wound does not appear infected
+because local inflammatory responses can be blunted in
+STSS. Any foreign material such as nasopharyngeal
+packing or tampons should be removed. Blood cultures
+should be drawn, although bacteremia is rarely found in
+STSS.
+336
+
+Table 1 Toxic Shock Syndrome Clinical Case
+Definition
+• Temperature 38.9° C (102° F)
+• Diffuse macular erythroderma
+• Desquamation—1–2 weeks after onset of illness, particularly palms
+and soles
+• Systolic blood pressure 90 mm Hg
+• Multisystem involvement—three or more of the following:
+1. GI: vomiting or diarrhea at onset of illness
+2. Muscular: severe myalgia or creatine phosphokinase level at least
+twice the upper limit of normal for laboratory
+3. Mucous membrane: vaginal, oropharyngeal, or conjunctival
+hyperemia
+4. Renal: BUN or creatinine at least twice the upper limit of normal
+for laboratory or urinary sediment with pyuria (!5 leukocytes per
+high-power field)
+in the absence of urinary tract infection
+5. Hepatic: total bilirubin, ALT, AST at least twice the upper limit
+of normal
+6. Hematologic: platelets !100,000/mm3
+7. CNS: disorientation or alterations in consciousness without focal
+neurologic signs when fever and hypotension are absent
+• Negative results on the following tests, if obtained:
+1. Blood, throat, or cerebrospinal fluid cultures (blood culture may
+be positive for Staphylococcus aureusrom)
+2. Rise in titer to Rocky Mountain spotted fever, leptospirosis, or
+measles
+
+B. Purpura and/or petechiae can be found in toxic shock
+syndrome, but their presence should prompt a search
+for other severe disease, including meningococcal or
+pneumococcal meningitis, bacterial sepsis, Rocky Mountain spotted fever (RMSF), dengue, leptospirosis, and
+DIC. Both meningococcal and pneumococcal meningitis have been associated with adrenal hemorrhage and
+necrosis leading to hypotension with purpura and/or
+petechiae. The presence of meningismus helps to make
+the diagnosis. RMSF is a bacterial infection caused by
+Rickettsia rickettsiae. It is transmitted by tick bites and
+is most commonly seen in the southeastern United
+States. The rash usually first appears on the palms and
+soles and is accompanied by fever with severe headache.
+Dengue hemorrhagic fever is a viral illness acquired
+from mosquito bites predominantly in tropical countries. It is characterized by fever, severe diffuse bone
+pain, hypotension, and a petechial rash, particularly in
+parts of the body exposed to pressure (e.g., the skin beneath a blood pressure cuff). Leptospirosis is a severe
+acute febrile illness caused by the spirochete Leptospira. It is classically acquired by contact with animals or
+their excretions, particularly from rabbits and rats. Patients complain of fever, chills, headache, myalgias, eye
+
+337
+Patient with TOXIC SHOCK SYNDROME
+
+A Diffuse erythroderma
+
+STSS
+Staphylococcal scalded
+skin syndrome
+Heat stroke
+
+B Petechiae/purpura
+
+Meningococcemia
+Pneumococcal sepsis
+RMSF
+Dengue
+Leptospirosis
+DIC
+
+C Skin/soft-tissue infection
+Streptococcal toxic
+shock syndrome
+Necrotizing fasciitis
+Severe cellulites
+STSS
+
+D No skin findings
+
+Streptococcal toxic
+shock syndrome
+Bacterial sepsis
+Line infection
+Device infection
+
+E Toxic shock management
+
+ICU-level supportive care
+Surgical wound debridement
+and/or removal of foreign bodies
+Antibiotics (clindamycin, vancomycin,
+penicillin)
+"IV immunoglobulins
+
+discomfort, and rash. Conjunctival injection, pharyngitis, pulmonary infiltrates, hepatitis, renal dysfunction,
+and diffuse macular or maculopapular rash can be found
+on evaluation. DIC is a serious consumptive coagulopathy and hemolytic process that can be precipitated by
+sepsis, obstetric catastrophe, surgery, pancreatitis, or
+toxin exposure. It is suggested by laboratory findings of
+elevated creatinine, prolonged prothrombin time (PT)
+and partial thromboplastin time (PTT), low fibrinogen,
+anemia, thrombocytopenia, and the presence of schistocytes on peripheral blood smear.
+C. Skin or soft-tissue infection in the presence of fever and
+hypotension is suggestive of toxic shock syndrome caused
+by S. pyogenes (group A beta-hemolytic Streptococcusrom). There is a predilection for these infections to arise
+from recent surgical wounds. Pulmonary infections, including pneumonia and empyema with S. pyogenes, are
+also well-described precipitants. Severe pain at the site
+of infection, particularly pain out of proportion to examination findings, is a classic clue to an evolving streptococcal toxic shock syndrome with associated necrotizing
+fasciitis. The soft-tissue infection is often rapidly progressive. In contrast to STTS, diffuse body rash is rarely seen,
+whereas blood cultures are frequently positive.
+D. Patients presenting with fever and hypotension in the
+absence of rash should be evaluated for bacterial sepsis. Particular attention should be directed to any indwelling venous access devices or recently implanted
+hardware that can act as common loci for infection. If
+present in an unstable patient, every effort should be
+made to remove these devices as soon as possible.
+E. Treatment of toxic shock syndromes consists of
+supportive care, antibiotic therapy, rapid surgical
+debridement, and possibly IV immunoglobulins. Patients
+
+with toxic shock syndrome often develop capillary leak
+syndromes leading to refractory, sustained hypotension.
+Aggressive fluid repletion and ICU-level management
+are essential. Initial antibiotic therapy should include
+clindamycin and vancomycin. Clindamycin is recommended because it impairs bacterial toxin production. It
+has also been shown to be more active than penicillinderived products against S. pyogenes in patients with extremely high bacterial burden. Vancomycin should be
+included in empiric regimens because of the increasing
+prevalence of methicillin resistance among community
+and hospital S. aureus isolates. Penicillin can be included
+if there is a high suspicion that the patient has streptococcal toxic shock syndrome. Rapid, aggressive surgical debridement is essential to decreasing the patient’s overall
+burden of infection. IV immunoglobulins have been
+shown to be beneficial in streptococcal toxic shock syndrome. If S. aureus is isolated from a patient and shown
+to be methicillin susceptible, then nafcillin should be
+substituted for vancomycin because it has superior antistaphylococcal activity.
+
+References
+Cosgrove SE, Zaleznik DF. Staphylococcal toxic shock syndrome.
+UpToDate Online 13.3. Available at: www.uptodate.com. Accessed
+November 16, 2005.
+Issa N, Thompson R. Staphylococcal toxic shock syndrome. Postgrad
+Med 2001;110:55–56, 59–62.
+Mandel GL, Donglas RG, Bennett JE, Dolan R, eds. Principles and
+Practice of Infectious Diseases, 6th ed. New York: Elsevier, 2005.
+Stevens DL. Streptococcal toxic shock syndrome. UpToDate Online 13.3.
+www.uptodate.com. Accessed November 16, 2005.
+
+
