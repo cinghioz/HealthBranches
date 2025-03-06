@@ -5,6 +5,7 @@ import ast
 import argparse
 import torch
 from typing import Dict, List
+from alive_progress import alive_bar
 
 from classes.vector_store import VectorStore
 from classes.llm_inference import LLMinference
@@ -16,6 +17,7 @@ args = parser.parse_args()
 
 # Set BASELINE based on the argument
 BASELINE = args.base
+PATH = "/home/cc/PHD/HealthBranches/"
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -34,17 +36,16 @@ def check_results(search_directory: str, string_to_check: str, search_strings: L
     return remaining_strings
 
 # Create an empty vector store in the indicated path. If the path already exists, load the vector store
-vector_store = VectorStore('/home/cc/PHD/HealthBranches/indexes/kgbase-new/')
+vector_store = VectorStore(f'{PATH}indexes/kgbase-new/')
 
 # Add documents in vector store (comment this line after the first add)
 # vector_store.add_documents('/home/cc/PHD/ragkg/data/kgbase')
 
-folder_path = "/home/cc/PHD/HealthBranches/questions_pro/ultimate_questions_v2.csv"
+folder_path = f"{PATH}questions_pro/ultimate_questions_v2.csv"
 questions = pd.read_csv(folder_path)
 
-# models = ["mistral", "llama3.1:8b", "llama2:7b", "medllama2:7b", "gemma:7b", "gemma2:9b", "phi4:14b", "qwen2.5:7b", "mixtral:8x7b", "deepseek-r1:7b"]
-models = ["mistral", "llama3.1:8b", "llama2:7b", "gemma:7b", "gemma2:9b", "qwen2.5:7b", "phi4:14b", "medllama2:7b"]
-models = check_results('/home/cc/PHD/HealthBranches/', "results_quiz_baseline_*.csv" if BASELINE else "results_quiz_*.csv", models)
+models = ["mistral", "llama3.1:8b", "llama2:7b", "gemma:7b", "gemma2:9b", "qwen2.5:7b", "phi4:14b"]
+models = check_results(PATH, "results_quiz_baseline_*.csv" if BASELINE else "results_quiz_*.csv", models)
 
 templates = [PROMPT_QUIZ, PROMPT_QUIZ_RAG]
 
@@ -62,49 +63,51 @@ for model_name in models:
 
     cnt = 0
     rows = []
+    print(f"Running model {model_name}...")
+    with alive_bar(len(questions)) as bar:
+        for index, row in questions.iterrows():
+            res = []
+            try:
+                opts = ast.literal_eval(row['options'].replace("['", '["').replace("']", '"]').replace("', '", '", "'))
+                
+                if not isinstance(opts, list) or len(opts) != 5:
+                    print(f"Skipping row {index} due to invalid options")
+                    continue  # Skip this iteration if the condition is not met
 
-    for index, row in questions.iterrows():
-        res = []
-        try:
-            opts = ast.literal_eval(row['options'].replace("['", '["').replace("']", '"]').replace("', '", '", "'))
+            except (ValueError, SyntaxError):
+                print(f"Skipping row {index} due to value/syntax error")
+                continue  # Skip if there's an issue with evaluation
+
+            txt_name = row['condition'].upper()+".txt"
+            txt_folder_name = f"{PATH}data/kgbase-new/"
+
+            try:
+                with open(os.path.join(txt_folder_name, txt_name), 'r') as file:
+                    text = file.readlines()
+            except Exception:
+                print(os.path.join(txt_folder_name, txt_name))
+                print(f"{txt_name} text is EMPTY!")
+                continue    
             
-            if not isinstance(opts, list) or len(opts) != 5:
-                print(f"Skipping row {index} due to invalid options")
-                continue  # Skip this iteration if the condition is not met
+            for template in templates:
+                if BASELINE:
+                    res.append(llm.qea_evaluation(row['question'], template, row['path'], text, opts, row['condition'].lower(), vector_store)) # Baseline
+                else:
+                    res.append(llm.qea_evaluation(row['question'], template, "", "", opts, row['condition'].lower(), vector_store))
 
-        except (ValueError, SyntaxError):
-            print(f"Skipping row {index} due to value/syntax error")
-            continue  # Skip if there's an issue with evaluation
+            res.append(row["correct_option"])
+            res.append(row['question'])
+            res.append(row['path'])
+            res.insert(0, row['condition'].lower())
 
-        txt_name = row['condition'].upper()+".txt"
-        txt_folder_name = "/home/cc/PHD/HealthBranches/data/kgbase-new/"
-
-        try:
-            with open(os.path.join(txt_folder_name, txt_name), 'r') as file:
-                text = file.readlines()
-        except Exception:
-            print(os.path.join(txt_folder_name, txt_name))
-            print(f"{txt_name} text is EMPTY!")
-            continue    
-        
-        for template in templates:
-            if BASELINE:
-                res.append(llm.qea_evaluation(row['question'], template, row['path'], text, opts, row['condition'].lower(), vector_store)) # Baseline
-            else:
-                res.append(llm.qea_evaluation(row['question'], template, "", "", opts, row['condition'].lower(), vector_store))
-
-        res.append(row["correct_option"])
-        res.append(row['question'])
-        res.append(row['path'])
-        res.insert(0, row['condition'].lower())
-
-        rows.append(res)
+            rows.append(res)
+            bar()
 
     if BASELINE:
         df = pd.DataFrame(rows, columns=["name", "zero_shot", "real", "question", "path"]) # Baseline
-        df.to_csv(f"/home/cc/PHD/HealthBranches/results_quiz_baseline_{model_name}.csv", index=False) # Baseline
+        df.to_csv(f"{PATH}results_quiz_baseline_{model_name}.csv", index=False) # Baseline
     else:
         df = pd.DataFrame(rows, columns=["name", "zero_shot", "zero_shot_rag", "real", "question", "path"])
-        df.to_csv(f"/home/cc/PHD/HealthBranches/results_quiz_{model_name}.csv", index=False)
+        df.to_csv(f"{PATH}results_quiz_{model_name}.csv", index=False)
 
     print(f"Model {model_name} done!\n")
