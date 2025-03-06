@@ -41,7 +41,7 @@ vector_store = VectorStore(f'{PATH}indexes/kgbase-new/')
 # Add documents in vector store (comment this line after the first add)
 # vector_store.add_documents('/home/cc/PHD/ragkg/data/kgbase')
 
-folder_path = f"{PATH}questions_pro/ultimate_questions_v2.csv"
+folder_path = f"{PATH}questions_pro/ultimate_questions_v3_full_balanced.csv"
 questions = pd.read_csv(folder_path)
 
 models = ["mistral", "llama3.1:8b", "llama2:7b", "gemma:7b", "gemma2:9b", "qwen2.5:7b", "phi4:14b"]
@@ -58,14 +58,14 @@ cnt = 0
 rows = []
 questions = pd.read_csv(folder_path)
 
-for model_name in models:
-    llm = LLMinference(llm_name=model_name)
+for model_name in models[0:1]:
+    llm = LLMinference(llm_name=model_name, num_predict=16)
 
     cnt = 0
     rows = []
     print(f"Running model {model_name}...")
     with alive_bar(len(questions)) as bar:
-        for index, row in questions.iterrows():
+        for index, row in questions[0:10].iterrows():
             res = []
             try:
                 opts = ast.literal_eval(row['options'].replace("['", '["').replace("']", '"]').replace("', '", '", "'))
