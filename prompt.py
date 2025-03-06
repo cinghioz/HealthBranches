@@ -60,6 +60,7 @@ PROMPT_QUIZ_BASELINE = """The following is a multiple-choice question about how 
     c. {o3}\n
     d. {o4}\n
     e. {o5}\n\n
+    The answer MUST be a single letter.\n
     Answer:
 """
 
@@ -72,6 +73,7 @@ PROMPT_QUIZ = """The following is a multiple-choice question about how to manage
     c. {o3}\n
     d. {o4}\n
     e. {o5}\n\n
+    The answer MUST be a single letter.\n
     Answer:
 """
 
@@ -86,6 +88,7 @@ PROMPT_QUIZ_RAG = """The following is a multiple-choice question about how to ma
     c. {o3}\n
     d. {o4}\n
     e. {o5}\n\n
+    The answer MUST be a single letter.\n
     Answer:
 """
 
