@@ -1,2 +1,0 @@
-source,leaf,paths
-Patient with POLYARTICULAR ARTHRITIS,Psoriatic arthritis,"Determine if patient has polyarticular arthritis based on history, physical examination, radiographs, and laboratory tests -> Determine if the polyarticular arthritis is inflammatory -> Determine if there is no axial involvement -> Determine if polyarthritis is asymmetric -> Psoriatic arthritis"

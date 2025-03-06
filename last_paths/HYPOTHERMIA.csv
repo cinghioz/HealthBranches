@@ -1,2 +1,0 @@
-source,leaf,paths
-root,ICU admission,Patient with HYPOTHERMIA -> Has the patient been exposed to cold? -> No exposure to cold -> Apply active external rewarming -> ICU admission
