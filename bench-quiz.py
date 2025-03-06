@@ -58,14 +58,14 @@ cnt = 0
 rows = []
 questions = pd.read_csv(folder_path)
 
-for model_name in models[0:1]:
+for model_name in models:
     llm = LLMinference(llm_name=model_name, num_predict=16)
 
     cnt = 0
     rows = []
     print(f"Running model {model_name}...")
     with alive_bar(len(questions)) as bar:
-        for index, row in questions[0:10].iterrows():
+        for index, row in questions.iterrows():
             res = []
             try:
                 opts = ast.literal_eval(row['options'].replace("['", '["').replace("']", '"]').replace("', '", '", "'))
