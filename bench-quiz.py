@@ -45,7 +45,7 @@ folder_path = f"{PATH}questions_pro/ultimate_questions_v3_full.csv"
 questions = pd.read_csv(folder_path)
 
 models = ["mistral", "llama3.1:8b", "llama2:7b", "gemma:7b", "gemma2:9b", "qwen2.5:7b", "phi4:14b"]
-models = check_results(PATH, "results_quiz_baseline_*.csv" if BASELINE else "results_quiz_*.csv", models)
+models = check_results(PATH+"results/", "results_quiz_baseline_*.csv" if BASELINE else "results_quiz_*.csv", models)
 
 templates = [PROMPT_QUIZ, PROMPT_QUIZ_RAG]
 
@@ -105,9 +105,9 @@ for model_name in models:
 
     if BASELINE:
         df = pd.DataFrame(rows, columns=["name", "zero_shot", "real", "question", "path"]) # Baseline
-        df.to_csv(f"{PATH}results_quiz_baseline_{model_name}.csv", index=False) # Baseline
+        df.to_csv(f"{PATH}results/results_quiz_baseline_{model_name}.csv", index=False) # Baseline
     else:
         df = pd.DataFrame(rows, columns=["name", "zero_shot", "zero_shot_rag", "real", "question", "path"])
-        df.to_csv(f"{PATH}results_quiz_{model_name}.csv", index=False)
+        df.to_csv(f"{PATH}results/results_quiz_{model_name}.csv", index=False)
 
     print(f"Model {model_name} done!\n")
