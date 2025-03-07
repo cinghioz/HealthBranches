@@ -47,7 +47,7 @@ questions = pd.read_csv(folder_path)
 models = ["mistral", "llama3.1:8b", "llama2:7b", "gemma:7b", "gemma2:9b", "qwen2.5:7b", "phi4:14b"]
 models = check_results(PATH, "results_open_baseline_*.csv" if BASELINE else "results_open_*.csv", models)
 
-templates = [PROMPT_OPEN_ONE, PROMPT_OPEN_RAG]
+templates = [PROMPT_OPEN, PROMPT_OPEN_RAG]
 
 if BASELINE:
     templates = [PROMPT_OPEN_BASELINE]

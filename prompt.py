@@ -91,29 +91,3 @@ PROMPT_QUIZ_RAG = """The following is a multiple-choice question about how to ma
     The answer MUST be a single letter.\n
     Answer:
 """
-
-PROMPT_MED = """The following is a multiple-choice question about how to manage a patient affected by {condition}. 
-    Reply only with the letter of the correct option, without any additional text.\n\n
-    Question: {question}\n\n
-    Choices:\n
-    a. {o1}\n
-    b. {o2}\n
-    c. {o3}\n
-    d. {o4}\n
-    e. {o5}\n\n
-    Answer:
-"""
-
-PROMPT_MED_RAG = """The following is a multiple-choice question about how to manage a patient affected by {condition}. 
-    Reply only with the letter of the correct option, without any additional text.\n\n
-    Answer the question using the provided context.\n\n
-    Context: {context}\n\n
-    Question: {question}\n\n
-    Choices:\n
-    a. {o1}\n
-    b. {o2}\n
-    c. {o3}\n
-    d. {o4}\n
-    e. {o5}\n\n
-    Answer:
-"""
