@@ -41,7 +41,7 @@ vector_store = VectorStore(f'{PATH}indexes/kgbase-new/')
 # Add documents in vector store (comment this line after the first add)
 # vector_store.add_documents('/home/cc/PHD/ragkg/data/kgbase')
 
-folder_path = f"{PATH}questions_pro/ultimate_questions_v3_full.csv"
+folder_path = f"{PATH}questions_pro/ultimate_questions_v3_full_balanced.csv"
 questions = pd.read_csv(folder_path)
 
 models = ["mistral", "llama3.1:8b", "llama2:7b", "gemma:7b", "gemma2:9b", "qwen2.5:7b", "phi4:14b"]
