@@ -59,7 +59,7 @@ rows = []
 questions = pd.read_csv(folder_path)
 
 for model_name in models:
-    llm = LLMinference(llm_name=model_name, num_predict=16)
+    llm = LLMinference(llm_name=model_name, num_predict=32)
 
     cnt = 0
     rows = []
