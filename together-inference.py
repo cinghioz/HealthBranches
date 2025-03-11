@@ -8,17 +8,22 @@ from alive_progress import alive_bar
 from prompt import *
 
 client = Together(api_key="de1d1c231987694e2b9111e06e048732d206ecaee729b8aee41e2121006f2cfc")
-# parser = argparse.ArgumentParser(description="LLM inference with optional baseline mode.")
-# parser.add_argument("-base", action="store_true", help="Run in baseline mode.")
-# args = parser.parse_args()
 
-# # Set BASELINE based on the argument
-# BASELINE = args.base
+parser = argparse.ArgumentParser(description="LLM inference with optional baseline mode.")
+parser.add_argument("-base", action="store_true", help="Run in baseline mode.")
+args = parser.parse_args()
+
+# Set BASELINE based on the argument
+BASELINE = args.base
 PATH = "/home/cc/PHD/HealthBranches/"
-BASELINE = False
+
+print("##### BASELINE MODE #####\n" if BASELINE else "##### BENCHMARK MODE #####\n")
 
 def together_inference(query, template, path, text, choices, condition):
-    prompt = template.format(question=query, condition=condition, o1=choices[0], o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
+    if BASELINE:
+        prompt = template.format(question=query, condition=condition, path=path, text=text, o1=choices[0], o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
+    else:
+        prompt = template.format(question=query, condition=condition, o1=choices[0], o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
     response = client.chat.completions.create(
         # model="meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo",
         model="meta-llama/Llama-3.3-70B-Instruct-Turbo-Free",
