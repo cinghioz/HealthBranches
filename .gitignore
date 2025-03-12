@@ -1,3 +1,5 @@
 .venv/
 results/
 quiz-ultimate-dataset/
+__pycache__/
+classes/__pycache__/
