@@ -62,7 +62,7 @@ with alive_bar(len(questions)) as bar:
             continue    
         
 
-        res.append(together_inference(CHECK_QUESTION, row['question'], row['answer'], row['path'], text, opts, row['condition'].lower())) # Baseline
+        res.append(together_inference(CHECK_QUESTION_RATE, row['question'], row['answer'], row['path'], text, opts, row['condition'].lower())) # Baseline
 
         res.append(row["answer"])
         res.append(row['question'])

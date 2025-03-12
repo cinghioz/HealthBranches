@@ -19,7 +19,7 @@ args = parser.parse_args()
 BASELINE = args.base
 PATH = "/home/cc/PHD/HealthBranches/"
 
-def together_inference(query, template, path, text, choices, condition):
+def together_inference(client, query, template, path, text, choices, condition):
     if BASELINE:
         prompt = template.format(question=query, condition=condition, path=path, text=text, o1=choices[0], o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
     else:
@@ -80,9 +80,9 @@ with alive_bar(len(questions)) as bar:
         
         for template in templates:
             if BASELINE:
-                res.append(together_inference(row['question'], template, row['path'], text, opts, row['condition'].lower())) # Baseline
+                res.append(together_inference(client, row['question'], template, row['path'], text, opts, row['condition'].lower())) # Baseline
             else:
-                res.append(together_inference(row['question'], template, "", "", opts, row['condition'].lower()))
+                res.append(together_inference(client, row['question'], template, "", "", opts, row['condition'].lower()))
 
         res.append(row["correct_option"])
         res.append(row['question'])
