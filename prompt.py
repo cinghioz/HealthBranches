@@ -86,3 +86,29 @@ PROMPT_QUIZ_RAG = """The following is a multiple-choice question about how to ma
     The answer MUST be a single letter.\n
     Correct option:
 """
+
+CHECK_QUESTION = """I will give you a quiz about how to manage a patient affected by {condition}, with some option and the real answer. 
+    your task is to check if the quiz makes sense and, if there is more than one correct option.\n\n
+    Question: {question}\n\n
+    Options: {options}\n
+    Correct option: {correct_option}\n\n
+    Your answer must follow the following rules:\n
+    1) answer with the word "CORRECT" if the quiz makes sense and there is only one correct option;\n
+    2) answer with the word "WRONG" if the quiz does not make sense or if there is more than one correct option.\n\n
+    The answer MUST be one word among those described above, without any additional text!\n
+    Answer: 
+"""
+
+CHECK_QUESTION_PLUS = """I will give you a quiz about how to manage a patient affected by {condition}, with some option and the real answer. 
+    your task is to check if the quiz makes sense and if there is more than one correct option.\n\n
+    Evaluate the questions and the answer using also the provided context.\n
+    Context: {contest}\n\n
+    Question: {question}\n\n
+    Options: {options}\n
+    Correct option: {correct_option}\n\n
+    Your answer must follow the following rules:\n
+    1) answer with the word "CORRECT" if the quiz makes sense and there is only one correct option;\n
+    2) answer with the word "WRONG" if the quiz does not make sense or if there is more than one correct option.\n\n
+    The answer MUST be one word among those described above, without any additional text!\n
+    Answer: 
+"""
