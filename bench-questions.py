@@ -44,7 +44,7 @@ vector_store = VectorStore(f'{PATH}indexes/kgbase-new/')
 folder_path = f"{PATH}questions_pro/ultimate_questions_v3_full_balanced.csv"
 questions = pd.read_csv(folder_path)
 
-models = ["mistral", "llama3.1:8b", "llama2:7b", "gemma:7b", "gemma2:9b", "qwen2.5:7b", "phi4:14b"]
+models = ["mistral:7b", "llama3.1:8b", "llama2:7b", "gemma:7b", "gemma2:9b", "gemma3:4b", "qwen2.5:7b", "phi4-mini:3.8b"]
 models = check_results(PATH+"results/", "results_open_baseline_*.csv" if BASELINE else "results_open_*.csv", models)
 
 templates = [PROMPT_OPEN, PROMPT_OPEN_RAG]

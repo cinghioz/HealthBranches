@@ -25,8 +25,8 @@ def together_inference(query, template, path, text, choices, condition):
     else:
         prompt = template.format(question=query, condition=condition, o1=choices[0], o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
     response = client.chat.completions.create(
-        # model="meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo",
-        model="meta-llama/Llama-3.3-70B-Instruct-Turbo-Free",
+        model="meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo",
+        # model="meta-llama/Llama-3.3-70B-Instruct-Turbo-Free",
         messages=[{"role": "user", "content": prompt}],
     )
 
@@ -88,11 +88,11 @@ with alive_bar(len(questions)) as bar:
 
 if BASELINE:
     df = pd.DataFrame(rows, columns=["name", "zero_shot", "real", "question", "path"]) # Baseline
-    df.to_csv(f"{PATH}results/results_quiz_baseline_Llama-3.3-70B-Instruct-Turbo-Free.csv", index=False) # Baseline
+    df.to_csv(f"{PATH}results/results_quiz_baseline_Llama-3.1-405B-Instruct-Turbo.csv", index=False) # Baseline
 else:
     df = pd.DataFrame(rows, columns=["name", "zero_shot", "real", "question", "path"])
-    df.to_csv(f"{PATH}results/results_quiz_Llama-3.3-70B-Instruct-Turbo-Free.csv", index=False)
+    df.to_csv(f"{PATH}results/results_quiz_Llama-3.1-405B-Instruct-Turbo.csv", index=False)
 
-print(f"Model Llama-3.3-70B-Instruct-Turbo-Free done!\n")
+print(f"Model Llama-3.1-405B-Instruct-Turbo done!\n")
 
 
