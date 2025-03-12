@@ -3,7 +3,7 @@ from langchain.prompts import ChatPromptTemplate
 from typing import List
 
 class LLMinference:
-    def __init__(self, llm_name, temperature=0.5, num_predict=128):
+    def __init__(self, llm_name, temperature=0.0, num_predict=128):
         self.llm_name = llm_name
         self.model = OllamaLLM(model=llm_name, temperature=temperature, num_predict=num_predict) 
 
