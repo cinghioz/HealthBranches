@@ -5,41 +5,56 @@ import argparse
 import ast
 from together import Together
 from alive_progress import alive_bar
+
+from classes.vector_store import VectorStore
 from prompt import *
 
 client = Together(api_key="de1d1c231987694e2b9111e06e048732d206ecaee729b8aee41e2121006f2cfc")
 
 parser = argparse.ArgumentParser(description="LLM inference with optional baseline mode.")
 parser.add_argument("-base", action="store_true", help="Run in baseline mode.")
+parser.add_argument("-quiz", action="store_true", help="Run in baseline mode.")
 args = parser.parse_args()
 
 # Set BASELINE based on the argument
 BASELINE = args.base
+QUIZ = args.base
 PATH = "/home/cc/PHD/HealthBranches/"
+EXT = "QUIZ" if QUIZ else "OPEN"
 
 print("##### BASELINE MODE #####\n" if BASELINE else "##### BENCHMARK MODE #####\n")
 
-def together_inference(query, template, path, text, choices, condition):
-    if BASELINE:
-        prompt = template.format(question=query, condition=condition, path=path, text=text, o1=choices[0], o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
-    else:
-        prompt = template.format(question=query, condition=condition, o1=choices[0], o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
+def together_inference(model, query, template, path, text, choices, cond, vector_store):
+    context_text = vector_store.search(query=query, k=3)
+
+    if choices: # quiz
+        if path != "" and text != "":
+            prompt = template.format(context=context_text, question=query, path=path, text=text, condition=cond, o1=choices[0], o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
+        else:
+            prompt = template.format(context=context_text, question=query, condition=cond, o1=choices[0], o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
+    else: # open question
+        if path != "" and text != "":
+            prompt = template.format(context=context_text, question=query, path=path, text=text, condition=cond)
+        else:
+            prompt = template.format(context=context_text, question=query, condition=cond)
+
     response = client.chat.completions.create(
-        model="meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo",
-        # model="meta-llama/Llama-3.3-70B-Instruct-Turbo-Free",
+        model=model,
         messages=[{"role": "user", "content": prompt}],
     )
 
-    # print(response.choices[0].message.content)
     return response.choices[0].message.content
+
+# Create an empty vector store in the indicated path. If the path already exists, load the vector store
+vector_store = VectorStore(f'{PATH}indexes/kgbase-new/')
 
 folder_path = f"{PATH}questions_pro/ultimate_questions_v3_full_balanced.csv"
 questions = pd.read_csv(folder_path)
 
-templates = [PROMPT_QUIZ]
+templates = [PROMPT_QUIZ, PROMPT_QUIZ_RAG] if QUIZ else [PROMPT_OPEN, PROMPT_OPEN_RAG]
 
 if BASELINE:
-    templates = [PROMPT_QUIZ_BASELINE]
+    templates = [PROMPT_QUIZ_BASELINE] if QUIZ else [PROMPT_OPEN_BASELINE]
 
 cnt_rag = 0
 cnt = 0
@@ -47,19 +62,24 @@ cnt = 0
 rows = []
 questions = pd.read_csv(folder_path)
 
+model = "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"
+
 with alive_bar(len(questions)) as bar:
     for index, row in questions.iterrows():
         res = []
-        try:
-            opts = ast.literal_eval(row['options'].replace("['", '["').replace("']", '"]').replace("', '", '", "'))
-            
-            if not isinstance(opts, list) or len(opts) != 5:
-                print(f"Skipping row {index} due to invalid options")
-                continue  # Skip this iteration if the condition is not met
+        opts = []
 
-        except (ValueError, SyntaxError):
-            print(f"Skipping row {index} due to value/syntax error")
-            continue  # Skip if there's an issue with evaluation
+        if QUIZ:
+            try:
+                opts = ast.literal_eval(row['options'].replace("['", '["').replace("']", '"]').replace("', '", '", "'))
+                
+                if not isinstance(opts, list) or len(opts) != 5:
+                    print(f"Skipping row {index} due to invalid options")
+                    continue  # Skip this iteration if the condition is not met
+
+            except (ValueError, SyntaxError):
+                print(f"Skipping row {index} due to value/syntax error")
+                continue  # Skip if there's an issue with evaluation
 
         txt_name = row['condition'].upper()+".txt"
         txt_folder_name = f"{PATH}data/kgbase-new/"
@@ -74,11 +94,15 @@ with alive_bar(len(questions)) as bar:
         
         for template in templates:
             if BASELINE:
-                res.append(together_inference(row['question'], template, row['path'], text, opts, row['condition'].lower())) # Baseline
+                res.append(together_inference(row['question'], template, row['path'], text, opts, row['condition'].lower(), vector_store)) # Baseline
             else:
-                res.append(together_inference(row['question'], template, "", "", opts, row['condition'].lower()))
+                res.append(together_inference(row['question'], template, "", "", opts, row['condition'].lower(), vector_store))
 
-        res.append(row["correct_option"])
+        if QUIZ:
+            res.append(row["correct_option"])
+        else:
+            res.append(row["answer"])
+
         res.append(row['question'])
         res.append(row['path'])
         res.insert(0, row['condition'].lower())
@@ -86,13 +110,13 @@ with alive_bar(len(questions)) as bar:
         rows.append(res)
         bar()
 
-if BASELINE:
-    df = pd.DataFrame(rows, columns=["name", "zero_shot", "real", "question", "path"]) # Baseline
-    df.to_csv(f"{PATH}results/results_quiz_baseline_Llama-3.1-405B-Instruct-Turbo.csv", index=False) # Baseline
-else:
-    df = pd.DataFrame(rows, columns=["name", "zero_shot", "real", "question", "path"])
-    df.to_csv(f"{PATH}results/results_quiz_Llama-3.1-405B-Instruct-Turbo.csv", index=False)
+    if BASELINE:
+        df = pd.DataFrame(rows, columns=["name", "zero_shot", "real", "question", "path"]) # Baseline
+        df.to_csv(f"{PATH}/results/results_{EXT}_baseline_{model}.csv", index=False) # Baseline
+    else:
+        df = pd.DataFrame(rows, columns=["name", "zero_shot", "zero_shot_rag", "real", "question", "path"])
+        df.to_csv(f"{PATH}/results/results_{EXT}_{model}.csv", index=False)
 
-print(f"Model Llama-3.1-405B-Instruct-Turbo done!\n")
+    print(f"Model {model} done!\n")
 
 
