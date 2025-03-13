@@ -63,61 +63,62 @@ cnt = 0
 rows = []
 questions = pd.read_csv(folder_path)
 
-model = "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"
+models = ["meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"]
 
-with alive_bar(len(questions)) as bar:
-    for index, row in questions.iterrows():
-        res = []
-        opts = []
+for model in models:
+    with alive_bar(len(questions)) as bar:
+        for index, row in questions.iterrows():
+            res = []
+            opts = []
 
-        if QUIZ:
+            if QUIZ:
+                try:
+                    opts = ast.literal_eval(row['options'].replace("['", '["').replace("']", '"]').replace("', '", '", "'))
+                    
+                    if not isinstance(opts, list) or len(opts) != 5:
+                        print(f"Skipping row {index} due to invalid options")
+                        continue  # Skip this iteration if the condition is not met
+
+                except (ValueError, SyntaxError):
+                    print(f"Skipping row {index} due to value/syntax error")
+                    continue  # Skip if there's an issue with evaluation
+
+            txt_name = row['condition'].upper()+".txt"
+            txt_folder_name = f"{PATH}data/kgbase-new/"
+
             try:
-                opts = ast.literal_eval(row['options'].replace("['", '["').replace("']", '"]').replace("', '", '", "'))
-                
-                if not isinstance(opts, list) or len(opts) != 5:
-                    print(f"Skipping row {index} due to invalid options")
-                    continue  # Skip this iteration if the condition is not met
+                with open(os.path.join(txt_folder_name, txt_name), 'r') as file:
+                    text = file.readlines()
+            except Exception:
+                print(os.path.join(txt_folder_name, txt_name))
+                print(f"{txt_name} text is EMPTY!")
+                continue    
+            
+            for template in templates:
+                if BASELINE:
+                    res.append(together_inference(model, row['question'], template, row['path'], text, opts, row['condition'].lower(), vector_store)) # Baseline
+                else:
+                    res.append(together_inference(model, row['question'], template, "", "", opts, row['condition'].lower(), vector_store))
 
-            except (ValueError, SyntaxError):
-                print(f"Skipping row {index} due to value/syntax error")
-                continue  # Skip if there's an issue with evaluation
-
-        txt_name = row['condition'].upper()+".txt"
-        txt_folder_name = f"{PATH}data/kgbase-new/"
-
-        try:
-            with open(os.path.join(txt_folder_name, txt_name), 'r') as file:
-                text = file.readlines()
-        except Exception:
-            print(os.path.join(txt_folder_name, txt_name))
-            print(f"{txt_name} text is EMPTY!")
-            continue    
-        
-        for template in templates:
-            if BASELINE:
-                res.append(together_inference(model, row['question'], template, row['path'], text, opts, row['condition'].lower(), vector_store)) # Baseline
+            if QUIZ:
+                res.append(row["correct_option"])
             else:
-                res.append(together_inference(model, row['question'], template, "", "", opts, row['condition'].lower(), vector_store))
+                res.append(row["answer"])
 
-        if QUIZ:
-            res.append(row["correct_option"])
+            res.append(row['question'])
+            res.append(row['path'])
+            res.insert(0, row['condition'].lower())
+
+            rows.append(res)
+            bar()
+
+        if BASELINE:
+            df = pd.DataFrame(rows, columns=["name", "zero_shot", "real", "question", "path"]) # Baseline
+            df.to_csv(f"{PATH}/results/results_{EXT}_baseline_{model}.csv", index=False) # Baseline
         else:
-            res.append(row["answer"])
+            df = pd.DataFrame(rows, columns=["name", "zero_shot", "zero_shot_rag", "real", "question", "path"])
+            df.to_csv(f"{PATH}/results/results_{EXT}_{model}.csv", index=False)
 
-        res.append(row['question'])
-        res.append(row['path'])
-        res.insert(0, row['condition'].lower())
-
-        rows.append(res)
-        bar()
-
-    if BASELINE:
-        df = pd.DataFrame(rows, columns=["name", "zero_shot", "real", "question", "path"]) # Baseline
-        df.to_csv(f"{PATH}/results/results_{EXT}_baseline_{model}.csv", index=False) # Baseline
-    else:
-        df = pd.DataFrame(rows, columns=["name", "zero_shot", "zero_shot_rag", "real", "question", "path"])
-        df.to_csv(f"{PATH}/results/results_{EXT}_{model}.csv", index=False)
-
-    print(f"Model {model} done!\n")
+        print(f"Model {model} done!\n")
 
 
