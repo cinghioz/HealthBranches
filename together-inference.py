@@ -23,6 +23,7 @@ PATH = "/home/cc/PHD/HealthBranches/"
 EXT = "QUIZ" if QUIZ else "OPEN"
 
 print("##### BASELINE MODE #####\n" if BASELINE else "##### BENCHMARK MODE #####\n")
+print("##### QUIZ EXP #####\n" if QUIZ else "##### OPEN EXP #####\n")
 
 def together_inference(model, query, template, path, text, choices, cond, vector_store):
     context_text = vector_store.search(query=query, k=3)
