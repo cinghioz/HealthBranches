@@ -1,16 +1,14 @@
 import os
 import pandas as pd
-import numpy as np
-import argparse
 import ast
-from together import Together
+import argparse
+from typing import Dict, List
 from alive_progress import alive_bar
 
 from classes.vector_store import VectorStore
+from classes.llm_inference import LLMinference
 from classes.utils import check_results
 from prompt import *
-
-client = Together(api_key="de1d1c231987694e2b9111e06e048732d206ecaee729b8aee41e2121006f2cfc")
 
 parser = argparse.ArgumentParser(description="LLM inference with optional baseline mode.")
 parser.add_argument("-base", action="store_true", help="Run in baseline mode.")
@@ -26,32 +24,17 @@ EXT = "QUIZ" if QUIZ else "OPEN"
 print("##### BASELINE MODE #####\n" if BASELINE else "##### BENCHMARK MODE #####\n")
 print("##### QUIZ EXP #####\n" if QUIZ else "##### OPEN EXP #####\n")
 
-def together_inference(model, query, template, path, text, choices, cond, vector_store):
-    context_text = vector_store.search(query=query, k=3)
-
-    if choices: # quiz
-        if path != "" and text != "":
-            prompt = template.format(context=context_text, question=query, path=path, text=text, condition=cond, o1=choices[0], o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
-        else:
-            prompt = template.format(context=context_text, question=query, condition=cond, o1=choices[0], o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
-    else: # open question
-        if path != "" and text != "":
-            prompt = template.format(context=context_text, question=query, path=path, text=text, condition=cond)
-        else:
-            prompt = template.format(context=context_text, question=query, condition=cond)
-
-    response = client.chat.completions.create(
-        model=model,
-        messages=[{"role": "user", "content": prompt}],
-    )
-
-    return response.choices[0].message.content
-
 # Create an empty vector store in the indicated path. If the path already exists, load the vector store
 vector_store = VectorStore(f'{PATH}indexes/kgbase-new/')
 
+# Add documents in vector store (comment this line after the first add)
+# vector_store.add_documents('/home/cc/PHD/ragkg/data/kgbase')
+
 folder_path = f"{PATH}questions_pro/ultimate_questions_v3_full_balanced.csv"
 questions = pd.read_csv(folder_path)
+
+models = ["mistral:7b", "llama3.1:8b", "llama2:7b", "gemma:7b", "gemma2:9b", "gemma3:4b", "qwen2.5:7b", "phi4-mini:3.8b"]
+models = check_results(PATH+"results/", f"results_{EXT}_baseline_*.csv" if BASELINE else f"results_{EXT}_*.csv", models)
 
 templates = [PROMPT_QUIZ, PROMPT_QUIZ_RAG] if QUIZ else [PROMPT_OPEN, PROMPT_OPEN_RAG]
 
@@ -64,10 +47,12 @@ cnt = 0
 rows = []
 questions = pd.read_csv(folder_path)
 
-models = ["meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"]
-models = check_results(PATH+"results/", f"results_{EXT}_baseline_*.csv" if BASELINE else f"results_{EXT}_*.csv", models)
+for model_name in models:
+    llm = LLMinference(llm_name=model_name)
 
-for model in models:
+    cnt = 0
+    rows = []
+    print(f"Running model {model_name}...")
     with alive_bar(len(questions)) as bar:
         for index, row in questions.iterrows():
             res = []
@@ -98,9 +83,9 @@ for model in models:
             
             for template in templates:
                 if BASELINE:
-                    res.append(together_inference(model, row['question'], template, row['path'], text, opts, row['condition'].lower(), vector_store)) # Baseline
+                    res.append(llm.qea_evaluation(row['question'], template, row['path'], text, opts, row['condition'].lower(), vector_store)) # Baseline
                 else:
-                    res.append(together_inference(model, row['question'], template, "", "", opts, row['condition'].lower(), vector_store))
+                    res.append(llm.qea_evaluation(row['question'], template, "", "", opts, row['condition'].lower(), vector_store))
 
             if QUIZ:
                 res.append(row["correct_option"])
@@ -116,11 +101,9 @@ for model in models:
 
         if BASELINE:
             df = pd.DataFrame(rows, columns=["name", "zero_shot", "real", "question", "path"]) # Baseline
-            df.to_csv(f"{PATH}/results/results_{EXT}_baseline_{model}.csv", index=False) # Baseline
+            df.to_csv(f"{PATH}/results/results_{EXT}_baseline_{model_name}.csv", index=False) # Baseline
         else:
             df = pd.DataFrame(rows, columns=["name", "zero_shot", "zero_shot_rag", "real", "question", "path"])
-            df.to_csv(f"{PATH}/results/results_{EXT}_{model}.csv", index=False)
+            df.to_csv(f"{PATH}/results/results_{EXT}_{model_name}.csv", index=False)
 
-        print(f"Model {model} done!\n")
-
-
+    print(f"Model {model_name} done!\n")

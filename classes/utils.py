@@ -1,7 +1,10 @@
 import re
 from collections import Counter
+import glob
+import os
+from typing import Dict, List
 
-def extract_option(answer):
+def extract_option(answer: str):
     """Extract the chosen option (A, B, C, D, E or a, b, c, d, e) from the LLM's answer."""
     
     answer = str(answer).strip()  # Remove leading/trailing spaces
@@ -63,3 +66,15 @@ def check_options(df):
                 options.append(extracted)
     
     return Counter(options), none_values
+
+def check_results(search_directory: str, string_to_check: str, search_strings: List[str]) -> List[str]:
+    # Get all matching files
+    matching_files = glob.glob(os.path.join(search_directory, string_to_check))
+
+    # Find matching files and remove matched strings
+    found_files = [file for file in matching_files if any(name in os.path.basename(file) for name in search_strings)]
+    remaining_strings = [name for name in search_strings if not any(name in os.path.basename(file) for file in matching_files)]
+
+    print("Remaining models to run: ", remaining_strings)
+
+    return remaining_strings
