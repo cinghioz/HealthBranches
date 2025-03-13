@@ -94,9 +94,9 @@ with alive_bar(len(questions)) as bar:
         
         for template in templates:
             if BASELINE:
-                res.append(together_inference(row['question'], template, row['path'], text, opts, row['condition'].lower(), vector_store)) # Baseline
+                res.append(together_inference(model, row['question'], template, row['path'], text, opts, row['condition'].lower(), vector_store)) # Baseline
             else:
-                res.append(together_inference(row['question'], template, "", "", opts, row['condition'].lower(), vector_store))
+                res.append(together_inference(model, row['question'], template, "", "", opts, row['condition'].lower(), vector_store))
 
         if QUIZ:
             res.append(row["correct_option"])
