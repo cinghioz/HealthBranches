@@ -116,10 +116,10 @@ for model in models:
 
         if BASELINE:
             df = pd.DataFrame(rows, columns=["name", "zero_shot", "real", "question", "path"]) # Baseline
-            df.to_csv(f"{PATH}/results/results_{EXT}_baseline_{model}.csv", index=False) # Baseline
+            df.to_csv(f"{PATH}/results/results_{EXT}_baseline_{model.split('/')[1]}.csv", index=False) # Baseline
         else:
             df = pd.DataFrame(rows, columns=["name", "zero_shot", "zero_shot_rag", "real", "question", "path"])
-            df.to_csv(f"{PATH}/results/results_{EXT}_{model}.csv", index=False)
+            df.to_csv(f"{PATH}/results/results_{EXT}_bench_{model.split('/')[1]}.csv", index=False)
 
         print(f"Model {model} done!\n")
 

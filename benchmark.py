@@ -33,7 +33,7 @@ vector_store = VectorStore(f'{PATH}indexes/kgbase-new/')
 folder_path = f"{PATH}questions_pro/ultimate_questions_v3_full_balanced.csv"
 questions = pd.read_csv(folder_path)
 
-models = ["mistral:7b", "llama3.1:8b", "llama2:7b", "gemma:7b", "gemma2:9b", "gemma3:4b", "qwen2.5:7b", "phi4-mini:3.8b"]
+models = ["mistral:7b", "llama3.1:8b", "llama2:7b", "gemma:7b", "gemma2:9b", "qwen2.5:7b", "phi4-mini:3.8b", "gemma3:4b"]
 models = check_results(PATH+"results/", f"results_{EXT}_baseline_*.csv" if BASELINE else f"results_{EXT}_bench_*.csv", models)
 
 templates = [PROMPT_QUIZ, PROMPT_QUIZ_RAG] if QUIZ else [PROMPT_OPEN, PROMPT_OPEN_RAG]

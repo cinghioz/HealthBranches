@@ -99,20 +99,6 @@ CHECK_QUESTION = """I will give you a quiz about how to manage a patient affecte
     Answer: 
 """
 
-CHECK_QUESTION_PLUS = """I will give you a quiz about how to manage a patient affected by {condition}, with some option and the real answer. 
-    your task is to check if the quiz makes sense and if there is more than one correct option.\n\n
-    Evaluate the questions and the answer using also the provided context.\n
-    Context: {context}\n\n
-    Question: {question}\n\n
-    Options: {options}\n
-    Correct option: {correct_option}\n\n
-    Your answer must follow the following rules:\n
-    1) answer with the word "CORRECT" if the quiz makes sense and there is only one correct option;\n
-    2) answer with the word "WRONG" if the quiz does not make sense or if there is more than one correct option.\n\n
-    The answer MUST be one word among those described above, without any additional text!\n
-    Answer: 
-"""
-
 CHECK_QUESTION_RATE = """I will give you a quiz about how to manage a patient affected by {condition}, with some option and the real answer. 
     your task is to check if the quiz makes sense and if there is more than one correct option.\n\n
     Evaluate the questions and the answer using also the provided context.\n
@@ -124,4 +110,10 @@ CHECK_QUESTION_RATE = """I will give you a quiz about how to manage a patient af
     If there are several plausible options correct for the question, penalize the score.\n\n
     The answer MUST be a number between 1 and 5, without any additional text!\n
     Answer: 
+"""
+
+CHECK_QUESTION_OPIONS = """I have this question: {question}\n
+    The question is based on the following sequence of reasoning: {path} for this condition: {cond}\n
+    This are the options to choose: {options}\n
+    Which is the correct option? The answer MUST be one of the options described above, without any additional text!\n
 """
