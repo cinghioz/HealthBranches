@@ -1,234 +1,93 @@
-# %%
-from langchain_community.docstore.in_memory import InMemoryDocstore
-from langchain_community.document_loaders import JSONLoader, DirectoryLoader
-from langchain_community.vectorstores import FAISS
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.schema import Document
-
-from langchain_ollama import OllamaEmbeddings, OllamaLLM
-from langchain.prompts import ChatPromptTemplate
-from tqdm.notebook import tqdm
-import faiss
 import os
-import pickle
-import random
 import pandas as pd
-import re
-import json
 import ast
-import glob
-
+import argparse
 from typing import Dict, List
-import torch
+from alive_progress import alive_bar
+
+from classes.vector_store import VectorStore
+from classes.llm_inference import LLMinference
+from classes.utils import check_results
 from prompt import *
+import json
 
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+parser = argparse.ArgumentParser(description="LLM inference with optional quiz mode.")
+parser.add_argument("-quiz", action="store_true", help="Run in quiz mode.")
+args = parser.parse_args()
 
-# %%
-class VectorStore:
-    def __init__(self, index_path: str, embedder_name: str = "mxbai-embed-large"):
-        self.index_path = index_path
-        self.embedder_name = embedder_name
-        self.embedder = OllamaEmbeddings(model=embedder_name)
-        self._load_vector_store()
+QUIZ = args.quiz
+PATH = "/home/cc/PHD/HealthBranches/"
+EXT = "QUIZ" if QUIZ else "OPEN"
 
-    def _load_vector_store(self):
-        if os.path.exists(self.index_path):
-            print("### LOAD VECTOR DB ###")
+print("##### QUIZ EXP #####\n" if QUIZ else "##### OPEN EXP #####\n")
 
-            self.index = faiss.read_index(self.index_path+'index.faiss')
-            
-            with open(self.index_path+'doc_to_id.pkl', "rb") as f:
-                self.index_to_doc_id = pickle.load(f)
-
-            with open(self.index_path+'docstore.pkl', "rb") as f:
-                self.docstore = pickle.load(f)
-
-            self.vector_store = FAISS(
-                embedding_function=self.embedder,
-                index=self.index,
-                docstore=self.docstore,
-                index_to_docstore_id=self.index_to_doc_id
-            )   
-        else:
-            print("### CREATE VECTOR DB ###")
-
-            self.index = faiss.IndexFlatL2(len(self.embedder.embed_query('hello world')))
-            self.index_to_doc_id = {}
-            self.docstore = InMemoryDocstore()
-
-            self.vector_store = FAISS(
-                embedding_function=self.embedder,
-                index=self.index,
-                docstore=self.docstore,
-                index_to_docstore_id=self.index_to_doc_id
-            )
-
-            if not os.path.exists(self.index_path):
-                os.makedirs(self.index_path)
-
-    def _load_documents(self, doc_path: str, doc_type: str = "*.txt") -> list[Document]:
-        loader = DirectoryLoader(doc_path, glob=doc_type)
-        documents = loader.load()
-        return documents
-
-    def _split_text(self, documents: list[Document]):
-        text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=1000,
-            chunk_overlap=200,
-            length_function=len,
-            add_start_index=True,
-        )
-        chunks = text_splitter.split_documents(documents)
-        print(f"Split {len(documents)} documents into {len(chunks)} chunks.")
-
-        return chunks
-
-    def add_documents(self, doc_path: str, doc_type: str = "*.txt"):
-        documents = self._load_documents(doc_path, doc_type)
-        chunks = self._split_text(documents)
-        self.vector_store.add_documents(documents=chunks)
-        self._update_vector_db()
-    
-    def search(self, query: str, k: int = 3):
-        return self.vector_store.similarity_search(query=query, k=k)
-        # return self.vector_store.similarity_search(query=self._transform_query(query), k=3)
-
-    def _update_class(self):
-        self.index = self.vector_store.index
-        self.index_to_doc_id = self.vector_store.index_to_docstore_id
-        self.docstore = self.vector_store.docstore
-    
-    def _update_vector_db(self):
-        faiss.write_index(self.vector_store.index, self.index_path+'index.faiss')
-
-        with open(self.index_path+'doc_to_id.pkl', "wb") as f:
-            pickle.dump(self.vector_store.index_to_docstore_id, f)
-
-        with open(self.index_path+'docstore.pkl', "wb") as f:
-            pickle.dump(self.vector_store.docstore, f)
-
-        self._update_class()
-
-        print("### UPDATE VECTOR DB ###")
-
-# %%
 # Create an empty vector store in the indicated path. If the path already exists, load the vector store
-vector_store = VectorStore('/home/cc/PHD/ragkg/indexes/kgbase-new/')
+vector_store = VectorStore(f'{PATH}indexes/kgbase-new/')
 
 # Add documents in vector store (comment this line after the first add)
-# vector_store.add_documents('/home/cc/PHD/ragkg/data/kgbase-new')
+# vector_store.add_documents('/home/cc/PHD/ragkg/data/kgbase')
 
-# %%
-class LLMinference:
-    def __init__(self, llm_name):
-        self.llm_name = llm_name
-        self.model = OllamaLLM(model=llm_name) 
+folder_path = f"{PATH}MedQA/test_with_index/"
 
-    def _transform_query(self, query: str) -> str:
-        return f'Represent this sentence for searching relevant passages: {query}'
+models = ["mistral:7b", "llama3.1:8b", "llama2:7b", "gemma:7b", "gemma2:9b", "qwen2.5:7b", "phi4-mini:3.8b", "gemma3:4b"]
+models = check_results(PATH+"results-medqa/", f"results_{EXT}_medqa_*.csv", models)
 
-    def single_inference(self, query: str, template: str, path: str,  choices: List[str], cond: str,  context) -> str | List[str]:
-        context_text = "\n\n---\n\n".join([doc.page_content for doc in context])
+templates = [PROMPT_QUIZ_MEDQA, PROMPT_QUIZ_RAG_MEDQA] if QUIZ else [PROMPT_OPEN, PROMPT_OPEN_RAG]
 
-        prompt_template = ChatPromptTemplate.from_template(template)
-        if path != "":
-            prompt = prompt_template.format(context=context_text, question=query, path=path, condition=cond, 
-                                            o1=choices[0], o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
-        else:
-            prompt = prompt_template.format(context=context_text, question=query, condition=cond, o1=choices[0], 
-                                            o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
-
-        response_text = self.model.invoke(prompt)
-        response_text = response_text.strip().replace("\n", "").replace("  ", "")
-
-        sources = [doc.metadata.get("source", None) for doc in context]
-        
-        return response_text, sources
-
-    def qea_evaluation(self, query: str, template: str, path: str, choices: List[str], cond: str,  vector_store):
-
-        results = vector_store.search(query=query, k=5)
-
-        response, sources = self.single_inference(query, template, path, choices, cond, results)
-
-        return response
-
-# %%
-
-folder_path = "/home/cc/PHD/ragkg/MedQA"
-# models = ["mistral", "llama3.1:8b", "llama2:7b", "medllama2:7b", "gemma:7b", "gemma2:9b", "phi4:14b", "qwen2.5:7b", "mixtral:8x7b", "deepseek-r1:7b"]
-models = ["mistral"]
-# templates = [PROMPT_TEMPLATE, PROMPT_TEMPLATE_ONE, PROMPT_TEMPLATE_RAG]
-templates = [PROMPT_MED, PROMPT_MED_RAG]
-
-med_files = glob.glob(f"{folder_path}/*/top*", recursive=True)
-
-# %%
 cnt_rag = 0
 cnt = 0
 
 rows = []
+questions = []
+
+for root, _, files in os.walk(folder_path):
+    for file in files:
+        if file.startswith("top_15_") and file.endswith(".jsonl"):
+            file_path = os.path.join(root, file)
+            with open(file_path, "r", encoding="utf-8") as f:
+                for line in f:
+                    questions.append(json.loads(line))
 
 for model_name in models:
     llm = LLMinference(llm_name=model_name)
 
     cnt = 0
     rows = []
-
-    # for jso in tqdm(med_files):
-    for jso in med_files:
-        questions = pd.read_json(jso, lines=True)
-
-        for index, row in questions.iterrows():
+    print(f"Running model {model_name}...")
+    with alive_bar(len(questions)) as bar:
+        for row in questions:
             res = []
+            opts = []
 
-            cond = jso.split('/')[-2].lower()
+            if QUIZ:
+                try:
+                    opts = list(questions[0]['options'].values())
+                    
+                    if not isinstance(opts, list) or len(opts) != 5:
+                        print(f"Skipping row due to invalid options")
+                        continue  # Skip this iteration if the condition is not met
 
+                except (ValueError, SyntaxError):
+                    print(f"Skipping row due to value/syntax error")
+                    continue  # Skip if there's an issue with evaluation
+            
             for template in templates:
-                res.append(llm.qea_evaluation(row['question'], template, "", list(row['options'].values()), cond, vector_store))
-                # res.append(llm.qea_evaluation(row['question'], template, row['reasoning_trace'], ast.literal_eval(row['choices']), row['name'].lower(), vector_store)) # Baseline
+                try:
+                    res.append(llm.qea_evaluation(row['question'], template, "", "", opts, "", vector_store)) # Baseline
+                except Exception:
+                    print(row)
 
-            res.append(row["answer_idx"])
+            if QUIZ:
+                res.append(row["answer_idx"])
+            else:
+                res.append(row["answer"])
+
             res.append(row['question'])
-            res.insert(0, cond)
 
             rows.append(res)
-        
-        cnt += 1
-        print(f"process: {cnt}/{len(med_files)}")
+            bar()
 
-    df = pd.DataFrame(rows, columns=["name", "zero_shot", "zero_shot_rag", "real", "question"]) # medqa
-    df.to_csv(f"/home/cc/PHD/ragkg/results_medqax5_{model_name}.csv", index=False)
+        df = pd.DataFrame(rows, columns=["zero_shot", "zero_shot_rag", "real", "question"])
+        df.to_csv(f"{PATH}/results-medqa/results_{EXT}_medqa_{model_name}.csv", index=False)
 
-    print(f"{model_name} model processed!")
-
-def extract_option(answer):
-    """Extract the chosen option (A, B, C, D or E) from the LLM's answer."""
-    match = re.search(r'\b([A-Ea-e])\b', str(answer))
-    return match.group(1).upper() if match else None
-
-def evaluate_answers(file_path):
-    df = pd.read_csv(file_path)
-
-    # option_map = {0: 'A', 1: 'B', 2: 'C', 3: 'D'}
-    # df['correct_answer'] = df['real'].map(option_map)
-    
-    # result_columns = ['question', 'correct_answer']
-    result_columns = ['question', 'real']
-    
-    # Evaluate all columns that start with "zero_shot" or "one_shot"
-    for col in [c for c in df.columns if c.startswith(("zero_shot", "one_shot"))]:
-        df[f'{col}_choice'] = df[col].apply(extract_option)
-        # df[f'{col}_is_correct'] = df[f'{col}_choice'] == df['correct_answer']
-        df[f'{col}_is_correct'] = df[f'{col}_choice'] == df['real']
-        accuracy = df[f'{col}_is_correct'].mean()
-        print(f'Accuracy for {col}: {accuracy:.2%}')
-        result_columns.extend([f'{col}_choice', f'{col}_is_correct'])
-    
-    return df[result_columns]
-
-evaluated_df = evaluate_answers("/home/cc/PHD/ragkg/results_medqax5_mistral.csv")
-evaluated_df.head(5)
-
-
+    print(f"Model {model_name} done!\n")

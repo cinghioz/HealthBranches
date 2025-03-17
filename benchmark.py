@@ -10,9 +10,9 @@ from classes.llm_inference import LLMinference
 from classes.utils import check_results
 from prompt import *
 
-parser = argparse.ArgumentParser(description="LLM inference with optional baseline mode.")
+parser = argparse.ArgumentParser(description="LLM inference with different modalities.")
 parser.add_argument("-base", action="store_true", help="Run in baseline mode.")
-parser.add_argument("-quiz", action="store_true", help="Run in baseline mode.")
+parser.add_argument("-quiz", action="store_true", help="Run in quiz mode.")
 args = parser.parse_args()
 
 # Set BASELINE based on the argument

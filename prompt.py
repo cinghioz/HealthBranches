@@ -117,3 +117,31 @@ CHECK_QUESTION_OPIONS = """I have this question: {question}\n
     This are the options to choose: {options}\n
     Which is the correct option? The answer MUST be one of the options described above, without any additional text!\n
 """
+
+PROMPT_QUIZ_MEDQA = """The following is a multiple-choice question about how to manage a patient. 
+    Reply ONLY with the letter (A,B,C,D,E) of the answer you think is CORRECT, without any additional text!\n\n
+    Question:\n {question}\n\n
+    Options:\n
+    A. {o1}\n
+    B. {o2}\n
+    C. {o3}\n
+    D. {o4}\n
+    E. {o5}\n\n
+    The answer MUST be a single letter.\n
+    Correct option:
+"""
+
+PROMPT_QUIZ_RAG_MEDQA = """The following is a multiple-choice question about how to manage a patient. 
+    Reply ONLY with the letter (A,B,C,D,E) of the answer you think is CORRECT, without any additional text!\n\n
+    Answer the question using the provided context.\n\n
+    Context: {context}\n\n
+    Question:\n {question}\n\n
+    Options:\n
+    A. {o1}\n
+    B. {o2}\n
+    C. {o3}\n
+    D. {o4}\n
+    E. {o5}\n\n
+    The answer MUST be a single letter.\n
+    Correct option:
+"""
