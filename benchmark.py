@@ -83,7 +83,10 @@ for model_name in models:
             
             for template in templates:
                 if BASELINE:
-                    res.append(llm.qea_evaluation(row['question'], template, row['path'], text, opts, row['condition'].lower(), vector_store)) # Baseline
+                    try:
+                        res.append(llm.qea_evaluation(row['question'], template, row['path'], text, opts, row['condition'].lower(), vector_store)) # Baseline
+                    except Exception:
+                        print(row)
                 else:
                     res.append(llm.qea_evaluation(row['question'], template, "", "", opts, row['condition'].lower(), vector_store))
 
