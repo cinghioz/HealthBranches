@@ -27,7 +27,9 @@ vector_store = VectorStore(f'{PATH}indexes/kgbase-new/')
 # Add documents in vector store (comment this line after the first add)
 # vector_store.add_documents('/home/cc/PHD/ragkg/data/kgbase')
 
-folder_path = f"{PATH}MedQA/test_with_index/"
+
+folder_path = f"{PATH}MedQA/test_with_paths/top_100_test_all_similarity.jsonl"
+# folder_path = f"{PATH}MedQA/test_with_index/"
 
 models = ["mistral:7b", "llama3.1:8b", "llama2:7b", "gemma:7b", "gemma2:9b", "qwen2.5:7b", "phi4-mini:3.8b", "gemma3:4b"]
 models = check_results(PATH+"results-medqa/", f"results_{EXT}_medqa_*.csv", models)
@@ -40,13 +42,17 @@ cnt = 0
 rows = []
 questions = []
 
-for root, _, files in os.walk(folder_path):
-    for file in files:
-        if file.startswith("top_15_") and file.endswith(".jsonl"):
-            file_path = os.path.join(root, file)
-            with open(file_path, "r", encoding="utf-8") as f:
-                for line in f:
-                    questions.append(json.loads(line))
+# for root, _, files in os.walk(folder_path):
+#     for file in files:
+#         if file.startswith("top_15_") and file.endswith(".jsonl"):
+#             file_path = os.path.join(root, file)
+#             with open(file_path, "r", encoding="utf-8") as f:
+#                 for line in f:
+#                     questions.append(json.loads(line))
+
+with open(folder_path, "r", encoding="utf-8") as f:
+    for line in f:
+        questions.append(json.loads(line))
 
 for model_name in models:
     llm = LLMinference(llm_name=model_name)
