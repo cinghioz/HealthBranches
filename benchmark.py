@@ -88,7 +88,10 @@ for model_name in models:
                     except Exception:
                         print(row)
                 else:
-                    res.append(llm.qea_evaluation(row['question'], template, "", "", opts, row['condition'].lower(), vector_store))
+                    try:
+                        res.append(llm.qea_evaluation(row['question'], template, "", "", opts, row['condition'].lower(), vector_store))
+                    except Exception:
+                        print(row)
 
             if QUIZ:
                 res.append(row["correct_option"])
