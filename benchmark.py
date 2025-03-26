@@ -60,17 +60,15 @@ for model_name in models:
             res = []
             opts = []
 
-            if QUIZ:
-                try:
-                    opts = ast.literal_eval(row['options'].replace("['", '["').replace("']", '"]').replace("', '", '", "'))
-                    
-                    if not isinstance(opts, list) or len(opts) != 5:
-                        print(f"Skipping row {index} due to invalid options")
-                        continue  # Skip this iteration if the condition is not met
+            try:
+                opts = ast.literal_eval(row['options'].replace("['", '["').replace("']", '"]').replace("', '", '", "'))
+                if not isinstance(opts, list) or len(opts) != 5:
+                    print(f"Skipping row {index} due to invalid options")
+                    continue  # Skip this iteration if the condition is not met
 
-                except (ValueError, SyntaxError):
-                    print(f"Skipping row {index} due to value/syntax error")
-                    continue  # Skip if there's an issue with evaluation
+            except (ValueError, SyntaxError):
+                print(f"Skipping row {index} due to value/syntax error")
+                continue  # Skip if there's an issue with evaluation
 
             txt_name = row['condition'].upper()+".txt"
             txt_folder_name = f"{PATH}data/kgbase-new/"
@@ -98,7 +96,7 @@ for model_name in models:
             if QUIZ:
                 res.append(row["correct_option"])
             else:
-                res.append(opts[ord(row["correct_option"].upper()) - ord('A')])
+                res.append(opts[ord(row["correct_option"].strip().upper()) - ord('A')])
 
             res.append(row['question'])
             res.append(row['path'])
