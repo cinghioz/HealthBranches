@@ -31,7 +31,7 @@ vector_store = VectorStore(f'{PATH}indexes/kgbase-new/')
 folder_path = f"{PATH}MedQA/test_with_paths/top_100_test_all_similarity.jsonl"
 # folder_path = f"{PATH}MedQA/test_with_index/"
 
-models = ["mistral:7b", "llama3.1:8b", "llama2:7b", "gemma:7b", "gemma2:9b", "qwen2.5:7b", "phi4-mini:3.8b", "gemma3:4b"]
+models = ["mistral:7b", "llama3.1:8b", "llama2:7b", "gemma:7b", "gemma2:9b", "qwen2.5:7b", "phi4:14b", "gemma3:4b"]
 models = check_results(PATH+"results-medqa/", f"results_{EXT}_medqa_*.csv", models)
 
 templates = [PROMPT_QUIZ_MEDQA, PROMPT_QUIZ_RAG_MEDQA] if QUIZ else [PROMPT_OPEN, PROMPT_OPEN_RAG]

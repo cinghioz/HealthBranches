@@ -34,7 +34,7 @@ vector_store = VectorStore(f'{PATH}indexes/kgbase-new/')
 folder_path = f"{PATH}questions_pro/dataset_updated.csv"
 questions = pd.read_csv(folder_path)
 
-models = ["mistral:7b", "gemma:7b", "gemma2:9b", "gemma3:4b", "llama3.1:8b", "qwen2.5:7b", "phi4-mini:3.8b", "llama2:7b"]
+models = ["mistral:7b", "gemma:7b", "gemma2:9b", "gemma3:4b", "llama3.1:8b", "qwen2.5:7b", "phi4:14b", "llama2:7b"]
 
 models = check_results(PATH+"results/", f"results_{EXT}_baseline_*.csv" if BASELINE else f"results_{EXT}_bench_*.csv", models)
 
