@@ -5,6 +5,7 @@ import argparse
 import ast
 from together import Together
 from alive_progress import alive_bar
+import time
 
 from classes.vector_store import VectorStore
 from classes.utils import check_results
@@ -27,6 +28,7 @@ print("##### BASELINE MODE #####\n" if BASELINE else "##### BENCHMARK MODE #####
 print("##### QUIZ EXP #####\n" if QUIZ else "##### OPEN EXP #####\n")
 
 def together_inference(model, query, template, path, text, choices, cond, vector_store):
+    time.sleep(5)
     context_text = vector_store.search(query=query, k=3)
 
     if choices: # quiz
