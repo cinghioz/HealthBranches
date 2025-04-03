@@ -1,172 +1,16 @@
-ACUTE ABDOMINAL PAIN
+Acute abdominal pain is a common clinical presentation in the emergency department and primary care setting. The clinician addressing the patient with acute abdominal pain ideally should eliminate acute medical causes of abdominal pain and recognize the proper setting for surgical consultation. There should be a low threshold for involving surgical expertise. History and physical examination are critical in evaluation. Admission for evaluation is common and should be considered for acute pain without obvious surgical indication that persists for 6 hours. Abdominal pain can be visceral, parietal, and referred. Noxious stimulation affecting abdominal viscera produces dull and usually poorly localized pain to the ventral midline of the abdomen. This can be explained by multisegmental innervation of the affected organs. Irritation of the parietal peritoneum produces more localized and often more severe pain. Finally, referred pain is experienced in remote areas from the site of injury because these areas share the same segmental innervation as the involved organ.
 
+A careful history can narrow the differential diagnosis. Age and sex are important considerations. Mesenteric adenitis occurs in younger persons, whereas vascular and neoplastic disease occur in elderly persons. In a sexually active female, consider ectopic pregnancy or pelvic inflammatory disease. Medical history can reveal previous peptic ulcer disease, gallstones, diverticular disease, inflammatory bowel disease, and abdominal surgery. Medication history can disclose corticosteroid or immunosuppressant use. Coexisting medical conditions such as diabetes mellitus can affect the presentation. The onset and character of the pain are important. A sudden onset of intense, localized, “somatic” pain suggests peritonitis, as is seen with perforation of the bowel. Crescendo-decrescendo “visceral” pain or colic is more characteristic of bowel, cystic duct, or ureteral obstruction. An evolving pain pattern, visceral at first and later somatic, may suggest appendicitis, cholecystitis, or strangulated bowel. Disproportionate pain compared with a lesser physical finding occurs with ischemia. Characteristic radiation patterns are noted with cholecystitis (scapula), pancreatitis (back), and appendicitis (right lower quadrant).
 
-Acute abdominal pain is a common clinical presentation in
-the emergency department and primary care setting. The
-clinician addressing the patient with acute abdominal pain
-ideally should eliminate acute medical causes of abdominal
-pain and recognize the proper setting for surgical consultation. There should be a low threshold for involving surgical
-expertise. History and physical examination are critical in
-evaluation. Admission for evaluation is common and should
-be considered for acute pain without obvious surgical
-indication that persists for 6 hours. Abdominal pain can
-be visceral, parietal, and referred. Noxious stimulation
-affecting abdominal viscera produces dull and usually
-poorly localized pain to the ventral midline of the abdomen. This can be explained by multisegmental innervation
-of the affected organs. Irritation of the parietal peritoneum
-produces more localized and often more severe pain.
-Finally, referred pain is experienced in remote areas
-from the site of injury because these areas share the same
-segmental innervation as the involved organ.
-A. A careful history can narrow the differential diagnosis.
-Age and sex are important considerations. Mesenteric
-adenitis occurs in younger persons, whereas vascular and
-neoplastic disease occur in elderly persons. In a sexually
-active female, consider ectopic pregnancy or pelvic
-inflammatory disease. Medical history can reveal previous
-peptic ulcer disease, gallstones, diverticular disease,
-inflammatory bowel disease, and abdominal surgery.
-Medication history can disclose corticosteroid or immunosuppressant use. Coexisting medical conditions such as
-diabetes mellitus can affect the presentation. The
-onset and character of the pain are important. A sudden
-onset of intense, localized, “somatic” pain suggests peritonitis, as is seen with perforation of the bowel. Crescendodecrescendo “visceral” pain or colic is more characteristic
-of bowel, cystic duct, or ureteral obstruction. An evolving
-pain pattern, visceral at first and later somatic, may suggest appendicitis, cholecystitis, or strangulated bowel.
-Disproportionate pain compared with a lesser physical
-finding occurs with ischemia. Characteristic radiation patterns are noted with cholecystitis (scapula), pancreatitis
-(back), and appendicitis (right lower quadrant).
-B. Observe the patient before the examination. Visceral
-pain usually causes restlessness; parietal pain increases
-with movement. Auscultate the abdomen for bruits,
-rubs, and bowel sounds. Palpation should begin away
-from the site of pain. Involuntary guarding or rebound
-tenderness, especially with light percussion, implies
-peritonitis. Deeper palpation can be used to search for
-166
+Observe the patient before the examination. Visceral pain usually causes restlessness; parietal pain increases with movement. Auscultate the abdomen for bruits, rubs, and bowel sounds. Palpation should begin away from the site of pain. Involuntary guarding or rebound tenderness, especially with light percussion, implies peritonitis. Deeper palpation can be used to search for organomegaly or masses. Perform rectal and pelvic examinations. Examine the hernial orifices in the groin and, as indicated, examine the external genitalia.
 
-C.
+A patient who is hemodynamically unstable with possible intraabdominal hemorrhage may require immediate laparotomy. The patient who is acutely ill with hypotension, high fever, leukocytosis, and a suggestive physical examination (involuntary guarding, rigidity, increasing severe tenderness) should also undergo immediate surgical evaluation. Suspected bowel ischemia with acidosis, fever, and evidence of hypovolemia also should be evaluated surgically, as should the patient with evidence of perforation by plain radiography, contrast study, or paracentesis. Resuscitation is critical both before and during further evaluation, including possible ventilatory support IV access and fluids, nasogastric suction, oxygen, and urinary output monitoring; frequent checks of vital signs and preliminary laboratory tests also should be done. Ideally, important medical causes of acute pain can be ruled out before surgery with urinalysis, electrocardiography, and abdominal films.
 
-D.
+The patient who is more stable should be observed closely. Medical causes of acute abdominal pain can be ruled out, although the list can be extensive. The more common causes are acute pneumonitis, especially lower lobe; pyelonephritis; and mesenteric adenitis. Collagen vascular disease can cause perforation. Multiple metabolic disorders, including diabetic ketoacidosis, Addisonian crisis, uremia, and acute intermittent porphyria, can lead to abdominal pain. A history of chronic liver disease with ascites may suggest spontaneous bacterial peritonitis.
 
-E.
+Certain patients may present with a discrepancy between severity of disease and physical findings. These include patients who are elderly, malnourished, obese, immunosuppressed, or taking steroids; early postoperative patients; those with mental status changes; and patients with paraplegia.
 
-F.
+Laboratory evaluation should include hemoglobin/hematocrit, white blood cell count, differential, electrolytes, blood gases, amylase, liver tests, coagulation times, and urinalysis. A serum pregnancy test is mandatory in any woman of childbearing age. Supine and upright abdominal films may suggest obstruction, ischemia, perforation, renal calculi, or intraabdominal abscess. Also a chest x-ray study is helpful in identifying potential thoracic causes of referred pain. Angiography is useful for suspected hemorrhage or ischemia. Contrast studies are useful for suspected perforation. Ultrasonography and CT imaging can demonstrate pancreatitis, cholecystitis, abscess, retroperitoneal mass, or dilated biliary tree. CT scan has a high diagnostic yield for many causes of abdominal pain. For example, in the diagnosis of appendicitis, it is reported to have a sensitivity and specificity of 98% and 97%, respectively. Ultrasonography may be an initial modality of testing for a suspected hepatobiliary origin of pain and is shown to have similar diagnostic accuracy.
 
-organomegaly or masses. Perform rectal and pelvic
-examinations. Examine the hernial orifices in the groin
-and, as indicated, examine the external genitalia.
-A patient who is hemodynamically unstable with
-possible intraabdominal hemorrhage may require
-immediate laparotomy. The patient who is acutely ill
-with hypotension, high fever, leukocytosis, and a
-suggestive physical examination (involuntary guarding,
-rigidity, increasing severe tenderness) should also
-undergo immediate surgical evaluation. Suspected
-bowel ischemia with acidosis, fever, and evidence of
-hypovolemia also should be evaluated surgically, as
-should the patient with evidence of perforation by
-plain radiography, contrast study, or paracentesis.
-Resuscitation is critical both before and during further
-evaluation, including possible ventilatory support IV
-access and fluids, nasogastric suction, oxygen, and
-urinary output monitoring; frequent checks of vital
-signs and preliminary laboratory tests also should be
-done. Ideally, important medical causes of acute pain
-can be ruled out before surgery with urinalysis,
-electrocardiography, and abdominal films.
-The patient who is more stable should be observed
-closely. Medical causes of acute abdominal pain can be
-ruled out, although the list can be extensive. The more
-common causes are acute pneumonitis, especially lower
-lobe; pyelonephritis; and mesenteric adenitis. Collagen
-vascular disease can cause perforation. Multiple metabolic disorders, including diabetic ketoacidosis, Addisonian crisis, uremia, and acute intermittent porphyria,
-can lead to abdominal pain. A history of chronic liver
-disease with ascites may suggest spontaneous bacterial
-peritonitis.
-Certain patients may present with a discrepancy
-between severity of disease and physical findings.
-These include patients who are elderly, malnourished,
-obese, immunosuppressed, or taking steroids; early
-postoperative patients; those with mental status
-changes; and patients with paraplegia.
-Laboratory evaluation should include hemoglobin/
-hematocrit, white blood cell count, differential, electrolytes, blood gases, amylase, liver tests, coagulation times,
-and urinalysis. A serum pregnancy test is mandatory in
-any woman of childbearing age. Supine and upright
-abdominal films may suggest obstruction, ischemia, perforation, renal calculi, or intraabdominal abscess. Also a
-chest x-ray study is helpful in identifying potential thoracic causes of referred pain. Angiography is useful for
-suspected hemorrhage or ischemia. Contrast studies are
+Close observation may disclose an evolutionary pattern to the abdominal pain syndrome. If acute pain persists >6 hours, obtain a surgical consultation if this has not already been requested.
 
-167
-Patient with ACUTE ABDOMINAL PAIN
-
-A History
-B Physical examination
-C Unstable
-
-D Stable
-
-or
-Obvious surgical
-indication
-
-Observation
-Exclude:
-Medical
-causes
-
-Consider:
-Hemorrhage
-Perforation
-Acute peritonitis
-Bowel obstruction
-Ischemia
-
-E Consider:
-
-Inadequate physical
-manifestations
-
-F Further studies
-
-Resuscitation
-Surgical consultation
-
-Continued pain
-Increased pain
-
-LAPAROTOMY
-
-G Surgical
-
-Decreased pain
-Observation
-
-consultation
-
-useful for suspected perforation. Ultrasonography and
-CT imaging can demonstrate pancreatitis, cholecystitis,
-abscess, retroperitoneal mass, or dilated biliary tree. CT
-scan has a high diagnostic yield for many causes of abdominal pain. For example, in the diagnosis of
-appendicitis, it is reported to have a sensitivity and
-specificity of 98% and 97%, respectively. Ultrasonography may be an initial modality of testing for a suspected
-hepatobiliary origin of pain and is shown to have similar
-diagnostic accuracy.
-G. Close observation may disclose an evolutionary pattern
-to the abdominal pain syndrome. If acute pain persists
-!6 hours, obtain a surgical consultation if this has not
-already been requested.
-
-References
-Flasar MH, Goldberg E. Acute abdominal pain. Med Clin North Am
-2006;90(2):481–503.
-Glasgow RE, Mulvihill SJ. Abdominal pain. In Sleisenger and Fordtran’s
-Gastrointestinal and Liver Disease: Pathophysiology, Diagnosis and
-Management, 7th ed. Philadelphia: WB Saunders; 2002:71–82.
-Gupta H, Dupuy D. Advances in imaging of the acute abdomen. Surg
-Clin North Am 1997;77(6):1245–1263.
-Raman SS, Lu DS, Kadell BM, et al. Accuracy of nonfocused helical CT for
-the diagnosis of acute appendicitis: a 5 year review. Am J Roentgenol
-2002;178(6);1319–1325.
-
-

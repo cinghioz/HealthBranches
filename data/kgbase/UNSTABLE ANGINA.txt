@@ -1,31 +1,37 @@
-UNSTABLE ANGINA/NON-ST-ELEVATION MYOCARDIAL INFARCTION
-
 Unstable angina (UA) and non-ST-elevation myocardial
 infarctions (NSTEMI) most commonly arise from nearly
 complete but not total occlusion of a coronary artery with
 a platelet- and fibrin-rich thrombus. Patients presenting
 with UA/NSTEMI represent a heterogeneous population,
 with the rate of death and recurrent myocardial infarction
-at 1 year ranging from !5% in patients at low risk to "20%
+at 1 year ranging from <5% in patients at low risk to >20%
 in the patients at highest risk. The therapeutic options for
 patients with UA/NSTEMI have continued to increase to
-include more varied and potent antiplatelet and antithrombotic agents and improved percutaneous coronary interventional techniques. Thus, the clinician has many treatment options available and must effectively discriminate
-which patients are likely to benefit from the most aggressive treatment while balancing the risk of potential side effects or complications in those at lower risk. Effective risk
+include more varied and potent antiplatelet and antithrom-
+botic agents and improved percutaneous coronary inter-
+ventional techniques. Thus, the clinician has many treat-
+ment options available and must effectively discriminate
+which patients are likely to benefit from the most aggres-
+sive treatment while balancing the risk of potential side ef-
+fects or complications in those at lower risk. Effective risk
 stratification is critical to making appropriate decisions for
 therapeutic care.
 A. The decision to hospitalize a patient with ischemic
-symptoms relies on a careful history, physical examination, a resting 12-lead ECG, and laboratory test for
+symptoms relies on a careful history, physical examina-
+tion, a resting 12-lead ECG, and laboratory test for
 cardiac biomarkers (creatine kinase-MB [CKMB] or
 cardiac-specific troponins). Patients with intermediate
 to high likelihood of true ischemic disease should be
-hospitalized, whereas those without any of these features may be evaluated in an observation unit or as an
+hospitalized, whereas those without any of these fea-
+tures may be evaluated in an observation unit or as an
 outpatient.
 B. Determining appropriate therapy for each patient
 admitted with presumed UA/NSTEMI requires an
 assessment of their clinical risk of recurrent ischemic
 events and death. Three easily obtained indicators of
 high risk for recurrent ischemic events—elevated levels
-of cardiac biomarkers (e.g., troponin), ST-segment deviation, and high clinical risk scores—identify those patients
+of cardiac biomarkers (e.g., troponin), ST-segment devia-
+tion, and high clinical risk scores—identify those patients
 who are at highest risk and warrant the most aggressive
 medical and invasive therapy. One widely used clinical
 risk score is the TIMI Risk Score, which incorporates
@@ -33,22 +39,23 @@ seven easily obtained clinical characteristics.
 C. Patients with no ECG changes, normal levels of cardiac
 biomarkers, and low clinical risk factors can be managed
 conservatively with aspirin, heparin (unfractionated or
-
-68
-
 low molecular weight heparin [UFH/LMWH]), beta
 blockers, clopidogrel, and nitrates as needed. If they do
-not develop recurrent ischemia or other clinical instability, they should undergo a stress test for further risk
+not develop recurrent ischemia or other clinical instabil-
+ity, they should undergo a stress test for further risk
 stratification.
-D. Clinical trial evidence supports the use of more aggressive medical and invasive therapy in patients who are
+D. Clinical trial evidence supports the use of more aggres-
+sive medical and invasive therapy in patients who are
 found to be at increased risk for death or recurrent
-ischemia. The benefit of glycoprotein IIb/IIIa inhibitors and an early invasive catheterization has been
+ischemia. The benefit of glycoprotein IIb/IIIa inhibi-
+tors and an early invasive catheterization has been
 shown to be most beneficial in reducing both death and
-recurrent MI in patients with positive cardiac biomarkers, ST-segment changes, or a TIMI Risk Score #3.
+recurrent MI in patients with positive cardiac biomark-
+ers, ST-segment changes, or a TIMI Risk Score ≥3.
 E. Any patient who has recurrent ischemia, hemodynamic
 compromise or congestive heart failure (CHF), serious
 ventricular arrhythmia, reduced left ventricular function
-(ejection fraction !40%), or a strongly positive stress
+(ejection fraction <40%), or a strongly positive stress
 test should be considered for catheterization regardless
 of initial management strategy.
 F. Long-term therapy for any patient with UA/NSTEMI
@@ -57,119 +64,3 @@ clopidogrel, beta blockers, high-dose statins, and
 angiotensin-converting enzyme (ACE) inhibitors/
 angiotensin receptor blockers (ARBs).
 
-References
-Antithrombotic Trialists’ Collaboration. Collaborative meta-analysis of
-randomised trials of antiplatelet therapy for prevention of death,
-myocardial infarction, and stroke in high risk patients. BMJ 2002;324:
-71–86.
-Antman EM, Cohen M, Bernink PJ, et al. The TIMI risk score for
-unstable angina/non-ST elevation MI: a method for prognostication
-and therapeutic decision making. JAMA 2000;284:835–842.
-Braunwald E, Antman EM, Beasley JW, et al. ACC/AHA 2002 guideline
-update for the management of patients with unstable angina and
-non-ST-segment elevation myocardial infarction—summary article.
-A report of the American College of Cardiology/American Heart
-Association Task Force on Practice Guidelines (Committee on the
-Management of Patients with Unstable Angina). J Am Coll Cardiol
-2002;40:1366–1374.
-Cannon CP, Weintraub WS, Demopoulos LA, et al. Comparison of early
-invasive and conservative strategies in patients with unstable coronary
-syndromes treated with the glycoprotein IIb/IIIa inhibitor tirofiban
-(TACTICS-TIMI 18). N Engl J Med 2001;344:1879–1887.
-
-69
-Patient with UNSTABLE ANGINA
-History
-Physical examination
-
-12-lead ECG
-Cardiac biomarkers
-
-A Likelihood of UA/NSTEMI
-
-High likelihood
-Typical angina
-Known history of CAD or MI
-CHF
-New ECG changes
-Positive CKMB or troponin
-
-Intermediate likelihood
-Probable angina
-Age "70 yr
-Diabetes
-History of PVD or
-cerebrovascular accident
-Old ECG changes
-
-Hospitalize
-
-Low likelihood
-Atypical angina
-Reproducible
-No cardiac risk factors
-Normal ECG
-Evaluate as outpatient
-
-Aspirin
-Risk Factor Modification
-Stress Test
-
-Aspirin
-Heparin (UFH/LMWH)
-Clopidogrel
-Beta Blockers
-Nitrates
-Statins
-
-B Risk stratify
-D Moderate to high risk
-
-Positive CKMB or troponin
-ST-segment deviation
-CHF
-Recurrent ischemia
-Prior revascularization
-TIMI Risk Score #3
-(One point for each)
-Age "65 yr
-#3 CAD risk factors
-Aspirin within last 7 days
-Known CAD
-#2 anginal events in $24 hr
-ST-segment deviation
-Elevated biomarkers
-
-Glycoprotein Ilb/Illa Inhibitor
-Early Catheterization
-
-CAD, Coronary artery disease.
-
-C Low risk
-
-Normal CKMB or troponin
-No ECG changes
-TIMI Risk Score ! 3
-
-Predischarge Stress Test
-
-E
-
-Catheterization if:
-Recurrent Ischemia
-CHF
-Positive ETT
-Hemodynamic Instability
-Serious Arrhythmia
-
-F
-
-Long-Term Care
-Risk Factor Modification
-Aspirin
-Clopidogrel
-Beta Blockers
-High-Dose Statins
-ACE Inhibitors/ARBs
-
-

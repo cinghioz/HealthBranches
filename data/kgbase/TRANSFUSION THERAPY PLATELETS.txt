@@ -1,159 +1,15 @@
-TRANSFUSION THERAPY: PLATELETS
-Richard M. Kaufman, MD
+Platelets (PLTs) are transfused to prevent or treat bleeding in patients with quantitative or qualitative PLT defects. PLTs are either prepared from a unit of whole blood (random-donor PLT unit, RDP) or are collected by apheresis (single-donor PLT unit, SDP). A pool of four to six RDPs provides about the same total PLT dose as one SDP (≥3 × 1011 PLTs).
 
-Platelets (PLTs) are transfused to prevent or treat bleeding in
-patients with quantitative or qualitative PLT defects. PLTs are
-either prepared from a unit of whole blood (random-donor
-PLT unit, RDP) or are collected by apheresis (single-donor
-PLT unit, SDP). A pool of four to six RDPs provides about
-the same total PLT dose as one SDP (!3 " 1011 PLTs).
-A. The vast majority of PLT transfusions are given prophylactically to patients who are not bleeding and who have
-thrombocytopenia. For years, a PLT count of 20,000/#l
-was used as a standard PLT transfusion trigger. Later,
-multiple controlled trials demonstrated that prophylactic
-PLT transfusions can safely be given using a lower trigger
-(e.g., 10,000/#l), leading to substantial product inventory
-and cost savings. A PLT transfusion trigger higher than
-10,000/#l is often used for patients with comorbidities
-(fever, coagulation defects, intracranial lesions, high
-white cell counts, rapid PLT consumption).
-B. A published practice guideline has recommended a PLT
-count of 50,000/#l for most major surgical procedures,
-with counts near 100,000/#l recommended for neurosurgical or ophthalmologic procedures. PLT counts of
-25,000/#l or so are generally adequate for minor procedures, such as central venous line placement.
-C. PLT transfusions are indicated to treat bleeding in the
-setting of thrombocytopenia or a qualitative platelet
-abnormality. The goal should be to maintain a PLT
-count $50,000/#l.
-D. Bleeding in the setting of pharmacologic inhibitors of
-PLT function (aspirin, clopidogrel, abciximab, etc.)
-frequently responds to PLT transfusion. In contrast,
-uremic bleeding tends to respond less well to PLT
-transfusion because the infused PLTs rapidly acquire
-the same defect affecting the patient’s own PLTs.
-E. The response to PLT transfusion is assessed by observing
-whether bleeding stops and by measuring a posttransfusion PLT count. The expected PLT increment for an
-average adult receiving an SDP or a pool of RDPs is
-30,000–60,000/#l. Although the posttransfusion increment is the usual value considered in routine practice, a
-more accurate measure of PLT response is provided by
-the corrected count increment (CCI):
-
-250
-
-CCI %
-
-Body surface area (m2) " PLT count increment/#l " 1011
+A. The vast majority of PLT transfusions are given prophylactically to patients who are not bleeding and who have thrombocytopenia. For years, a PLT count of 20,000/µl was used as a standard PLT transfusion trigger. Later, multiple controlled trials demonstrated that prophylactic PLT transfusions can safely be given using a lower trigger (e.g., 10,000/µl), leading to substantial product inventory and cost savings. A PLT transfusion trigger higher than 10,000/µl is often used for patients with comorbidities (fever, coagulation defects, intracranial lesions, high white cell counts, rapid PLT consumption).
+B. A published practice guideline has recommended a PLT count of 50,000/µl for most major surgical procedures, with counts near 100,000/µl recommended for neurosurgical or ophthalmologic procedures. PLT counts of 25,000/µl or so are generally adequate for minor procedures, such as central venous line placement.
+C. PLT transfusions are indicated to treat bleeding in the setting of thrombocytopenia or a qualitative platelet abnormality. The goal should be to maintain a PLT count >50,000/μ1.
+D. Bleeding in the setting of pharmacologic inhibitors of PLT function (aspirin, clopidogrel, abciximab, etc.) frequently responds to PLT transfusion. In contrast, uremic bleeding tends to respond less well to PLT transfusion because the infused PLTs rapidly acquire the same defect affecting the patient's own PLTs.
+E. The response to PLT transfusion is assessed by observing whether bleeding stops and by measuring a posttransfusion PLT count. The expected PLT increment for an average adult receiving an SDP or a pool of RDPs is 30,000–60,000/µl. Although the posttransfusion increment is the usual value considered in routine practice, a more accurate measure of PLT response is provided by the corrected count increment (CCI):
+CCI
+=
+Body surface area (m²) × PLT count increment/µl × 1011
 No. of PLTs transfused
+A CCI of ≥7500 indicates an adequate PLT response.
+F. Platelet refractoriness may be defined as a poor increment following repeated PLT transfusions. Several non-immune factors can cause PLT refractoriness, including medications, fever, sepsis, DIC, bleeding, splenomegaly, and graft-versus-host disease. In a subset of cases, PLT refractoriness is immune mediated. A 10-minute to 1-hour posttransfusion PLT count that fails to show an adequate CCI on more than one occasion usually indicates antibody-mediated PLT destruction (alloimmunization). A recipient panel-reactive antibody (PRA) score of ≥20% provides supporting evidence for the role of anti-human leukocyte antigen (HLA) antibodies.
+G. PLTs themselves tend to be poor immunogens. For patients who become alloimmunized, the initial antigenic stimulation generally comes from HLA class I molecules expressed on WBCs. Providing leukoreduced blood products is effective at helping to prevent PLT alloimmunization. Once a patient does become alloimmunized to PLTs, a number of strategies may be considered, including administering HLA-matched or cross-matched PLTs. If the specificity of the recipient antibody can be determined, providing antigen-negative PLT units may also be effective.
 
-A CCI of !7500 indicates an adequate PLT response.
-F. Platelet refractoriness may be defined as a poor increment following repeated PLT transfusions. Several nonimmune factors can cause PLT refractoriness, including
-medications, fever, sepsis, DIC, bleeding, splenomegaly,
-and graft-versus-host disease. In a subset of cases, PLT
-refractoriness is immune mediated. A 10-minute to
-1-hour posttransfusion PLT count that fails to show an
-adequate CCI on more than one occasion usually indicates antibody-mediated PLT destruction (alloimmunization). A recipient panel-reactive antibody (PRA) score
-of !20% provides supporting evidence for the role of
-anti–human leukocyte antigen (HLA) antibodies.
-G. PLTs themselves tend to be poor immunogens. For patients who become alloimmunized, the initial antigenic
-stimulation generally comes from HLA class I molecules
-expressed on WBCs. Providing leukoreduced blood
-products is effective at helping to prevent PLT alloimmunization. Once a patient does become alloimmunized
-to PLTs, a number of strategies may be considered, including administering HLA-matched or cross-matched
-PLTs. If the specificity of the recipient antibody can be
-determined, providing antigen-negative PLT units may
-also be effective.
-
-References
-Fresh-Frozen Plasma, Cryoprecipitate, and Platelets Administration
-Practice Guidelines Development Task Force of the College of
-American Pathologists. Practice parameter for the use of fresh-frozen
-plasma, cryoprecipitate, and platelets. JAMA 1994;271(10):777–781.
-Heckman KD, Weiner GJ, Davis CS, et al. Randomized study of prophylactic platelet transfusion threshold during induction therapy for adult
-acute leukemia 10,000/microL versus 20,000/microL. J Clin Oncol
-1997;15(3):1143–1149.
-Leukocyte reduction and ultraviolet B irradiation of platelets to prevent
-alloimmunization and refractoriness to platelet transfusions. The Trial
-to Reduce Alloimmunization to Platelets Study Group. N Engl J Med
-1997;337(26):1861–1869.
-
-251
-Patient with ABNORMAL BLEEDING
-
-C Bleeding
-
-B Surgical procedure
-
-A Prophylaxis in
-
-thrombocytopenia
-
-Transfuse if
-&25,000 for minor procedures
-&50,000 for major procedures
-&100,000 for CNS procedures
-&100,000 for opthalmologic
-procedures
-
-Usual trigger is <10,000/#l
-
-Maintain platelets $50,000/#l
-
-D Platelet inhibitors
-
-(e.g., aspirin)
-Platelet transfusion
-usually affected
-
-Uremia
-Try DDAVP or dialysis
-
-F Refractoriness
-
-E Measure response
-Adequate response
-
-Causes:
-Medications
-Fever
-Sepsis
-DIC
-Bleeding
-Splenomegaly
-CvH*
-Immune mediated
-
-Check 10 min to 1 hr
-postplatelet count
-
-Appropriate
-increment
-
-Immune etiology
-possible
-
-Nonimmune
-etiology
-
-Check PRA
-
-G PRA !20%, give
-
-HLA-matched or
-cross-matched PLTs
-
-*Common variable hypogammaglobulinemia.
-
-Petz LD, Garratty G, Calhoun L, et al. Selecting donors of platelets for
-refractory patients on the basis of HLA antibody specificity. Transfusion 2000;40(12):1446–1456.
-Rebulla P, Finazzi G, Marangoni F, et al. The threshold for prophylactic
-platelet transfusions in adults with acute myeloid leukemia. Gruppo
-Italiano Malattie Ematologiche Maligne dell’Adulto. N Engl J Med
-1997;337(26):1870–1875.
-
-Wandt H, Frank M, Ehninger G, et al. Safety and cost effectiveness of a
-10 " 10(9)/L trigger for prophylactic platelet transfusions compared
-with the traditional 20 " 10(9)/L trigger: a prospective comparative
-trial in 105 patients with acute myeloid leukemia. Blood 1998;91(10):
-3601–3606.
-
-

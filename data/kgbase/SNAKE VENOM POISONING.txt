@@ -1,153 +1,17 @@
-SNAKE VENOM POISONING
+Globally, venomous snake bites are responsible for more than 100,000 deaths, with the majority occurring in Brazil, India, Southeast Asia, and certain parts of Africa. In the United States, approximately 50,000 snake bites are reported annually, with 8000 resulting from venomous snakes and leading to 10-15 deaths per year; the total number of snake bites is probably significantly more than that reported. The majority of all venomous snake bites in the United States are caused by pit vipers (rattlesnakes, cottonmouth, copperhead), coral snakes, and cobras. All venomous snake bites should be initially treated as a life-threatening event and require extremely careful management. The key factors influencing the treatment of the patient and the manifestation of pathology are the properties of the particular venom and the patients' response to envenomation. Although most venoms are complex toxins with many components and pathologic consequences, the majority of the manifestations are neurotoxic, hematotoxic, or a combination of the two. The presentation of envenomation can vary considerably, and a patient's comorbidities (vascular disease, diabetes, etc.) can have great influence on his or her ability to cope with the toxin.
 
-Globally, venomous snake bites are responsible for more than
-100,000 deaths, with the majority occurring in Brazil, India,
-Southeast Asia, and certain parts of Africa. In the United
-States, approximately 50,000 snake bites are reported annually, with 8000 resulting from venomous snakes and leading
-to 10–15 deaths per year; the total number of snake bites is
-probably significantly more than that reported. The majority
-of all venomous snake bites in the United States are caused
-by pit vipers (rattlesnakes, cottonmouth, copperhead), coral snakes, and cobras. All venomous snake bites should be
-initially treated as a life-threatening event and require extremely careful management. The key factors influencing the
-treatment of the patient and the manifestation of pathology
-are the properties of the particular venom and the patients’
-response to envenomation. Although most venoms are complex toxins with many components and pathologic consequences, the majority of the manifestations are neurotoxic,
-hematotoxic, or a combination of the two. The presentation
-of envenomation can vary considerably, and a patient’s comorbidities (vascular disease, diabetes, etc.) can have great
-influence on his or her ability to cope with the toxin.
-A. In the United States the diagnosis of venomous snake
-bite is primarily determined by a history of a bite with
-or without the development of symptoms. A snake bite
-may appear as one, two, or multiple puncture wounds
-or small lacerations. Initial management, usually prehospital, is directed at limiting the spread or absorption of the venom by limiting the movement of the
-bitten extremity, by calming the patient, and by immobilizing the extremity. Preventing superficial venous
-and lymphatic flow with a constricting band may be
-used as long as arterial flow is not compromised. New
-techniques with whole limb constriction have shown
-promise. If applied within the first 3–5 minutes of a
-bite, a sawyer extractor may be useful in limiting the
-extent of absorbed toxin, as may an ice pack applied to
-the bitten extremity. Ice bath immersion or application
-of ice directly to the wound is not recommended. If
-possible, attempts should be made by a professional to
-identify the type of snake. If a patient has brought the
-snake with him or her, do not try to identify the snake
-unless you are specifically trained in venomous snake
-
-646
-
-handling. Snakes are still capable of biting and causing
-severe injury even after they are dead.
-B. By the time a victim of a venomous snake bite seeks
-care, there may have been sufficient time for serious
-consequences of envenomation to have occurred, and
-all patients should be treated as potentially critically ill
-with impending cardiovascular collapse. They should
-be placed on a cardiac monitor and should receive
-supplemental oxygen, IV fluids, and a careful and detailed physical examination. If the bite has occurred
-within 30 minutes of arrival, a constricting band may
-be useful. All patients should have a complete blood
-count (CBC), electrolyte analysis, coagulation studies,
-and an ECG performed.
+A. In the United States the diagnosis of venomous snake bite is primarily determined by a history of a bite with or without the development of symptoms. A snake bite may appear as one, two, or multiple puncture wounds or small lacerations. Initial management, usually pre-hospital, is directed at limiting the spread or absorption of the venom by limiting the movement of the bitten extremity, by calming the patient, and by immobilizing the extremity. Preventing superficial venous and lymphatic flow with a constricting band may be used as long as arterial flow is not compromised. New techniques with whole limb constriction have shown promise. If applied within the first 3–5 minutes of a bite, a sawyer extractor may be useful in limiting the extent of absorbed toxin, as may an ice pack applied to the bitten extremity. Ice bath immersion or application of ice directly to the wound is not recommended. If possible, attempts should be made by a professional to identify the type of snake. If a patient has brought the snake with him or her, do not try to identify the snake unless you are specifically trained in venomous snake handling. Snakes are still capable of biting and causing severe injury even after they are dead.
+B. By the time a victim of a venomous snake bite seeks care, there may have been sufficient time for serious consequences of envenomation to have occurred, and all patients should be treated as potentially critically ill with impending cardiovascular collapse. They should be placed on a cardiac monitor and should receive supplemental oxygen, IV fluids, and a careful and detailed physical examination. If the bite has occurred within 30 minutes of arrival, a constricting band may be useful. All patients should have a complete blood count (CBC), electrolyte analysis, coagulation studies, and an ECG performed.
 The grade of envenomation is established by evaluating local wound findings, the presence of a coagulopathy, and the severity of systemic symptoms.
-Grade 0. Suspected snake bite with no evidence of
-envenomation with no or minimal pain, !1 inch of
-erythema, and no systemic or laboratory abnormalities
-within 12 hours of the bite.
-Grade I. Suspected snake bite, minimal evidence
-of envenomation, moderate pain, 1–5 inches of erythema, and no systemic or laboratory abnormalities
-within 12 hours of the bite.
-Grade II. Suspected snake bite, moderate evidence
-of envenomation, severe pain, spreading erythema,
-petechiae, and systemic symptoms.
-Grade III. Suspected snake bite, severe envenomation, spreading or generalized erythema, edema, ecchymoses and petechiae, severe systemic symptoms,
-and hemodynamic instability. Patient may initially
-present with mild symptoms and progress rapidly.
-Grade IV. Suspected bite, very severe envenomation,
-usually a larger snake, sudden severe pain, systemic
-symptoms, hemodynamic collapse, or death. The grade
-of envenomation is important because it determines
-whether antivenin is initially used and the amount used.
-C. Several cases of delayed worsening of the envenomation
-have been reported. Observe patients for 12 hours with
-the bitten part elevated above heart level. The grade of
-envenomation should be changed if local or systemic
-symptoms signs appear or worsen.
+Grade 0. Suspected snake bite with no evidence of envenomation with no or minimal pain, <1 inch of erythema, and no systemic or laboratory abnormalities within 12 hours of the bite.
+Grade I. Suspected snake bite, minimal evidence of envenomation, moderate pain, 1–5 inches of erythema, and no systemic or laboratory abnormalities within 12 hours of the bite.
+Grade II. Suspected snake bite, moderate evidence of envenomation, severe pain, spreading erythema, petechiae, and systemic symptoms.
+Grade III. Suspected snake bite, severe envenomation, spreading or generalized erythema, edema, ecchymoses and petechiae, severe systemic symptoms, and hemodynamic instability. Patient may initially present with mild symptoms and progress rapidly.
+Grade IV. Suspected bite, very severe envenomation, usually a larger snake, sudden severe pain, systemic symptoms, hemodynamic collapse, or death. The grade of envenomation is important because it determines whether antivenin is initially used and the amount used.
+C. Several cases of delayed worsening of the envenomation have been reported. Observe patients for 12 hours with the bitten part elevated above heart level. The grade of envenomation should be changed if local or systemic symptoms signs appear or worsen.
 
-647
-Patient with SNAKE VENOM POISONING
+D. Most deaths from snake bites are caused by the patient's failure to seek medical attention or the physician's failure to recognize the severity of the envenomation. If antivenin is not immediately available, give a rapid crystalloid infusion to maintain blood pressure and reduce heart rate. If bleeding is apparent, replace platelets or coagulation factors by infusing platelets or fresh frozen plasma until antivenin can be infused. After rapid evaluation of the patient, treat with antivenin. Call poison control.
+E. Use skin test only when the decision to administer antivenin has been made. Administer antivenin (Crotalidae) polyvalent to patients with moderate or severe envenomations who demonstrate worsening of local or systemic findings. The skin test consists of 0.02 ml of a 1:10 dilution of the skin test material provided with the antivenin in one shoulder and 0.02 ml of normal saline (control) in the other shoulder. A positive skin test consists of a wheal and flare 10 mm at the site of injection. Strong reactions to the skin test indicate a high probability of a severe reaction to antivenin infusion.
+F. Antivenin administration consists of infusion of 5-10 vials in 250-500 ml of dextrose and water over 1-2 hours, except as noted in E. The initial infusion should be slow (60 ml/hr or 1 ml/min) in case an allergic reaction develops. If no reaction develops, the infusion rate can be increased to complete the infusion in 1-2 hours.
+G. Up to 25% of patients develop some degree of reaction to antivenin infusion. If a reaction develops, stop the antivenin infusion immediately. Reactions take many forms, ranging from local erythema and itching to anaphylaxis. Give epinephrine, along with H₁ and H2 receptor blockers, to control the acute reaction. At this point, consult with a regional poison control center or medical toxicologist. The benefits of continued antivenin infusion must be compared with the risks of restarting the infusion. In general, the antivenin can be restarted after diluting the antivenin and infusing it more slowly.
 
-A History of bite
-
-Identify snake (if available)
-Supportive care
-Wound care
-Extremity immobilization and
-constriction prehospital
-
-B Grade
-
-envenomation
-
-Cardiac monitoring, CBC,
-electrolyte analysis, ECG
-coagulation studies
-
-C Minimal
-Observe
-patient
-
-Moderate
-
-Severe
-
-D IV access and IV fluids
-
-Complete laboratory testing,
-including type and cross
-
-E Skin test
-F Administer
-antivenin
-
-G Watch for and treat
-
-reaction to antivenin
-
-D. Most deaths from snake bites are caused by the patient’s
-failure to seek medical attention or the physician’s failure to recognize the severity of the envenomation. If
-antivenin is not immediately available, give a rapid crystalloid infusion to maintain blood pressure and reduce
-heart rate. If bleeding is apparent, replace platelets or
-coagulation factors by infusing platelets or fresh frozen
-plasma until antivenin can be infused. After rapid evaluation of the patient, treat with antivenin. Call poison
-control.
-E. Use skin test only when the decision to administer antivenin has been made. Administer antivenin (Crotalidae) polyvalent to patients with moderate or severe
-envenomations who demonstrate worsening of local or
-systemic findings. The skin test consists of 0.02 ml of a
-1:10 dilution of the skin test material provided with the
-antivenin in one shoulder and 0.02 ml of normal saline
-(control) in the other shoulder. A positive skin test
-consists of a wheal and flare 10 mm at the site of injection. Strong reactions to the skin test indicate a high
-probability of a severe reaction to antivenin infusion.
-F. Antivenin administration consists of infusion of
-5–10 vials in 250–500 ml of dextrose and water over
-1–2 hours, except as noted in E. The initial infusion
-should be slow (60 ml/hr or 1 ml/min) in case an
-
-allergic reaction develops. If no reaction develops, the
-infusion rate can be increased to complete the infusion
-in 1–2 hours.
-G. Up to 25% of patients develop some degree of reaction
-to antivenin infusion. If a reaction develops, stop the
-antivenin infusion immediately. Reactions take many
-forms, ranging from local erythema and itching to
-anaphylaxis. Give epinephrine, along with H1 and H2
-receptor blockers, to control the acute reaction. At this
-point, consult with a regional poison control center
-or medical toxicologist. The benefits of continued
-antivenin infusion must be compared with the risks of
-restarting the infusion. In general, the antivenin can
-be restarted after diluting the antivenin and infusing
-it more slowly.
-
-
