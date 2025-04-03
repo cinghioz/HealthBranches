@@ -44,7 +44,7 @@ class LLMinference:
             else:
                 prompt = prompt_template.format(context=context_text, question=query, condition=cond)
 
-        if self.llm_name == "deepseek-r1:8b":
+        if "deepseek" in self.llm_name.lower():
             instruction = (
                 "Answer the question directly with the correct option only (e.g., A, B, C, D, or E). "
                 "Do NOT include any internal reasoning or chain-of-thought in your response.\n\n"
@@ -54,7 +54,7 @@ class LLMinference:
         response_text = self.model.invoke(prompt)
         response_text = response_text.strip().replace("\n", "").replace("  ", "")
 
-        if self.llm_name == "deepseek-r1:8b":
+        if "deepseek" in self.llm_name.lower():
             response_text = self._remove_reasoning(response_text)
 
         sources = [doc.metadata.get("source", None) for doc in context]
