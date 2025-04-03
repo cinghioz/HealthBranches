@@ -45,6 +45,11 @@ def extract_option(answer: str):
     match = re.search(r'the correct answer is[:\s]*\(?([a-eA-E])\)?', answer.lower(), re.IGNORECASE)
     if match:
         return match.group(1).upper()
+    
+    # Handle cases like "Option a", "the correct answer is: a", etc.
+    match = re.search(r'Option *\(?([a-eA-E])\)?', answer.lower(), re.IGNORECASE)
+    if match:
+        return match.group(1).upper()
 
     # NEW RULE: Match a letter a-e or A-E followed by any uppercase letter
     match = re.match(r'^([a-eA-E])[A-Z]', answer)
@@ -71,9 +76,7 @@ def check_results(search_directory: str, string_to_check: str, search_strings: L
     # Get all matching files
     matching_files = glob.glob(os.path.join(search_directory, string_to_check))
 
-    # Find matching files and remove matched strings
-    found_files = [file for file in matching_files if any(name in os.path.basename(file) for name in search_strings)]
-    remaining_strings = [name for name in search_strings if not any(name in os.path.basename(file) for file in matching_files)]
+    remaining_strings = [name for name in search_strings if not any(name.replace(":", "_") in os.path.basename(file) for file in matching_files)]
 
     print("Remaining models to run: ", remaining_strings)
 

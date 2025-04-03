@@ -19,7 +19,11 @@ class VectorStore:
         self._load_vector_store()
 
     def _load_vector_store(self):
-        if os.path.exists(self.index_path):
+        if not os.path.exists(self.index_path):
+            print(f"Index path '{self.index_path}' does not exist. Creating folder...")
+            os.makedirs(self.index_path, exist_ok=True)
+
+        if os.path.exists(self.index_path+"index.faiss"):
             print("### LOAD VECTOR DB ###")
 
             self.index = faiss.read_index(self.index_path+'index.faiss')
@@ -49,9 +53,6 @@ class VectorStore:
                 docstore=self.docstore,
                 index_to_docstore_id=self.index_to_doc_id
             )
-
-            if not os.path.exists(self.index_path):
-                os.makedirs(self.index_path)
 
     def _load_documents(self, doc_path: str, doc_type: str = "*.txt") -> List[Document]:
         loader = DirectoryLoader(doc_path, glob=doc_type)

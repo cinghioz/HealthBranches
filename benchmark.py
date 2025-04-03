@@ -18,17 +18,17 @@ args = parser.parse_args()
 # Set BASELINE based on the argument
 BASELINE = args.base
 QUIZ = args.quiz
-PATH = "/home/cc/PHD/HealthBranches/"
+PATH = "/Users/cinghio/Documents/PHD/HealthBranches/" # Prendi da arg o altro
 EXT = "QUIZ" if QUIZ else "OPEN"
 
 print("##### BASELINE MODE #####\n" if BASELINE else "##### BENCHMARK MODE #####\n")
 print("##### QUIZ EXP #####\n" if QUIZ else "##### OPEN EXP #####\n")
 
 # Create an empty vector store in the indicated path. If the path already exists, load the vector store
-vector_store = VectorStore(f'{PATH}indexes/kgbase-new/')
+vector_store = VectorStore(f'{PATH}indexes/kgbase/')
 
 # Add documents in vector store (comment this line after the first add)
-# vector_store.add_documents('/home/cc/PHD/ragkg/data/kgbase')
+# vector_store.add_documents(f'{PATH}data/kgbase')
 
 # folder_path = f"{PATH}questions_pro/ultimate_questions_v3_full_balanced.csv"
 folder_path = f"{PATH}questions_pro/dataset_updated.csv"
@@ -75,7 +75,7 @@ for model_name in models:
                 continue  # Skip if there's an issue with evaluation
 
             txt_name = row['condition'].upper()+".txt"
-            txt_folder_name = f"{PATH}data/kgbase-new/"
+            txt_folder_name = f"{PATH}data/kgbase/"
 
             try:
                 with open(os.path.join(txt_folder_name, txt_name), 'r') as file:
@@ -111,9 +111,9 @@ for model_name in models:
 
         if BASELINE:
             df = pd.DataFrame(rows, columns=["name", "zero_shot", "real", "question", "path"]) # Baseline
-            df.to_csv(f"{PATH}/results/results_{EXT}_baseline_{model_name}.csv", index=False) # Baseline
+            df.to_csv(f"{PATH}/results/results_{EXT}_baseline_{model_name.replace(":", "_")}.csv", index=False) # Baseline
         else:
             df = pd.DataFrame(rows, columns=["name", "zero_shot", "zero_shot_rag", "real", "question", "path"])
-            df.to_csv(f"{PATH}/results/results_{EXT}_bench_{model_name}.csv", index=False)
+            df.to_csv(f"{PATH}/results/results_{EXT}_bench_{model_name.replace(":", "_")}.csv", index=False)
 
     print(f"Model {model_name} done!\n")
