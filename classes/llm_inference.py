@@ -3,14 +3,31 @@ from langchain.prompts import ChatPromptTemplate
 from typing import List
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 import torch
+import re
 
 class LLMinference:
     def __init__(self, llm_name: str, temperature: float = 0.01, num_predict: int =128):
         self.llm_name = llm_name
-        self.model = OllamaLLM(model=llm_name, temperature=temperature, num_predict=num_predict) 
+        self.model = OllamaLLM(model=llm_name, temperature=temperature, num_predict=1024) 
 
     def _transform_query(self, query: str) -> str:
         return f'Represent this sentence for searching relevant passages: {query}'
+
+    # def _remove_reasoning(self, text):
+    #     """
+    #     Remove all text before the closing </think> tag.
+    #     If the tag is found, returns the text after the tag; otherwise, returns the original text.
+    #     """
+    #     pos = text.find("</think>")
+    #     if pos != -1:
+    #         return text[pos + len("</think>"):].strip()
+    #     return text.strip()
+
+    def _remove_reasoning(self, text):
+        """
+        Remove any chain-of-thought reasoning enclosed in <think>...</think> tags.
+        """
+        return re.sub(r"<think>.*?</think>", "", text, flags=re.DOTALL).strip()
 
     def single_inference(self, query: str, template: str, path: str, text: str,  choices: List[str], cond: str,  context) -> str | List[str]:
         context_text = "\n\n---\n\n".join([doc.page_content for doc in context])
@@ -27,8 +44,19 @@ class LLMinference:
             else:
                 prompt = prompt_template.format(context=context_text, question=query, condition=cond)
 
+        if self.llm_name == "deepseek-r1:7b":
+            instruction = (
+                "Answer the question directly with the correct option only (e.g., A, B, C, D, or E). "
+                "Do not include any internal reasoning or chain-of-thought in your response.\n\n"
+            )
+            prompt = instruction + prompt
+
         response_text = self.model.invoke(prompt)
         response_text = response_text.strip().replace("\n", "").replace("  ", "")
+
+        if self.llm_name == "deepseek-r1:7b":
+            print("Remove thinking")
+            response_text = self._remove_reasoning(response_text)
 
         sources = [doc.metadata.get("source", None) for doc in context]
         
