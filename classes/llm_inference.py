@@ -6,22 +6,12 @@ import torch
 import re
 
 class LLMinference:
-    def __init__(self, llm_name: str, temperature: float = 0.01, num_predict: int =128):
+    def __init__(self, llm_name: str, temperature: float = 0.01, num_predict: int = 128):
         self.llm_name = llm_name
-        self.model = OllamaLLM(model=llm_name, temperature=temperature, num_predict=1024) 
+        self.model = OllamaLLM(model=llm_name, temperature=temperature, num_predict=num_predict) 
 
     def _transform_query(self, query: str) -> str:
         return f'Represent this sentence for searching relevant passages: {query}'
-
-    # def _remove_reasoning(self, text):
-    #     """
-    #     Remove all text before the closing </think> tag.
-    #     If the tag is found, returns the text after the tag; otherwise, returns the original text.
-    #     """
-    #     pos = text.find("</think>")
-    #     if pos != -1:
-    #         return text[pos + len("</think>"):].strip()
-    #     return text.strip()
 
     def _remove_reasoning(self, text):
         """
