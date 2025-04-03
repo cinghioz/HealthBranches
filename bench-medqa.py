@@ -7,7 +7,7 @@ from alive_progress import alive_bar
 
 from classes.vector_store import VectorStore
 from classes.llm_inference import LLMinference
-from classes.utils import check_results
+from utils import check_results
 from prompt import *
 import json
 

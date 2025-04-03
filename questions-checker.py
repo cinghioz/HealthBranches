@@ -7,7 +7,7 @@ from together import Together
 from alive_progress import alive_bar
 
 from prompt import *
-from classes.utils import extract_option
+from utils import extract_option
 
 client = Together(api_key="de1d1c231987694e2b9111e06e048732d206ecaee729b8aee41e2121006f2cfc")
     

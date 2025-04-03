@@ -8,7 +8,7 @@ from alive_progress import alive_bar
 import time
 
 from classes.vector_store import VectorStore
-from classes.utils import check_results
+from utils import check_results
 from prompt import *
 
 client = Together(api_key="de1d1c231987694e2b9111e06e048732d206ecaee729b8aee41e2121006f2cfc")
