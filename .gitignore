@@ -5,3 +5,4 @@ quiz-ultimate-dataset/
 /misc.ipynb
 MedQA/
 results-medqa/
+__pycache__/
