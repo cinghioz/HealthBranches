@@ -47,7 +47,7 @@ class LLMinference:
         if self.llm_name == "deepseek-r1:7b":
             instruction = (
                 "Answer the question directly with the correct option only (e.g., A, B, C, D, or E). "
-                "Do not include any internal reasoning or chain-of-thought in your response.\n\n"
+                "Do NOT include any internal reasoning or chain-of-thought in your response.\n\n"
             )
             prompt = instruction + prompt
 
@@ -55,7 +55,6 @@ class LLMinference:
         response_text = response_text.strip().replace("\n", "").replace("  ", "")
 
         if self.llm_name == "deepseek-r1:7b":
-            print("Remove thinking")
             response_text = self._remove_reasoning(response_text)
 
         sources = [doc.metadata.get("source", None) for doc in context]
