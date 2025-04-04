@@ -122,8 +122,6 @@ class QuizEvaluator:
         return self.category_map[sub_con]
     
     def plot_by_conditions(self, data: list[list]):
-        data.sort(key=lambda x: x[2], reverse=True)
-
         category_values1 = defaultdict(list)
         category_values2 = defaultdict(list)
         category_values3 = defaultdict(list)
