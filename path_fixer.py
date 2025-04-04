@@ -13,7 +13,7 @@ def gemini_inference(model, chat_session, path, cond, text):
     lock = True
 
     while lock:
-        time.sleep(3)
+        time.sleep(5)
         # chat_session = model.start_chat(history=[])
         response = chat_session.send_message(query)
         if len(response.text.split('->')) > 1:
