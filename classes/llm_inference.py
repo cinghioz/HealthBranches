@@ -34,7 +34,7 @@ class LLMinference:
 
         if "deepseek" in self.llm_name.lower():
             instruction = (
-                "Answer the question directly with the correct option only (e.g., A, B, C, D, or E). "
+                "Answer the question directly with the letter of the correct option only (e.g., A, B, C, D, or E).\n"
                 "Do NOT include any internal reasoning or chain-of-thought in your response.\n\n"
             )
             prompt = instruction + prompt

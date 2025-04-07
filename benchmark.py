@@ -18,7 +18,7 @@ args = parser.parse_args()
 # Set BASELINE based on the argument
 BASELINE = args.base
 QUIZ = args.quiz
-PATH = "/Users/cinghio/Documents/PHD/HealthBranches/" # Prendi da arg o altro
+PATH = "/home/cc/PHD/HealthBranches/" # Prendi da arg o altro
 EXT = "QUIZ" if QUIZ else "OPEN"
 
 print("##### BASELINE MODE #####\n" if BASELINE else "##### BENCHMARK MODE #####\n")
@@ -34,8 +34,10 @@ vector_store = VectorStore(f'{PATH}indexes/kgbase/')
 folder_path = f"{PATH}questions_pro/dataset_updated.csv"
 questions = pd.read_csv(folder_path)
 
-models = ["mistral:7b", "gemma:7b", "gemma2:9b", "gemma3:4b", "llama3.1:8b",
-           "qwen2.5:7b", "phi4:14b", "llama2:7b", "deepseek-r1:8b"]
+# models = ["mistral:7b", "gemma:7b", "gemma2:9b", "gemma3:4b", "llama3.1:8b",
+#            "qwen2.5:7b", "phi4:14b", "llama2:7b", "deepseek-r1:8b"]
+
+models = ["deepseek-r1:8b"]
 
 models = check_results(PATH+"results/", f"results_{EXT}_baseline_*.csv" if BASELINE else f"results_{EXT}_bench_*.csv", models)
 
@@ -60,7 +62,7 @@ for model_name in models:
     rows = []
     print(f"Running model {model_name}...")
     with alive_bar(len(questions)) as bar:
-        for index, row in questions[:10].iterrows():
+        for index, row in questions.iterrows():
             res = []
             opts = []
 

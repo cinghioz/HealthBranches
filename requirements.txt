@@ -15,3 +15,5 @@ numpy
 ollama
 pandas
 pydantic
+google-generativeai
+unstructured
