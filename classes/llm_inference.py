@@ -22,12 +22,12 @@ class LLMinference:
         prompt_template = ChatPromptTemplate.from_template(template)
         
         if choices: # quiz
-            if path != "" and text != "":
+            if path != "":
                 prompt = prompt_template.format(context=context_text, question=query, path=path, text=text, condition=cond, o1=choices[0], o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
             else:
                 prompt = prompt_template.format(context=context_text, question=query, condition=cond, o1=choices[0], o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
         else: # open question
-            if path != "" and text != "":
+            if path != "":
                 prompt = prompt_template.format(context=context_text, question=query, path=path, text=text, condition=cond)
             else:
                 prompt = prompt_template.format(context=context_text, question=query, condition=cond)

@@ -29,9 +29,12 @@ def gemini_inference(model, chat_session, path, cond, text):
 
     return output
 
-# genai.configure(api_key='AIzaSyD_aI_M2ysuA1AhhQI-WoaTlMMOm0njqbk')
-genai.configure(api_key="AIzaSyC-xkk_sjuGdLOTc-MvrjBI4Bdww5ubo4s") # matr
-# genai.configure(api_key="AIzaSyAOTNKpnJtD5XVjipFAaEYjxm-ZkYEa_74") # pucci
+# genai.configure(api_key='AIzaSyD_aI_M2ysuA1AhhQI-WoaTlMMOm0njqbk') # phd
+# genai.configure(api_key="AIzaSyC-xkk_sjuGdLOTc-MvrjBI4Bdww5ubo4s") # matr
+# genai.configure(api_key="AIzaSyAOTNKpnJtD5XVjipFAaEYjxm-ZkYEa_74") # pucci
+# genai.configure(api_key='AIzaSyCPJisDdbxxKmaUA2X7SMikoXDz7dgAKGE') # pucci_matr
+# genai.configure(api_key="AIzaSyDI3RIwLk8s1YJKhuaC6Q90lJo8IhAu8lk") # sav
+genai.configure(api_key="AIzaSyBfLMVFZ0L4380zStX5Iyt2axF_36OPNBw") # sav stud
 
 # Create the model
 generation_config = {
