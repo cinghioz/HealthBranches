@@ -15,6 +15,7 @@ class QuizEvaluator:
         self.path = path
         self.bench_path = f"{self.path}{res_dir}/results_QUIZ_bench_"
         self.base_path = f"{self.path}{res_dir}/results_QUIZ_baseline_"
+        # self.base_path = f"{self.path}{res_dir}/results_QUIZ_baseline-path_"
         
         with open(category_path, 'r') as f:
             self.category_map = json.load(f)
@@ -175,7 +176,7 @@ class QuizEvaluator:
         plt.grid(axis='x', linestyle='--', alpha=0.7)
 
         # plt.show()
-        plt.savefig("plot_conditions.png", dpi=400, bbox_inches='tight')
+        plt.savefig("plot_conditions+text.png", dpi=400, bbox_inches='tight')
 
     def plot_by_models(self, data: list[list]):
         data.sort(key=lambda x: x[1], reverse=True)

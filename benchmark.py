@@ -32,22 +32,22 @@ vector_store = VectorStore(f'{PATH}indexes/kgbase/')
 # Add documents in vector store (comment this line after the first add)
 # vector_store.add_documents(f'{PATH}data/kgbase')
 
-# folder_path = f"{PATH}questions_pro/ultimate_questions_v3_full_balanced.csv"
-folder_path = f"{PATH}questions_pro/dataset_updated.csv"
+folder_path = f"{PATH}questions_pro/dataset_updated_V2path.csv"
+# folder_path = f"{PATH}questions_pro/dataset_updated.csv"
+
 questions = pd.read_csv(folder_path)
 
 models = ["mistral:7b", "gemma:7b", "gemma2:9b", "gemma3:4b", "llama3.1:8b",
-           "qwen2.5:7b", "phi4:14b", "llama2:7b", "deepseek-r1:8b"]
+           "qwen2.5:7b", "phi4:14b", "mistral-nemo:12b", "llama2:7b", "deepseek-r1:8b"]
 
-# models = ["deepseek-r1:8b"]
-
-models = check_results(PATH+"results/", f"results_{EXT}_baseline_*.csv" if BASELINE else f"results_{EXT}_bench_*.csv", models)
+base_path = f"results_{EXT}_baseline-path_*.csv" if PATH else f"results_{EXT}_baseline_*.csv"
+models = check_results(PATH+"results/", base_path if BASELINE else f"results_{EXT}_bench_*.csv", models)
 
 templates = [PROMPT_QUIZ, PROMPT_QUIZ_RAG] if QUIZ else [PROMPT_OPEN, PROMPT_OPEN_RAG]
 
 if BASELINE:
-    # templates = [PROMPT_QUIZ_BASELINE, PROMPT_OPEN_BASELINE_PATH] if QUIZ else [PROMPT_OPEN_BASELINE, PROMPT_OPEN_BASELINE_PATH]
-    templates = [PROMPT_OPEN_BASELINE_PATH] if QUIZ else [PROMPT_OPEN_BASELINE_PATH]
+    # templates = [PROMPT_QUIZ_BASELINE, PROMPT_QUIZ_BASELINE_PATH] if QUIZ else [PROMPT_OPEN_BASELINE, PROMPT_OPEN_BASELINE_PATH]
+    templates = [PROMPT_QUIZ_BASELINE_PATH] if QUIZ else [PROMPT_OPEN_BASELINE_PATH]
 
 cnt_rag = 0
 cnt = 0
@@ -116,8 +116,11 @@ for model_name in models:
 
         if BASELINE:
             df = pd.DataFrame(rows, columns=["name", "zero_shot", "real", "question", "path"]) # Baseline
-            # df.to_csv(f"{PATH}/results/results_{EXT}_baseline_{model_name.replace(":", "_")}.csv", index=False) # Baseline
-            df.to_csv(f"{PATH}/results/results_{EXT}_baseline-path_{model_name.replace(":", "_")}.csv", index=False) # Baseline only path
+            
+            if PATH:
+                df.to_csv(f"{PATH}/results/results_{EXT}_baseline-path_{model_name.replace(":", "_")}.csv", index=False) 
+            else:
+                df.to_csv(f"{PATH}/results/results_{EXT}_baseline_{model_name.replace(":", "_")}.csv", index=False) # Baseline# Baseline only path
         else:
             df = pd.DataFrame(rows, columns=["name", "zero_shot", "zero_shot_rag", "real", "question", "path"])
             df.to_csv(f"{PATH}/results/results_{EXT}_bench_{model_name.replace(":", "_")}.csv", index=False)
