@@ -16,13 +16,11 @@ client = Together(api_key="de1d1c231987694e2b9111e06e048732d206ecaee729b8aee41e2
 parser = argparse.ArgumentParser(description="LLM inference with optional baseline mode.")
 parser.add_argument("-base", action="store_true", help="Run in baseline mode.")
 parser.add_argument("-quiz", action="store_true", help="Run in baseline mode.")
-parser.add_argument("-path", action="store_true", help="Run in quiz mode.")
 args = parser.parse_args()
 
 # Set BASELINE based on the argument
 BASELINE = args.base
 QUIZ = args.quiz
-PATH = args.path
 PATH = "/home/cc/PHD/HealthBranches/"
 EXT = "QUIZ" if QUIZ else "OPEN"
 
@@ -34,15 +32,9 @@ def together_inference(model, query, template, path, text, choices, cond, vector
     context_text = vector_store.search(query=query, k=3)
 
     if choices: # quiz
-        if path != "":
-            prompt = template.format(context=context_text, question=query, path=path, text=text, condition=cond, o1=choices[0], o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
-        else:
-            prompt = template.format(context=context_text, question=query, condition=cond, o1=choices[0], o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
+        prompt = template.format(context=context_text, question=query, path=path, text=text, condition=cond, o1=choices[0], o2=choices[1], o3=choices[2], o4=choices[3], o5=choices[4])
     else: # open question
-        if path != "":
-            prompt = template.format(context=context_text, question=query, path=path, text=text, condition=cond)
-        else:
-            prompt = template.format(context=context_text, question=query, condition=cond)
+        prompt = template.format(context=context_text, question=query, path=path, text=text, condition=cond)
 
     response = client.chat.completions.create(
         model=model,
@@ -61,8 +53,8 @@ questions = pd.read_csv(folder_path)
 templates = [PROMPT_QUIZ, PROMPT_QUIZ_RAG] if QUIZ else [PROMPT_OPEN, PROMPT_OPEN_RAG]
 
 if BASELINE:
-    # templates = [PROMPT_QUIZ_BASELINE, PROMPT_QUIZ_BASELINE_PATH] if QUIZ else [PROMPT_OPEN_BASELINE, PROMPT_OPEN_BASELINE_PATH]
-    templates = [PROMPT_QUIZ_BASELINE_PATH] if QUIZ else [PROMPT_OPEN_BASELINE_PATH]
+    templates = [PROMPT_QUIZ_BASELINE_PATH, PROMPT_QUIZ_BASELINE_TEXT, PROMPT_QUIZ_BASELINE] if QUIZ \
+                else [PROMPT_OPEN_BASELINE_PATH, PROMPT_OPEN_BASELINE_TEXT, PROMPT_OPEN_BASELINE]
 
 cnt_rag = 0
 cnt = 0
@@ -71,9 +63,7 @@ rows = []
 questions = pd.read_csv(folder_path)
 
 models = ["meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"]
-
-base_path = f"results_{EXT}_baseline-path_*.csv" if PATH else f"results_{EXT}_baseline_*.csv"
-models = check_results(PATH+"results/", base_path if BASELINE else f"results_{EXT}_bench_*.csv", models)
+models = check_results(PATH+"results/", f"results_{EXT}_baseline_*.csv" if BASELINE else f"results_{EXT}_bench_*.csv", models)
 
 for model in models:
     with alive_bar(len(questions)) as bar:
@@ -105,7 +95,7 @@ for model in models:
             
             for template in templates:
                 if BASELINE:
-                    res.append(together_inference(model, row['question'], template, row['path'], "" if PATH else text, opts, row['condition'].lower(), vector_store)) # Baseline
+                    res.append(together_inference(model, row['question'], template, row['path'], text, opts, row['condition'].lower(), vector_store)) # Baseline
                 else:
                     res.append(together_inference(model, row['question'], template, "", "", opts, row['condition'].lower(), vector_store))
 
@@ -122,12 +112,10 @@ for model in models:
             bar()
 
         if BASELINE:
-            df = pd.DataFrame(rows, columns=["name", "zero_shot", "real", "question", "path"]) # Baseline
+            df = pd.DataFrame(rows, columns=["name", "zero_shot_path", "zero_shot_text", "zero_shot_all", 
+                                             "real", "question", "path"]) # Baseline
 
-            if PATH:
-                df.to_csv(f"{PATH}/results/results_{EXT}_baseline-path_{model.split('/')[1]}.csv", index=False) # Baseline
-            else:
-                df.to_csv(f"{PATH}/results/results_{EXT}_baseline_{model.split('/')[1]}.csv", index=False) # Baseline
+            df.to_csv(f"{PATH}/results/results_{EXT}_baseline_{model.split('/')[1]}.csv", index=False) # Baseline
         else:
             df = pd.DataFrame(rows, columns=["name", "zero_shot", "zero_shot_rag", "real", "question", "path"])
             df.to_csv(f"{PATH}/results/results_{EXT}_bench_{model.split('/')[1]}.csv", index=False)
