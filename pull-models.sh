@@ -1,3 +1,4 @@
+ollama pull mxbai-embed-large
 ollama pull mistral:7b 
 ollama pull gemma:7b 
 ollama pull gemma2:9b 

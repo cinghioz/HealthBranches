@@ -30,8 +30,8 @@ vector_store = VectorStore(f'{PATH}indexes/kgbase/')
 # Add documents in vector store (comment this line after the first add)
 # vector_store.add_documents(f'{PATH}data/kgbase')
 
-folder_path = f"{PATH}questions_pro/final_dataset.csv"
-# folder_path = f"{PATH}questions_pro/dataset_updated.csv"
+# folder_path = f"{PATH}questions_pro/final_dataset.csv"
+folder_path = f"{PATH}questions_pro/dataset_updated.csv"
 
 questions = pd.read_csv(folder_path)
 
@@ -67,7 +67,12 @@ for model_name in models:
             opts = []
 
             try:
-                opts = ast.literal_eval(row['options'].replace("['", '["').replace("']", '"]').replace("', '", '", "'))
+                opts = ast.literal_eval(
+                            row['options']
+                            .replace("['", '["')
+                            .replace("']", '"]')
+                            .replace("', '", '", "')
+                        )
                 if not isinstance(opts, list) or len(opts) != 5:
                     print(f"Skipping row {index} due to invalid options")
                     continue  # Skip this iteration if the condition is not met
