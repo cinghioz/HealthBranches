@@ -47,7 +47,7 @@ def together_inference(model, query, template, path, text, choices, cond, vector
 vector_store = VectorStore(f'{PATH}indexes/kgbase-new/')
 
 # folder_path = f"{PATH}questions_pro/ultimate_questions_v3_full_balanced.csv"
-folder_path = f"{PATH}questions_pro/dataset_updated_V2path.csv"
+folder_path = f"{PATH}questions_pro/final_dataset.csv"
 questions = pd.read_csv(folder_path)
 
 templates = [PROMPT_QUIZ, PROMPT_QUIZ_RAG] if QUIZ else [PROMPT_OPEN, PROMPT_OPEN_RAG]

@@ -16,8 +16,8 @@ BASE = f"{PATH}{args.res_dir}/results_QUIZ_baseline_"
 
 qe = QuizEvaluator(PATH, args.res_dir, "/home/cc/PHD/HealthBranches/category.json")
 
-models = ["mistral_7b", "gemma_7b", "gemma2_9b", "gemma3_4b", "llama3.1_8b", "qwen2.5_7b", 
-          "phi4_14b", "llama2_7b", "llama3.3_70b",  "deepseek-r1_8b"]
+models = ["mistral_7b", "gemma_7b", "gemma2_9b", "gemma3_4b", "llama3.1_8b", "llama3.3_70b",
+           "qwen2.5_7b", "phi4_14b", "nemo_12b", "llama2_7b", "deepseek-r1_8b"]
 
 
 

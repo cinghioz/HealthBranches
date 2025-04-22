@@ -30,8 +30,7 @@ vector_store = VectorStore(f'{PATH}indexes/kgbase/')
 # Add documents in vector store (comment this line after the first add)
 # vector_store.add_documents(f'{PATH}data/kgbase')
 
-# folder_path = f"{PATH}questions_pro/final_dataset.csv"
-folder_path = f"{PATH}questions_pro/dataset_updated.csv"
+folder_path = f"{PATH}questions_pro/final_dataset.csv"
 
 questions = pd.read_csv(folder_path)
 

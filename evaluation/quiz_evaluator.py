@@ -3,6 +3,7 @@ import json
 import pandas as pd
 import numpy as np
 from collections import defaultdict
+from typing import List, Any, Union, Tuple
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -15,7 +16,6 @@ class QuizEvaluator:
         self.path = path
         self.bench_path = f"{self.path}{res_dir}/results_QUIZ_bench_"
         self.base_path = f"{self.path}{res_dir}/results_QUIZ_baseline_"
-        # self.base_path = f"{self.path}{res_dir}/results_QUIZ_baseline-path_"
         
         with open(category_path, 'r') as f:
             self.category_map = json.load(f)
@@ -75,29 +75,29 @@ class QuizEvaluator:
         return sorted(common)
     
     @staticmethod
-    def _merge_lists(data1: list[list], data2: list[list]):
-           # Build a mapping for list2 based on keys.
-        mapping = {}
-        for sub in data2:
-            # Check if a second key is available; otherwise use None.
-            if len(sub) >= 3:
-                key = (sub[0], sub[1])
-                num = sub[2]
-            else:
-                key = (sub[0], None)
-                num = sub[1]
-            mapping[key] = num
+    def _merge_by_key_concat(*lists: List[List[Any]]) -> List[List[Any]]:
 
-        # For each sublist in list1, build the corresponding key and append the numeric value if found.
-        for sub in data1:
-            if len(sub) >= 4:  # Assuming list1 contains two keys followed by numeric values.
-                key = (sub[0], sub[1])
-            else:
-                key = (sub[0], None)
-            if key in mapping:
-                sub.append(mapping[key])
+        buffer: defaultdict[Union[str, Tuple[str, str]], List[Any]] = defaultdict(list)
 
-        return data1
+        for lst in lists:
+            for rec in lst:
+                if len(rec) >= 2 and isinstance(rec[1], str):
+                    key = (rec[0], rec[1])
+                    vals = rec[2:]
+                else:
+                    key = rec[0]
+                    vals = rec[1:]
+
+                buffer[key].extend(vals)
+
+        merged: List[List[Any]] = []
+        for key, vals in buffer.items():
+            if isinstance(key, tuple):
+                merged.append([key[0], key[1], *vals])
+            else:
+                merged.append([key, *vals])
+
+        return merged
 
     def evaluate_models(self, models: list[str], condition: str = None):
         bench = [self._evaluate_answers(f"{self.bench_path}{model}.csv", model) for model in models]
@@ -107,7 +107,7 @@ class QuizEvaluator:
             bench = [self._evaluate_answers_by_cond(f"{self.bench_path}{model}.csv", model, condition) for model in models]
             baseline = [self._evaluate_answers_by_cond(f"{self.base_path}{model}.csv", model, condition) for model in models]
         
-        return self._merge_lists(bench, baseline)
+        return self._merge_by_key_concat(bench, baseline)
         # return bench
     
     def remap_condition(self, merged_list: list[list]):
@@ -159,7 +159,7 @@ class QuizEvaluator:
         # Plot value2 bars in the middle
         bars2 = plt.barh(y_pos, values2, height=bar_height, color='orange', label='Zero Shot + RAG')
         # Plot value3 bars shifted down
-        bars3 = plt.barh(y_pos + bar_height, values3, height=bar_height, color='green', label='Topline')
+        bars3 = plt.barh(y_pos + bar_height, values3, height=bar_height, color='green', label='Topline (path only)')
 
         # Set x-axis limits for proper scaling
         all_values = values1 + values2 + values3
@@ -176,7 +176,7 @@ class QuizEvaluator:
         plt.grid(axis='x', linestyle='--', alpha=0.7)
 
         # plt.show()
-        plt.savefig("plot_conditions+text.png", dpi=400, bbox_inches='tight')
+        plt.savefig("plot_conditions.png", dpi=450, bbox_inches='tight')
 
     def plot_by_models(self, data: list[list]):
         data.sort(key=lambda x: x[1], reverse=True)
@@ -186,16 +186,18 @@ class QuizEvaluator:
         values1 = [x[1] for x in data]
         values2 = [x[2] for x in data]
         values3 = [x[3] for x in data]
+        values4 = [x[4] for x in data]
 
         # Imposta la posizione delle barre con più spazio tra i gruppi
-        x = np.arange(len(labels)) * 1.3  # Moltiplica per aumentare la distanza tra i gruppi
-        width = 0.35  # Larghezza delle barre
+        x = np.arange(len(labels)) * 1.55  # Moltiplica per aumentare la distanza tra i gruppi
+        width = 0.33  # Larghezza delle barre
 
         # Aumenta le dimensioni del grafico
-        fig, ax = plt.subplots(figsize=(16, 12))
+        fig, ax = plt.subplots(figsize=(18, 15))
         bars1 = ax.bar(x - width, values1, width, label="Zero Shot")
         bars2 = ax.bar(x, values2, width, label="Zero Shot + RAG")
-        bars3 = ax.bar(x + width, values3, width, label="Topline")    
+        bars3 = ax.bar(x + width, values3, width, label="Topline (path only)")   
+        bars4 = ax.bar(x + (width*2), values4, width, label="Topline (text only)") 
 
         # Etichette e titolo
         ax.set_xlabel("Models")
@@ -206,4 +208,4 @@ class QuizEvaluator:
         ax.legend()
 
         # plt.show()
-        plt.savefig("plot_models.png", dpi=400, bbox_inches='tight')
+        plt.savefig("plot_models.png", dpi=450, bbox_inches='tight')
