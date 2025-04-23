@@ -12,7 +12,7 @@ from utils import extract_option
 sns.set(style="darkgrid")
 
 class QuizEvaluator:
-    def __init__(self, path: str, res_dir: str = "results", category_path : str = "/Users/cinghio/Documents/PHD/HealthBranches/category.json"):
+    def __init__(self, path: str,  category_path : str, res_dir: str = "results"):
         self.path = path
         self.bench_path = f"{self.path}{res_dir}/results_QUIZ_bench_"
         self.base_path = f"{self.path}{res_dir}/results_QUIZ_baseline_"
@@ -153,7 +153,7 @@ class QuizEvaluator:
         y_pos = np.arange(len(names))
         bar_height = 0.3
 
-        plt.figure(figsize=(16, 12))
+        plt.figure(figsize=(17, 13))
         # Plot value1 bars shifted up
         bars1 = plt.barh(y_pos - bar_height, values1, height=bar_height, color='skyblue', label='Zero Shot')
         # Plot value2 bars in the middle
