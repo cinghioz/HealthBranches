@@ -44,7 +44,7 @@ def together_inference(model, query, template, path, text, choices, cond, vector
     return response.choices[0].message.content
 
 # Create an empty vector store in the indicated path. If the path already exists, load the vector store
-vector_store = VectorStore(f'{PATH}indexes/kgbase-new/')
+vector_store = VectorStore(f'{PATH}indexes/kgbase/')
 
 # folder_path = f"{PATH}questions_pro/ultimate_questions_v3_full_balanced.csv"
 folder_path = f"{PATH}questions_pro/final_dataset.csv"
