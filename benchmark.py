@@ -53,7 +53,7 @@ questions = pd.read_csv(folder_path)
 
 for model_name in models:
     if "deepseek" in model_name.lower():
-        llm = LLMinference(llm_name=model_name, num_predict=1024)
+        llm = LLMinference(llm_name=model_name, num_predict=512)
     else:
         llm = LLMinference(llm_name=model_name)
 

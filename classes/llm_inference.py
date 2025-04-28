@@ -34,6 +34,15 @@ class LLMinference:
             prompt = instruction + prompt
 
         response_text = self.model.invoke(prompt)
+
+        if "deepseek" in self.llm_name.lower() and "<think>" in response_text:
+
+            if '</think>' in response_text:
+                response_text = response_text.split('</think>')[1]
+            else:
+                res_final = self.model.invoke(prompt + response_text + '\n\n</think>\n\n')
+                response_text = res_final
+
         response_text = response_text.strip().replace("\n", "").replace("  ", "")
 
         if "deepseek" in self.llm_name.lower():
