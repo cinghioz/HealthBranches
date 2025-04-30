@@ -100,11 +100,10 @@ def main():
     )
 
     txt_folder_name = "/home/cc/PHD/HealthBranches/data/kgbase"
-    dataset_path = "/home/cc/PHD/HealthBranches/questions_pro/dataset_updated.csv"
+    dataset_path = "/home/cc/PHD/HealthBranches/questions_pro/questions_test.csv"
     csv_path = "/home/cc/PHD/HealthBranches/refined_paths.csv"
     start_index = 0
 
-    # Load dataset CSV
     try:
         dataset = pd.read_csv(dataset_path, sep=",", encoding='utf-8')
     except FileNotFoundError:
@@ -128,7 +127,7 @@ def main():
         new_paths = pd.DataFrame()
 
     results = []
-    key_index = 0  # Initialize API key index
+    key_index = 0
 
     if start_index > 0:
         print(f"Processing from index {start_index}...")
@@ -154,11 +153,11 @@ def main():
                 'options': data['options'],
                 'correct_option': data['correct_option'],
                 'old_path': data['path'],
-                'new_path': refined_path,
+                'path': refined_path,
                 'condition': condition
             })
 
-            # Keep history within reasonable bounds.  The original code had a potential memory leak.
+            # Keep history within reasonable bounds.
             if len(model.start_chat().history) > 100:
                 model.start_chat().history = model.start_chat().history[50:]
 
@@ -167,11 +166,11 @@ def main():
                 combined = pd.concat([new_paths, pd.DataFrame(results)], ignore_index=True)
                 combined.to_csv(csv_path, index=False)
                 new_paths = combined.copy()
-                results = []  # Clear results
+                results = []
 
-            bar()  # Update progress bar
+            bar()
 
-    # Save any remaining results
+    # Save remaining results
     if results:
         combined = pd.concat([new_paths, pd.DataFrame(results)], ignore_index=True)
         combined.to_csv(csv_path, index=False)

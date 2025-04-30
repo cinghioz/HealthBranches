@@ -44,7 +44,7 @@ def gemini_inference(model, path, text, cond, api_keys, key_index):
     retries = 0
 
     while retries <= max_retries:
-        time.sleep(1)
+        time.sleep(5)
         genai.configure(api_key=api_keys[key_index])
         chat_session = model.start_chat(history=[])
         try:

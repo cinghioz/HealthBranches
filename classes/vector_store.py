@@ -12,10 +12,12 @@ import pickle
 from typing import List
 
 class VectorStore:
-    def __init__(self, index_path: str, embedder_name: str = "mxbai-embed-large"):
+    def __init__(self, index_path: str, embedder_name: str = "mxbai-embed-large", chunk_size: int = 500, chunk_overlap: int = 150):
         self.index_path = index_path
         self.embedder_name = embedder_name
         self.embedder = OllamaEmbeddings(model=embedder_name)
+        self.chunk_size = chunk_size
+        self.chunk_overlap = chunk_overlap
         self._load_vector_store()
 
     def _load_vector_store(self):
@@ -61,8 +63,8 @@ class VectorStore:
 
     def _split_text(self, documents: List[Document]):
         text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=500,
-            chunk_overlap=150,
+            chunk_size=self.chunk_size,
+            chunk_overlap=self.chunk_overlap,
             length_function=len,
             add_start_index=True,
         )

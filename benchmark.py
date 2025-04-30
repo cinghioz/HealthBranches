@@ -9,6 +9,7 @@ from classes.vector_store import VectorStore
 from classes.llm_inference import LLMinference
 from utils import check_results
 from prompt import *
+from models import *
 
 parser = argparse.ArgumentParser(description="LLM inference with different modalities.")
 parser.add_argument("-base", action="store_true", help="Run in baseline mode.")
@@ -27,15 +28,11 @@ print("##### QUIZ EXP #####\n" if QUIZ else "##### OPEN EXP #####\n")
 # Create an empty vector store in the indicated path. If the path already exists, load the vector store
 vector_store = VectorStore(f'{PATH}indexes/kgbase/')
 
-# Add documents in vector store (comment this line after the first add)
-# vector_store.add_documents(f'{PATH}data/kgbase')
-
 folder_path = f"{PATH}questions_pro/final_dataset.csv"
 
 questions = pd.read_csv(folder_path)
 
-models = ["mistral:7b", "gemma:7b", "gemma2:9b", "gemma3:4b", "llama3.1:8b",
-           "qwen2.5:7b", "phi4:14b", "mistral-nemo:12b", "llama2:7b", "deepseek-r1:8b"]
+models = MODELS
 
 models = check_results(PATH+"results/", f"results_{EXT}_baseline_*.csv" if BASELINE else f"results_{EXT}_bench_*.csv", models)
 
