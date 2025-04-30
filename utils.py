@@ -46,8 +46,23 @@ def extract_option(answer: str):
     if match:
         return match.group(1).upper()
     
+    # Handle cases like "the correct answer is:a", "the correct answer is: a", etc.
+    match = re.search(r'the answer is[:\s]*\(?([a-eA-E])\)?', answer.lower(), re.IGNORECASE)
+    if match:
+        return match.group(1).upper()
+    
     # Handle cases like "Option a", "the correct answer is: a", etc.
     match = re.search(r'Option *\(?([a-eA-E])\)?', answer.lower(), re.IGNORECASE)
+    if match:
+        return match.group(1).upper()
+    
+    # Handle cases like "Option a", "the correct answer is: a", etc.
+    match = re.search(r'Answer: *\(?([a-eA-E])\)?', answer.lower(), re.IGNORECASE)
+    if match:
+        return match.group(1).upper()
+
+    # NEW RULE: If the last word is a single letter a-e or A-E preceded by a period, comma, or colon (with or without space)
+    match = re.search(r'[:\.,]\s*([a-eA-E])$', answer)
     if match:
         return match.group(1).upper()
 

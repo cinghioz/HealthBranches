@@ -17,17 +17,17 @@ BASE = f"{PATH}{args.res_dir}/results_QUIZ_baseline_"
 qe = QuizEvaluator(PATH, "/home/cc/PHD/HealthBranches/category.json", args.res_dir)
 
 models = ["mistral_7b", "gemma_7b", "gemma2_9b", "gemma3_4b", "llama3.1_8b", "llama3.3_70b",
-           "qwen2.5_7b", "phi4_14b", "nemo_12b", "llama2_7b", "deepseek-r1_8b"]
+           "qwen2.5_7b", "phi4_14b", "mistral-nemo_12b", "llama2_7b", "deepseek-r1_8b"]
 
 
 
 res = []
 
-for condition in tqdm(qe.get_conditions()):
-    res.extend(qe.evaluate_models(models, condition))
+# for condition in tqdm(qe.get_conditions()):
+#     res.extend(qe.evaluate_models(models, condition))
 
-qe.plot_by_conditions(res)
+# qe.plot_by_conditions(res)
 
-# res = qe.evaluate_models(models)
+res = qe.evaluate_models(models)
 
-# qe.plot_by_models(res)
+qe.plot_by_models(res)

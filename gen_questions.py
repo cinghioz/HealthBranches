@@ -217,7 +217,7 @@ def main():
 
         qeas = []
 
-        print(f"{csv} processed!")
+        print(f"{csv} processed! (key number {key_index})")
 
     print("END!")
 
