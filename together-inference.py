@@ -28,7 +28,7 @@ print("##### BASELINE MODE #####\n" if BASELINE else "##### BENCHMARK MODE #####
 print("##### QUIZ EXP #####\n" if QUIZ else "##### OPEN EXP #####\n")
 
 def together_inference(model, query, template, path, text, choices, cond, vector_store):
-    time.sleep(1)
+    # time.sleep(1)
     context_text = vector_store.search(query=query, k=3)
 
     if choices: # quiz
@@ -62,7 +62,8 @@ cnt = 0
 rows = []
 questions = pd.read_csv(folder_path)
 
-models = ["meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"]
+# models = ["meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"]
+models = ["Qwen/Qwen2.5-72B-Instruct-Turbo"]
 models = check_results(PATH+"results/", f"results_{EXT}_baseline_*.csv" if BASELINE else f"results_{EXT}_bench_*.csv", models)
 
 for model in models:
