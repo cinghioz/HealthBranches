@@ -27,10 +27,16 @@ class LLMinference:
             prompt = prompt_template.format(context=context_text, question=query, path=path, text=text, condition=cond)
 
         if "deepseek" in self.llm_name.lower():
-            instruction = (
-                "Answer the question directly with the letter of the correct option only (e.g., A, B, C, D, or E).\n"
-                "Do NOT include any internal reasoning or chain-of-thought in your response.\n\n"
-            )
+            if choices:
+                instruction = (
+                    "Answer the question directly with the letter of the correct option only (e.g., A, B, C, D, or E).\n"
+                    "Do NOT include any internal reasoning or chain-of-thought in your response.\n\n"
+                )
+            else:
+                instruction = (
+                    "Answer the question directly.\n"
+                    "Do NOT include any internal reasoning or chain-of-thought in your response.\n\n"
+                )
             prompt = instruction + prompt
 
         response_text = self.model.invoke(prompt)

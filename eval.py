@@ -20,10 +20,10 @@ qe = QuizEvaluator(PATH, "/home/cc/PHD/HealthBranches/category.json", args.res_d
 res = []
 
 # for condition in tqdm(qe.get_conditions()):
-#     res.extend(qe.evaluate_models(MODELS, condition))
+#     res.extend(qe.evaluate_models(MODELS_EVAL, condition))
 
 # qe.plot_by_conditions(res)
 
-res = qe.evaluate_models(MODELS)
+res = qe.evaluate_models(MODELS_EVAL)
 
 qe.plot_by_models(res)

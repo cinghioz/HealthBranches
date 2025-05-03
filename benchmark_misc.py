@@ -34,7 +34,7 @@ questions = pd.read_csv(folder_path)
 
 models = MODELS
 
-models = check_results(PATH+"results/", f"results_{EXT}_baseline_*.csv" if BASELINE else f"results_{EXT}_bench_*.csv", models)
+models = check_results(PATH+"results_misc/", f"results_{EXT}_baseline_*.csv" if BASELINE else f"results_{EXT}_bench_*.csv", models)
 
 templates = [PROMPT_QUIZ, PROMPT_QUIZ_RAG] if QUIZ else [PROMPT_OPEN, PROMPT_OPEN_RAG]
 
@@ -46,13 +46,14 @@ cnt_rag = 0
 cnt = 0
 
 rows = []
-questions = pd.read_csv(folder_path)[:10]
+questions = pd.read_csv(folder_path)
+# questions = questions.sample(frac=1, random_state=42).reset_index(drop=True)[:1000]
 
 for model_name in models:
     if "deepseek" in model_name.lower():
-        llm = LLMinference(llm_name=model_name, num_predict=512)
+        llm = LLMinference(llm_name=model_name, temperature=0.7, num_predict=512)
     else:
-        llm = LLMinference(llm_name=model_name)
+        llm = LLMinference(llm_name=model_name, temperature=0.7)
 
     cnt = 0
     rows = []
@@ -91,14 +92,12 @@ for model_name in models:
             for template in templates:
                 if BASELINE:
                     try:
-                        res.append(llm.qea_evaluation(row['question'], template, row['old_path'], text, 
-                                                      opts if QUIZ else [], row['condition'].lower(), vector_store)) # Baseline
+                        res.append(llm.qea_evaluation(row['question'], template, row['old_path'], text, opts, row['condition'].lower(), vector_store)) # Baseline
                     except Exception:
                         print(row)
                 else:
                     try:
-                        res.append(llm.qea_evaluation(row['question'], template, "", "", opts if QUIZ else [],
-                                                       row['condition'].lower(), vector_store))
+                        res.append(llm.qea_evaluation(row['question'], template, "", "", opts, row['condition'].lower(), vector_store))
                     except Exception:
                         print(row)
 
@@ -108,7 +107,7 @@ for model_name in models:
                 res.append(opts[ord(row["correct_option"].strip().upper()) - ord('A')])
 
             res.append(row['question'])
-            res.append(row['path'])
+            res.append(row['old_path'])
             res.insert(0, row['condition'].lower())
 
             rows.append(res)
@@ -118,9 +117,9 @@ for model_name in models:
             df = pd.DataFrame(rows, columns=["name", "zero_shot_path", "zero_shot_text", "zero_shot_all", 
                                              "real", "question", "path"]) # Baseline
             
-            df.to_csv(f"{PATH}/results/results_{EXT}_baseline_{model_name.replace(":", "_")}.csv", index=False) # Baseline
+            df.to_csv(f"{PATH}/results_misc/results_{EXT}_baseline_{model_name.replace(":", "_")}.csv", index=False) # Baseline
         else:
             df = pd.DataFrame(rows, columns=["name", "zero_shot", "zero_shot_rag", "real", "question", "path"])
-            df.to_csv(f"{PATH}/results/results_{EXT}_bench_{model_name.replace(":", "_")}.csv", index=False)
+            df.to_csv(f"{PATH}/results_misc/results_{EXT}_bench_{model_name.replace(":", "_")}.csv", index=False)
 
     print(f"Model {model_name} done!\n")
