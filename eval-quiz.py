@@ -9,6 +9,7 @@ from models import *
 
 parser = argparse.ArgumentParser(description="Evaluation quiz results")
 parser.add_argument('-res_dir', type=str, default="results", help='Folder with results')
+parser.add_argument("-condition", action="store_true", help="Aggregate by condition type.")
 args = parser.parse_args()
 
 PATH = os.getcwd()+'/'
@@ -19,11 +20,11 @@ qe = QuizEvaluator(PATH, "/home/cc/PHD/HealthBranches/category.json", args.res_d
 
 res = []
 
-for condition in tqdm(qe.get_conditions()):
-    res.extend(qe.evaluate_models(MODELS_EVAL, condition))
+# for condition in tqdm(qe.get_conditions()):
+#     res.extend(qe.evaluate_models(MODELS_EVAL, condition))
 
-qe.plot_by_conditions(res)
+# qe.plot_by_conditions(res)
 
-# res = qe.evaluate_models(MODELS_EVAL)
+res = qe.evaluate_models(MODELS_EVAL)
 
-# qe.plot_by_models(res)
+qe.plot_by_models(res)
