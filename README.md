@@ -78,7 +78,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+First of all, the data with which the questions will be created must be added. Two types of data are needed: the text associated with a condition/symptom (.txt) and the associated paths (.csv).
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
