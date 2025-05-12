@@ -80,7 +80,7 @@ To get a local copy up and running follow these simple example steps.
 
 First of all, the data with which the questions will be created must be added. Two types of data are needed: the text associated with a condition/symptom (.txt) and the associated paths (.csv):
 1. <p align="left">Texts must be added in the data/kgbase folder, one for each condition</p>
-2. <p align="left">Paths must be added in the paths folder, one for each condition</p>. Each line of a csv containing paths consists of 3 elements: <b>source</b>, <b>leaf</b>, <b>paths</b>. The source will always be the same (the problem to be solved) while the leaves change according to the sequence of decisions made in the path. If there are more thant one path going from the root to the same leaf, they are entered in the path field separated by the string ‘||’. A path is a string containing a string for each node in the path describing it, and ‘->’ indicating the transition between one node and the next (_see csvs in the paths folder for more information_).
+2. <p align="left">Paths must be added in the paths folder, one for each condition</p>. Each line of a csv containing paths consists of 3 elements: <b>source</b>, <b>leaf</b>, <b>paths</b>. The source will always be the same (the problem to be solved) while the leaves change according to the sequence of decisions made in the path. If there are more thant one path going from the root to the same leaf, they are entered in the path field separated by the string ‘||’. A path is a string containing a string for each node in the path describing it, and ‘->’ indicating the transition between one node and the next (<i>see csvs in the paths folder for more information</i>).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
