@@ -115,7 +115,7 @@ Once the questions have been generated, it is possible to test different llm ava
 For each model, it is possible to generate both the results on the quiz and the open answer.There are two scripts to generate the results:
 1) <b>Topline</b>: The path and description of the disease is provided in LLM's context. This serves to understand, given the reasoning in context, the performance:
    ```sh
-   sh run-baseline.sh
+   sh run-topline.sh
    ```
 2) <b>Benchmark</b>: The model is given only the question and, in the case of the quiz, also the possible options:
    ```sh
