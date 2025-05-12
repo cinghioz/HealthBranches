@@ -8,3 +8,5 @@ results-medqa/
 __pycache__/
 results_misc/
 EXP2/
+tree_rag_proto_v2.ipynb
+build_kg.ipynb

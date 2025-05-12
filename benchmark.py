@@ -25,7 +25,7 @@ EXT = "QUIZ" if QUIZ else "OPEN"
 print("##### BASELINE MODE #####\n" if BASELINE else "##### BENCHMARK MODE #####\n")
 print("##### QUIZ EXP #####\n" if QUIZ else "##### OPEN EXP #####\n")
 
-# Create an empty vector store in the indicated path. If the path already exists, load the vector store
+# If the path already exists, load the vector store
 vector_store = VectorStore(f'{PATH}indexes/kgbase/')
 
 folder_path = f"{PATH}questions_pro/final_dataset.csv"
@@ -46,7 +46,7 @@ cnt_rag = 0
 cnt = 0
 
 rows = []
-questions = pd.read_csv(folder_path)[:10]
+questions = pd.read_csv(folder_path)
 
 for model_name in models:
     if "deepseek" in model_name.lower():

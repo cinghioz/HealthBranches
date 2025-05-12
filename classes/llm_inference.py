@@ -4,7 +4,7 @@ from typing import List
 import re
 
 class LLMinference:
-    def __init__(self, llm_name: str, temperature: float = 0.01, num_predict: int = 128):
+    def __init__(self, llm_name: str, temperature: float = 0.0, num_predict: int = 128):
         self.llm_name = llm_name
         self.model = OllamaLLM(model=llm_name, temperature=temperature, num_predict=num_predict) 
 

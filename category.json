@@ -229,4 +229,5 @@
  "cough": "pulmonary_disease",
  "dyspnea": "pulmonary_disease",
  "solitary pulmonary nodule": "pulmonary_disease",
- "respiratory symptoms and occupational exposure to asbestos": "pulmonary_disease"}
+ "respiratory symptoms and occupational exposure to asbestos": "pulmonary_disease"
+}
