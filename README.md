@@ -53,7 +53,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* python
+* <p align="left">python</p>
 * Ollama
 * 1 or more gemini keys
 * (suggested) GPU with 16GB memory dedicated or higer
