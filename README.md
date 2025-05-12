@@ -62,12 +62,13 @@ This is an example of how to list things you need to use the software and how to
 2. <p align="left">Install Ollama [https://ollama.com/download](https://ollama.com/download) </p>
 3. <p align="left">Install python libraries</p>
 
-   ```py
+   ```sh
    pip3 install -r requiriments.txt
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+4. <p align="left">Install models</p>
+
+   ```sh
+   sh pull-models.sh
    ```
 5. Change git remote url to avoid accidental pushes to base project
    ```sh
