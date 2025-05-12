@@ -70,11 +70,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    sh pull-models.sh
    ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
+5. <p align="left">Add 1 ore more keys in api_keys.txt (1 key x row)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
