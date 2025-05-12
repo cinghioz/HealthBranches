@@ -42,8 +42,6 @@ HealthBranches is a new medical Q&A benchmark for complex, multi-step reasoning.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -60,7 +58,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey)
 2. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
