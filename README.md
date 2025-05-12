@@ -86,14 +86,25 @@ First of all, the data with which the questions will be created must be added. T
 
 ### Path refinement (optional)
 
-This step standardize path nodes with medical terminology and resolves ambiguities. 
+This step standardize path nodes with medical terminology and resolves ambiguities: 
    ```python
-   python3 path_fixer.py
+   python3 path-fixer.py (c'è da cambiare lo script)
    ```
 
 ### Q&A generation
 
+This step generates the csv of questions and answers from text and path pairs:
+   ```python
+   python3 gen-questions.py
+   ```
+
 ### LLMs benchmarking
+
+Once the questions have been generated, it is possible to test different llm available on ollama on the newly created dataset. It is possible to define models in the <b>model.py</b> file:
+   ```python
+   MODELS = ["mistral:7b", "gemma:7b", "gemma2:9b", "gemma3:4b", "llama3.1:8b","qwen2.5:7b",
+          "phi4:14b", "mistral-nemo:12b", "llama2:7b", "deepseek-r1:8b"]
+   ```
 
 ### Evaluate results
 
