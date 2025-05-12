@@ -12,3 +12,4 @@ tree_rag_proto_v2.ipynb
 build_kg.ipynb
 paths/
 data/
+parse_pdf.py
