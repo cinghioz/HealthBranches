@@ -1,4 +1,0 @@
-source,leaf,paths
-Knee Pain,Aspiration,"Patient with knee pain, history and physical examination -> Articular -> Effusion -> Aspiration"
-Knee Pain,"Consider MRI, bone scan","Patient with knee pain, history and physical examination -> Articular -> No effusion -> Radiography -> Consider MRI, bone scan"
-Knee Pain,Nonarticular,"Patient with knee pain, history and physical examination -> Nonarticular"

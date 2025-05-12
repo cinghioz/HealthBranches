@@ -1,8 +1,0 @@
-source,leaf,paths
-root,Radiography,"Patient with HAND AND WRIST PAIN -> Articular -> Monoarticular -> Consider: Infection, Gout, Pseudogout, Psoriatic arthritis -> Radiography"
-root,Aspiration,"Patient with HAND AND WRIST PAIN -> Articular -> Monoarticular -> Consider: Infection, Gout, Pseudogout, Psoriatic arthritis -> Aspiration"
-root,"Consider: Tendonitis (e.g., de Quervain's tenosynovitis), Tendon rupture","Patient with HAND AND WRIST PAIN -> Extraarticular -> Acute -> Consider: Tendonitis (e.g., de Quervain's tenosynovitis), Tendon rupture"
-root,"Consider: Tendonitis, Ganglion, Synovial cyst, Tendon nodule, Dupuytren's contracture","Patient with HAND AND WRIST PAIN -> Extraarticular -> Chronic -> Consider: Tendonitis, Ganglion, Synovial cyst, Tendon nodule, Dupuytren's contracture"
-root,Consider: Arteriography,Patient with HAND AND WRIST PAIN -> Vascular -> Consider: Arteriography
-root,Consider: Nerve conduction studies,"Patient with HAND AND WRIST PAIN -> Neurologic -> Consider: Median nerve, Ulnar nerve, Polyneuropathy, Mononeuritis multiplex -> Consider: Nerve conduction studies"
-root,Skin thickening or clubbing,Patient with HAND AND WRIST PAIN -> Skin thickening or clubbing

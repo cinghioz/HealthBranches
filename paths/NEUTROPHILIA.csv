@@ -1,4 +1,0 @@
-source,leaf,paths
-Patient with NEUTROPHILIA,Exclude laboratory error; Peripheral blood smear,Evaluate patient with neutrophilia -> Satisfy diagnostic criteria -> Exclude laboratory error; Peripheral blood smear
-Patient with NEUTROPHILIA,History; Physical examination,Evaluate patient with neutrophilia -> Satisfy diagnostic criteria -> History; Physical examination
-Patient with NEUTROPHILIA,Infection; Stress; Chronic inflammation; Nonhematologic malignancy; Drug-induced; Asplenia; Generalized marrow stimulation,Evaluate patient with neutrophilia -> Determine whether neutrophilia is primary or secondary -> Primary -> Infection; Stress; Chronic inflammation; Nonhematologic malignancy; Drug-induced; Asplenia; Generalized marrow stimulation||Evaluate patient with neutrophilia -> Determine whether neutrophilia is primary or secondary -> Secondary -> Infection; Stress; Chronic inflammation; Nonhematologic malignancy; Drug-induced; Asplenia; Generalized marrow stimulation

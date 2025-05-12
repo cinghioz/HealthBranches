@@ -1,6 +1,0 @@
-source,leaf,paths
-Patient with SHOULDER PAIN,Cervical radiculopathy,"Initial assessment based on history and physical examination -> History of trauma -> Cervical radiculopathy||Initial assessment based on history and physical examination -> No history of trauma, Pain on examination -> Cervical radiculopathy||Initial assessment based on history and physical examination -> No pain on shoulder examination -> Abnormal neurologic examination -> Cervical radiculopathy"
-Patient with SHOULDER PAIN,"Cholecystitis, Myocardial infarction","Initial assessment based on history and physical examination -> No pain on shoulder examination -> Normal neurologic examination -> Cholecystitis, Myocardial infarction"
-Patient with SHOULDER PAIN,Diagnosis made,Initial assessment based on history and physical examination -> Radiography -> Diagnosis made
-Patient with SHOULDER PAIN,MRI,Initial assessment based on history and physical examination -> Radiography -> Diagnosis uncertain -> MRI
-Patient with SHOULDER PAIN,Consider: Image-guided shoulder aspiration,Initial assessment based on history and physical examination -> Radiography -> Diagnosis uncertain -> Consider: Image-guided shoulder aspiration

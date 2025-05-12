@@ -1,5 +1,0 @@
-source,leaf,paths
-Patient with GOITER,T4 Replacement,Patient with GOITER -> Physical examination -> Measure TSH and FT4 -> Hypothyroid -> Hashimoto's thyroiditis -> T4 Replacement
-Patient with GOITER,Consider: Nodule aspiration to exclude malignancy,Patient with GOITER -> Physical examination -> Measure TSH and FT4 -> Euthyroid -> Assess for multinodular goiter -> Nodule >1-1.5 cm -> Consider: Nodule aspiration to exclude malignancy
-Patient with GOITER,Consider: Surgery,Patient with GOITER -> Physical examination -> Measure TSH and FT4 -> Euthyroid -> Assess for multinodular goiter -> Nodule >4 cm or patient has symptoms -> Consider: Surgery
-Patient with GOITER,"If functional (""hot"") nodule, consider 131I therapy","Patient with GOITER -> Physical examination -> Measure TSH and FT4 -> Hyperthyroid -> Recommend thyroid scan -> If functional (""hot"") nodule, consider 131I therapy"

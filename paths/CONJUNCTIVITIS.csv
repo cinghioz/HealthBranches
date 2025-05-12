@@ -1,7 +1,0 @@
-source,leaf,paths
-Patient with CONJUNCTIVITIS,Refer to ophtalmology,Start of diagnosis -> Acute conjunctivitis -> Mucopurulent discharge -> Bacterial conjunctivitis -> Refer to ophtalmology
-Patient with CONJUNCTIVITIS,"Clean, apply artificial tears and compresses, give antibacterial drops","Start of diagnosis -> Acute conjunctivitis -> Mucopurulent discharge -> Bacterial conjunctivitis -> Clean, apply artificial tears and compresses, give antibacterial drops"
-Patient with CONJUNCTIVITIS,"Viral conjunctivitis, maintain hygiene, use cool compresses and artificial tears","Start of diagnosis -> Acute conjunctivitis -> Watery mucous discharge -> Associated with upper respiratory tract infection -> Viral conjunctivitis, maintain hygiene, use cool compresses and artificial tears"
-Patient with CONJUNCTIVITIS,Consult an ophtalmologist,Start of diagnosis -> Acute conjunctivitis -> Watery mucous discharge -> Associated with periocular vesicles -> Consult an ophtalmologist
-Patient with CONJUNCTIVITIS,"Allergic conjunctivitis, use systemic antihistamines, cool compresses and artificial tears","Start of diagnosis -> Acute conjunctivitis -> Watery mucous discharge -> Associated with significant itching -> Allergic conjunctivitis, use systemic antihistamines, cool compresses and artificial tears"
-Patient with CONJUNCTIVITIS,"Chronic conjunctivitis >4 weeks, refer to ophtalmology","Start of diagnosis -> Chronic conjunctivitis >4 weeks, refer to ophtalmology"

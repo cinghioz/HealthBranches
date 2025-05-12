@@ -1,7 +1,0 @@
-source,leaf,paths
-root,Glycoprotein Ilb/Illa Inhibitor,Likelihood of UA/NSTEMI -> High likelihood -> Hospitalize -> Risk stratify -> Moderate to high risk -> Glycoprotein Ilb/Illa Inhibitor||Likelihood of UA/NSTEMI -> Intermediate likelihood -> Hospitalize -> Risk stratify -> Moderate to high risk -> Glycoprotein Ilb/Illa Inhibitor
-root,Early Catheterization,Likelihood of UA/NSTEMI -> High likelihood -> Hospitalize -> Risk stratify -> Moderate to high risk -> Early Catheterization||Likelihood of UA/NSTEMI -> Intermediate likelihood -> Hospitalize -> Risk stratify -> Moderate to high risk -> Early Catheterization
-root,Predischarge Stress Test,Likelihood of UA/NSTEMI -> High likelihood -> Hospitalize -> Risk stratify -> Low risk -> Predischarge Stress Test||Likelihood of UA/NSTEMI -> Intermediate likelihood -> Hospitalize -> Risk stratify -> Low risk -> Predischarge Stress Test
-root,Long-Term Care,Likelihood of UA/NSTEMI -> High likelihood -> Hospitalize -> Risk stratify -> Low risk -> Long-Term Care||Likelihood of UA/NSTEMI -> Intermediate likelihood -> Hospitalize -> Risk stratify -> Low risk -> Long-Term Care
-root,Catheterization if,Likelihood of UA/NSTEMI -> High likelihood -> Hospitalize -> Risk stratify -> Catheterization if||Likelihood of UA/NSTEMI -> Intermediate likelihood -> Hospitalize -> Risk stratify -> Catheterization if
-root,Evaluate as outpatient,Likelihood of UA/NSTEMI -> Low likelihood -> Evaluate as outpatient

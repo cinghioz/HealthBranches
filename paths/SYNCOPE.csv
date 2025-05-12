@@ -1,4 +1,0 @@
-source,leaf,paths
-Syncope,Electrophysiologic testing/ICD therapy,Patient with Syncope -> Medical history -> Physical examination and ECG -> Imaging to evaluate for structural heart disease -> Structural heart disease present -> Tachyarrhythmia suspected -> Electrophysiologic testing/ICD therapy
-Syncope,Noninvasive monitoring/pacemaker implantation,Patient with Syncope -> Medical history -> Physical examination and ECG -> Imaging to evaluate for structural heart disease -> Structural heart disease present -> Bradyarrhythmia suspected -> Noninvasive monitoring/pacemaker implantation
-Syncope,Consider implantable or external event recorder,Patient with Syncope -> Medical history -> Physical examination and ECG -> Imaging to evaluate for structural heart disease -> Structural heart disease absent and recurrent syncope -> Tilt-table testing (nondiagnostic) -> Consider implantable or external event recorder

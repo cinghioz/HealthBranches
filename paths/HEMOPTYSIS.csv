@@ -1,7 +1,0 @@
-source,leaf,paths
-root,"Rule out other sources: Oropharynx, GI tract","Patient with HEMOPTYSIS -> History, Physical examination -> Rule out other sources: Oropharynx, GI tract"
-root,Treat underlying disease,"Patient with HEMOPTYSIS -> History, Physical examination -> Quantify amount of bleeding -> Mild -> CXR -> No risk factors* (*Risk factors: smoking, age >40, male) -> Treat underlying disease||Patient with HEMOPTYSIS -> History, Physical examination -> Quantify amount of bleeding -> Mild -> CXR -> Risk factors* (*Risk factors: smoking, age >40, male) -> Treat underlying disease"
-root,Bronchoscopy,"Patient with HEMOPTYSIS -> History, Physical examination -> Quantify amount of bleeding -> Mild -> CXR -> Risk factors* (*Risk factors: smoking, age >40, male) -> Bronchoscopy"
-root,"CXR, CBC, coagulation studies, UA","Patient with HEMOPTYSIS -> History, Physical examination -> Quantify amount of bleeding -> Moderate -> CXR, CBC, coagulation studies, UA"
-root,Embolization or Resection,"Patient with HEMOPTYSIS -> History, Physical examination -> Quantify amount of bleeding -> Moderate -> Empiric treatment of infection -> Bronchoscopy and chest CT -> Treat underlying disease -> Bleeding persists -> Embolization or Resection||Patient with HEMOPTYSIS -> History, Physical examination -> Quantify amount of bleeding -> Massive -> Secure airway -> Bleeding continues -> Embolization or Resection"
-root,Bleeding stops,"Patient with HEMOPTYSIS -> History, Physical examination -> Quantify amount of bleeding -> Massive -> Secure airway -> Bleeding stops"

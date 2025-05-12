@@ -1,8 +1,0 @@
-source,leaf,paths
-root,Unilateral loss of vestibular function,Patient with Dizziness -> Light-headedness (near-syncope) -> Acute -> Unilateral loss of vestibular function
-root,"Inability to walk in old patient, MS may be present in younger patient","Patient with Dizziness -> Vertigo -> Central -> Inability to walk in old patient, MS may be present in younger patient"
-root,"Vestibular neuritis, Labyrinthitis","Patient with Dizziness -> Vertigo -> Peripheral -> Vestibular neuritis, Labyrinthitis"
-root,Meniere's disease,Patient with Dizziness -> Vertigo -> Peripheral -> Meniere's disease
-root,Recurrent spontaneous,Patient with Dizziness -> Vertigo -> Recurrent spontaneous
-root,Dix-Hallpike and Epley maneuvers for diagnosis and treatment,Patient with Dizziness -> Vertigo -> Benign paroxysmal positional -> Dix-Hallpike and Epley maneuvers for diagnosis and treatment
-root,Migraine,Patient with Dizziness -> Migraine

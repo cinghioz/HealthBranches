@@ -1,6 +1,0 @@
-source,leaf,paths
-root,History,Patient with RAYNAUD'S PHENOMENON -> History
-root,"Primary Raynaud's: Symmetric, no associated signs or symptoms of systemic disease, No concerning exposure","Patient with RAYNAUD'S PHENOMENON -> Physical examination -> Primary Raynaud's: Symmetric, no associated signs or symptoms of systemic disease, No concerning exposure"
-root,Secondary to/exacerbated by medication/toxin,Patient with RAYNAUD'S PHENOMENON -> Physical examination -> Secondary to/exacerbated by medication/toxin
-root,"Secondary to underlying disease (e.g., systemic rheumatic disease) Evaluation can include CBC, chemistries, urinalysis, ANA, C3, C4, RF, ESR, CRP, SPEP, cryoglobulins","Patient with RAYNAUD'S PHENOMENON -> Physical examination -> Secondary to underlying disease (e.g., systemic rheumatic disease) Evaluation can include CBC, chemistries, urinalysis, ANA, C3, C4, RF, ESR, CRP, SPEP, cryoglobulins"
-root,Secondary to trauma/embolic or thrombotic phenomenon Asymmetric symptoms or digital ischemia warrants arterial Doppler and/or arteriography,Patient with RAYNAUD'S PHENOMENON -> Physical examination -> Secondary to trauma/embolic or thrombotic phenomenon Asymmetric symptoms or digital ischemia warrants arterial Doppler and/or arteriography

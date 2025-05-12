@@ -1,6 +1,0 @@
-source,leaf,paths
-Patient with SICK EUTHYROIDISM,Consider secondary hypothyroidism or use of dopamine. Measure prolactin and random cortisol,Evaluate the patient with sick euthyroidism -> Measure Free T4 -> Free T4 is low -> Measure TSH -> TSH is very low -> Consider secondary hypothyroidism or use of dopamine. Measure prolactin and random cortisol
-Patient with SICK EUTHYROIDISM,Sick euthyroid syndrome likely,Evaluate the patient with sick euthyroidism -> Measure Free T4 -> Free T4 is low -> Measure TSH -> TSH is low or normal -> Sick euthyroid syndrome likely
-Patient with SICK EUTHYROIDISM,Consider recovery phase of sick euthyroidism or primary hypothyroidism,Evaluate the patient with sick euthyroidism -> Measure Free T4 -> Free T4 is low -> Measure TSH -> TSH is high (5-20 μU/L) -> Consider recovery phase of sick euthyroidism or primary hypothyroidism
-Patient with SICK EUTHYROIDISM,Primary hypothyroidism most likely,Evaluate the patient with sick euthyroidism -> Measure Free T4 -> Free T4 is low -> Measure TSH -> TSH is very high (>20 μU/L) -> Primary hypothyroidism most likely
-Patient with SICK EUTHYROIDISM,See Hyperthyroidism (p 140),Evaluate the patient with sick euthyroidism -> Measure Free T4 -> Free T4 is high -> See Hyperthyroidism (p 140)

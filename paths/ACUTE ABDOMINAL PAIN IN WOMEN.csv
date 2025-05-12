@@ -1,7 +1,0 @@
-source,leaf,paths
-root,Evaluate for other sources of pain,Female Patient with ACUTE ABDOMINAL PAIN -> History and Physical examination -> Obtain β-hCG -> Positive pregnancy test -> Ultrasonography -> Evaluate for other sources of pain
-root,Obtain surgical consultation. Consider Laparoscopy or Laparotomy,Female Patient with ACUTE ABDOMINAL PAIN -> History and Physical examination -> Obtain β-hCG -> Positive pregnancy test -> Ultrasonography -> Obtain surgical consultation. Consider Laparoscopy or Laparotomy
-root,Strongly consider CT scan imaging. Consider PID or Appendicitis (CT 90% sensitive),Female Patient with ACUTE ABDOMINAL PAIN -> History and Physical examination -> Obtain β-hCG -> Negative pregnancy test -> Strongly consider CT scan imaging. Consider PID or Appendicitis (CT 90% sensitive)
-root,"No infection. Consider Torsed adnexa, Fibroids, or Endometriosis","Female Patient with ACUTE ABDOMINAL PAIN -> History and Physical examination -> Obtain β-hCG -> Negative pregnancy test -> No infection. Consider Torsed adnexa, Fibroids, or Endometriosis"
-root,Consider Ultrasonography or CT,Female Patient with ACUTE ABDOMINAL PAIN -> History and Physical examination -> Postmenopausal -> Consider Ultrasonography or CT
-root,"Consider Colonic diverticulitis, Adhesive disease and obstruction, or Adnexal masses","Female Patient with ACUTE ABDOMINAL PAIN -> History and Physical examination -> Postmenopausal -> Consider Colonic diverticulitis, Adhesive disease and obstruction, or Adnexal masses"

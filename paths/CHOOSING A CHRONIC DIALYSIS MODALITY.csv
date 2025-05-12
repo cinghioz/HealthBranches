@@ -1,5 +1,0 @@
-source,leaf,paths
-Condition,Preemptive transplant,Patient for Selection of CHRONIC DIALYSIS MODALITY -> Transplant candidate -> Living donor -> Preemptive transplant
-Condition,Dialysis education,Patient for Selection of CHRONIC DIALYSIS MODALITY -> Transplant candidate -> No living donor -> Dialysis education||Patient for Selection of CHRONIC DIALYSIS MODALITY -> Not a transplant candidate -> Dialysis education
-Condition,Refer for AV fistula,Patient for Selection of CHRONIC DIALYSIS MODALITY -> Patient chooses PD -> Refer for AV fistula||Patient for Selection of CHRONIC DIALYSIS MODALITY -> Patient chooses HD -> Refer for AV fistula
-Condition,Medical contraindication,Patient for Selection of CHRONIC DIALYSIS MODALITY -> Medical contraindication

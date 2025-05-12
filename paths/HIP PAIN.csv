@@ -1,8 +1,0 @@
-source,leaf,paths
-root,"Consider: Hip fracture, Pelvic fracture, Trochanteric fracture","Patient with HIP PAIN -> History of trauma -> Consider: Hip fracture, Pelvic fracture, Trochanteric fracture"
-root,"Groin (or thigh) pain. Consider hip arthropathy: Degenerative, Infectious, Inflammatory, Avascular necrosis","Patient with HIP PAIN -> No history of trauma -> Groin (or thigh) pain. Consider hip arthropathy: Degenerative, Infectious, Inflammatory, Avascular necrosis"
-root,"Buttock pain. Consider: LS spine disease: OA, Disk disease with sciatica. SI joint disease: OA, Inflammatory. Ischial bursitis","Patient with HIP PAIN -> No history of trauma -> Buttock pain. Consider: LS spine disease: OA, Disk disease with sciatica. SI joint disease: OA, Inflammatory. Ischial bursitis"
-root,Lateral pain. Working diagnosis: Trochanteric syndrome (bursitis or gluteus medius tendinitis),Patient with HIP PAIN -> No history of trauma -> Lateral pain. Working diagnosis: Trochanteric syndrome (bursitis or gluteus medius tendinitis)
-root,Diagnosis made,Patient with HIP PAIN -> No history of trauma -> Radiography -> Diagnosis made
-root,"MRI, CT, or bone scan","Patient with HIP PAIN -> No history of trauma -> Radiography -> Diagnosis uncertain -> MRI, CT, or bone scan"
-root,Consider image-guided hip aspiration,Patient with HIP PAIN -> No history of trauma -> Radiography -> Diagnosis uncertain -> Consider image-guided hip aspiration

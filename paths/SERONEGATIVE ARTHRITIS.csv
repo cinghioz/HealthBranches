@@ -1,7 +1,0 @@
-source,leaf,paths
-root,"Laboratory tests: ESR, CRP, Joint fluid if available, Infectious workup if indicated, HLA-B27 selectively","Patient with SERONEGATIVE ARTHRITIS -> History and Physical examination -> Laboratory tests: ESR, CRP, Joint fluid if available, Infectious workup if indicated, HLA-B27 selectively"
-root,"Radiography: Plain x-ray, CT, MRI, Bone scan","Patient with SERONEGATIVE ARTHRITIS -> History and Physical examination -> Spinal involvement -> Radiography: Plain x-ray, CT, MRI, Bone scan"
-root,Peripheral joint involvement,Patient with SERONEGATIVE ARTHRITIS -> History and Physical examination -> Peripheral joint involvement
-root,Skin involvement,Patient with SERONEGATIVE ARTHRITIS -> History and Physical examination -> Skin involvement
-root,Other organ system involvement,Patient with SERONEGATIVE ARTHRITIS -> History and Physical examination -> Other organ system involvement
-root,"Noninflammatory arthritis: Osteoarthritis, Degenerative disk disease, DISH","Patient with SERONEGATIVE ARTHRITIS -> History and Physical examination -> Noninflammatory arthritis: Osteoarthritis, Degenerative disk disease, DISH"

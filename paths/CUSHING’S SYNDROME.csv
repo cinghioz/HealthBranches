@@ -1,7 +1,0 @@
-source,leaf,paths
-root,24-hr urinary cortisol,Patient with suspected Cushing's syndrome -> History -> 24-hr urinary cortisol
-root,Overnight dexamethasone-suppression test,Patient with suspected Cushing's syndrome -> History -> Overnight dexamethasone-suppression test
-root,Midnight salivary cortisol,Patient with suspected Cushing's syndrome -> History -> Midnight salivary cortisol
-root,Adrenal CT,Patient with suspected Cushing's syndrome -> Cushing's syndrome established -> Measure plasma ACTH -> ACTH low -> Adrenal CT
-root,Chest CT,Patient with suspected Cushing's syndrome -> Cushing's syndrome established -> Measure plasma ACTH -> ACTH normal or high -> MRI of pituitary -> Normal or equivocal -> Bilateral petrosal sinus sampling for ACTH with CRH administration -> No pituitary gradient for ACTH -> Ectopic ACTH -> Chest CT
-root,Cushing's syndrome,Patient with suspected Cushing's syndrome -> Cushing's syndrome established -> Measure plasma ACTH -> ACTH normal or high -> MRI of pituitary -> Normal or equivocal -> Bilateral petrosal sinus sampling for ACTH with CRH administration -> Significant pituitary gradient for ACTH -> Cushing's syndrome||Patient with suspected Cushing's syndrome -> Cushing's syndrome established -> Measure plasma ACTH -> ACTH normal or high -> MRI of pituitary -> Clearly abnormal -> Cushing's syndrome

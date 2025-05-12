@@ -1,5 +1,0 @@
-source,leaf,paths
-root,Repeat test,Patient with FOBT -> Stool obtained from digital rectal examination -> Noninterpretable -> Repeat test
-root,"Consider: Small bowel enteroscopy, Angiography, Capsule endoscopy","Patient with FOBT -> Spontaneously evacuated stool -> Abnormal -> Colonoscopy or CT Colography -> Normal -> Decreased hematocrit or iron, Upper GI symptoms -> EGD -> Normal -> Enteroclysis or Small Bowel Follow-Through or Capsule Endoscopy -> Normal -> Consider: Small bowel enteroscopy, Angiography, Capsule endoscopy"
-root,Treat Accordingly,"Patient with FOBT -> Spontaneously evacuated stool -> Abnormal -> Colonoscopy or CT Colography -> Abnormal -> Polyp, Cancer, Colitis, AVMs -> Treat Accordingly"
-root,No further evaluation warranted,"Patient with FOBT -> Spontaneously evacuated stool -> Abnormal -> Colonoscopy or CT Colography -> Normal -> Hematocrit or iron level normal, No upper GI symptoms -> No further evaluation warranted"

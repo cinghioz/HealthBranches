@@ -1,8 +1,0 @@
-source,leaf,paths
-root,Concerning history,Patient with CORNEAL ABRASION -> Benign history -> Penlight examination -> Concerning history
-root,Observation,Patient with CORNEAL ABRASION -> Benign history -> Penlight examination -> Minimal findings -> Fluorescein staining -> No staining -> Isolated event -> Observation
-root,Recurrent erosion syndrome,Patient with CORNEAL ABRASION -> Benign history -> Penlight examination -> Minimal findings -> Fluorescein staining -> No staining -> History of recurrent symptoms -> Recurrent erosion syndrome
-root,Foreign body,Patient with CORNEAL ABRASION -> Benign history -> Penlight examination -> Minimal findings -> Fluorescein staining -> Multiple vertical streaks -> Foreign body
-root,Small abrasion,Patient with CORNEAL ABRASION -> Benign history -> Penlight examination -> Minimal findings -> Fluorescein staining -> Focal area of staining -> Small abrasion
-root,Large abrasion,Patient with CORNEAL ABRASION -> Benign history -> Penlight examination -> Minimal findings -> Fluorescein staining -> Focal area of staining -> Large abrasion
-root,Dendrite,Patient with CORNEAL ABRASION -> Benign history -> Penlight examination -> Minimal findings -> Fluorescein staining -> Dendrite
