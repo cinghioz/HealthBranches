@@ -87,7 +87,7 @@ First of all, the data with which the questions will be created must be added. T
 ### Path refinement (optional)
 
 This step standardize path nodes with medical terminology and resolves ambiguities. 
-   ```sh
+   ```python
    python3 path_fixer.py
    ```
 
