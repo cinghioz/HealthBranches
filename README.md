@@ -50,7 +50,6 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * <p align="left">Python3</p>
 * <p align="left">Ollama</p>
 * <p align="left">1 ore more gemini keys</p>
@@ -58,8 +57,8 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. <p align="left">Get a free API Key at [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey)</p>
-2. <p align="left">Install Ollama [https://ollama.com/download](https://ollama.com/download) </p>
+1. <p align="left">Get a free API Key at [https://aistudio.google.com/apikey]</p>
+2. <p align="left">Install Ollama [https://ollama.com/download]</p>
 3. <p align="left">Install python libraries</p>
 
    ```sh
