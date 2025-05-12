@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/cinghioz/">
-    <img src="images/HB.png" alt="Logo" width="200" height="200">
+    <img src="images/HB.png" alt="Logo" width="400" height="300">
   </a>
 
 
