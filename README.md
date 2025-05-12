@@ -59,13 +59,10 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 1. <p align="left">Get a free API Key at [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey)</p>
-2. Clone the repo
+2. <p align="left">Install Ollama [https://ollama.com/download](https://ollama.com/download) </p>
+3. <p align="left">Install python libraries</p>
    ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
+   pip3 install -r requiriments.txt
    ```
 4. Enter your API in `config.js`
    ```js
