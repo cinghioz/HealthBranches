@@ -84,7 +84,12 @@ First of all, the data with which the questions will be created must be added. T
 1. <p align="left">Texts must be added in the data/kgbase folder, one for each condition</p>
 2. <p align="left">Paths must be added in the paths folder, one for each condition</p>. Each line of a csv containing paths consists of 3 elements: <b>source</b>, <b>leaf</b>, <b>paths</b>. The source will always be the same (the problem to be solved) while the leaves change according to the sequence of decisions made in the path. If there are more thant one path going from the root to the same leaf, they are entered in the path field separated by the string ‘||’. A path is a string containing a string for each node in the path describing it, and ‘->’ indicating the transition between one node and the next (<i>see csvs in the paths folder for more information</i>).
 
-### Path refinement
+### Path refinement (optional)
+
+This step standardize path nodes with medical terminology and resolves ambiguities. 
+   ```py
+   python3 path_fixer.py
+   ```
 
 ### Q&A generation
 
