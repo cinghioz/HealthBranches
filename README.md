@@ -100,6 +100,11 @@ This step generates the csv of questions and answers from text and path pairs:
 
 ### RAG base creation
 
+To initialize and index condition texts:
+   ```python
+   python3 init-rag.py -kgbase data/kgbase -chunk_size 500 -overlap 150
+   ```
+
 ### LLMs benchmarking
 
 Once the questions have been generated, it is possible to test different llm available on ollama on the newly created dataset. It is possible to define models in the <b>model.py</b> file:
