@@ -58,7 +58,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey)
+1. <p align="left">Get a free API Key at [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey)</p>
 2. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
