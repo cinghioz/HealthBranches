@@ -124,6 +124,11 @@ For each model, it is possible to generate both the results on the quiz and the 
    
 ### Evaluate results
 
+To evaluate performance in accuracy on quizzes: 
+   ```sh
+   python3 eval-quiz.py -res_dir results
+   ```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
