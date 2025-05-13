@@ -62,7 +62,7 @@
 | A           | G           | A -> B -> E -> K -> G                              |
 
   <a href="https://github.com/cinghioz/">
-    <img src="images/data_structure.png" alt="data" width="300" height="500">
+    <img src="images/data_structure.png" alt="data" width="200" height="375">
   </a>
 
 ### Path refinement (optional)
