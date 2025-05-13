@@ -77,34 +77,34 @@
 
 ### Data preparation
 
-First of all, the data with which the questions will be created must be added. Two types of data are needed: the text associated with a condition/symptom (.txt) and the associated paths (.csv):
+<p align="left">First of all, the data with which the questions will be created must be added. Two types of data are needed: the text associated with a condition/symptom (.txt) and the associated paths (.csv):</p>
 1. <p align="left">Texts must be added in the data/kgbase folder, one for each condition</p>
-2. <p align="left">Paths must be added in the paths folder, one for each condition</p>. Each line of a csv containing paths consists of 3 elements: <b>source</b>, <b>leaf</b>, <b>paths</b>. The source will always be the same (the problem to be solved) while the leaves change according to the sequence of decisions made in the path. If there are more thant one path going from the root to the same leaf, they are entered in the path field separated by the string ‘||’. A path is a string containing a string for each node in the path describing it, and ‘->’ indicating the transition between one node and the next (<i>see csvs in the paths folder for more information</i>).
+2. <p align="left">Paths must be added in the paths folder, one for each condition. Each line of a csv containing paths consists of 3 elements: <b>source</b>, <b>leaf</b>, <b>paths</b>. The source will always be the same (the problem to be solved) while the leaves change according to the sequence of decisions made in the path. If there are more thant one path going from the root to the same leaf, they are entered in the path field separated by the string ‘||’. A path is a string containing a string for each node in the path describing it, and ‘->’ indicating the transition between one node and the next (<i>see csvs in the paths folder for more information</i>)</p>.
 
 ### Path refinement (optional)
 
-This step standardize path nodes with medical terminology and resolves ambiguities: 
+<p align="left">This step standardize path nodes with medical terminology and resolves ambiguities: </p>
    ```python
    python3 path-fixer.py (c'è da cambiare lo script)
    ```
 
 ### Q&A generation
-
-This step generates the csv of questions and answers from text and path pairs:
+<p aligh="left">This step generates the csv of questions and answers from text and path pairs:</p>
    ```python
    python3 gen-questions.py
    ```
 
 ### RAG base creation
 
-To initialize and index condition texts:
+<p align="left">To initialize and index condition texts:</p>
    ```python
    python3 init-rag.py -kgbase data/kgbase -chunk_size 500 -overlap 150
    ```
 
 ### LLMs benchmarking
 
-Once the questions have been generated, it is possible to test different llm available on ollama on the newly created dataset. It is possible to define models in the <b>model.py</b> file:
+<p align="left">Once the questions have been generated, it is possible to test different llm available on ollama on the newly created dataset. It is possible to define models in the <b>model.py</b> file:
+</p>
    ```python
    MODELS = ["mistral:7b", "gemma:7b", "gemma2:9b", "gemma3:4b", "llama3.1:8b","qwen2.5:7b",
           "phi4:14b", "mistral-nemo:12b", "llama2:7b", "deepseek-r1:8b"]
