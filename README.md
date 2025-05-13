@@ -61,6 +61,10 @@
 | A           | F           | A -> B -> F \|\| A -> B -> D -> F \|\| A -> N -> F |
 | A           | G           | A -> B -> E -> K -> G                              |
 
+  <a href="https://github.com/cinghioz/">
+    <img src="images/data_structure.png" alt="data" width="500" height="450">
+  </a>
+
 ### Path refinement (optional)
 
 <p align="left">This step standardize path nodes with medical terminology and resolves ambiguities: </p>
