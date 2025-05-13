@@ -18,7 +18,7 @@
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## <p align="left">Getting Started</p>
 
 ### Prerequisites
 
