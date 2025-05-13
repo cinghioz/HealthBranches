@@ -225,7 +225,7 @@ class QuizEvaluator:
         })
 
         # Save to CSV
-        csv_path = "models_accuracy.csv"
+        csv_path = "quiz_eval/models_accuracy.csv"
         df.to_csv(csv_path, index=False)
 
         # Bar settings
@@ -268,7 +268,7 @@ class QuizEvaluator:
         ax.legend(loc='lower right', title="Experiment Type")
 
         plt.tight_layout()
-        plt.savefig("plot_models.pdf", dpi=450, bbox_inches='tight')
+        plt.savefig("quiz_eval/plot_models.pdf", dpi=450, bbox_inches='tight')
 
 
 

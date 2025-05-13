@@ -28,7 +28,8 @@ print("##### QUIZ EXP #####\n" if QUIZ else "##### OPEN EXP #####\n")
 # If the path already exists, load the vector store
 vector_store = VectorStore(f'{PATH}indexes/kgbase/')
 
-folder_path = f"{PATH}questions_pro/final_dataset.csv"
+# folder_path = f"{PATH}questions_pro/final_dataset.csv"
+folder_path = f"{PATH}questions_pro/questions.csv"
 
 questions = pd.read_csv(folder_path)
 
@@ -91,7 +92,7 @@ for model_name in models:
             for template in templates:
                 if BASELINE:
                     try:
-                        res.append(llm.qea_evaluation(row['question'], template, row['old_path'], text, 
+                        res.append(llm.qea_evaluation(row['question'], template, row['path'], text, 
                                                       opts if QUIZ else [], row['condition'].lower(), vector_store)) # Baseline
                     except Exception:
                         print(row)

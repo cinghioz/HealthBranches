@@ -1,2 +1,2 @@
-python3 benchmark_misc.py -quiz
-python3 benchmark_misc.py
+python3 benchmark.py -quiz
+python3 benchmark.py

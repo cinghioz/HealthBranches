@@ -149,7 +149,7 @@ def main():
     txt_folder_name = "data/kgbase/"
     csv_paths = os.listdir(path_folder_name)
 
-    ultimate_questions_path = "questions_pro/questions_test.csv"
+    ultimate_questions_path = "questions_pro/questions.csv"
 
     # Load the file of already generated questions
     try:

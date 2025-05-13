@@ -6,10 +6,10 @@ import numpy as np
 import argparse
 
 MODEL_NAME = 'BAAI/bge-m3'
-FILES_DIR = 'data/FINAL_EXP'
+FILES_DIR = '/home/cc/PHD/HealthBranches/results'
 BATCH_SIZE = 32
 COLS = ['zero_shot', 'zero_shot_rag', 'zero_shot_text', 'zero_shot_path', 'zero_shot_all']
-SAVE_FILE = 'data/similarity_res_real_bge.csv'
+SAVE_FILE = 'open_eval/similarity_res_real_bge.csv'
 
 def argparse_args():
     parser = argparse.ArgumentParser(description='Scorer for BGE M3')

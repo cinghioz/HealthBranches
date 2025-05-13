@@ -4,8 +4,8 @@ import argparse
 from classes.vector_store import VectorStore
 
 parser = argparse.ArgumentParser(description="Init RAG")
-parser.add_argument("-kgbase", type=ascii, default="data/kgbase", help="Path contain the data to index in the kg base")
-parser.add_argument("-embedder", type=ascii, default="mxbai-embed-large", help="Model to embed chunk")
+parser.add_argument("-kgbase", type=str, default="data/kgbase", help="Path contain the data to index in the kg base")
+parser.add_argument("-embedder", type=str, default="mxbai-embed-large", help="Model to embed chunk")
 parser.add_argument("-chunk_size", type=int, default=500, help="Chunk dimension")
 parser.add_argument("-overlap", type=int, default=150, help="Overlap tokens between chunks")
 args = parser.parse_args()

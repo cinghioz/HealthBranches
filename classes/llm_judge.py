@@ -253,7 +253,7 @@ def find_csv_files(folder_path):
     csv_files = []
     try:
         for filename in os.listdir(folder_path):
-            if filename.lower().endswith(".csv"):
+            if filename.lower().endswith(".csv") and "OPEN" in filename:
                 csv_files.append(os.path.join(folder_path, filename))
     except FileNotFoundError:
         logging.error(f"Input folder not found: {folder_path}")
@@ -291,22 +291,33 @@ def load_processed_ids(output_file):
         logging.info(f"Output file {output_file} not found or is empty. Starting fresh.")
     return processed_ids
 
+def get_keys(file_path: str = "api_keys.txt"):
+    try:
+        with open(file_path, 'r') as f:
+            keys = [line.strip() for line in f if line.strip()]
+        if not keys:
+            print(f"Error: No API keys found in {file_path}")
+            return []
+        return keys
+    except FileNotFoundError:
+        print(f"Error: {file_path} not found. Please create this file and put your API keys in it, one per line.")
+        return []
+
 # --- Main Execution ---
 def main():
     parser = argparse.ArgumentParser(description="Evaluate Q&A answers using Gemini API.")
-    parser.add_argument("input_folder", help="Path to the folder containing input CSV files.")
-    parser.add_argument("output_file", help="Path to the output CSV file for results.")
-    parser.add_argument("--api_keys", required=True, help="Comma-separated list of Gemini API keys.")
+    parser.add_argument("--input_folder", type=str, default="results", help="Path to the folder containing input CSV files.")
+    parser.add_argument("--output_file", type=str, default="open_eval/judge_res.csv", help="Path to the output CSV file for results.")
     parser.add_argument("--model_name", default="gemini-2.0-flash", help="Name of the Gemini model to use (e.g., 'gemini-1.5-flash', 'gemini-pro').")
     parser.add_argument("--batch_size", type=int, default=5, help="Number of rows to send to the API in each batch.")
     parser.add_argument("--cooldown", type=float, default=4.5, help="Cooldown period (in seconds) between API calls.")
     parser.add_argument("--max_retries_per_key", type=int, default=3, help="Max retries per API key before switching.")
-    parser.add_argument('--pred_col', default='predicted_answer', help="Column name for the predicted answer in the input CSV.")
+    parser.add_argument('--pred_col', default='zero_shot', help="Column name for the predicted answer in the input CSV.")
 
 
     args = parser.parse_args()
 
-    api_keys = [key.strip() for key in args.api_keys.split(',')]
+    api_keys = get_keys()
     if not api_keys:
         logging.error("No API keys provided. Please use the --api_keys argument.")
         sys.exit(1)
