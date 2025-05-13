@@ -58,8 +58,8 @@
 
 | source      | leaf        | path                                           |
 | ----------- | ----------- | ---------------------------------------------- |
-| A           | F           | A -> B -> F || A -> B -> D -> F || A -> N -> F |
-| A           | G           | A -> B -> E -> k -> g                          |
+| A           | F           | A -> B -> F "||" A -> B -> D -> F || A -> N -> F |
+| A           | G           | A -> B -> E -> K -> G                          |
 
 ### Path refinement (optional)
 
