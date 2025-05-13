@@ -61,9 +61,18 @@
 | A           | F           | A -> B -> F \|\| A -> B -> D -> F \|\| A -> N -> F |
 | A           | G           | A -> B -> E -> K -> G                              |
 
-  <a href="https://github.com/cinghioz/">
-    <img src="images/data_structure.png" alt="data" width="200" height="375">
-  </a>
+data/kgbase/
+  ├── DYSPNEA.txt
+  ├── FATIGUE.txt
+  ├── HYPERTENSION.txt
+  ├── OBESITY.txt
+  └──  PLEURAL EFFUSION.txt
+paths/
+  ├── DYSPNEA.csv
+  ├── FATIGUE.csv
+  ├── HYPERTENSION.csv
+  ├── OBESITY.csv
+  └── PLEURAL EFFUSION.csv
 
 ### <p align="left">Q&A generation</p>
 <p align="left">This step generates the csv of questions and answers from text and path pairs:</p>
