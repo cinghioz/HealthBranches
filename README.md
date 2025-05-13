@@ -60,33 +60,8 @@
 | ----------- | ----------- | -------------------------------------------------- |
 | A           | F           | A -> B -> F \|\| A -> B -> D -> F \|\| A -> N -> F |
 | A           | G           | A -> B -> E -> K -> G                              |
-```mermaid
-graph TD
-  subgraph data
-    subgraph kgbase
-      DYSPNEA.txt
-      FATIGUE.txt
-      HYPERTENSION.txt
-      OBESITY.txt
-      PLEURAL_EFFUSION.txt
 
-      subgraph images
-      end
 
-      subgraph indexes
-      end
-
-      subgraph open_eval
-        subgraph paths
-          DYSPNEA.csv
-          FATIGUE.csv
-          HYPERTENSION.csv
-          OBESITY.csv
-          PLEURAL_EFFUSION.csv
-        end
-      end
-    end
-  end
 
 ### <p align="left">Q&A generation</p>
 <p align="left">This step generates the csv of questions and answers from text and path pairs:</p>
