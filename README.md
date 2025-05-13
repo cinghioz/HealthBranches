@@ -37,16 +37,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-HealthBranches is a new medical Q&A benchmark for complex, multi-step reasoning. It contains 4,063 realistic patient cases across 17 topics, each derived from validated decision pathways in medical texts. Questions come in both open-ended and multiple-choice formats, and every example includes its full clinical reasoning chain. HealthBranches offers a transparent, high-stakes evaluation resource and can also support medical education.
+<p align="right">HealthBranches is a new medical Q&A benchmark for complex, multi-step reasoning. It contains 4,063 realistic patient cases across 17 topics, each derived from validated decision pathways in medical texts. Questions come in both open-ended and multiple-choice formats, and every example includes its full clinical reasoning chain. HealthBranches offers a transparent, high-stakes evaluation resource and can also support medical education.</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
