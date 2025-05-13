@@ -60,14 +60,14 @@
 
 <p align="left">This step standardize path nodes with medical terminology and resolves ambiguities: </p>
 
-   ```python
+   ```sh
    python3 path-fixer.py (c'è da cambiare lo script)
    ```
 
 ### Q&A generation
 <p aligh="left">This step generates the csv of questions and answers from text and path pairs:</p>
 
-   ```python
+   ```sh
    python3 gen-questions.py
    ```
 
@@ -75,7 +75,7 @@
 
 <p align="left">To initialize and index condition texts:</p>
 
-   ```python
+   ```sh
    python3 init-rag.py -kgbase data/kgbase -chunk_size 500 -overlap 150
    ```
 
@@ -108,8 +108,6 @@
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License
