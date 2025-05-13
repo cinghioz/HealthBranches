@@ -20,14 +20,14 @@
 <!-- GETTING STARTED -->
 ## <p align="left">Getting Started</p>
 
-### Prerequisites
+### <p align="left">Prerequisites</p>
 
 * <p align="left">Python3</p>
 * <p align="left">Ollama</p>
 * <p align="left">1 ore more gemini keys</p>
 * <p align="left">(suggested) GPU with 16GB memory dedicated or higer</p>
 
-### Installation
+### <p align="left">Installation</p>
 
 1. <p align="left">Get a free API Key at [https://aistudio.google.com/apikey]</p>
 2. <p align="left">Install Ollama [https://ollama.com/download]</p>
@@ -48,9 +48,9 @@
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## <p align="left">Usage</p>
 
-### Data preparation
+### <p align="left">Data preparation</p>
 
 <p align="left">First of all, the data with which the questions will be created must be added. Two types of data are needed: the text associated with a condition/symptom (.txt) and the associated paths (.csv):</p>
 <p align="left">1. Texts must be added in the data/kgbase folder, one for each condition</p>
@@ -65,22 +65,14 @@
     <img src="images/data_structure.png" alt="data" width="200" height="375">
   </a>
 
-### Path refinement (optional)
-
-<p align="left">This step standardize path nodes with medical terminology and resolves ambiguities: </p>
-
-   ```sh
-   python3 path-fixer.py (c'è da cambiare lo script)
-   ```
-
-### Q&A generation
+### <p align="left">Q&A generation</p>
 <p aligh="left">This step generates the csv of questions and answers from text and path pairs:</p>
 
    ```sh
    python3 gen-questions.py
    ```
 
-### RAG base creation
+### <p align="left">RAG base creation</p>
 
 <p align="left">To initialize and index condition texts:</p>
 
@@ -88,7 +80,7 @@
    python3 init-rag.py -kgbase data/kgbase -chunk_size 500 -overlap 150
    ```
 
-### LLMs benchmarking
+### <p align="left">LLMs benchmarking</p>
 
 <p align="left">Once the questions have been generated, it is possible to test different llm available on ollama on the newly created dataset. It is possible to define models in the <b>model.py</b> file: </p>
 
@@ -108,7 +100,7 @@
    sh run-benchmark.sh
    ```
    
-### Evaluate results
+### <p align="left">Evaluate results</p>
 
 <p align="left">To evaluate performance in accuracy on quizzes: </p>
 
