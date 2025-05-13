@@ -66,7 +66,7 @@
   </a>
 
 ### <p align="left">Q&A generation</p>
-<p aligh="left">This step generates the csv of questions and answers from text and path pairs:</p>
+<p align="left">This step generates the csv of questions and answers from text and path pairs:</p>
 
    ```sh
    python3 gen-questions.py
