@@ -56,10 +56,10 @@
 <p align="left">1. Texts must be added in the data/kgbase folder, one for each condition</p>
 <p align="left">2. Paths must be added in the paths folder, one for each condition. Each line of a csv containing paths consists of 3 elements: <b>source</b>, <b>leaf</b>, <b>paths</b>. The source will always be the same (the problem to be solved) while the leaves change according to the sequence of decisions made in the path. If there are more thant one path going from the root to the same leaf, they are entered in the path field separated by the string ‘||’. A path is a string containing a string for each node in the path describing it, and ‘->’ indicating the transition between one node and the next (<i>see csvs in the paths folder for more information</i>).</p>
 
-| source      | leaf        | path        |
-| ----------- | ----------- | ----------- |
+| source      | leaf        | path                                           |
+| ----------- | ----------- | ---------------------------------------------- |
 | A           | F           | A -> B -> F || A -> B -> D -> F || A -> N -> F |
-| A           | G           | A -> B -> E -> k -> g |
+| A           | G           | A -> B -> E -> k -> g                          |
 
 ### Path refinement (optional)
 
