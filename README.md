@@ -112,10 +112,10 @@
 <p align="left">To evaluate performance in open-answer setting: </p>
 
    ```sh
-   python3 eval-open.py -res_dir results -type semantic
+   python3 classes/scorer.py --files_dir [absolute path of results] --save_file [path to save evaluation]
    ```
    ```sh
-   python3 eval-open.py -res_dir results -type judge
+   python3 classes/judge.py --input_folder [path of results] --output_file [path to save evaluation] --pred_col [target column names (e.g zero_shot)]
    ```
 <p align="left">Both evaluation methods generate a csv containing one line per question (results are not aggregated). </p>
 
