@@ -108,6 +108,17 @@
    ```
 <p align="left">The quiz evaluation script generate a summary csv with the accuracies (<b>models_accuracy.csv</b>) and a bar plot (<b>plot_models.pdf</b>) </p>
 
+
+<p align="left">To evaluate performance in open-answer setting: </p>
+
+   ```sh
+   python3 eval-open.py -res_dir results -type semantic
+   ```
+   ```sh
+   python3 eval-open.py -res_dir results -type judge
+   ```
+<p align="left">The quiz evaluation script generate a summary csv with the accuracies (<b>models_accuracy.csv</b>) and a bar plot (<b>plot_models.pdf</b>) </p>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
