@@ -11,7 +11,7 @@ from classes.vector_store import VectorStore
 from utils import check_results
 from prompt import *
 
-client = Together(api_key="de1d1c231987694e2b9111e06e048732d206ecaee729b8aee41e2121006f2cfc")
+client = Together(api_key="YOUR API KEY")
 
 parser = argparse.ArgumentParser(description="LLM inference with optional baseline mode.")
 parser.add_argument("-base", action="store_true", help="Run in baseline mode.")

@@ -25,8 +25,6 @@ class QuizEvaluator:
     @staticmethod
     def _evaluate_answers(file_path: str, model: str):
         df = pd.read_csv(file_path)
-        # qc = pd.read_csv("/home/cc/PHD/HealthBranches/questions_checked.csv")
-        # df = df[df['question'].isin(qc['question'])]
 
         accs = []
         
