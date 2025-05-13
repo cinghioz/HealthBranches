@@ -84,12 +84,14 @@
 ### Path refinement (optional)
 
 <p align="left">This step standardize path nodes with medical terminology and resolves ambiguities: </p>
+
    ```python
    python3 path-fixer.py (c'è da cambiare lo script)
    ```
 
 ### Q&A generation
 <p aligh="left">This step generates the csv of questions and answers from text and path pairs:</p>
+
    ```python
    python3 gen-questions.py
    ```
@@ -97,31 +99,35 @@
 ### RAG base creation
 
 <p align="left">To initialize and index condition texts:</p>
+
    ```python
    python3 init-rag.py -kgbase data/kgbase -chunk_size 500 -overlap 150
    ```
 
 ### LLMs benchmarking
 
-<p align="left">Once the questions have been generated, it is possible to test different llm available on ollama on the newly created dataset. It is possible to define models in the <b>model.py</b> file:
-</p>
+<p align="left">Once the questions have been generated, it is possible to test different llm available on ollama on the newly created dataset. It is possible to define models in the <b>model.py</b> file: </p>
+
    ```python
    MODELS = ["mistral:7b", "gemma:7b", "gemma2:9b", "gemma3:4b", "llama3.1:8b","qwen2.5:7b",
           "phi4:14b", "mistral-nemo:12b", "llama2:7b", "deepseek-r1:8b"]
    ```
-For each model, it is possible to generate both the results on the quiz and the open answer.There are two scripts to generate the results:
-1) <b>Topline</b>: The path and description of the disease is provided in LLM's context. This serves to understand, given the reasoning in context, the performance:
+<p align="left">For each model, it is possible to generate both the results on the quiz and the open answer.There are two scripts to generate the results:</p>
+<p align="left">1) <b>Topline</b>: The path and description of the disease is provided in LLM's context. This serves to understand, given the reasoning in context, the performance:</p>
+
    ```sh
    sh run-topline.sh
    ```
-2) <b>Benchmark</b>: The model is given only the question and, in the case of the quiz, also the possible options:
+<p align="left">2) <b>Benchmark</b>: The model is given only the question and, in the case of the quiz, also the possible options:</p>
+
    ```sh
    sh run-benchmark.sh
    ```
    
 ### Evaluate results
 
-To evaluate performance in accuracy on quizzes: 
+<p align="left">To evaluate performance in accuracy on quizzes: </p>
+
    ```sh
    python3 eval-quiz.py -res_dir results
    ```
