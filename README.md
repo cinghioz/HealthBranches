@@ -90,7 +90,7 @@
           "phi4:14b", "mistral-nemo:12b", "llama2:7b", "deepseek-r1:8b"]
    ```
 <p align="left">For each model, it is possible to generate both the results on the quiz and the open answer.There are two scripts to generate the results:</p>
-<p align="left">1) <b>Topline</b>: The path and description of the disease is provided in LLM's context. This serves to understand, given the reasoning in context, the performance:</p>
+<p align="left">1) <b>Topline</b>: The path and description of the disease/condition is provided in LLM's context. This serves to understand, given the reasoning in context, the performance:</p>
 
    ```sh
    sh run-topline.sh
