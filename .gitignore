@@ -4,7 +4,5 @@ results/
 /misc.ipynb
 __pycache__/
 results_misc/
-paths/
-data/
 indexes/
 .DS_Store
