@@ -117,9 +117,9 @@
    python3 classes/scorer.py (results in open_eval)
    ```
    ```sh
-   python3 classes/judge.py --input_folder [path of results] --output_file [path to save evaluation] --pred_col [target column names (e.g zero_shot)]
+   python3 classes/llm_judge.py --input_folder [path of results] --output_file [path to save evaluation] --pred_col [target column names (e.g zero_shot)]
    ```
-<p align="left">Both evaluation methods generate a csv containing one line per question (results are not aggregated). Both results contain a ‘question_index’ that corresponds to the index of the questions.csv file containing the questions</p>
+<p align="left">Both evaluation methods generate a csv containing one line per question (results are not aggregated). Both results contain a ‘question_id’ that corresponds to the index of the questions.csv file containing the questions</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
