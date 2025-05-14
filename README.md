@@ -61,6 +61,10 @@
 | A           | F           | A -> B -> F \|\| A -> B -> D -> F \|\| A -> N -> F |
 | A           | G           | A -> B -> E -> K -> G                              |
 
+  <a href="https://github.com/cinghioz/">
+    <img src="images/data_structure.png" alt="Logo" width="300" height="450">
+  </a>
+
 ### <p align="left">Q&A generation</p>
 <p align="left">This step generates the csv of questions and answers from text and path pairs:</p>
 
