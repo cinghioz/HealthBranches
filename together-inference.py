@@ -21,7 +21,7 @@ args = parser.parse_args()
 # Set BASELINE based on the argument
 BASELINE = args.base
 QUIZ = args.quiz
-PATH = "/home/cc/PHD/HealthBranches/"
+PATH = os.getcwd()+"/"
 EXT = "QUIZ" if QUIZ else "OPEN"
 
 print("##### BASELINE MODE #####\n" if BASELINE else "##### BENCHMARK MODE #####\n")
