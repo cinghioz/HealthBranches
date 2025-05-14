@@ -61,7 +61,7 @@
 | A           | F           | A -> B -> F \|\| A -> B -> D -> F \|\| A -> N -> F |
 | A           | G           | A -> B -> E -> K -> G                              |
 
-
+<pre>
 data
   └── kgbase
         ├── DYSPNEA.txt
@@ -75,7 +75,7 @@ data
       ├── HYPERTENSION.csv
       ├── OBESITY.csv
       └── PLEURAL_EFFUSION.csv
-
+</pre>
 
 ### <p align="left">Q&A generation</p>
 <p align="left">This step generates the csv of questions and answers from text and path pairs:</p>
