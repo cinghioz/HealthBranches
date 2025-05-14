@@ -61,7 +61,7 @@
 | A           | F           | A -> B -> F \|\| A -> B -> D -> F \|\| A -> N -> F |
 | A           | G           | A -> B -> E -> K -> G                              |
 
-<pre>
+<pre align="left">
 data
   └── kgbase
         ├── DYSPNEA.txt
