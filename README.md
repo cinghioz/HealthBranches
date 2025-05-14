@@ -59,28 +59,9 @@
 | source      | leaf        | path                                               |
 | ----------- | ----------- | -------------------------------------------------- |
 | A           | F           | A -> B -> F \|\| A -> B -> D -> F \|\| A -> N -> F |
-| A           | G           | A -> B -> E -> K -> G                              |
-
-  <a href="https://github.com/cinghioz/">
-    <img src="images/data_structure.png" alt="Logo" width="300" height="450">
-  </a>
-
-<div style="display:flex; align-items:flex-start; gap:20px;">
-  <!-- Left: Markdown table -->
-  <div>
-    | source      | leaf        | path                                               |
-    | ----------- | ----------- | -------------------------------------------------- |
-    | A           | F           | A → B → F  ||  A → B → D → F  ||  A → N → F       |
-    | A           | G           | A → B → E → K → G                                  |
-  </div>
-
-  <!-- Right: Image -->
-  <div>
-    <a href="https://github.com/cinghioz/">
-      <img src="images/data_structure.png" alt="Logo" width="300" height="450">
-    </a>
-  </div>
-</div>
+| A           | G           | A -> B -> E -> K -> G                              |<a href="https://github.com/cinghioz/">
+  <img src="images/data_structure.png" alt="Logo" width="300" height="450">
+</a>
 
 
 ### <p align="left">Q&A generation</p>
