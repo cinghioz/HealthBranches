@@ -1,7 +1,10 @@
 .venv/
+results/
 **/__pycache__/
 /misc.ipynb
 __pycache__/
 results_misc/
 indexes/
 .DS_Store
+eval_quiz/
+eval_open/
