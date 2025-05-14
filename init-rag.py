@@ -11,6 +11,6 @@ parser.add_argument("-overlap", type=int, default=150, help="Overlap tokens betw
 args = parser.parse_args()
 
 # Create an empty vector store in the indicated path. If the path already exists, load the vector store
-vector_store = VectorStore(f"indexes/{basename(normpath(args.kgbase))}", args.embedder, args.chunk_size, args.overlap)
+vector_store = VectorStore(f"indexes/{basename(normpath(args.kgbase))}/", args.embedder, args.chunk_size, args.overlap)
 
 vector_store.add_documents(args.kgbase)

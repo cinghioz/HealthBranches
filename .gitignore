@@ -6,5 +6,5 @@ __pycache__/
 results_misc/
 indexes/
 .DS_Store
-eval_quiz/
-eval_open/
+quiz_eval/
+open_eval/
