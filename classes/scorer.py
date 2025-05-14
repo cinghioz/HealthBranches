@@ -29,6 +29,9 @@ def main():
     
     all_files = [f for f in os.listdir(FILES_DIR) if 'results_OPEN_bench' in f]
 
+    if not os.path.exists("quiz_eval"):
+        os.makedirs("open_eval")
+
     print(f'Loading model: {MODEL_NAME}')
     model = model = BGEM3FlagModel(MODEL_NAME,  use_fp16=True)
 
@@ -38,10 +41,6 @@ def main():
 
         bench = pd.read_csv(os.path.join(FILES_DIR, f))
         base = pd.read_csv(os.path.join(FILES_DIR, f).replace('bench', 'baseline'))
-        # if 'nemo' in f:
-        #     base = pd.read_csv(os.path.join(FILES_DIR+'/baseline', 'results_OPEN_baseline_mistral-nemo_12b.csv').replace('bench', 'baseline'))
-        # else:
-        #     base = pd.read_csv(os.path.join(FILES_DIR+'/baseline', f).replace('bench', 'baseline'))
         
         res = []
         for c in COLS:

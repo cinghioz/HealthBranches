@@ -25,6 +25,9 @@ EXT = "QUIZ" if QUIZ else "OPEN"
 print("##### BASELINE MODE #####\n" if BASELINE else "##### BENCHMARK MODE #####\n")
 print("##### QUIZ EXP #####\n" if QUIZ else "##### OPEN EXP #####\n")
 
+if not os.path.exists("results"):
+    os.makedirs("results")
+
 # If the path already exists, load the vector store
 vector_store = VectorStore(f'{PATH}indexes/kgbase/')
 

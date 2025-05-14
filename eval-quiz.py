@@ -16,6 +16,9 @@ PATH = os.getcwd()+'/'
 BENCH = f"{PATH}{args.res_dir}/results_QUIZ_bench_"
 BASE = f"{PATH}{args.res_dir}/results_QUIZ_baseline_"
 
+if not os.path.exists("quiz_eval"):
+    os.makedirs("quiz_eval")
+
 qe = QuizEvaluator(PATH, "/home/cc/PHD/HealthBranches/category.json", args.res_dir)
 
 res = []
