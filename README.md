@@ -114,7 +114,7 @@
 <p align="left">To evaluate performance in open-answer setting: </p>
 
    ```sh
-   python3 classes/scorer.py --files_dir [absolute path of results] --save_file [path to save evaluation]
+   python3 classes/scorer.py (results in open_eval)
    ```
    ```sh
    python3 classes/judge.py --input_folder [path of results] --output_file [path to save evaluation] --pred_col [target column names (e.g zero_shot)]
