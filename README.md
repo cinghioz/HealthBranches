@@ -62,18 +62,14 @@
 | A           | G           | A -> B -> E -> K -> G                              |
 
 ```text
-  .
-  ├── data
-  │   └── kgbase
-  │       ├── DYSPNEA.txt
-  │       ├── FATIGUE.txt
-  │       ├── HYPERTENSION.txt
-  │       ├── OBESITY.txt
-  │       └── PLEURAL_EFFUSION.txt
-  ├── images
-  ├── indexes
-  ├── open_eval
-  └── paths
+data
+  └── kgbase
+        ├── DYSPNEA.txt
+        ├── FATIGUE.txt
+        ├── HYPERTENSION.txt
+        ├── OBESITY.txt
+        └── PLEURAL_EFFUSION.txt
+└── paths
       ├── DYSPNEA.csv
       ├── FATIGUE.csv
       ├── HYPERTENSION.csv
