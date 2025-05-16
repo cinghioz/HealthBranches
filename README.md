@@ -123,3 +123,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### <p align="left">license</p>
+
+<p align="left">The dataset is under licence CC BY-NC-SA 4.0 [https://creativecommons.org/licenses/by-nc-sa/4.0/]</p>
